@@ -12,3 +12,6 @@ Netball
 
 ### Activities/ Training Description
 --------------------------------
+
+
+![](/images/Netball_CCA2020%20V1.jpg)
