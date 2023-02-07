@@ -9,3 +9,5 @@ third_nav_title: History
 
 Gallery
 =======
+
+<img src="/images/Gallery.gif" style="width:70%">
