@@ -69,3 +69,20 @@ DOE : Lively Curiosity
 <b>•Facing consequences of actions</b> <br>
 <b>•Handing in work on time</b> <br>
 <b>•Learning from others</b>
+
+
+### Integrity
+---------
+
+<b>DOE : Think and express</b> <br>
+
+<b>Norm to P1 - P2 Students:</b> <br>
+<b>•Tell the truth.</b> <br>
+<b>•Admit when you are in the wrong.</b> <br>
+<b>•Do what is right even when no one is watching.</b>
+
+<b>Norm to P3 - P6 Students:</b> <br>
+<b>•Doing what is right even when no one is watching</b> <br>
+<b>•Seeking the truth</b> <br>
+<b>•Being honest – not taking credit for what is not yours</b> <br>
+<b>•Think and speak well of others</b>
