@@ -2,5 +2,6 @@ collections:
   cce:
     output: true
     order:
+      - CCE Lessons.md
       - Edusave Character Award.md
       - Gallery.md
