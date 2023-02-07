@@ -2,6 +2,7 @@ collections:
   programme:
     output: true
     order:
+      - Signature Programmes/Science Department.md
       - Signature Programmes/.keep
       - CCE/.keep
       - Student Management/Student Management.md
