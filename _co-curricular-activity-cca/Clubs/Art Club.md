@@ -35,3 +35,6 @@ So hesitate no more and join us!
 
 ### Gold with Honour for Visual Arts 2011
 -------------------------------------
+
+
+![](/images/Art.png)
