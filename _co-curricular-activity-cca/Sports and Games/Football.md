@@ -8,3 +8,4 @@ third_nav_title: Sports and Games
 
 Football
 ========
+<b>Information</b>
