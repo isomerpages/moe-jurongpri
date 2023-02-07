@@ -2,6 +2,7 @@ collections:
   programme:
     output: true
     order:
+      - Every Child is A Leader (ECAL).md
       - Signature Programmes/Signature Programmes.md
       - Signature Programmes/English Language.md
       - Signature Programmes/Mathematics.md
