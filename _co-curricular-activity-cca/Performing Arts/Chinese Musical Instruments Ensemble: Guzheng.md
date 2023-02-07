@@ -4,3 +4,7 @@ permalink: /co-curricular-activity-cca/Performing-Arts/Chinese-Musical-Instrumen
 description: ""
 third_nav_title: Performing Arts
 ---
+![](/images/Banner.png)
+
+Chinese Musical Instruments Ensemble - Guzheng
+==============================================
