@@ -6,7 +6,8 @@ description: ""
 Principal's Message
 =======================
 
-![](/images/Principal.jpeg)
+<img src="/images/Principal.jpeg" style="width:183px;height:240px;margin-left:15px;" align = "right">
+
 
 Jurong Primary School enjoys a long and rich history spanning over 70 years in Western Singapore. Beginning humbly at Old Jurong Road in 1950, the school has grown as generation after generation of students and families traverse through the portals of this school. With its historic merger with Boon Lay Primary in 2006, and aptly themed “nova initio", Jurong Primary forged forward with a strong identity whilst preserving the best of both schools’ unique heritage and distinctive strengths.   
   
@@ -21,6 +22,5 @@ Thank you for joining and serving alongside us. 
 Yours in service.  
   
 
-**Mr Leonard Chua**  
-
-**Principal**
+<b>Mr Leonard Chua</b> <br>
+<b>Principal</b>
