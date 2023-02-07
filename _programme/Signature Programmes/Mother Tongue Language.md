@@ -35,3 +35,6 @@ The MTL Month has given our students an excellent opportunity to display their c
 
 
 <figure><img src="/images/MT6.jpg" style="width:100%"><figcaption> Students were playing traditional musical instrument joyfully.</figcaption></figure>
+
+
+<figure><img src="/images/MT7.jpg" style="width:100%"><figcaption> Students were appreciating traditional culture enthusiastically.</figcaption></figure>
