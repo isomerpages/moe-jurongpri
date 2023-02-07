@@ -17,3 +17,6 @@ Come and join our Cultural Dance!  You learn not only one but a total of three 
 What’s more? You will have the opportunity to perform in some of our school events this year & also at the SYF Presentation in 2020.    
   
  So, do come and join us!
+ 
+ 
+ <img src="/images/CultDance_CCA2020.jpg" style="width:80%">
