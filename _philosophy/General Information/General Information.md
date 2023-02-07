@@ -25,65 +25,38 @@ Webpage: [http://www.jurongpri.moe.edu.sg](http://www.jurongpri.moe.edu.sg/)
  
  
 
-**2\. Bookshop Vendor**
-
-HB Book Centre
-
-Tel: 9018 5765/ 6270 1060
-
-Email: [hb.bk.ctr@gmail.com](mailto:hb.bk.ctr@gmail.com)
-
-Website: [https://ihuntforbooks.com/](https://ihuntforbooks.com/)
-
+<b>2\. Bookshop Vendor</b> <br>
+HB Book Centre <br>
+Tel: 9018 5765/ 6270 1060 <br>
+Email: [hb.bk.ctr@gmail.com](mailto:hb.bk.ctr@gmail.com) <br>
+Website: [https://ihuntforbooks.com/](https://ihuntforbooks.com/) <br>
 Operating Hours: Monday to Friday, 8.30am to 3.00pm
 
   
 
-**3\. Uniform Vendor**
-
-Beau Voix Uniform
-
-Tel: 6743 6645/ 6744 7084
-
+<b>3\. Uniform Vendor</b> <br>
+Beau Voix Uniform <br>
+Tel: 6743 6645/ 6744 7084 <br>
 Email: [info@beauvoix.com.sg](mailto:info@beauvoix.com.sg)
 
 
-**4\. Bus Operator**
-
-Chang Chen Pte Ltd
-
+<b>4\. Bus Operator</b> <br>
+Chang Chen Pte Ltd <br>
 Tel: 6760 4835                    Fax: 6892 5776
 
   
-**5\. Student Care Centre**  
+<b>5\. Student Care Centre</b> <br>
+Little Professors @ Jurong Primary School <br>Handphone: 9008 1311 <br>   Email: [jurong@littleprofessors.com.sg](mailto:jurong@littleprofessors.com.sg)
 
-Little Professors @ Jurong Primary School   
-
-Handphone: 9008 1311  
-
-Email: [jurong@littleprofessors.com.sg](mailto:jurong@littleprofessors.com.sg)
-
-**6\. Student Learning Space (SLS)**  
-
-Webpage: https://vle.learning.moe.edu.sg/login  
-
-Helpdesk: 9783 0818/ 6561 8837 (8.00am to 4.00pm)  
-                   6702 6513 (4.00pm to 9.00pm) 
-									 
-Email: [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com)  
+<b>6\. Student Learning Space (SLS)</b> <br>
+Webpage: https://vle.learning.moe.edu.sg/login <br>  Helpdesk: 9783 0818/ 6561 8837 (8.00am to 4.00pm)  
+                   6702 6513 (4.00pm to 9.00pm) <br> 
+									 Email: [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com)  
   
 
-**7\. Dental Clinic**           
-
-Tel/ SMS/ WhatsApp : 9114 8918            
-
-Operating Hours:  
-
-Monday, Tuesday, Thursday & Friday.
-
-Closed on Wednesday 
- 
-Lunch Time : 1pm  to 2pm.
+<b>7\. Dental Clinic</b> <br>Tel/ SMS/ WhatsApp : 9114 8918 <br>Operating Hours: <br>
+Monday, Tuesday, Thursday & Friday. <br>
+Closed on Wednesday <br>Lunch Time : 1pm  to 2pm.
 
 
 FAS
