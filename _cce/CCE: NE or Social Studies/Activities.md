@@ -25,3 +25,17 @@ It was timely that we guided our students on how they can play their part as a c
 ![](/images/Notes%20of%20Appreciation%202.jpg)
 
 <img src="/images/Tay%20Gao%20Jun.jpg" style="width:90%">
+
+
+### International Friendship Day
+------
+
+The school commemorated International Friendship Day on 6 April 2020. The theme for this year was “Beyond Borders”. Friendships across national boundaries is established and maintained through mutual understanding, respect and commitment. With this in mind, the school lined up a series of meaningful activities to engage students in the commemoration of IFD this year.   
+
+  
+
+The assembly programmes talked about the spirit of friendship and interconnectedness between Singapore and other countries around the world. In the face of COVID-19 pandemic, our students got to hear and share about how Singapore, being a member of a global community of nations, had extended help to other countries in times of need.   
+
+  
+
+Students also spent time exploring the various countries ‘assigned’ to them via the  Student Learning Space. They then embarked on virtual flights to the various countries with their uniquely-designed JPS Passports, and participated in the tasks and puzzles assigned in their very own passports. Through the various activities, students get to appreciate the friendship and collaboration among different countries and will remember them in the years to come.
