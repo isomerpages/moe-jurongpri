@@ -8,3 +8,5 @@ third_nav_title: Sports and Games
 
 Badminton
 =========
+
+<b>Information</b>
