@@ -59,76 +59,50 @@ Monday, Tuesday, Thursday & Friday. <br>
 Closed on Wednesday <br>Lunch Time : 1pm  to 2pm.
 
 
-FAS
+### FAS
 ---
 
-**1\. MOE Financial Assistance Scheme (MOE FAS)** 
-
+<u><b>1\. MOE Financial Assistance Scheme (MOE FAS)</b></u> <br>
 For more information, please click [here](https://www.moe.gov.sg/financial-matters/financial-assistance). 
 
-**2. Other organisations**
-
+<u><b>2. Other organisations</b></u> <br>
 There are various non-profit organisations in Singapore providing financial assistance for the needy. The contact details of some of the mainstream providers are below: 
 
-**South West CDC**
-
-The JTC Summit,
-
-8 Jurong Town Hall Road
-
-#03-11 Singapore 609434
-
-Tel: 6 3161616 Fax: 6 316 7251
-
+<b>South West CDC</b> <br>
+The JTC Summit, <br>
+8 Jurong Town Hall Road <br>
+#03-11 Singapore 609434 <br>
+Tel: 6 3161616 Fax: 6 316 7251 <br>
 [http://www.southwestcdc.org.sg/index.php?option=com\_content&view=article&id=12&Itemid=109](http://www.southwestcdc.org.sg/index.php?option=com_content&view=article&id=12&Itemid=109) 
 
-**Ministry of Community Development, Youth and Sports**
-
-512A Thomson Road #02-01/09
-
-SLF Podium S(298137)
-
-Tel: 63555000
-
-Fax: 63536695
-
+<b>Ministry of Community Development, Youth and Sports</b> <br>
+512A Thomson Road #02-01/09 <br>
+SLF Podium S(298137) <br>
+Tel: 63555000 <br>
+Fax: 63536695 <br>
 [http://app1.mcys.gov.sg/Assistance.aspx](http://app1.mcys.gov.sg/Assistance.aspx)
 
-**Chinese Development Assistance Council**
-
-65 Tanjong Katong Road Singapore 436957
-
-Tel: 6841 4889
-
-email: [feedback@cdac.org.sg](mailto:feedback@cdac.org.sg)
-
+<b>Chinese Development Assistance Council</b> <br>
+65 Tanjong Katong Road Singapore 436957 <br>
+Tel: 6841 4889 <br>
+email: [feedback@cdac.org.sg](mailto:feedback@cdac.org.sg) <br>
 [http://www.cdac.org.sg/cos/o.x?c=/cdac\_corp/section](http://www.cdac.org.sg/cos/o.x?c=/cdac_corp/section)
 
-**Mendaki**
-
-51 Kee Sun Avenue (off Tay Lian Teck Road)
-
-Singapore 457056.
-
-Tel: 6245 5555
-
+<b>Mendaki</b> <br>
+51 Kee Sun Avenue (off Tay Lian Teck Road) <br>
+Singapore 457056. <br>
+Tel: 6245 5555 <br>
 [http://www.mendaki.org.sg/edu-trust-fund/education-resources.aspx](http://www.mendaki.org.sg/edu-trust-fund/education-resources.aspx)
 
-**SINDA**
-
-**Singapore Indian Development Association**
-
-No 1. Beatty Road
-
-Singapore 209943
-
-Main Tel. Line: 6298 5911
-
-Fax Line: 6392 4300
-
+<b>SINDA</b> <br>
+<b>Singapore Indian Development Association</b> <br>
+No 1. Beatty Road <br>
+Singapore 209943 <br>
+Main Tel. Line: 6298 5911 <br>
+Fax Line: 6392 4300 <br>
 [http://www.sinda.org.sg/scholarshipsbursaries/](http://www.sinda.org.sg/scholarshipsbursaries/)
 
-School Transfer
+### School Transfer
 ---------------
 
   
@@ -141,7 +115,7 @@ The Ministry of Education also conducts an annual transfer exercise (STEPS) for 
 
   
 
-MOE Customer Service Centre
+### MOE Customer Service Centre
 ---------------------------
 
   
@@ -154,7 +128,6 @@ Singapore 138675
 Operating Hours:  
 Mondays – Fridays: 8am to 6pm  
 Saturday: 8am to 1pm  
-Sunday & Public Holidays: Closed
-
+Sunday & Public Holidays: Closed <br>
 Hotline: +65 68722220  
 Fax: +65 67755826
