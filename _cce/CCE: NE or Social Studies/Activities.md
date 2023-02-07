@@ -41,3 +41,5 @@ The assembly programmes talked about the spirit of friendship and interconnected
 Students also spent time exploring the various countries ‘assigned’ to them via the  Student Learning Space. They then embarked on virtual flights to the various countries with their uniquely-designed JPS Passports, and participated in the tasks and puzzles assigned in their very own passports. Through the various activities, students get to appreciate the friendship and collaboration among different countries and will remember them in the years to come.
 
 ![](/images/Assembly_4.jpg)
+
+![](/images/P1-P6%20Deliverables.jpg)
