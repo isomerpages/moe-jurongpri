@@ -2,6 +2,7 @@ collections:
   programme:
     output: true
     order:
+      - Signature Programmes/Signature Programmes.md
       - Signature Programmes/English Language.md
       - Signature Programmes/Mathematics.md
       - Signature Programmes/Mother Tongue Language.md
