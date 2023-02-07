@@ -2,4 +2,5 @@ collections:
   co-curricular-activity-cca:
     output: true
     order:
+      - Uniformed Groups/.keep
       - Modular CCA (Primary 3).md
