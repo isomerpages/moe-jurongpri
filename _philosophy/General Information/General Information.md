@@ -4,26 +4,23 @@ permalink: /philosophy/GENERAL-INFORMATION/
 description: ""
 third_nav_title: General Information
 ---
-
 ![](/images/Banner.png)
+
+General Information
+===================
 
 ![](/images/General%20Information1.png)
 
 ![](/images/General%20Information2.png)
 
-Official Contact details
+### Official Contact details
 ------------------------
 
-**1\. School Address/ Contact Number**
-
-Jurong Primary School 320 Jurong East St 32 S(609476)
-
-Tel: 6561 8837 (General Office)
-
-Fax: 6564 1964
-
-Email: [jps@moe.edu.sg](mailto:jps@moe.edu.sg)
-
+<b>1\. School Address/ Contact Number</b> <br>
+Jurong Primary School 320 Jurong East St 32 S(609476) <br>
+Tel: 6561 8837 (General Office) <br>
+Fax: 6564 1964 <br>
+Email: [jps@moe.edu.sg](mailto:jps@moe.edu.sg) <br>
 Webpage: [http://www.jurongpri.moe.edu.sg](http://www.jurongpri.moe.edu.sg/)
  
  
