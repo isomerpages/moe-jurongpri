@@ -3,6 +3,8 @@ title: Principal's Message
 permalink: /philosophy/
 description: ""
 ---
+![](/images/Banner.png)
+
 Principal's Message
 =======================
 
