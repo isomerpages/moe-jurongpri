@@ -17,3 +17,6 @@ MTL Month is an annual event where competitions and activities of varying and e
 The MTL Month has given our students an excellent opportunity to display their confidence in using their MTL in front of their peers and teachers.  Besides the winners who emerged from these competitions, all our students who had participated various activities also gained valuable experiences. 
 
 <i>With continued hard work, we are confident that our students can shine brighter in their usage of their MTL!</i>
+
+
+<figure><img src="/images/MT1.jpg" style="width:100%"><figcaption> Students engaged the audiences with lively poem recitation.</figcaption></figure>
