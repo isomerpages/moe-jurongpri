@@ -48,3 +48,24 @@ DOE : Lively Curiosity
 •<b>Looking after self (e.g. personal hygiene, personal belongings, play safely)</b> <br>
 •<b>Helping and sharing with one another ( look out for each other, friends in need, serve others )</b> <br>
 •<b>Looking after school property and environment</b> <br>
+
+
+### Responsibility
+--------------
+
+  
+
+<b>DOE : Work pride</b> <br>
+
+<b>Norms to P1 - P2 Students:</b> <br>
+<b>•Pack your bag every day.</b> <br>
+<b>•Take care of your personal belongings</b> <br>
+<b>•Hand in work neatly and on time.</b> <br>
+<b>•Be punctual for school.</b>
+
+<b>Norms to P3 - P6 Students:</b> <br>
+<b>•Accountable for one’s words and actions</b> <br>
+<b>•Doing / Carrying out work assigned well and with pride</b> <br>
+<b>•Facing consequences of actions</b> <br>
+<b>•Handing in work on time</b> <br>
+<b>•Learning from others</b>
