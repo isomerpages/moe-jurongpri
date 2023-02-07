@@ -55,7 +55,7 @@ DOE : Lively Curiosity
 
   
 
-<b>DOE : Work pride</b> <br>
+<b>DOE : Work pride</b> 
 
 <b>Norms to P1 - P2 Students:</b> <br>
 <b>•Pack your bag every day.</b> <br>
@@ -74,7 +74,7 @@ DOE : Lively Curiosity
 ### Integrity
 ---------
 
-<b>DOE : Think and express</b> <br>
+<b>DOE : Think and express</b>
 
 <b>Norm to P1 - P2 Students:</b> <br>
 <b>•Tell the truth.</b> <br>
@@ -86,3 +86,23 @@ DOE : Lively Curiosity
 <b>•Seeking the truth</b> <br>
 <b>•Being honest – not taking credit for what is not yours</b> <br>
 <b>•Think and speak well of others</b>
+
+
+### Respect
+-------
+
+<b>DOE : Know what is right from wrong</b>
+
+<b>Norm to P1 - P2 Students:</b> <br>
+<b>• Be polite to everyone. (e.g. say “Thank You” and “Please”)</b> <br>
+<b>• Greet everyone with a smile.</b> <br>
+<b>• Listen when others are speaking.</b> <br>
+<b>• Play fairly.</b> <br>
+<b>• Say good things about others.</b>
+
+<b>Norm to P3 - P6 Students:</b> <br>
+<b>• Being polite to everyone</b> <br>
+<b>• Greeting everyone</b> <br>
+<b>• Listening when others are speaking</b> <br>
+<b>• Accepting the customs and practices of others</b> <br>
+<b>• Treating others the way you want to be treated</b> <br>
