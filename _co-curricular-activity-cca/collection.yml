@@ -2,6 +2,7 @@ collections:
   co-curricular-activity-cca:
     output: true
     order:
+      - Performing Arts/.keep
       - Clubs/Clubs.md
       - Clubs/Robotics Club.md
       - Clubs/Art Club.md
