@@ -24,3 +24,6 @@ Primary 3 – Readers’ Theatre <br>
 Primary 4 - Read & Report <br>
 Primary 5 - Perspective-taking <br>
 Primary 6 - Junior Toastmasters
+
+
+<img src="/images/Eng.gif" style="width:80%">
