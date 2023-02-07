@@ -43,3 +43,5 @@ Students also spent time exploring the various countries ‘assigned’ to them 
 ![](/images/Assembly_4.jpg)
 
 ![](/images/P1-P6%20Deliverables.jpg)
+
+![](/images/JPS%20Passport.jpg)
