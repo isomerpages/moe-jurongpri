@@ -20,3 +20,6 @@ The MTL Month has given our students an excellent opportunity to display their c
 
 
 <figure><img src="/images/MT1.jpg" style="width:100%"><figcaption> Students engaged the audiences with lively poem recitation.</figcaption></figure>
+
+
+<figure><img src="/images/MT2.jpg" style="width:100%"><figcaption> Students engaged the audiences with lively poem recitation.</figcaption></figure>
