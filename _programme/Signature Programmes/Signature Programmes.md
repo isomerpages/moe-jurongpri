@@ -18,14 +18,9 @@ Through fun-filled activities and a balance between planned and spontaneous talk
 
 The focus for each level is as follows:
 
-Primary 1 - Show & Tell
-
-Primary 2 – Pick & Tell
-
-Primary 3 – Readers’ Theatre
-
-Primary 4 - Read & Report
-
-Primary 5 - Perspective-taking
-
+Primary 1 - Show & Tell <br>
+Primary 2 – Pick & Tell <br>
+Primary 3 – Readers’ Theatre <br>
+Primary 4 - Read & Report <br>
+Primary 5 - Perspective-taking <br>
 Primary 6 - Junior Toastmasters
