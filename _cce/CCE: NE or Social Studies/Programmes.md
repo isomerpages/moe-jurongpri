@@ -35,6 +35,5 @@ These learning journeys will be refined as necessary to stay relevant with the n
 <b>Integrated Project Work (IPW)</b> <br>
 In addition to the MOE curriculum that pupils go through during Social Studies lessons, pupils are also given the opportunity to embark on mini-projects every semester to translate what they've learnt into meaningful products. Pupils work in groups to create attractive products and learn more about teamwork, research methods and Singapore heritage at the same time.
 
-Extended Commemorative Days (Total Defence Day, International Friendship Day, Racial Harmony Day, National Day)
-
+Extended Commemorative Days (Total Defence Day, International Friendship Day, Racial Harmony Day, National Day) <br>
 We believe that the celebration of commemorative days should not be confined to a day. Instead, we make it a week-long activity whereby pupils can explore different facets of the Commemorative Day. This gives pupils a more meaningful and enriching experience and helps them appreciate the significance of the Commemorative Day.
