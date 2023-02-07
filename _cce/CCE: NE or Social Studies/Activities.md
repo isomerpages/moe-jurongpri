@@ -45,3 +45,11 @@ Students also spent time exploring the various countries ‘assigned’ to them 
 ![](/images/P1-P6%20Deliverables.jpg)
 
 ![](/images/JPS%20Passport.jpg)
+
+
+### Racial Harmony Day
+-----
+
+Jurong Primary School commemorated Racial Harmony Day (RHD) 2020 on 13 July 2020. This year’s theme is Multicultural Singapore. Besides an interesting assembly programme, our students had in-depth class discussions about racial issues and shared their reflections on paper hearts which they designed themselves. The RHD team also prepared a special learning package on the Singapore Student Learning Portal (SLS) to engage students to learn more about the diverse races in Singapore through fun activities such as quizzes, songs and even a virtual tour.  
+  
+The COVID-19 pandemic has brought issues of racism to the fore. Social cohesion is especially important during times like this. Viruses do not discriminate, people do. It is especially important during this period that we stay united so we can emerge a stronger and cohesive Singapore. The activities and the rich discussions amongst students and staff paved the way for an ever deeper understanding and appreciation of racial cohesion.
