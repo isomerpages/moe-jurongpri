@@ -53,3 +53,25 @@ Edusave Character Award
   </tr>
 </tbody>
 </table>
+
+
+<b>SELECTION CRITERIA</b>
+
+5.    In JPS, the students are selected based on the following criteria:
+
+(a) Must be Singaporean.
+
+(b) Must, on <b>consistent basis</b>, demonstrate good character and values. In particular, demonstrating qualities of: <br>
+·         School values that school wishes to recognise or encourage; and/or <br>
+·         A high level of civic responsibility. Students are concerned about issues in the community or issues faced by others, initiating action to address these issues to improve the lives of others; and/or <br>
+·         Qualities associated with resilience. Students who have persevered, despite facing difficult circumstances and manage to overcome the odds.  
+
+<b>NOMINATION AND SELECTION PROCESS</b> <br>
+6.    Open to all JPS students who are Singaporeans: <br>
+·         Students will be nominated by all staff, peers, parents and partners. <br>
+·         Nominees will be shortlisted by a panel made up of school leaders, teachers and stakeholders (Eg SAC member). <br>
+·         Shortlisted awardees will be invited for a short dialogue session with the panel. 
+
+7.    The awardee list will be submitted to MOE in early November. All awardees will be notified by post at the end of the year.
+
+8.    The award will be given out at the community level, together with the other Edusave awards.
