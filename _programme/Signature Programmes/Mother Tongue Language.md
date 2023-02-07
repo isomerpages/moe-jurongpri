@@ -32,3 +32,6 @@ The MTL Month has given our students an excellent opportunity to display their c
 
 
 <figure><img src="/images/MT5.jpg" style="width:100%"><figcaption> Students were playing and learning the language together.</figcaption></figure>
+
+
+<figure><img src="/images/MT6.jpg" style="width:100%"><figcaption> Students were playing traditional musical instrument joyfully.</figcaption></figure>
