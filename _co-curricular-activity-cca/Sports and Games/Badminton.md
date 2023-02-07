@@ -14,6 +14,8 @@ Badminton
 
 
 
+
+
 ### Activities / Training Description
 ---------------------------------
 
@@ -22,3 +24,6 @@ Badminton is a racket team sport where you can explore playing as a Singles play
 They will provide guidance on the fundamentals such as footwork and basic strokes. Selected players will also have an opportunity to represent the school in competitions!   
   
  Come join us now for a fun-filled experience!
+ 
+ 
+ <img src="/images/Badminton_CCA2020.jpg" style="width:95%">
