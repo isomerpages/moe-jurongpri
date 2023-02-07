@@ -8,3 +8,5 @@ third_nav_title: "CCE: NE or Social Studies"
 
 CCE - National Education / Social Studies
 =========================================
+
+![](/images/NEe.png)
