@@ -27,3 +27,6 @@ Through our primary 3 and primary 4 Leadership Development Programme, our studen
 ### Primary 5 Leadership Camp 
 
 Eighty primary 5 Prefects and CCA leaders participated in the two days one night camp during the March holidays. The camp provided our students with an opportunity to overcome their own fears and collaborate with others for a common goal.
+
+
+<img src="/images/Leadership_4.jpeg" style="width:70%">
