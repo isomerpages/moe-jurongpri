@@ -2,6 +2,7 @@ collections:
   philosophy:
     output: true
     order:
+      - History/History.md
       - History/Gallery.md
       - History/.keep
       - GENERAL INFORMATION/General Information.md
