@@ -2,6 +2,7 @@ collections:
   philosophy:
     output: true
     order:
+      - GENERAL INFORMATION/General Information.md
       - GENERAL INFORMATION/STUDENT LEARNING SPACE.md
       - GENERAL INFORMATION/Parents Engagement.md
       - GENERAL INFORMATION/.keep
