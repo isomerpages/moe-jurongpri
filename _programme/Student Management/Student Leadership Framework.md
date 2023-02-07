@@ -8,3 +8,5 @@ third_nav_title: Student Management
 
 Student Leadership Framework
 ============================
+
+![](/images/New_student%20leadership%20framework_2015.jpg)
