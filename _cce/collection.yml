@@ -2,6 +2,7 @@ collections:
   cce:
     output: true
     order:
+      - Programmes/MOE Sexuality Education In Schools.md
       - Programmes/.keep
       - "CCE: NE or Social Studies/CCE: National Education or Social Studies.md"
       - "CCE: NE or Social Studies/Programmes.md"
