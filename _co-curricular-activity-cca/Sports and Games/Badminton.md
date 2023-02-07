@@ -12,7 +12,7 @@ Badminton
 <b>Information</b>
 
 
-<figure><img src="/images/XX.png" style="width:75%"><figcaption> Badminton</figcaption></figure>
+<figure><img src="/images/Badminton.gif" style="width:85%"><figcaption> Badminton</figcaption></figure>
 
 
 
