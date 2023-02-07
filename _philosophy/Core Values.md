@@ -44,10 +44,7 @@ DOE : Lively Curiosity
 •<b>Never say unpleasant things about your friends.</b> <br>•<b>Look after the classroom and canteen.</b> <br>
 •<b>Play safely.</b> <br>
 
-**Norms to P3 - P6 Students:**
-
-**•Looking after self (e.g. personal hygiene, personal belongings, play safely)** 
-
-**•Helping and sharing with one another ( look out for each other, friends in need, serve others )**
-
-**•Looking after school property and environment**
+<b>Norms to P3 - P6 Students:</b> <br>
+•<b>Looking after self (e.g. personal hygiene, personal belongings, play safely)</b> <br>
+•<b>Helping and sharing with one another ( look out for each other, friends in need, serve others )</b> <br>
+•<b>Looking after school property and environment</b> <br>
