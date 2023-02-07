@@ -2,6 +2,7 @@ collections:
   co-curricular-activity-cca:
     output: true
     order:
+      - Clubs/.keep
       - Uniformed Groups/Uniformed Groups.md
       - Uniformed Groups/Brownies.md
       - Uniformed Groups/Scouts.md
