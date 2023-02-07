@@ -1,4 +1,5 @@
 collections:
   philosophy:
     output: true
-    order: []
+    order:
+      - GENERAL INFORMATION/.keep
