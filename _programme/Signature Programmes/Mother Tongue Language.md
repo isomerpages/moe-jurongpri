@@ -38,3 +38,6 @@ The MTL Month has given our students an excellent opportunity to display their c
 
 
 <figure><img src="/images/MT7.jpg" style="width:100%"><figcaption> Students were appreciating traditional culture enthusiastically.</figcaption></figure>
+
+
+<figure><img src="/images/P1-P6.jpg" style="width:100%"><figcaption> Prize winners of the TL Department inter-class competitions.</figcaption></figure>
