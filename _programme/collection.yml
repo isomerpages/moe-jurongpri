@@ -2,6 +2,7 @@ collections:
   programme:
     output: true
     order:
+      - Co Curricular Activity (CCA)/.keep
       - Accomplishment/Accomplishment.md
       - Accomplishment/2015.md
       - Accomplishment/2017.md
