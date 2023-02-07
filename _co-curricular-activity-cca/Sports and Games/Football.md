@@ -10,7 +10,7 @@ Football
 ========
 <b>Information</b>
 
-<figure><img src="/images/XX.png" style="width:75%"><figcaption> Football</figcaption></figure>
+<figure><img src="/images/Football.gif" style="width:85%"><figcaption> Football</figcaption></figure>
 
 
 
