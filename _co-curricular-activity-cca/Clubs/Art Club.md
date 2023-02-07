@@ -12,7 +12,7 @@ Art Club
 <b>Information</b>
 
 
-
+<figure><img src="/images/AC.gif" style="width:75%"><figcaption> Art Club</figcaption></figure>
 
 
 
