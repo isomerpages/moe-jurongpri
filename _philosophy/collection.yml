@@ -2,4 +2,5 @@ collections:
   philosophy:
     output: true
     order:
+      - GENERAL INFORMATION/Parents Engagement.md
       - GENERAL INFORMATION/.keep
