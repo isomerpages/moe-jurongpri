@@ -22,3 +22,8 @@ As a pinnacle of our Leadership Development Programme, eight out of forty P6 pre
 Through our primary 3 and primary 4 Leadership Development Programme, our student leaders and CCA leaders experienced greater self-discovery and were equipped with the skills to discharge their duties efficiently and effectively.
 
 ![](/images/Leadership_2.png)
+
+
+### Primary 5 Leadership Camp 
+
+Eighty primary 5 Prefects and CCA leaders participated in the two days one night camp during the March holidays. The camp provided our students with an opportunity to overcome their own fears and collaborate with others for a common goal.
