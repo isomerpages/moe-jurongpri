@@ -20,3 +20,5 @@ As a pinnacle of our Leadership Development Programme, eight out of forty P6 pre
 ### Primary 3 and Primary 4 Leadership Development Programme 
 
 Through our primary 3 and primary 4 Leadership Development Programme, our student leaders and CCA leaders experienced greater self-discovery and were equipped with the skills to discharge their duties efficiently and effectively.
+
+![](/images/Leadership_2.png)
