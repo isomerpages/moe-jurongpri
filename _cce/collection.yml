@@ -2,7 +2,6 @@ collections:
   cce:
     output: true
     order:
-      - "CCE: NE or Social Studies/National Day.md"
       - "CCE: NE or Social Studies/Activities.md"
       - "CCE: NE or Social Studies/.keep"
       - CCE Lessons.md
