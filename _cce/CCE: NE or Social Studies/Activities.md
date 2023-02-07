@@ -55,3 +55,5 @@ Jurong Primary School commemorated Racial Harmony Day (RHD) 2020 on 13 July 2020
 The COVID-19 pandemic has brought issues of racism to the fore. Social cohesion is especially important during times like this. Viruses do not discriminate, people do. It is especially important during this period that we stay united so we can emerge a stronger and cohesive Singapore. The activities and the rich discussions amongst students and staff paved the way for an ever deeper understanding and appreciation of racial cohesion.
 
 ![](/images/Students%20in%20Ethnic%20Costume%20Assembly.jpeg)
+
+![](/images/Class%20Craft%20Assembly.jpg)
