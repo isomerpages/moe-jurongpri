@@ -57,3 +57,13 @@ The COVID-19 pandemic has brought issues of racism to the fore. Social cohesion 
 ![](/images/Students%20in%20Ethnic%20Costume%20Assembly.jpeg)
 
 ![](/images/Class%20Craft%20Assembly.jpg)
+
+![](/images/Class%20Sharing%20Assembly.jpeg)
+
+
+### National Day
+-------
+
+The school commemorated National Day on 7 August 2020. This year’s theme was ‘Together, A Stronger Singapore’. As we celebrated our nation’s 55 years of independence, we anchored our celebrations on the 3 beliefs: We Must Stay United, We Help One Another in Tough Times and We Will Emerge Stronger as a Nation.   
+  
+This year’s celebrations made use of technology such as Zoom and the SLS platform to bring the celebrations to our students in the classrooms. Through these activities, students were able to develop a sense of belonging, a sense of reality and a sense of hope. Ultimately all JPS students will be active citizens who have a collective resolve and a sense of shared mission towards building a Singapore for all.
