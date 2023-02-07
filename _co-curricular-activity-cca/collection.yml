@@ -2,6 +2,7 @@ collections:
   co-curricular-activity-cca:
     output: true
     order:
+      - Sports and Games/Floorball.md
       - Sports and Games/Track and Field.md
       - Sports and Games/.keep
       - Performing Arts/Performing Arts.md
