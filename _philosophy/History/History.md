@@ -24,35 +24,19 @@ In 1974, Jurong Primary School sought the use of the former premises of Jurong S
 
 2006 was another significant year for Jurong Primary School when it merged with Boon Lay Primary School. The merger saw the school relocated to its present campus at Jurong East St 32.  With its humble beginnings as a kampong school more than half a century ago, Jurong Primary School has evolved to be one of the most reputable schools in the Jurong vicinity today, providing a holistic curriculum and equipping its students with the right values and skills for the future.
 
-Principals:
-
-·        Mr Phoa Hock Seng (1950 to 1952)
-
-·        Miss Nancy Wee (1952 to 1955)
-
-·        Mr Goh Cheng Pheow (1955 to 1956)
-
-·        Mr Leong Fatt Khun (1957)
-
-·        Mr N Nunes (1958)
-
-·        Mr David Soh (1959)
-
-·        Mr Raja Moorthy (1960)
-
-·        Miss P. Gwynne (1961 to 1963)
-
-·        Mr Ram Singh (1964 to 1979)
-
-·        Mr Toh Boon Hai (1979 to 1990)
-
-·        Mrs Ngiam Siew Wah (1991 to 1997)
-
-·        Mr Goh Liang Chuan (1998 to 2005)
-
-·        Mrs Constance Yip (2006 to 2011)
-
-·        Mrs Manokara S (2012 to 2017)
-
+Principals: <br>
+·        Mr Phoa Hock Seng (1950 to 1952) <br>
+·        Miss Nancy Wee (1952 to 1955) <br>
+·        Mr Goh Cheng Pheow (1955 to 1956) <br>
+·        Mr Leong Fatt Khun (1957) <br>
+·        Mr N Nunes (1958) <br>
+·        Mr David Soh (1959) <br>
+·        Mr Raja Moorthy (1960) <br>
+·        Miss P. Gwynne (1961 to 1963) <br>
+·        Mr Ram Singh (1964 to 1979) <br>
+·        Mr Toh Boon Hai (1979 to 1990) <br>
+·        Mrs Ngiam Siew Wah (1991 to 1997) <br>
+·        Mr Goh Liang Chuan (1998 to 2005) <br>
+·        Mrs Constance Yip (2006 to 2011) <br>
+·        Mrs Manokara S (2012 to 2017) <br>
 ·        Mr Robin Ong (2018 to present)
-
