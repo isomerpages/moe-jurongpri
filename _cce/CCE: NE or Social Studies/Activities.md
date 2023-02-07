@@ -8,3 +8,7 @@ third_nav_title: "CCE: NE or Social Studies"
 
 Activities
 ==========
+
+
+### Total Defence Day
+------
