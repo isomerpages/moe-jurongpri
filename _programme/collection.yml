@@ -2,6 +2,7 @@ collections:
   programme:
     output: true
     order:
+      - Signature Programmes/Mother Tongue Language.md
       - Signature Programmes/Science Department.md
       - Signature Programmes/.keep
       - CCE/.keep
