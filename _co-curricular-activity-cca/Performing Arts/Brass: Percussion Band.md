@@ -10,3 +10,6 @@ Brass - Percussion Band
 =======================
 
 <b>Information</b>
+
+
+![](/images/Brass_CCA2020.jpg)
