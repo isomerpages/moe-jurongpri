@@ -2,6 +2,7 @@ collections:
   programme:
     output: true
     order:
+      - Accomplishment/2017.md
       - Accomplishment/2019.md
       - Accomplishment/2020.md
       - Accomplishment/.keep
