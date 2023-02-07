@@ -2,6 +2,7 @@ collections:
   programme:
     output: true
     order:
+      - Student Management/Student Leadership Framework.md
       - Student Management/The Pupil Leadership Programme.md
       - Student Management/.keep
       - Co Curricular Activity (CCA)/.keep
