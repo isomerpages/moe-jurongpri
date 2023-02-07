@@ -27,4 +27,11 @@ Besides drawing, you will get to try many other exciting art forms such as paint
   
 There will also be opportunities for you to participate in external competitions to showcase your talent such as the upcoming Singapore Youth Festival 2019 Art Exhibition.   
   
- So hesitate no more and join us!
+So hesitate no more and join us!
+
+
+![](/images/Art_CCA2020.jpg)
+
+
+### Gold with Honour for Visual Arts 2011
+-------------------------------------
