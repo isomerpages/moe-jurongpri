@@ -156,3 +156,44 @@ Staff
 
 ### P4 Form Teachers
 ----------------
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-j0e3{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-n4qt">Class</th>
+    <th class="tg-n4qt">Form Teachers </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-n4qt"> 4 Care</td>
+    <td class="tg-ii8k">Ms Tan Yi Sheng<br><a href="mailto:tan_yi_sheng@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">tan_yi_sheng@schools.gov.sg</span></a><br>Mdm Sarimah Sainin <br><a href="mailto:sarimah_sainin@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">sarimah_sainin@schools.gov.sg</span></a><span style="color:#222;background-color:#EAEAEA"> </span><br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> </span>4 Integrity</td>
+    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Mr Yeong Hoong Munn </span><br><a href="mailto:yeong_hoong_munn@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">yeong_hoong_munn@schools.gov.sg</span></a><br><br><span style="color:#222;background-color:#EAEAEA">Mdm Noorkiah Binte Mohd Hashim </span><br><a href="mailto:noorkiah_mohamed_hashim@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">noorkiah_mohamed_hashim@schools.gov.sg</span></a><span style="color:#222;background-color:#EAEAEA"> </span><br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">4 Passion</td>
+    <td class="tg-ii8k">Mr Chua Jeng Keith<br><a href="mailto:chua_jeng@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">chua_jeng@schools.gov.sg</span></a><br>Mdm Tang Lan Kim <br><a href="mailto:tang_lan_kim@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">tang_lan_kim@schools.gov.sg </span></a><br><br>Mdm Faridah Beham d/o AR <br><a href="mailto:faridah_beham_abdul_razeed@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">faridah_beham_abdul_razeed@schools.gov.sg</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">4 Respect</td>
+    <td class="tg-ii8k">Mr Wee Wei Min<br><a href="mailto:wee_wei_min@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">wee_wei_min@schools.gov.sg</span></a><br>Mdm Yee Yen Bee Amy<br><a href="mailto:yee_yen_bee@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">yee_yen_bee@schools.gov.sg</span></a><br><br>Ms Roshidah Karyeo <br><a href="mailto:roshidah_karyeo@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">roshidah_karyeo@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">4 Responsibility</td>
+    <td class="tg-ii8k">Miss Chindikasari Binte Roslee<br><a href="mailto:chindikasari_roslee@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">chindikasari_roslee@schools.gov.sg</span></a><br>Mrs Koh Qiuwen<br><a href="mailto:lin_qiuwen@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">lin_qiuwen@schools.gov.sg</span></a></td>
+  </tr>
+</tbody>
+</table>
