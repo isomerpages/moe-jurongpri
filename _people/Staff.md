@@ -201,3 +201,49 @@ Staff
 
 ### P5 Form Teachers
 ----------------
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-j0e3{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-n4qt">Class</th>
+    <th class="tg-n4qt">Form Teachers </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-n4qt"> 5 Care</td>
+    <td class="tg-ii8k">Mrs Maalini Chelvaretnam <br><a href="mailto:maalini_chelvaretnam@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">maalini_chelvaretnam@schools.gov.sg</span></a><br>Mdm Sim Chui Ha <br><a href="mailto:sim_chui_ha@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">sim_chui_ha@schools.gov.sg</span></a>  </td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">5 Gracious</td>
+    <td class="tg-ii8k">Mrs Sheila Gerad <br><a href="mailto:sheila_dhana_pal@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">sheila_dhana_pal@schools.gov.sg</span></a><br><br>Mr Vikneswaran Nagarajan <br><a href="mailto:vikneswaran_nagarajan@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">vikneswaran_nagarajan@schools.gov.sg</span></a> <br><br>Mr Jaron Pow <br><a href="mailto:pow_tien_min_jaron@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">pow_tien_min_jaron@schools.gov.sg</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> </span>5 Integrity</td>
+    <td class="tg-ii8k">Mr Pua En <br><a href="mailto:pua_en@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">pua_en@schools.gov.sg</span></a><br><br>Mdm Syafiqah Ryaihanny Bte Sahrom<br><a href="mailto:syafiqah_ryaihanny_sahrom@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">syafiqah_ryaihanny_sahrom@schools.gov.sg</span></a> </td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">5 Passion</td>
+    <td class="tg-ii8k"><br>Mr Mohd Kamarudin B Majid<br><a href="mailto:kamarudin_majid@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">kamarudin_majid@schools.gov.sg</span></a><br><br>Mrs Chang- Chen Jialin<br><a href="mailto:chen_jialin@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">chen_jialin@schools.gov.sg</span></a><br><br>Miss Lee Ai Ling<br><a href="mailto:lee_ai_ling@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">lee_ai_ling@schools.gov.sg</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">5 Respect</td>
+    <td class="tg-ii8k">Mdm Amilia Baba <br><a href="mailto:amilia_baba@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">amilia_baba@schools.gov.sg</span></a><br>Ms Eunice Tang<br><a href="mailto:eunice_tang@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">eunice_tang@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">5 Responsibility</td>
+    <td class="tg-ii8k">Mdm Toh Siow Hoon Rina <br><a href="mailto:toh_siow_hoon_rina@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">toh_siow_hoon_rina@schools.gov.sg</span></a> <br><br>Mr Billy Tan Ling Jun<br><a href="mailto:tan_ling_jun_billy@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">tan_ling_jun_billy@schools.gov.sg</span></a></td>
+  </tr>
+</tbody>
+</table>
