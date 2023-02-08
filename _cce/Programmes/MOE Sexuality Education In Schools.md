@@ -97,3 +97,8 @@ a.       Science <br>b.       Character and Citizenship Education 
   </tr>
 </tbody>
 </table>
+
+
+
+<center> <b> Primary 6</b> </center>
+
