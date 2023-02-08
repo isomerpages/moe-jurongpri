@@ -10,5 +10,3 @@ School map and contact details
 
 ### Contact Us
 ----------
-
-
