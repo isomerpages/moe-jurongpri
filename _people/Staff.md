@@ -247,3 +247,52 @@ Staff
   </tr>
 </tbody>
 </table>
+
+### P6 Form Teachers
+----------------
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-j0e3{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-n4qt">Class</th>
+    <th class="tg-n4qt">Form Teachers </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-n4qt"> 6 Care</td>
+    <td class="tg-ii8k">Mrs Ismail-Siti Norliza <br><a href="mailto:siti_norliza_abd_rahim@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">siti_norliza_abd_rahim@schools.gov.sg</span></a><br><br>Mrs Rosalind Chin<br><a href="mailto:rosalind_chng@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">rosalind_chng@schools.gov.sg</span></a><br>Ms Nur Sofhia Buang<br><a href="mailto:nur_sofhia_buang@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">nur_sofhia_buang@schools.gov.sg</span></a> </td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">6 Gracious</td>
+    <td class="tg-ii8k">Ms Koh Ai Peng<br><a href="mailto:koh_ai_peng@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">koh_ai_peng@schools.gov.sg</span></a><br>Mrs Raj Navamani <br><a href="mailto:navamani_iyyamalai@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">navamani_iyyamalai@schools.gov.sg</span></a><br>Mdm Ang Xu Qin Chuliet<br><a href="mailto:ang_xu_qin_chuliet@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">ang_xu_qin_chuliet@schools.gov.sg</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> </span>6 Integrity</td>
+    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Mdm Jane Yong Hsiao Wei</span><br><a href="mailto:jane_yong_hsiao_wei@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">jane_yong_hsiao_wei@schools.gov.sg</span></a><br><br><span style="color:#222;background-color:#EAEAEA">Mdm Rohani Mafot </span><br><a href="mailto:Rohani_MAFOT@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">Rohani_MAFOT@schools.gov.sg</span></a><br><span style="color:#222;background-color:#EAEAEA"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">6 Passion</td>
+    <td class="tg-ii8k">Mrs Josephine Rama<br> <a href="mailto:josephine_pillai@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">josephine_pillai@schools.gov.sg</span></a><br><br>Mr Lee Chin Fuong Andrew <br><a href="mailto:lee_chin_fuong@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">lee_chin_fuong@schools.gov.sg</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">6 Respect</td>
+    <td class="tg-ii8k">Miss Ho Meiling <br><a href="mailto:ho_mei_ling_a@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">ho_mei_ling_a@schools.gov.sg</span></a><br><br>Mr Lim Daw Wee <br><a href="mailto:lim_daw_wee@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">lim_daw_wee@schools.gov.sg</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">6 Responsibility</td>
+    <td class="tg-ii8k"> Miss Norashikin Hambali <br><a href="mailto:norashikin_hambali@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">norashikin_hambali@schools.gov.sg</span></a><br><br>Mdm Nur Fadzila Bte Abd Kadir <br><a href="mailto:nur_fadzila_abdul_kadir@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">nur_fadzila_abdul_kadir@schools.gov.sg</span></a></td>
+  </tr>
+</tbody>
+</table>
