@@ -9,7 +9,6 @@ description: ""
 Executive & Administrative Staff
 ================================
 
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -17,6 +16,7 @@ Executive & Administrative Staff
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-j0e3{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
@@ -52,7 +52,7 @@ Executive & Administrative Staff
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Mrs Jeanie Cheng</span></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> </span>CSO </td>
+    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> </span>CSO </td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Mdm Julaiha Beeve d/o Osman</span></td>
   </tr>
   <tr>
