@@ -4,6 +4,12 @@ links:
     collection: philosophy
   - title: Programme
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: ECLIP
+        url: /permalink
+      - title: Every Child is A Leader (ECAL)
+        url: /permalink
+      - title: Signature Programmes
+        url: /permalink
   - title: Contact Us
     url: /contact-us/
