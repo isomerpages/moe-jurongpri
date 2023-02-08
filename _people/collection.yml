@@ -2,4 +2,5 @@ collections:
   people:
     output: true
     order:
+      - Allied Educators.md
       - Executive & Administrative Staff.md
