@@ -21,3 +21,10 @@ Pupils are identified by their teachers and parental consent is sought before th
   
 
 Besides the interactive group sessions, there is also individual counselling for the parents and their children.
+
+
+<img src="/images/Rainbow.png" style="width:70%">
+
+
+### JPS Rainbow Care Pack
+---------------------
