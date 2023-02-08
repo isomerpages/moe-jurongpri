@@ -2,6 +2,7 @@ collections:
   cce:
     output: true
     order:
+      - Programmes/ECG.md
       - Programmes/Values In Action (VIA).md
       - Programmes/MOE Sexuality Education In Schools.md
       - Programmes/.keep
