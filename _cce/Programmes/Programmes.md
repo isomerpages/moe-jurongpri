@@ -22,3 +22,5 @@ Value Champion is the platform to affirm students who are exemplary in displayin
 
 Value Champions of JPS:
 
+
+<img src="/images/prog.gif" style="width:80%">
