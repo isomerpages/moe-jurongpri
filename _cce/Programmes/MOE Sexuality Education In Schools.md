@@ -146,3 +146,13 @@ a.       Science <br>b.       Character and Citizenship Education 
 	
 	
 <center> <b>For <u>2023</u>, the Primary 5 lesson “<i>Did You Know</i>?” will also be conducted for the Primary 6 cohort. </b> </center>
+
+
+
+<b>Information for Parents</b>
+
+8.       Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. 
+
+9.       Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form can be completed [here](/files/ANNEX%20A.pdf). The completed opt-out form is to be submitted by 10/02/2023.
+
+10.      Parents can contact the school at jps@schools.gov.sg or 65618837 for discussion or to seek clarification about the school’s Sexuality Education programme
