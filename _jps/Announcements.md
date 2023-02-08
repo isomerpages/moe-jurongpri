@@ -29,3 +29,9 @@ For Primary 1, 
 *   <b>6th Jan onwards</b> \- normal school hours
 
 For Primary 2 to 6, first day of school will be on <u><b>4th Jan, Wednesday</b></u>. It will be normal school hours.
+
+
+### JPS Booklist 2023
+
+2022-11-17 <br>
+Click [here](https://jurongpri-moe-edu-sg-admin.cwp.sg/forms/jps-booklist-2023) to view 2023 booklist
