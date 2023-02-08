@@ -1,6 +1,9 @@
 logo: /images/isomer-logo.svg
 links:
+  - title: Philosophy
+    collection: philosophy
+  - title: Programme
+    url: /permalink
+    sublinks: []
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
