@@ -2,6 +2,7 @@ collections:
   cce:
     output: true
     order:
+      - Programmes/Counselling Programme.md
       - Programmes/Rainbows Programme.md
       - Programmes/ECG.md
       - Programmes/Values In Action (VIA).md
