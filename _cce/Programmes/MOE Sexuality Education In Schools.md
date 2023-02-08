@@ -54,3 +54,6 @@ a.       Science <br>b.       Character and Citizenship Education 
 
 
 <b>At Jurong Primary School, the following lessons from the Growing Years Programme will be taught in</b> <u><b>2023:</b></u>
+
+
+<center> <b>Primary 5</b> </center>
