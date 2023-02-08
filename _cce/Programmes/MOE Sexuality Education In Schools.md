@@ -142,4 +142,7 @@ a.       Science <br>b.       Character and Citizenship Education 
 </table>
 
 
-<center> <u><b>Please Note:</b></u>
+<center> <u><b>Please Note:</b></u> </center>
+	
+	
+<center> <b>For <u>2023</u>, the Primary 5 lesson “<i>Did You Know</i>?” will also be conducted for the Primary 6 cohort. </b> </center>
