@@ -72,3 +72,6 @@ JPS students serve to learn & learn to serve. We want them to have ownership ove
 
 
 As part of the school’s Green Efforts, our students are involved in several Green activities. JPS commemorated Earth Hour on 11 March with an hour long shutdown of all non-essential lights. This allowed our students to understand the importance of energy conservation. We are also commemorating Earth Day on 22 April with the planting of Bottled Plants. This activity raises our students’ understanding of environmental awareness and encourages them to be environmentally-friendly.
+
+
+<img src="/images/VIA.gif" style="width:80%">
