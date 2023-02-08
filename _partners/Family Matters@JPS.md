@@ -17,3 +17,6 @@ Research shows that parent-child relationship has a very strong impact on a chil
 Family Matters @ School provides seminars and workshops to equip parents with effective parenting skills - eventually training them to be parent facilitators, trainings for school staff to enhance their family life, and life skills and character building training for students. The Family Matters @ School RESOURCE AREA also makes family resources such as parenting and family life books, bonding activity board games, etc. accessible to the parents, students and staff.
 
 With Family Matters @ Schools, parents are informed, equipped and empowered to build stronger families and children are brought up with positive values and mind-set towards life, marriage and family.
+
+
+<img src="/images/jelly-beans.gif" style="width:33.3%;float:left"><img src="/images/jelly-beans.gif" style="width:33.3%;float:left"><img src="/images/jelly-beans.gif" style="width:33.3%;float:left">
