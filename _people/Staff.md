@@ -111,3 +111,44 @@ Staff
 
 ### P3 Form Teachers
 ----------------
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-j0e3{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-n4qt">Class</th>
+    <th class="tg-n4qt">Form Teachers </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-n4qt"> 3 Care</td>
+    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Mdm Asfilah Ariffin</span><br><a href="mailto:asfilah_ariffin@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">asfilah_ariffin@schools.gov.sg</span></a><br><br><span style="color:#222;background-color:#EAEAEA">Mr Wee Jing-Sheng Daniel </span><br><a href="mailto:wee_jing_sheng_daniel@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">wee_jing_sheng_daniel@schools.gov.sg</span></a><span style="color:#222;background-color:#EAEAEA"> </span><br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> </span>3 Integrity</td>
+    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Mrs Chin Mau Kin </span><br><a href="mailto:lee_mau_kin@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">lee_mau_kin@schools.gov.sg</span></a><br><br><span style="color:#222;background-color:#EAEAEA"> Mr Muhd Hakim B Kamarudin</span><br><a href="mailto:muhd_hakim_kamarudin@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">muhd_hakim_kamarudin@schools.gov.sg</span></a><span style="color:#222;background-color:#EAEAEA"> </span><br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">3 Passion</td>
+    <td class="tg-ii8k"><br>Miss Lam Fee Min Corinna <br><a href="mailto:lam_fee_min_corinna@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">lam_fee_min_corinna@schools.gov.sg</span></a><br> <br>Mr Ravindran s/o Rajasekeran <br><a href="mailto:ravindran_rajasekeran@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">ravindran_rajasekeran@schools.gov.sg</span></a><br><br>Mr Tan Kin Chiew Jimmy<br><a href="mailto:tan_kin_chiew@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">tan_kin_chiew@schools.gov.sg</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">3 Respect </td>
+    <td class="tg-ii8k"><br>Miss Kirk Bee Har  <br><a href="mailto:kirk_bee_har@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">kirk_bee_har@schools.gov.sg</span></a><br><br>Mr Zailany Findy B Safie <br><a href="mailto:zailany_findy_safie@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">zailany_findy_safie@schools.gov.sg</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">3 Responsibility</td>
+    <td class="tg-ii8k">Mdm Huang Yan <br><a href="mailto:huang_yan@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">huang_yan@schools.gov.sg</span></a><br><br>Ms Neo Siao Wei Ann<br><a href="mailto:neo_siao_wei@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">neo_siao_wei@schools.gov.sg</span></a></td>
+  </tr>
+</tbody>
+</table>
