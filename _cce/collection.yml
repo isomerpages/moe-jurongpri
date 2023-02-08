@@ -2,6 +2,7 @@ collections:
   cce:
     output: true
     order:
+      - Programmes/Character Development.md
       - Programmes/Counselling Programme.md
       - Programmes/Rainbows Programme.md
       - Programmes/ECG.md
