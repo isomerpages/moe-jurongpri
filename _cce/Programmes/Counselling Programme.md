@@ -23,3 +23,6 @@ A part-time counselor is also attached to the school to provide additional suppo
   
 
 Pupils with emotional and behavioural difficulties can self-refer themselves to the counsellor while others are referred by their teachers
+
+
+<img src="/images/Counselling01.jpg" style="width:45%;float:left">
