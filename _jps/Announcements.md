@@ -34,4 +34,10 @@ For Primary 2 to 6, first day of school will be on <u><b>4th Jan, Wednesday</b>
 ### JPS Booklist 2023
 
 2022-11-17 <br>
-Click [here](https://jurongpri-moe-edu-sg-admin.cwp.sg/forms/jps-booklist-2023) to view 2023 booklist
+Click [here](/forms/JPS-Booklist-2023/) to view 2023 booklist
+
+
+### JPS School Bag Weight Loss Project by PSG
+
+2022-05-31 <br>
+Click [here](/files/School%20Bag%20Weight%20Loss%20Project%20PG.pdf) for more details.
