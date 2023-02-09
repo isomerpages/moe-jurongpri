@@ -29,4 +29,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
