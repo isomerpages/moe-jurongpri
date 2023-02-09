@@ -10,7 +10,7 @@ Frequently Asked Questions
 
   
 
-1.  [What are the distinctive programmes in JPS?](https://jurongpri.moe.edu.sg/programme)   
+1.  [What are the distinctive programmes in JPS?](/programme/Every-Child-Leads-in-an-Instrumental-Performance-ECLIP/)
     
 2.  [What are the CCAs offered?](https://jurongpri.moe.edu.sg/programme/co-curricular-activity-cca)  
     
