@@ -2,5 +2,6 @@ collections:
   others:
     output: true
     order:
+      - FAQ.md
       - Clear Cache.md
       - Parents Gateway.md
