@@ -9,7 +9,7 @@ description: ""
     
 *   [JPS School Bag Weight Loss Project by PSG](/files/School%20Bag%20Weight%20Loss%20Project.pdf)
 *   [SFE Indicate Interest 2022]()
-*   [JPS Booklist 2023](https://jurongpri-moe-edu-sg-admin.cwp.sg/forms/jps-booklist-2023)
+*   [JPS Booklist 2023](/forms/JPS-Booklist-2023/)
 *   [Parents Gateway](https://jurongpri-moe-edu-sg-admin.cwp.sg/others/parents-gateway)
 *   [Family @ JPS](https://jurongpri-moe-edu-sg-admin.cwp-stg.sg/partners-1/family-matters-at-jps)  
     
