@@ -2,11 +2,11 @@ title: Jurong Primary School
 url: https://www.jurongpri.moe.edu.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#df011c"
+  secondary-color: "#0346ff"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#f8a115"
     - title: media-color-two
       color: "#744d9f"
     - title: media-color-three
