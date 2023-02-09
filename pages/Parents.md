@@ -16,4 +16,4 @@ description: ""
 *   [Sexuality Education](/cce/Programmes/MOE-Sexuality-Education-In-Schools/) 
     
 *   [SLS - FAQ and Instructions for Students](/philosophy/GENERAL-INFORMATION/SLS/)
-*   [How to clear mobile web browser cache](https://jurongpri-moe-edu-sg-admin.cwp.sg/others/clear-cache)
+*   [How to clear mobile web browser cache](/others/Clear-Cache/)
