@@ -24,4 +24,9 @@ sections:
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
+  - infopic:
+      title: Announcements
+      button: Clicker here for more details
+      url: www.
+      alt: Image alt text
 ---
