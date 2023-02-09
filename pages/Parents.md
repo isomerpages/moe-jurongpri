@@ -3,6 +3,8 @@ title: Parents
 permalink: /parents/
 description: ""
 ---
+![](/images/Banner.png)
+
 # PARENTS
 
 *   [WE Stories 2022](https://online.fliphtml5.com/obrr/qkde/#p=1)  
