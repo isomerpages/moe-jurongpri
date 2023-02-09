@@ -13,7 +13,7 @@ description: ""
 *   [Parents Gateway](/others/Parents-Gateway/)
 *   [Family @ JPS](/partners/Family-Matters-at-JPS/)
     
-*   [Sexuality Education](https://jurongpri-moe-edu-sg-admin.cwp.sg/programme/character-and-citizenship-education-cce/programmes/moe-sexuality-education-in-schools)[](https://jurongpri-moe-edu-sg-admin.cwp.sg/)  
+*   [Sexuality Education](/cce/Programmes/MOE-Sexuality-Education-In-Schools/) 
     
 *   [SLS - FAQ and Instructions for Students](https://jurongpri-moe-edu-sg-admin.cwp.sg/philosophy/general-information/sls)
 *   [How to clear mobile web browser cache](https://jurongpri-moe-edu-sg-admin.cwp.sg/others/clear-cache)
