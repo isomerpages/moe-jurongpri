@@ -19,4 +19,4 @@ description: ""
     
 *   [Parents Gateway](https://pg.moe.edu.sg/)  
     
-*   [How to clear mobile web browser cache](https://jurongpri-moe-edu-sg-admin.cwp.sg/others/clear-cache)
+*   [How to clear mobile web browser cache](/others/Clear-Cache/)
