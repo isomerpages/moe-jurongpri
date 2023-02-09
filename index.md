@@ -18,15 +18,13 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
   - infopic:
       title: Announcements
       button: Clicker here for more details
-      url: www.
+      url: /jps/Announcements/
       alt: Image alt text
+  - infobar:
+      title: Calendar of Events
+      button: Click here for more details
+      url: www
 ---
