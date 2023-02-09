@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage.gif
+      background: /images/Home.gif
       key_highlights:
         - title: Parents
           description: ""
@@ -15,9 +15,9 @@ sections:
         - title: Teachers
           description: ""
           url: /Teachers/
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Students
+          description: ""
+          url: /Students/
   - infopic:
       title: Announcements
       button: Clicker here for more details
