@@ -20,7 +20,7 @@ sections:
           url: /Students/
   - infopic:
       title: Announcements
-      button: Clicker here for more details
+      button: Click here for more details
       url: /jps/Announcements/
       alt: Image alt text
       image: /images/Ann.jpeg
