@@ -9,15 +9,15 @@ sections:
   - hero:
       background: /images/Home.gif
       key_highlights:
+        - title: Announcements
+          description: ""
+          url: /jps/announcements/
         - title: Parents
           description: ""
-          url: /jps/parents/
+          url: /parents/
         - title: Teachers
           description: ""
-          url: /jps/teachers/
-        - title: Students
-          description: ""
-          url: /jps/students/
+          url: /teachers/
         - title: Calendar
           description: ""
           url: " /jps/calendar-of-events/"
