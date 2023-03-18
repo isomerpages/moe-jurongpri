@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: /announcements/
+          url: /jps/Announcements/
         - title: Teachers
           description: ""
           url: /Teachers/
