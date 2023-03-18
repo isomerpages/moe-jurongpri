@@ -2,13 +2,9 @@ logo: /images/Jurong Primary School logo.png
 links:
   - title: Philosophy
     collection: philosophy
-  - title: Programme
-    url: /programme/Every-Child-Leads-in-an-Instrumental-Performance-ECLIP/
+  - title: Programmes
+    url: /programme/
     sublinks:
-      - title: ECLIP
-        url: /programme/Every-Child-Leads-in-an-Instrumental-Performance-ECLIP/
-      - title: Every Child is A Leader (ECAL)
-        url: /programme/Every-Child-is-A-Leader-ECAL/
       - title: Signature Programmes
         url: /programme/signature-programmes/permalink/
       - title: CCE
