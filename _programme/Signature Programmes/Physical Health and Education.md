@@ -4,7 +4,7 @@ permalink: /programme/signature-programmes/phe/permalink/
 description: ""
 third_nav_title: Signature Programmes
 ---
-# **PHE Programmes*
+# PHE Programmes
 **Swimsafer**
 
 ![](/images/swimsafer02.jpg)
