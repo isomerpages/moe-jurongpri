@@ -15,7 +15,10 @@ sections:
         - title: Calendar
           description: ""
           url: /jps/Calendar-of-Events/
-        - title: Quick Links
+        - title: Parents
           description: ""
-          url: /Students/
+          url: /parents/
+        - title: Teachers
+          description: Key Highlight description
+          url: /teachers
 ---
