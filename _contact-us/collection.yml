@@ -2,5 +2,5 @@ collections:
   contact-us:
     output: true
     order:
-      - SLS.md
       - School map and contact details.md
+      - SLS.md
