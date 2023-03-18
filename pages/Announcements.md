@@ -3,10 +3,7 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
-
 ![](/images/Banner.png)
-
-# PARENTS
 
 *   [WE Stories 2022](https://online.fliphtml5.com/obrr/qkde/#p=1)  
     
