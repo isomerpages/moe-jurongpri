@@ -53,4 +53,17 @@ Every year, all prefects and CCA Leaders undergo leadership training sessions by
 Putting their learning into practice, JPS prefects play active roles in the planning and execution of the school’s annual commemorative events such as Racial Harmony Day and National Day.
 
 They also serve the school through roles such as assembly parade commander and recess I/Cs. These opportunities were invaluable in teaching them leadership skills such as responsibility, project management, problem solving and collaboration.
+
+**Make A Change**
+
+![](/images/MakeAChange01.png)
+
+_Make a Change @ JPS_ is a school-wide programme which inculcates in all students the will and know-how to make a difference to the world around them.
+
+Here, students work in groups to identify problems in their class, school or community, propose feasible solutions to these problems, and actually go ahead to implement the change they want to see.
+
+Done over a few cycles each year to scaffold students into a continual life practice, every JPS student who have, by the time of graduation more than a dozen improvement projects.
+
+![](/images/MakeAChange02.jpg)
+
 ![](/images/MakeAChange03.jpg)
