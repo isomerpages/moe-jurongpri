@@ -2,6 +2,7 @@ collections:
   others:
     output: true
     order:
+      - SLS.md
       - General Information.md
       - Parents Engagement.md
       - Privacy Statement.md
