@@ -2,7 +2,6 @@ collections:
   people:
     output: true
     order:
-      - People.md
       - School Leaders.md
       - Key Personnel.md
       - Staff.md
