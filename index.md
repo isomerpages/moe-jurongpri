@@ -18,14 +18,4 @@ sections:
         - title: Students
           description: ""
           url: /Students/
-  - infopic:
-      title: Announcements
-      button: Click here for more details
-      url: /jps/Announcements/
-      alt: Image alt text
-      image: /images/Ann.jpeg
-  - infobar:
-      title: Calendar of Events
-      button: Click here for more details
-      url: /jps/Calendar-of-Events/
 ---
