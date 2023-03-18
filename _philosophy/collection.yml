@@ -2,11 +2,11 @@ collections:
   philosophy:
     output: true
     order:
-      - General Information.md
       - Principal's Message.md
       - Vision, Mission and Motto.md
       - Core Values.md
+      - History/.keep
       - History/History.md
       - History/Gallery.md
-      - History/.keep
+      - General Information.md
       - General Information/.keep
