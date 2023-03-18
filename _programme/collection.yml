@@ -2,6 +2,7 @@ collections:
   programme:
     output: true
     order:
+      - CCe/.keep
       - Signature Programmes/.keep
       - Signature Programmes/Mathematics.md
       - Signature Programmes/English Language.md
