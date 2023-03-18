@@ -13,61 +13,60 @@ Activities
 ### Total Defence Day
 ------
 
-“Together We Keep Singapore Strong” is the theme for this year’s Total Defence Day. The focus of the commemoration was on Digital Defence. To highlight the importance of Cyber Wellness, students were taught how to apply S.A.R. (Be Secure, Be Alert and Be Responsible) on online platforms. In addition, we invited our ex-student, Tay Gao Jun, to conduct dialogue sessions with our student leaders on Cybersecurity. He is one of 150 people in the world to hold the title of Certified Ethical Hacker Master   
-  
-It was timely that we guided our students on how they can play their part as a citizen using Civil and Psychological Defences as we braved the pandemic as a nation. Students were given the opportunity to show their appreciation to essential workers at JPS by penning ‘Thank you’ notes to our JPS support staff as well as our frontline staff such as nurses and doctors. A collage was also created by our students and presented to healthcare workers of Ng Teng Fong Hospital.
+![](/images/TTD01.jpg)
 
+15 February marks the day that Singapore fell to the Japanese in 1942 during World War II. The commemoration of this day serves as a reminder to Singaporeans of our collective responsibility to defend our nation, and that Singapore is defensible and is worth defending.
 
-![](/images/Dialogue%20Session%20by%20Tay%20Gao%20Jun%20on%20Cybersecurity%201.jpg)
+On 15 February 2022, Jurong Primary School commemorated Total Defence Day. It was the intention of theme of this year's commemoration, "Together, We Keep Singapore Strong”, to encourage students to play a greater role in Total Defence and to highlight the different ways they can contribute.
 
-![](/images/Notes%20of%20Appreciation%201.jpg)
+Students went through a series of learning activities both in their CCE lessons as well as on SLS prior to Total Defence Day, highlighting the pillars on Social and Digital Defence. This learning was further contextualised through an interactive presentation in the hall on the actual day. As part of the event, some of our teachers and School Leaders were interviewed on their recollections of their time in National Service.
 
-![](/images/Notes%20of%20Appreciation%202.jpg)
+Students were also tasked to demonstrate Social Defence in practice and “Care Forward” where they actively find ways to demonstrate graciousness towards their environment, family members, friends and even strangers.
 
-<img src="/images/Tay%20Gao%20Jun.jpg" style="width:90%">
+Through this event, students acquired greater sensitivity to those around them and were more conscious of their actions and their respective impact on others. They were empowered to step forward and contribute, because they now know they can.
+
+![](/images/TTD02.jpg)
+
 
 
 ### International Friendship Day
 ------
 
-The school commemorated International Friendship Day on 6 April 2020. The theme for this year was “Beyond Borders”. Friendships across national boundaries is established and maintained through mutual understanding, respect and commitment. With this in mind, the school lined up a series of meaningful activities to engage students in the commemoration of IFD this year.   
+![](/images/IFD01.jpg)
 
-  
+The International Friendship Day 2022 event was commemorated on the actual day on Friday, 8 April. In a shift in form from how the event was conducted in the last two years, the one this year saw the students and staff congregating in the school hall for the first time since the start of the pandemic in two separate batches for the assembly programme 
+Adhering to this year’s theme ‘Singapore in Asia’, the organising committee hopes by recognising the importance of connectedness between our neighbouring countries, our youth can play an active role in fostering people-to-people ties, and thus celebrate the region’s diversity and vibrancy and promote the spirit of friendship and collaboration. 
+Besides the assembly programme with interactive elements, students also had classroom discussions and written reflections on current affairs of the world as well as a post-video presentation quiz on specific ASEAN countries done online. For individual work, students were encouraged to submit a graphic presentation of Cambodia based on resources found in issue 2 of the Kindsville Times / A-Ok! magazine to complete their learning objectives from this event.
 
-The assembly programmes talked about the spirit of friendship and interconnectedness between Singapore and other countries around the world. In the face of COVID-19 pandemic, our students got to hear and share about how Singapore, being a member of a global community of nations, had extended help to other countries in times of need.   
-
-  
-
-Students also spent time exploring the various countries ‘assigned’ to them via the  Student Learning Space. They then embarked on virtual flights to the various countries with their uniquely-designed JPS Passports, and participated in the tasks and puzzles assigned in their very own passports. Through the various activities, students get to appreciate the friendship and collaboration among different countries and will remember them in the years to come.
-
-![](/images/Assembly_4.jpg)
-
-![](/images/P1-P6%20Deliverables.jpg)
-
-![](/images/JPS%20Passport.jpg)
 
 
 ### Racial Harmony Day
 -----
 
-Jurong Primary School commemorated Racial Harmony Day (RHD) 2020 on 13 July 2020. This year’s theme is Multicultural Singapore. Besides an interesting assembly programme, our students had in-depth class discussions about racial issues and shared their reflections on paper hearts which they designed themselves. The RHD team also prepared a special learning package on the Singapore Student Learning Portal (SLS) to engage students to learn more about the diverse races in Singapore through fun activities such as quizzes, songs and even a virtual tour.  
-  
-The COVID-19 pandemic has brought issues of racism to the fore. Social cohesion is especially important during times like this. Viruses do not discriminate, people do. It is especially important during this period that we stay united so we can emerge a stronger and cohesive Singapore. The activities and the rich discussions amongst students and staff paved the way for an ever deeper understanding and appreciation of racial cohesion.
+![](/images/RHD01.jpg)
 
-![](/images/Students%20in%20Ethnic%20Costume%20Assembly.jpeg)
+JPS commemorated Racial Harmony Day on 21 July 2022 and this event was even more memorable as it was the first event to be held after the easing of SMM. It was heartening to see everyone gather in the school hall as one community to commemorate RHD. 
 
-![](/images/Class%20Craft%20Assembly.jpg)
+Singapore: Our Multicultural Mosaic was the theme for RHD 2022. The theme focuses on the appreciation of the diverse races and religions that make up our multicultural society, and which contribute to our shared sense of cohesion and harmony. It also reflects how each community, while having the space to express its own identity as part of Singapore society, also intertwines with others to depict the unique cultural diversity that characterizes Singapore life. 
 
-![](/images/Class%20Sharing%20Assembly.jpeg)
+Our staff and students greatly appreciated the opportunity to dress up in their vibrant ethnic outfits and it was indeed a colorful day! The RHD team put up an array of activities for all to enjoy and take part in. The students enjoyed watching their teachers put up graceful dances that depicted our various ethnic communities. And the highlight of the day was the chance to play during recess! Due to the pandemic and SMM, the students have not been able to play as they used to in previous commemorations. This year with the help of our PSG and teachers, they had a blast playing the different traditional games. The students also took part in various other activities. 
 
+We firmly believe that through such activities, our students are able to get a greater sensing of the importance of racial harmony in Singapore and will their utmost to upkeep the cohesion and harmony of our nation.  
+
+![](/images/RHD02.jpg)
 
 ### National Day
 -------
 
-The school commemorated National Day on 7 August 2020. This year’s theme was ‘Together, A Stronger Singapore’. As we celebrated our nation’s 55 years of independence, we anchored our celebrations on the 3 beliefs: We Must Stay United, We Help One Another in Tough Times and We Will Emerge Stronger as a Nation.   
-  
-This year’s celebrations made use of technology such as Zoom and the SLS platform to bring the celebrations to our students in the classrooms. Through these activities, students were able to develop a sense of belonging, a sense of reality and a sense of hope. Ultimately all JPS students will be active citizens who have a collective resolve and a sense of shared mission towards building a Singapore for all.
+![](/images/NDP01.jpg)
 
-![](/images/Students%20in%20Ethnic%20Costume%20Assembly.jpeg)
+Jurong Primary School commemorated National Day on 8 August 2022. After a lengthy hiatus, the school finally returned to the parade square to hold the Observance Ceremony with uniformed groups in full regalia and prefects leading the Recollections; their voices reverberating in the open space. 
+
+The school then moved to the hall where they experienced a multimedia journey through Singapore's past, present and future in a narrative peppered with community songs both old and new. Mr Ong even led the entire school in a hearty rendition of Home. While entertaining, the programme also resonated with students through its message of hope, progress and togetherness, amply emphasizing this year's theme - ‘Stronger Together, Majulah!’ 
+
+The National Day souvenir this year is a special JPS-designed gold medallion with our (soon-to-be-different) school building embossed on one side and the 2022 theme ‘Stronger Together, Majulah!’ on the other. The medallion will serve to remind us of our 73 good years of grooming gracious citizens in JPS; how far we've come and how far we can continue to go, together.
+
+![](/images/NDP03.jpg)
+
 
 ![](/images/NDP.jpeg)
