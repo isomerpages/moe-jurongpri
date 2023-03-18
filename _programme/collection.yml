@@ -2,6 +2,7 @@ collections:
   programme:
     output: true
     order:
+      - Signature Programmes 02.md
       - Signature Programmes 01/.keep
       - Signature Programmes 01/Mathematics.md
       - Signature Programmes 01/Mother Tongue Language.md
