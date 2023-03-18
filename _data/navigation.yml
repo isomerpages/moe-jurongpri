@@ -2,19 +2,6 @@ logo: /images/Jurong Primary School logo.png
 links:
   - title: About JPS
     collection: philosophy
-  - title: Programmes
-    url: /programme/permalink/
-    sublinks:
-      - title: Signature Programmes
-        url: /programme/signature-programmes/permalink/
-      - title: CCE
-        url: /cce/Programmes/Programmes/
-      - title: Student Management
-        url: /programme/Student-Management/
-      - title: Co-Curricular Activity (CCA)
-        url: /co-curricular-activity-cca/co-curricular-activity-cca/
-      - title: Accomplishment
-        url: /programme/Accomplishment/
   - title: Programme
     collection: programme
   - title: People
