@@ -68,5 +68,34 @@ The National Day souvenir this year is a special JPS-designed gold medallion wit
 
 ![](/images/NDP03.jpg)
 
+### National Education Show 
+-------
 
-![](/images/NDP.jpeg)
+![](/images/NEshow03.jpg)
+
+The National Education (NE) Show has been co-organized by MINDEF and MOE to instill a sense of pride and belonging in students and to bring across the significance of our National Day. Our P5 pupils attended the NE Show on Saturday, 9 July 2022. The NE show was part of our commemoration of Singapore’s 57th National Day. 
+
+Through the NE Show, the pupils learnt to be a respectful supporter, a caring motivator and a responsible spectator. They also reflected and shared what they enjoyed and learned during the show. Many shared about the different segments of the show and were thankful to all that came together to make the show possible. Students also had the opportunity to further develop a sense of national identity as a citizen of the nation.
+
+![](/images/NEshow04.jpg)
+
+### National Heritage Trails
+-------
+
+The National Heritage Trails aim to provide a rich outdoor learning experience for the Primary 4 and 6 students by infusing selected learning outcomes from the Social Studies, English Language, the Arts as well as National Education syllabus. The trails provide an opportunity for students to explore and learn how life used to be like in the past.
+
+**Primary 4 National Heritage Trails to Kg Glam**
+
+![](/images/KgGlam01.jpg)
+
+![](/images/KgGlam09.jpg)
+
+![](/images/KgGlam02.jpg)
+
+**Primary 6 National Heritage Trail to Chinatown**
+
+![](/images/Chinatown01.jpg)
+
+![](/images/Chinatown03.jpg)
+
+![](/images/Chinatown04.jpg)
