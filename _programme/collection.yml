@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Signature Programmes 01/.keep
-      - Signature Programmes 01/English Language.md
       - Signature Programmes 01/Mathematics.md
       - Signature Programmes 01/Mother Tongue Language.md
       - Signature Programmes 01/Science.md
