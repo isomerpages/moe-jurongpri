@@ -3,7 +3,7 @@ links:
   - title: Philosophy
     collection: philosophy
   - title: Programmes
-    url: /programmes/permalink/
+    url: /programme/permalink/
     sublinks:
       - title: Signature Programmes
         url: /programme/signature-programmes/permalink/
