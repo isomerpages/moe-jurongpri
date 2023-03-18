@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - SLS.md
-      - General Information.md
       - School map and contact details.md
