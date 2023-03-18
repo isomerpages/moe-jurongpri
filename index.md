@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/Home.gif
       key_highlights:
-        - title: Parents
+        - title: Announcements
           description: ""
-          url: /parents/
+          url: /announcements/
         - title: Teachers
           description: ""
           url: /Teachers/
