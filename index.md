@@ -19,6 +19,6 @@ sections:
           description: ""
           url: /jps/students/
         - title: Calendar
-          description: Key Highlight description
+          description: ""
           url: " /jps/calendar-of-events/"
 ---
