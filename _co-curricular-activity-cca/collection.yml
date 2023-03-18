@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Sports and Games/Sports and Games.md
-      - Sports and Games/Football.md
       - Sports and Games/Netball.md
       - Sports and Games/Floorball.md
       - Sports and Games/Track and Field.md
