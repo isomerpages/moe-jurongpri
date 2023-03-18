@@ -2,7 +2,6 @@ collections:
   co-curricular-activity-cca:
     output: true
     order:
-      - Co Curricular Activity (CCA).md
       - Sports and Games/Sports and Games.md
       - Sports and Games/Basketball.md
       - Sports and Games/Badminton.md
