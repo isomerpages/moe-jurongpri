@@ -12,9 +12,9 @@ sections:
         - title: Announcements
           description: ""
           url: /jps/Announcements/
-        - title: Teachers
+        - title: Calendar
           description: ""
-          url: /Teachers/
+          url: /jps/Calendar-of-Events/
         - title: Students
           description: ""
           url: /Students/
