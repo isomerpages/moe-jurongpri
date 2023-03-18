@@ -4,8 +4,8 @@ collections:
     order:
       - General Information.md
       - SLS.md
-      - Parents Engagement.md
-      - Privacy Statement.md
-      - FAQ.md
-      - Clear Cache.md
       - Parents Gateway.md
+      - FAQ.md
+      - Privacy Statement.md
+      - Clear Cache.md
+      - Parents Engagement.md
