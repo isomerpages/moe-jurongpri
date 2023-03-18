@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - General Information.md
-      - FAQ.md
+      - Frequently Asked Questions.md
       - Privacy Statement.md
