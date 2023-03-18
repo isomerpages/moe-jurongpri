@@ -15,6 +15,8 @@ links:
         url: /co-curricular-activity-cca/Co-Curricular-Activity-CCA/
       - title: Accomplishment
         url: /programme/Accomplishment/
+  - title: Programme
+    collection: programme
   - title: People
     collection: people
   - title: Partners
@@ -23,5 +25,3 @@ links:
     collection: others
   - title: Contact Us
     collection: contact-us
-  - title: Programme
-    collection: programme
