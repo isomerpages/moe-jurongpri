@@ -1,5 +1,5 @@
 collections:
-  programme01:
+  programme:
     output: true
     order:
       - Signature Programmes/.keep
