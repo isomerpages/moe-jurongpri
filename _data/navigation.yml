@@ -23,5 +23,7 @@ links:
     collection: people
   - title: Partners
     collection: partners
+  - title: General Information
+    collection: others
   - title: Contact Us
     collection: contact-us
