@@ -3,10 +3,6 @@ title: General Information
 permalink: /philosophy/GENERAL-INFORMATION/
 description: ""
 ---
-
-
-
-
 ![](/images/Banner.png)
 
 General Information
@@ -49,7 +45,9 @@ Tel: 6760 4835                    Fax: 6892 5776
 
   
 <b>5\. Student Care Centre</b> <br>
-Little Professors @ Jurong Primary School <br>Handphone: 9008 1311 <br>   Email: [jurong@littleprofessors.com.sg](mailto:jurong@littleprofessors.com.sg)
+Nascans @ Jurong Primary School
+<br> Tel: 8298 8486
+<br> Email: jrscc@nascans.com
 
 <b>6\. Student Learning Space (SLS)</b> <br>
 Webpage: https://vle.learning.moe.edu.sg/login <br>  Helpdesk: 9783 0818/ 6561 8837 (8.00am to 4.00pm)  
