@@ -3,10 +3,6 @@ title: SLS FAQs
 permalink: /philosophy/sls-faqs/
 description: ""
 ---
-
-
-
-
 ![](/images/Banner.png)
 
 SLS
@@ -23,7 +19,7 @@ During school operating hours, students should contact the <b>School-based Help
   
 
 <b>School-based Helpline: 65618837 (Mdm Ezzah / ICT Manager)   
-Mondays - Fridays: 8:00 am - 12:00 pm</b>  
+Mondays - Fridays: 8:00 am - 4:00 pm</b>  
   
 For other matters, students can email the SLS Helpdesk at [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com). When emailing the SLS Helpdesk, they should include their full name, name of school and form class.       
   
