@@ -9,7 +9,10 @@ School map and contact details
 ==============================
 
 ### Contact Us
-
+Address: 320, JURONG EAST Street 32 Singapore 609476  
+Email address: [jps@moe.edu.sg](mailto:jps@moe.edu.sg)  
+Tel number: 65618837  
+Fax number: 65641964
 
 
 
