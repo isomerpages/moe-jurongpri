@@ -4,19 +4,12 @@ permalink: /co-curricular-activity-cca/Sports-and-Games/Badminton/
 description: ""
 third_nav_title: Co Curricular Activity (CCA)
 ---
-
 ![](/images/Banner.png)
 
 Badminton
 =========
 
-<b>Information</b>
-
-
-<figure><img src="/images/Badminton.gif" style="width:85%"><figcaption> Badminton</figcaption></figure>
-
-
-
+![](/images/badminton01.jpg)
 
 ### Activities / Training Description
 ---------------------------------
@@ -27,5 +20,6 @@ They will provide guidance on the fundamentals such as footwork and basic stroke
   
  Come join us now for a fun-filled experience!
  
+ ![](/images/badminton02.jpg)
  
- <img src="/images/Badminton_CCA2020.jpg" style="width:95%">
+ ![](/images/badminton03.jpg)
