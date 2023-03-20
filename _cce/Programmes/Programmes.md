@@ -52,4 +52,3 @@ We love catching our students doing good. We celebrate our students who are exem
 ●        Term 3: Passion and Integrity
 
 Here are some of our Value Champions of JPS!
-  
