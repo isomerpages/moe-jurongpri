@@ -2,7 +2,6 @@ collections:
   cce:
     output: true
     order:
-      - Character and Citizenship.md
       - Programmes/Programmes.md
       - Programmes/Character Development.md
       - Programmes/.keep
