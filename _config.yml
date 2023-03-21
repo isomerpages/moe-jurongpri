@@ -2,19 +2,19 @@ title: Jurong Primary School
 url: https://www.jurongpri.moe.edu.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#5a55b1"
-  secondary-color: "#ee1e25"
+  primary-color: "#1e6d98"
+  secondary-color: "#e93326"
   media-colors:
     - title: media-color-one
-      color: "#f8a115"
+      color: "#feba27"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#e8e3cf"
     - title: media-color-three
-      color: "#00838f"
+      color: "#ffffff"
     - title: media-color-four
-      color: "#00838f"
+      color: "#ffffff"
     - title: media-color-five
-      color: "#00838f"
+      color: "#ffffff"
 description: An Isomer site of the Singapore Government
 permalink: none
 baseurl: ""
