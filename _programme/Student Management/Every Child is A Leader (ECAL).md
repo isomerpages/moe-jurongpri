@@ -14,16 +14,6 @@ We aim to develop our children into:
 * Future-ready leaders who serve the community
 
 
-**6 Traits of JPS Leaders**
-
-![](/images/JPSLeaders.jpg)
-
-Strong leadership skills are indispensable to our children as they progress in life. Our LLP also brings JPS students through a curriculum which revolves around them learning key leadership traits, both theoretically in the classroom and hands-on as they take on roles and responsibilities throughout their JPS years.
-
-Here, learning begins as early as in the Lower Primary years as students go through a 20-hour lesson series and subsequently work on their _Junior Leadership Challenge_.
-
-Students further internalize these traits they take on leadership roles within the class and the school, and when they lead their class and schoolmates in programmes such as _Make a Change @ JPS_ (see below).
-
 **JPS Prefects and Leaders**
 
 ![](/images/PrefectEXCO2023.jpg)
@@ -38,15 +28,7 @@ Putting their learning into practice, JPS prefects play active roles in the plan
 
 They also serve the school through roles such as assembly parade commander and recess I/Cs. These opportunities were invaluable in teaching them leadership skills such as responsibility, project management, problem solving and collaboration.
 
-**Make A Change**
 
-![](/images/MakeAChange01.png)
-
-_Make a Change @ JPS_ is a school-wide programme which inculcates in all students the will and know-how to make a difference to the world around them.
-
-Here, students work in groups to identify problems in their class, school or community, propose feasible solutions to these problems, and actually go ahead to implement the change they want to see.
-
-Done over a few cycles each year to scaffold students into a continual life practice, every JPS student who have, by the time of graduation more than a dozen improvement projects.
 
 ![](/images/MakeAChange02.jpg)
 
