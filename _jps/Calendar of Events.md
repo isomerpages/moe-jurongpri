@@ -15,5 +15,11 @@ Calendar of Events
 | 27 Mar - 28 Mar <br>30 Mar - 31 Mar   | P1 EL LJ (Theatre Show)<br><br> P2 EL LJ (Theatre Show)    | Curriculum Time   |
 |28 Apr, 5 May,<br>12 May, 19 May   | P3 Conversational CL & ML Programme    | Opt-in Students     |
 | 5 Apr   | P4 National Art Gallery Learning Journey    | Curriculum Time     |
-| 24 Mar, <br>31 Mar,<br>14 Apr, 28 Apr   | P4 & P5 Conversational CL & ML Programme    | Opt-in Students     |
-| 24 Mar, <br>31 Mar,<br>14 Apr, 28 Apr   | P4 & P5 Conversational CL & ML Programme    | Opt-in Students     || 24 Mar, <br>31 Mar,<br>14 Apr, 28 Apr   | P4 & P5 Conversational CL & ML Programme    | Opt-in Students     |
+| 6 Apr   | International Friendship Day    | Curriculum Time     |
+| <b>7 Apr</b>   |<b> Good Friday Public Holiday</b>   |     |
+| <b>22 Apr<br>24 Apr</b>  | <b>Hari Raya Puasa Holiday<br>Hari Raya Puasa (School Holiday)</b>    | <br> Note: Office / School will not be opened on 24 Apr|
+| 28 Apr   | P4 E-Parent Connection    | 3.30 pm - 5 pm <br> Zoom details to be given nearer to date.     |
+| 25 Apr, 28 Apr, 2 May, 5 May, 9 May, 12 May, 16 May, 19 May   | Swimsafe for P5 Passion, P5 Respect and P5 Responsibility     | Refer to Swimsafer information via PG    | 
+| <b> 1 May</b>   | <b>Labour Day Public Holiday    </b>|    |
+| 2 May - 5 May   | Celebrate English Language Week     |  Curriculum Time    |
+| 3 May - 5 May   | P6 Science LJ to Lee Kong Chain Museum   | Curriculum Time   |
