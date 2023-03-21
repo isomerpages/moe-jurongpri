@@ -15,4 +15,4 @@ Strong leadership skills are indispensable to our children as they progress in l
 
 Here, learning begins as early as in the Lower Primary years as students go through a 20-hour lesson series and subsequently work on their _Junior Leadership Challenge_.
 
-Students further internalize these traits they take on leadership roles within the class and the school, and when they lead their class and schoolmates in programmes such as _Make a Change @ JPS_ (see below).
+Students further internalize these traits they take on leadership roles within the class and the school, and when they lead their class and schoolmates in programmes such as _Make a Change @ JPS_ .
