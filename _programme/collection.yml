@@ -2,6 +2,7 @@ collections:
   programme:
     output: true
     order:
+      - Signature Programmes/Aesthetics.md
       - Signature Programmes/.keep
       - Signature Programmes/Mathematics.md
       - Signature Programmes/English Language.md
