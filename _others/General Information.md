@@ -33,9 +33,22 @@ During School Holidays : Monday to Friday
 * Parents who wish to pick their children after school should park their cars at the HDB carparks near the school and not obstruct traffic.
 * Parents are advised not to park/wait outside the school gates.
 
+**Dismissal**
+* Parents are to take note of the dismissal times and come punctually to take their children home.
+* Parents waiting to take their children home should wait at the Waiting Area.
 
+**Early Departure**
+* Students are not allowed to leave the school during school hours unless permission is given by the school. They must be accompanied by an adult.
+* Parents are to sign out at the General Office when taking their child home. Early departure of students is strongly discouraged.
 
-![](/images/General%20Information2.png)
+**Grooming**
+* Only plain white canvas school shoes and white socks are permitted. The socks must be above the ankle and not folded back. Coloured track shoes are only allowed for official sports activities and for students with medical reasons.
+* Only plain black or dark blue sweater is to be worn should there be a need to.
+* Jewellery, cosmetics or non-clear contact lenses must not be worn to school.
+* Perming, dyeing and highlighting of hair is not allowed. Outlandish hairstyle are strictly forbidden.
+* Nails should be kept short and clean. Nail varnish or henna is not allowed.
+* Girls who have their ears pierced should only use 1 simple stud for each ear.
+
 
 ### Official Contact details
 ------------------------
