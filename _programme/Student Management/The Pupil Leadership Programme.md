@@ -6,27 +6,16 @@ third_nav_title: Student Management
 ---
 ![](/images/Banner.png)
 
-The Pupil Leadership Programme
+6 Traits of JPS Leaders
 ==============================
- 
 
-### Prefect Rally 
+![](/images/JPSLeaders.jpg)
 
-As a pinnacle of our Leadership Development Programme, eight out of forty P6 prefects were selected based on their outstanding performance in the course of their leadership journey. They rallied for their schoolmates’ votes as they vied for the position of the Head Prefect. All students were empowered to vote for a suitable candidate that they felt would best represent them in school.
+Strong leadership skills are indispensable to our children as they progress in life. Our LLP also brings JPS students through a curriculum which revolves around them learning key leadership traits, both theoretically in the classroom and hands-on as they take on roles and responsibilities throughout their JPS years.
 
+Here, learning begins as early as in the Lower Primary years as students go through a 20-hour lesson series and subsequently work on their _Junior Leadership Challenge_.
 
-<img src="/images/Leadership_1.jpeg" style="width:70%">
-
-### Primary 3 and Primary 4 Leadership Development Programme 
-
-Through our primary 3 and primary 4 Leadership Development Programme, our student leaders and CCA leaders experienced greater self-discovery and were equipped with the skills to discharge their duties efficiently and effectively.
-
-![](/images/Leadership_2.png)
-
-
-### Primary 5 Leadership Camp 
-
-Eighty primary 5 Prefects and CCA leaders participated in the two days one night camp during the March holidays. The camp provided our students with an opportunity to overcome their own fears and collaborate with others for a common goal.
+Students further internalize these traits they take on leadership roles within the class and the school, and when they lead their class and schoolmates in programmes such as _Make a Change @ JPS_ (see below).
 
 
 <img src="/images/Leadership_4.jpeg" style="width:70%">
