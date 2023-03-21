@@ -6,8 +6,7 @@ third_nav_title: Student Management
 ---
 The Leader In Me
 ============================
-![](/images/TLIM01.jpg)
-
+![](/images/7_habits_tree.png)
 **The Leader In Me (TLIM)**
 
 Our LLP is anchored on _The Leader in Me_ (_TLIM_) – the children’s version of the more popularly-known [_7 Habits of Highly Effective People_](https://jurongpri.moe.edu.sg/qql/slot/u560/Programme/Every%20Child%20Is%20a%20Leader/7HabitsTree.pdf) by Stephen Covey.
@@ -22,4 +21,3 @@ All JPS students go through a thorough TLIM curriculum which teaches them simple
 * Establishing and maintaining positive relationships
 * Self-improvement and self-care
 * Self-reflection and positive routines
-
