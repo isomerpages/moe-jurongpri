@@ -9,7 +9,7 @@ Frequently Asked Questions
 
   
 
-1.  [What are the distinctive programmes in JPS?](/programme/Every-Child-Leads-in-an-Instrumental-Performance-ECLIP/)
+1.  [What are the distinctive programmes in JPS?](/programme/play-jps/)
     
 2.  [What are the CCAs offered?](/co-curricular-activity-cca/Co-Curricular-Activity-CCA/)
 3.  [What is the criteria to apply for FAS?](/philosophy/GENERAL-INFORMATION/)
