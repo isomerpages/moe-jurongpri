@@ -2,5 +2,5 @@ collections:
   jps:
     output: true
     order:
-      - Calendar of Events.md
       - Announcements.md
+      - Calendar of Events.md
