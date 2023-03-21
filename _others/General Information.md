@@ -7,6 +7,20 @@ description: ""
 
 General Information
 ===================
+**School Hours During School Terms (Monday to Friday)**
+1)	Operation Hours: 7.30 a.m. to 5.30 p.m.
+2)	Curriculum Hours: 7.30 a.m. to 1.30 p.m.
+
+During School Holidays : Monday to Friday 
+1) Operation Hours 8.00 a.m. to 5.00 p.m.
+
+**Attendance and Punctuality**
+* Primary School education is compulsory.
+* Students who arrive at school after 7.30 a.m. will be considered late for school and will face disciplinary consequences.
+* Students who are absent from school must be supported with either a medical certificate or a letter from the parent / guardian.
+* Students should not take leave of absence during term time to travel abroad without valid reasons. The school will have to be informed in writing and permission must be granted by the school.
+
+**Home Address & Contact Numbers**
 
 ![](/images/General%20Information1.png)
 
