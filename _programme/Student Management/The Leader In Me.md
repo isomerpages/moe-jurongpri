@@ -4,7 +4,6 @@ permalink: /programme/student-management/the-leader-in-me/
 description: ""
 third_nav_title: Student Management
 ---
-
 The Leader In Me
 ============================
 ![](/images/TLIM01.jpg)
@@ -24,4 +23,3 @@ All JPS students go through a thorough TLIM curriculum which teaches them simple
 * Self-improvement and self-care
 * Self-reflection and positive routines
 
-![](/images/New_student%20leadership%20framework_2015.jpg)
