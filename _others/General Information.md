@@ -21,8 +21,19 @@ During School Holidays : Monday to Friday
 * Students should not take leave of absence during term time to travel abroad without valid reasons. The school will have to be informed in writing and permission must be granted by the school.
 
 **Home Address & Contact Numbers**
+* Please notify the school at once of any change of home address or contact numbers. In the event of an emergency, the school should be able to contact a relative of each student. Please provide the school with these contact numbers. 
 
-![](/images/General%20Information1.png)
+**Security in the School**
+* For the safety of our students, we appeal to parents not to remain in the school while your children are having lessons. No parent/visitors should go to the classrooms directly. All visitors have to report at the Security Post/gates first.
+* The gates shall remain closed during school hours.
+**Road Safety**
+* Students and parents/guardians are to take note of the safety rules while crossing the roads or walking along on footpaths.	
+* Teachers are present to ensure that road safety rules are observed.	
+* Vehicles entering the school compound must adhere to traffic rules and follow the instructions of the wardens.
+* Parents who wish to pick their children after school should park their cars at the HDB carparks near the school and not obstruct traffic.
+* Parents are advised not to park/wait outside the school gates.
+
+
 
 ![](/images/General%20Information2.png)
 
