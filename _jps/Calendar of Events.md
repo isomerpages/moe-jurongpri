@@ -29,3 +29,6 @@ Calendar of Events
 | 24 May   | P6 Parent-(Subject)Teacher-Conference <br> P1 - P5 HBL   | Details at later date   |
 | 26 May    | Sports for All   | Curriculum Time: Details at later date   |
 | 26 May    | Eat with Family Day   | Office will be closed at 5pm   |
+| 21 June - 23 June    | P6 Targeted Remedial   | For selected students only. <br>Parents of selected students will receive acknowledgment information via PG nearer to date.   |
+| 27 May - 25 June   | School Holidays    |    |
+| 26 June    | Commencement of Term 3   |   |
