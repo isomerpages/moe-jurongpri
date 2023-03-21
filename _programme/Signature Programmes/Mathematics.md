@@ -26,6 +26,6 @@ Through our **YouM.A.T.H! @JPS** programme, we hope to enable our students to:
 
 (ii) Build confidence and foster interest in the subject
 
-(iii) Progress at their own pace and pursue their strengths. []()
+(iii) Progress at their own pace and pursue their strengths. 
 
 <img src="/images/Math.gif" style="width:80%">
