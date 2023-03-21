@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/school facade.jpg
+      background: /images/homepage_new.gif
       key_highlights:
         - title: Announcements
           description: ""
