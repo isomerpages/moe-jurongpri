@@ -3,11 +3,24 @@ title: PLAY@JPS
 permalink: /programme/play-jps/
 description: ""
 ---
-
 ![](/images/Banner.png)
 
-Every Child Leads in an Instrumental Performance (ECLIP)
+PLAY@JPS
 ========================================================
+**Overview**
 
-  
-The ECLIP programme is Jurong Primary School's unique music cum leadership programme that each child will go through. Within the programme, students are exposed to a variety of music instruments ranging from percussive ones like the boomwhackers right up to the keyboard. As individuals, students demonstrate leading self by mastery of the instruments. With their friends, students demonstrate leading peers by acclimatizing to group dynamics. In a group, students demonstrate leading team by heightening the collective strength and talents of the team in a performance. In different subject disciplines, we provide students various opportunities to showcase creativity, and the skills of effective communication and leadership.
+PLAY@JPS (**P**assion, **L**earning, **A**dapt & Apply, asking wh**Y**) is our Applied Learning Programme (ALP), where we seek to develop our students to become concerned citizens equipped with a critical and creative mind. In an ever-changing world with new challenges and opportunities, our hope is to help our students:
+
+·       find learning fun and enjoyable
+
+·       stay curious and explore alternatives
+
+·       innovate with purpose and care
+
+**USP-Experience**
+
+We adopt a Play-based Pedagogy and believe that play can be purposeful and generate wonder and delight. Through play, we help them develop teamwork and collaborate with others, an important 21st century competency. We also can hear our students’ individual voices and allow them to make choices as well as give them time to reflect on their learning.
+
+Across the six years, our students will experience different types of play that are age-appropriate:
+
+disciplines, we provide students various opportunities to showcase creativity, and the skills of effective communication and leadership.
