@@ -4,11 +4,11 @@ permalink: /co-curricular-activity-cca/Sports-and-Games/Track-and-Field/
 description: ""
 third_nav_title: Co Curricular Activity (CCA)
 ---
-
 ![](/images/Banner.png)
 
 Track and Field
 ===============
+![](/images/trackandfield01.jpeg)
 
 ### Activities / Training Description
 ---------------------------------
@@ -20,4 +20,4 @@ We help students to develop their talents and pursue excellence in the various 
 We believe that our progressive training programme, coupled with our emphasis on character building, will ensure that students take away valuable lessons that will stay with them in their journey towards and active and healthy lifestyle.
 
 
-<img src="/images/track_CCA2020.jpg" style="width:80%">
+![](/images/trackandfield02.jpeg)
