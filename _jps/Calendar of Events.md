@@ -26,3 +26,4 @@ Calendar of Events
 | 9May - 10 May<br> 11 May - 12 May   | P3 EL LJ (Theatre Show) <br> P4 EL LJ (Theatre Show)   | Curriculum Time   |
 | 19 May   | P4 MTL Fortnight   | After School Hours; Details at later date   |
 | 22 May - 25 May   | Play@JPS week (Applied Learning Programme)   | Curriculum Time   |
+| 24 May   | P6 Parent-(Subject)Teacher-Conference <br> P1 - P5 HBL   | Details at later date   |
