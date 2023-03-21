@@ -12,7 +12,7 @@ sections:
         - title: Announcements
           description: ""
           url: /jps/announcements/
-        - title: Parents
+        - title: Parents/ Students
           description: ""
           url: /parents/
         - title: Teachers
