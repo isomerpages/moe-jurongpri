@@ -14,7 +14,7 @@ sections:
           url: /jps/announcements/
         - title: Parents/ Students
           description: ""
-          url: /parents/
+          url: /parents-and-students/
         - title: Teachers
           description: ""
           url: /teachers/
