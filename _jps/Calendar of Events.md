@@ -23,3 +23,6 @@ Calendar of Events
 | <b> 1 May</b>   | <b>Labour Day Public Holiday    </b>|    |
 | 2 May - 5 May   | Celebrate English Language Week     |  Curriculum Time    |
 | 3 May - 5 May   | P6 Science LJ to Lee Kong Chain Museum   | Curriculum Time   |
+| 9May - 10 May<br> 11 May - 12 May   | P3 EL LJ (Theatre Show) <br> P4 EL LJ (Theatre Show)   | Curriculum Time   |
+| 19 May   | P4 MTL Fortnight   | After School Hours; Details at later date   |
+| 22 May - 25 May   | Play@JPS week (Applied Learning Programme)   | Curriculum Time   |
