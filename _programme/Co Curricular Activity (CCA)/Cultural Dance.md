@@ -4,11 +4,11 @@ permalink: /co-curricular-activity-cca/Performing-Arts/Cultural-Dance/
 description: ""
 third_nav_title: Co Curricular Activity (CCA)
 ---
-
 ![](/images/Banner.png)
 
 Cultural Dance
 ==============
+![](/images/culturaldance01.jpg)
 
 ### Activities / Training Description
 ---------------------------------
@@ -20,4 +20,4 @@ What’s more? You will have the opportunity to perform in some of our school ev
  So, do come and join us!
  
  
- <img src="/images/CultDance_CCA2020.jpg" style="width:80%">
+![](/images/culturaldance02.jpg)
