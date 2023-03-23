@@ -12,8 +12,6 @@ English Language
 ### ORACY@JPS
 ---------
 
- 
-
 Speaking well is a powerful tool one can use for learning. Effective speakers are empowered to better express themselves and also to be understood better.  They gain the ability understand those around them and gain social mobility. Speaking well will give our students a voice and will help them carve for themselves a place in society.
 
 At JPS, we have a robust oracy programme put in place to help students learn through talk and to talk. Our 6-year program is planned, designed, modelled and scaffolded to enable our students to master the skills required of them to talk effectively. The explicit and systematic teaching of oracy across the levels follows closely to the skills outlined in our EL syllabus 2020.
