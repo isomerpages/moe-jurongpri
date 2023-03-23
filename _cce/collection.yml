@@ -1,8 +1,0 @@
-collections:
-  cce:
-    output: true
-    order:
-      - Programmes/Programmes.md
-      - Programmes/.keep
-      - CE and SS/Activities.md
-      - CE and SS/.keep
