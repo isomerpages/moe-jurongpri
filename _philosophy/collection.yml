@@ -2,6 +2,7 @@ collections:
   philosophy:
     output: true
     order:
+      - Accomplishments/.keep
       - Principal's Message.md
       - Vision, Mission and Motto.md
       - Core Values.md
