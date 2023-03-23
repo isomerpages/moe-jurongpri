@@ -6,10 +6,10 @@ third_nav_title: CCE
 ---
 ![](/images/Banner.png)
 
-Citizenship Education and Social Studies
+Guidance Modules
 ==========
 
-**Guidance Modules (Education and Career Guidance / Cyber Wellness / Sexuality Education)**
+**Education and Career Guidance / Cyber Wellness / Sexuality Education**
 
 *Education and Career Guidance (ECG)*
 
