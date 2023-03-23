@@ -4,6 +4,8 @@ permalink: /programme/student-management/the-leader-in-me/
 description: ""
 third_nav_title: Student Management
 ---
+![](/images/Banner.png)
+
 The Leader In Me
 ============================
 ![](/images/7_habits_tree.png)
