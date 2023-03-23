@@ -5,8 +5,8 @@ description: ""
 third_nav_title: CCE
 ---
 ![](/images/Banner.png)
+# Character Development
 
-**Character Development**
 
 _Form Teacher Guidance Period (FTGP)_
 
