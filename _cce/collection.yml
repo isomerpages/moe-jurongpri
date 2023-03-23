@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Programmes/Programmes.md
-      - Programmes/Character Development.md
       - Programmes/.keep
       - CE and SS/Programmes.md
       - CE and SS/Activities.md
