@@ -17,6 +17,8 @@ PLAY@JPS (**P**assion, **L**earning, **A**dapt &amp; Apply, asking wh**Y**) is o
 
 ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; innovate with purpose and care
 
+![](/images/PLAY.gif)
+
 **USP-Experience**
 
 We adopt a Play-based Pedagogy and believe that play can be purposeful and generate wonder and delight. Through play, we help them develop teamwork and collaborate with others, an important 21st century competency. We also can hear our students’ individual voices and allow them to make choices as well as give them time to reflect on their learning.
