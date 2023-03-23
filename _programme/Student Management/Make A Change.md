@@ -4,7 +4,8 @@ permalink: /programme/student-management/permalink/
 description: ""
 third_nav_title: Student Management
 ---
-**Make A Change**
+![](/images/Banner.png)
+# Make A Change
 
 ![](/images/MakeAChange01.png)
 **Lower Pri students who planned and followed through with a class cleaning roster**
