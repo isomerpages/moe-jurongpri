@@ -12,7 +12,7 @@ Character and Citizenship Education (CCE)
 
 At Jurong Primary School, Character and Citizenship Education (CCE) plays an important role in helping us to achieve our school mission to nurture all-rounded pupils of grace, distinction and sound moral values. In light of an ever-changing world, we hope that our students will be anchored in values and develop strong social-emotional competencies, ready to face whatever comes their way.
 
-**Overview:**
+**Overview**
 
 The Character and Citizenship Education (CCE) Department oversees programmes and activities that provide opportunities for our students to develop their social-emotional competencies and be rooted in our school core values of **Passion**, **Care**, **Responsibility, Integrity** and **Respect**.
 
