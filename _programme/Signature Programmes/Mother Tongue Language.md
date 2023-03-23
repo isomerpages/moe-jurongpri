@@ -45,7 +45,6 @@ The MTL Month has given our students an excellent opportunity to display their c
 
 ### The P3 MTL Camp
 ---------------
-
-The P3 Mother Tongue Language Camp is the signature programme of the Mother Tongue Language Department. Through the varied traditional games and cultural activities, the day camp aims to arouse the students' interest in the learning of their mother tongue language, deepen their understanding of these cultures and bring across the message that language learning is fun and interesting.
-
+The P3 Mother Tongue Language Camp is the signature programme of the Mother Tongue Language Department. Through the varied traditional games and cultural activities, the day camp aims to arouse the students' interest in the learning of their mother tongue language, deepen their understanding of these cultures and bring across the message that language learning is fun and interesting.
+  
 ![](/images/P3%20Camp.gif)
