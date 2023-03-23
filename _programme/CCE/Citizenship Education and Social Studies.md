@@ -81,4 +81,12 @@ The National Heritage Trails aim to provide a rich outdoor learning experience f
 
 ![](/images/P6%20Heritage%20gif.gif)
 
-![](/images/NEe.png)
+# Social Studies
+**P3 Learning Journey to Singapore Discovery Centre**
+
+As part of their Social Studies curriculum, the Primary 3 students attended a workshop titled ‘I am a Town Planner’ in Singapore Discover Centre. 
+
+During the workshop, the students learnt about the importance of how town planning helped solve Singapore’s land scarcity challenges and use of alternative energy sources for a more cleaner and greener Singapore. 
+
+![](/images/P3%20SS%20LJ%20%20gif.gif)
+
