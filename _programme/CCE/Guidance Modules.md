@@ -23,4 +23,4 @@ With the Internet and social media at our fingertips, it is important to equip o
 
 _Sexuality Education_
 
-For more information of sexuality education at JPS, please click [here](/cce/programmes/moe-sexuality-education-in-schools/) 
+For more information of sexuality education at JPS, please click [here](/cce/programmes/moe-sexuality-education-in-schools/)
