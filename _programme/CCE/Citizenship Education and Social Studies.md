@@ -12,7 +12,6 @@ third_nav_title: CCE
 ### Total Defence Day
 ------
 
-![](/images/TTD01.jpg)
 
 15 February marks the day that Singapore fell to the Japanese in 1942 during World War II. The commemoration of this day serves as a reminder to Singaporeans of our collective responsibility to defend our nation, and that Singapore is defensible and is worth defending.
 
@@ -24,9 +23,7 @@ Students were also tasked to demonstrate Social Defence in practice and “Care 
 
 Through this event, students acquired greater sensitivity to those around them and were more conscious of their actions and their respective impact on others. They were empowered to step forward and contribute, because they now know they can.
 
-![](/images/TTD02.jpg)
-
-
+![](/images/TDD%20gif.gif)
 
 ### International Friendship Day
 ------
@@ -42,7 +39,7 @@ Besides the assembly programme with interactive elements, students also had clas
 ### Racial Harmony Day
 -----
 
-![](/images/RHD01.jpg)
+![](/images/RHD%20gif.gif)
 
 JPS commemorated Racial Harmony Day on 21 July 2022 and this event was even more memorable as it was the first event to be held after the easing of SMM. It was heartening to see everyone gather in the school hall as one community to commemorate RHD. 
 
@@ -52,12 +49,11 @@ Our staff and students greatly appreciated the opportunity to dress up in their 
 
 We firmly believe that through such activities, our students are able to get a greater sensing of the importance of racial harmony in Singapore and will their utmost to upkeep the cohesion and harmony of our nation.  
 
-![](/images/RHD02.jpg)
 
 ### National Day
 -------
 
-![](/images/NDP01.jpg)
+![](/images/ND%20%20gif.gif)
 
 Jurong Primary School commemorated National Day on 8 August 2022. After a lengthy hiatus, the school finally returned to the parade square to hold the Observance Ceremony with uniformed groups in full regalia and prefects leading the Recollections; their voices reverberating in the open space. 
 
@@ -65,38 +61,24 @@ The school then moved to the hall where they experienced a multimedia journey th
 
 The National Day souvenir this year is a special JPS-designed gold medallion with our (soon-to-be-different) school building embossed on one side and the 2022 theme ‘Stronger Together, Majulah!’ on the other. The medallion will serve to remind us of our 73 good years of grooming gracious citizens in JPS; how far we've come and how far we can continue to go, together.
 
-![](/images/NDP03.jpg)
 
-### National Education Show 
+### Primary 5 National Education Show 
 -------
-
-![](/images/NEshow03.jpg)
+![](/images/NE%20Show%20gif.gif)
 
 The National Education (NE) Show has been co-organized by MINDEF and MOE to instill a sense of pride and belonging in students and to bring across the significance of our National Day. Our P5 pupils attended the NE Show on Saturday, 9 July 2022. The NE show was part of our commemoration of Singapore’s 57th National Day. 
 
 Through the NE Show, the pupils learnt to be a respectful supporter, a caring motivator and a responsible spectator. They also reflected and shared what they enjoyed and learned during the show. Many shared about the different segments of the show and were thankful to all that came together to make the show possible. Students also had the opportunity to further develop a sense of national identity as a citizen of the nation.
 
-![](/images/NEshow04.jpg)
 
 ### National Heritage Trails
 -------
 
 The National Heritage Trails aim to provide a rich outdoor learning experience for the Primary 4 and 6 students by infusing selected learning outcomes from the Social Studies, English Language, the Arts as well as National Education syllabus. The trails provide an opportunity for students to explore and learn how life used to be like in the past.
 
-**Primary 4 National Heritage Trails to Kg Glam**
+![](/images/P4%20Heritage%20%20gif.gif)
 
-![](/images/KgGlam01.jpg)
 
-![](/images/KgGlam09.jpg)
-
-![](/images/KgGlam02.jpg)
-
-**Primary 6 National Heritage Trail to Chinatown**
-
-![](/images/Chinatown01.jpg)
-
-![](/images/Chinatown03.jpg)
-
-![](/images/Chinatown04.jpg)
+![](/images/P6%20Heritage%20gif.gif)
 
 ![](/images/NEe.png)
