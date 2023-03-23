@@ -4,7 +4,8 @@ permalink: /programme/signature-programmes/aesthetics/
 description: ""
 third_nav_title: Signature Programmes
 ---
-# Arts Week 2022
+![](/images/Banner.png)
+# Arts Week 
           
 Arts Week 2022 was held from 19 – 26 September.  Through the theme ArtScape, the team aims to allow students time and space to explore their passions and interests in the arts, and to demonstrate the understanding of the relationship between visual arts and music.
 
