@@ -4,12 +4,11 @@ permalink: /co-curricular-activity-cca/clubs/digital-media-club/
 description: ""
 third_nav_title: Co Curricular Activity (CCA)
 ---
-
 ![](/images/Banner.png)
 
 Digital Media Club
 ==========
-
+![](/images/digitalmedia01.jpg)
 
 ### Activities / Training Description 
 ----------------------------------
@@ -20,4 +19,6 @@ Students will be given opportunities to develop their skills through hands-on se
 
 The Digital Media Club has participated in competitions such as Our Schools, Our Stories Photo Contest, National Primary School Photography Competition and N.E Mation Animation Competition.
 
-![](/images/MediaClub_CCA2020.jpg)
+![](/images/digitalmedia03.jpg)
+
+![](/images/digitalmedia02.jpg)
