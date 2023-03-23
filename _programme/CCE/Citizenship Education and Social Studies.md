@@ -4,10 +4,9 @@ permalink: /cce/cess/
 description: ""
 third_nav_title: CCE
 ---
-
 ![](/images/Banner.png)
 
-CCE - Citizenship Education
+ Citizenship Education
 =========================================
 
 ### Total Defence Day
