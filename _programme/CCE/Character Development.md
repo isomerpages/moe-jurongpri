@@ -8,15 +8,15 @@ third_nav_title: CCE
 # Character Development
 
 
-_Form Teacher Guidance Period (FTGP)_
+**Form Teacher Guidance Period (FTGP)**
 
 CCE (FTGP) lessons are taught by all form teachers, with emphasis on explicit teaching of social-emotional competencies. Form teachers connect with students through stories, scenarios and games to reinforce teaching and learning of values, developing social-emotional competencies and nurturing citizenship dispositions.
 
-_Assembly Sessions and Talks_
+**Assembly Sessions and Talks**
 
 Assembly sessions are arranged to share pertinent issues with our students for further discussion in the classroom. An example is our Inclusive Assembly, reminding the community at JPS that we all have a part to play in contributing to a caring and enabling environment.
 
-_Value Champion_
+**Value Champion**
 
 We love catching our students doing good. We celebrate our students who are exemplary in displaying our school core values through this platform, recognising different values in each term:
 
