@@ -8,6 +8,9 @@ description: ""
 Calendar of Events
 ==================
 
+<iframe src="https://calendar.google.com/calendar/embed?src=c_a2cec3204ff7a5c2270d844fd7d4bd2de53998e2607c46abbc82ffb5f1bee309%40group.calendar.google.com&ctz=Asia%2FSingapore" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<br>
+
 | DATE        | EVENT/ ACTIVITY | REMARKS |
 | ------------ | -------- | -------- |
 | 21 March onwards    | P3 Modular CCA    | Opt-in Students on scheduled CCA days     |
