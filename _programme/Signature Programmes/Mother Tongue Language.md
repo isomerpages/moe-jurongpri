@@ -19,29 +19,8 @@ The MTL Month has given our students an excellent opportunity to display their c
 
 <i>With continued hard work, we are confident that our students can shine brighter in their use of their MTL and find JOY in learning!</i>
 
+![](/images/MTL%20Month%20gif.gif)
 
-<figure><img src="/images/MT1.jpg" style="width:100%"><figcaption> Students engaged the audiences with lively poem recitation.</figcaption></figure>
-
-
-<figure><img src="/images/MT2.jpg" style="width:100%"><figcaption> Students engaged the audiences with lively poem recitation.</figcaption></figure>
-
-
-<figure><img src="/images/MTL3.jpg" style="width:100%"><figcaption> Students collaboratively performed an interesting story!</figcaption></figure>
-
-
-<figure><img src="/images/MT4.jpg" style="width:100%"><figcaption> Students were engaged in playing traditional game.</figcaption></figure>
-
-
-<figure><img src="/images/MT5.jpg" style="width:100%"><figcaption> Students were playing and learning the language together.</figcaption></figure>
-
-
-<figure><img src="/images/MT6.jpg" style="width:100%"><figcaption> Students were playing traditional musical instrument joyfully.</figcaption></figure>
-
-
-<figure><img src="/images/MT7.jpg" style="width:100%"><figcaption> Students were appreciating traditional culture enthusiastically.</figcaption></figure>
-
-
-<figure><img src="/images/P1-P6.jpg" style="width:100%"><figcaption> Prize winners of the TL Department inter-class competitions.</figcaption></figure>
 
 
 ### The P3 MTL Camp
