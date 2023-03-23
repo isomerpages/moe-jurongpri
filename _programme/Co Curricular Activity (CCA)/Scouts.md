@@ -4,12 +4,11 @@ permalink: /co-curricular-activity-cca/Uniformed-Groups/Scouts/
 description: ""
 third_nav_title: Co Curricular Activity (CCA)
 ---
-
 ![](/images/Banner.png)
 
 Scouts
 ======
-
+![](/images/scouts01.jpg)
   
 
 ### Activities / Training Description 
@@ -19,5 +18,6 @@ Scouting is a global movement of self-education for young people. Scouting offer
 
  If you have a zest for learning, adventure and life, come join us! Wear an attractive uniform, work towards progress awards and proficiency badges. Join an extended family of close to 30 million boys and girls around the world!
  
- 
- ![](/images/Scouts_CCA2020.jpg)
+![](/images/scouts02.jpg)
+
+![](/images/scouts03.jpg)
