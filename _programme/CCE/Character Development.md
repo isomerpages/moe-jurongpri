@@ -4,7 +4,9 @@ permalink: /programme/cce/cd/
 description: ""
 third_nav_title: CCE
 ---
-   **Character Development**
+![](/images/Banner.png)
+
+**Character Development**
 
 _Form Teacher Guidance Period (FTGP)_
 
