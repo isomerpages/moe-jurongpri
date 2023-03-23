@@ -8,7 +8,7 @@ description: ""
 Calendar of Events
 ==================
 
-<iframe src="https://calendar.google.com/calendar/embed?src=c_a2cec3204ff7a5c2270d844fd7d4bd2de53998e2607c46abbc82ffb5f1bee309%40group.calendar.google.com&ctz=Asia%2FSingapore" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=c_486e33bcb9bdfc452608178fc20d78a7d31a474de5d41cc4262283ab3a1335c8%40group.calendar.google.com&ctz=Asia%2FSingapore" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 <br>
 
 | DATE        | EVENT/ ACTIVITY | REMARKS |
