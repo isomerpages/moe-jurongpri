@@ -21,6 +21,8 @@ _Cyber Wellness_
 
 With the Internet and social media at our fingertips, it is important to equip our students with the skills to be safe and responsible users. Aside FTGP lessons on Cyber Wellness, we appoint class ICT (Information and Communication Technology) Leaders who are trained with cyber wellness knowledge, values and the latest Internet risks and threats from the ever-changing Internet landscape, to serve as advocate for Cyber Wellness issues for their peers. A Cyber Wellness Assembly is also organised to inform our students about these issues and help them maintain a positive presence in cyberspace.
 
+![](/images/CW.gif)
+
 _Sexuality Education_
 
 For more information of sexuality education at JPS, please click [here](/cce/programmes/moe-sexuality-education-in-schools/)
