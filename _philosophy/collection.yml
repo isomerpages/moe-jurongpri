@@ -2,6 +2,7 @@ collections:
   philosophy:
     output: true
     order:
+      - Accomplishments/2022.md
       - Accomplishments/2020.md
       - Accomplishments/2019.md
       - Accomplishments/2017.md
