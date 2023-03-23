@@ -2,16 +2,16 @@ collections:
   philosophy:
     output: true
     order:
-      - Accomplishments/2022.md
-      - Accomplishments/2020.md
-      - Accomplishments/2019.md
-      - Accomplishments/2017.md
-      - Accomplishments/2015.md
-      - Accomplishments/Accomplishments.md
-      - Accomplishments/.keep
       - Principal's Message.md
       - Vision, Mission and Motto.md
       - Core Values.md
       - History/.keep
       - History/History.md
       - History/Gallery.md
+      - Accomplishments/.keep
+      - Accomplishments/2022.md
+      - Accomplishments/2020.md
+      - Accomplishments/2019.md
+      - Accomplishments/2017.md
+      - Accomplishments/2015.md
+      - Accomplishments/Accomplishments.md
