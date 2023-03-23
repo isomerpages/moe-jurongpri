@@ -4,14 +4,9 @@ permalink: /cce/via/
 description: ""
 third_nav_title: CCE
 ---
-
-
-
-
-
 ![](/images/Banner.png)
 
-CCE - National Education / Social Studies
+CCE - Citizenship Education
 =========================================
 
 ### Total Defence Day
