@@ -4,6 +4,10 @@ permalink: /programme/Every-Child-is-A-Leader-ECAL/
 description: ""
 third_nav_title: Student Management
 ---
+![](/images/Banner.png)
+
+# ECAL
+
 As the school’s Learning for Life Programme, Every Child A Leader (ECAL) nurtures in students strong life habits and leadership skills.
 
 We believe that every child can become an influential leader and make a difference to their community, Singapore and the world.
