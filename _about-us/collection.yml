@@ -1,5 +1,5 @@
 collections:
-  philosophy:
+  about-us:
     output: true
     order:
       - Principal's Message.md
