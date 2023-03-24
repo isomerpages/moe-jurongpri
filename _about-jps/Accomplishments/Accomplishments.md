@@ -58,11 +58,11 @@ Updated on 2023
     <td rowspan="2" class="tg-0pky">Basketball</td>
     <td rowspan="2" class="tg-0pky">National School Games</td>
     <td rowspan="2" class="tg-0pky">Participation</td>
-    <td class="tg-0pky">ANEEQ QAIM BIN UMMAL (P4-R)LAU YU ZHI (P4-R)CLARENCE TAN YE XUN (P5-C)TAN JIA DE JEREL (P5-C)TAN XIN SINCERE (P5-C)DEEN HABEEL BIN RIZAL (P5-I)ETHAN CHONG YI JUN (P5-I)XANTHUS LAU YEE SHIN (P5-I)ZHANG DAOMIAN (P5-R)YANG JUNMING (P5-RY)YE WEI LUN (P4-R) - Sportsmanship AwardTAN YU HENG DARIUS (P5-G) - Sportsmanship AwardKWA JIA HAO (P5-I) - Sportsmanship AwardTAN YI TENG (P5-I)&nbsp;&nbsp;- Sportsmanship AwardCHUA XUANJIE (P5-P)&nbsp;&nbsp;- Sportsmanship Award</td>
+    <td class="tg-0pky">ANEEQ QAIM BIN UMMAL (P4-R)<br>LAU YU ZHI (P4-R)CLARENCE TAN YE XUN (P5-C)<br>TAN JIA DE JEREL (P5-C)<br>TAN XIN SINCERE (P5-C)<br>DEEN HABEEL BIN RIZAL (P5-I)<br>ETHAN CHONG YI JUN (P5-I)<br>XANTHUS LAU YEE SHIN (P5-I)<br>ZHANG DAOMIAN (P5-R)<br>YANG JUNMING (P5-RY)<br>YE WEI LUN (P4-R) - Sportsmanship Award<br>TAN YU HENG DARIUS (P5-G) - Sportsmanship Award<br>KWA JIA HAO (P5-I) - Sportsmanship Award<br>TAN YI TENG (P5-I)- Sportsmanship Award<br>CHUA XUANJIE (P5-P)- Sportsmanship Award</td>
     <td class="tg-0pky">Junior Boys</td>
   </tr>
   <tr>
-    <td class="tg-0pky">YIP YING XUAN (P4-C)NURYN FALISHA BINTE MUHAMMAD FAIZAL (P4-G)HASYA DYANN BINTE DEDY JOHAN (P4-P)PEH ADALINA (P4-R)QASRINA TAN XIANG TING BINTE RAYMI (P4-R)FAN RUI XUAN, BELINDA (P5-G)DESIREE LIM YU HUI (P5-RY)SAHANNA D/O RAMASH (P5-RY)NURYN EDRINA BINTE ZULKARNAIN (P4-G)&nbsp;&nbsp;- Sportsmanship AwardANG CHEN EN, ASHLYN (P4-R)&nbsp;&nbsp;- Sportsmanship AwardGOH ZI TING (P4-R)&nbsp;&nbsp;- Sportsmanship AwardCHUA EN (P5-I)&nbsp;&nbsp;- Sportsmanship AwardMYUCCIA QUINN TAN YAN TANG (P5-I)&nbsp;&nbsp;- Sportsmanship AwardADELE TANG EN XI (P5-P)&nbsp;&nbsp;- Sportsmanship AwardJAMIE GWEE SHU XIN (P5-P)&nbsp;&nbsp;- Sportsmanship Award</td>
+    <td class="tg-0pky">YIP YING XUAN (P4-C)<br>NURYN FALISHA BINTE MUHAMMAD FAIZAL (P4-G)<br>HASYA DYANN BINTE DEDY JOHAN (P4-P)<br>PEH ADALINA (P4-R)<br>QASRINA TAN XIANG TING BINTE RAYMI (P4-R)<br>FAN RUI XUAN, BELINDA (P5-G)<br>DESIREE LIM YU HUI (P5-RY)<br>SAHANNA D/O RAMASH (P5-RY)<br>NURYN EDRINA BINTE ZULKARNAIN (P4-G)- Sportsmanship Award<br>ANG CHEN EN, ASHLYN (P4-R) Sportsmanship Award<br>GOH ZI TING (P4-R)- Sportsmanship Award<br>CHUA EN (P5-I)- Sportsmanship Award<br>MYUCCIA QUINN TAN YAN TANG (P5-I) - Sportsmanship Award<br>ADELE TANG EN XI (P5-P)- Sportsmanship Award<br>JAMIE GWEE SHU XIN (P5-P)- Sportsmanship Award</td>
     <td class="tg-0pky">Junior Girls</td>
   </tr>
   <tr>
