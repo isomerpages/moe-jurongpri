@@ -82,7 +82,7 @@ Updated on 2022
   </tr>
   <tr>
     <td class="tg-0pky">Junior Floorball Competition (Girls) (2nd Tier)2nd Place</td>
-    <td class="tg-0pky">WEE TZE EN NIKKI/ 4GANVAR BADHUSHA RAHMATH NISHA / 4PCLARA CHAN YU YAN / 4RJEANNE ONG JIN YING / 4RYNUR INSYIRAH BINTE FIRZAN / 4RYTONG YINGQI, PHOEBE / 4RYCHERYL FAUSTINA MORIER / 5INUR ADRIANA BINTE FIRZAN / 5R</td>
+    <td class="tg-0pky">WEE TZE EN NIKKI (4G)<br>ANVAR BADHUSHA RAHMATH NISHA (4P)<br>CLARA CHAN YU YAN (4R)<br>JEANNE ONG JIN YING (4RY)<br>NUR INSYIRAH BINTE FIRZAN (4RY)<br>TONG YINGQI, PHOEBE (4RY)<br>CHERYL FAUSTINA MORIER (5I)<br>NUR ADRIANA BINTE FIRZAN (5R)</td>
     <td class="tg-0pky">Junior Girls</td>
   </tr>
   <tr>
@@ -106,30 +106,30 @@ Updated on 2022
     <td class="tg-0pky" rowspan="7">Track &amp; Field</td>
     <td class="tg-0pky" rowspan="7">NSG TRACK &amp; FIELD COMPETITION 2022</td>
     <td class="tg-0pky" rowspan="3">PARTICIPATION</td>
-    <td class="tg-0pky">MERSON TOH YICONG / 4ISEKAR VISHAL / 4P</td>
+    <td class="tg-0pky">MERSON TOH YICONG (4I)<br>SEKAR VISHAL (4P)</td>
     <td class="tg-0pky">JUNIOR 1 BOYS</td>
   </tr>
   <tr>
-    <td class="tg-0pky">CYRUS ATHAN BESTERWITCH / 5PJ'VON CHIA WEI QUAN / 5RYGOH GIA HENG, ALISTAIR / 5I - Sportsmanship Award</td>
+    <td class="tg-0pky">CYRUS ATHAN BESTERWITCH (5P)<br>J'VON CHIA WEI QUAN (5RY)<br>GOH GIA HENG, ALISTAIR (5I) - Sportsmanship Award</td>
     <td class="tg-0pky">JUNIOR 2 BOYS</td>
   </tr>
   <tr>
-    <td class="tg-0pky">LICIA LUM / 5CPUTERI NUR ULFAH BINTE MUHAMMAD FAIZAL / 5P</td>
+    <td class="tg-0pky">LICIA LUM (5C)<br>PUTERI NUR ULFAH BINTE MUHAMMAD FAIZAL (5P)</td>
     <td class="tg-0pky">JUNIOR 2 GIRLS</td>
   </tr>
   <tr>
     <td class="tg-0pky">BRONZE PIN, MULTI-SKILLS EVENT</td>
-    <td class="tg-0pky">LEE HONG XUN / 4C</td>
+    <td class="tg-0pky">LEE HONG XUN (4C)</td>
     <td class="tg-0pky">JUNIOR 1 BOYS</td>
   </tr>
   <tr>
     <td class="tg-0pky">7TH PLACE, 60M EVENT</td>
-    <td class="tg-0pky">KREBESH NAIR PRASAND / 5RY</td>
+    <td class="tg-0pky">KREBESH NAIR PRASAND (5RY)</td>
     <td class="tg-0pky">JUNIOR 2 BOYS</td>
   </tr>
   <tr>
     <td class="tg-0pky">4TH PLACE, 60M EVENT &amp;BRONZE PIN, MULTI-SKILLS EVENT</td>
-    <td class="tg-0pky">NUFAH ASYURA BINTE MOHAMAD HISHAM / 4C</td>
+    <td class="tg-0pky">NUFAH ASYURA BINTE MOHAMAD HISHAM (4C)</td>
     <td class="tg-0pky">JUNIOR 1 GIRLS</td>
   </tr>
   <tr>
@@ -139,71 +139,76 @@ Updated on 2022
   </tr>
   <tr>
     <td class="tg-0pky" rowspan="3">7</td>
-    <td class="tg-0pky" rowspan="3">Girl Guides (Brownies)</td>
-    <td class="tg-0pky">GGS West Division Day 2022 (Brownies)Eye for Life</td>
-    <td class="tg-0pky">Participation</td>
-    <td class="tg-0pky">(Gnome)Nur Faizah Binte Ahmad / 6IPhang Wen Li / 6IRajanya Ganguly / 6IYeoh Yu En / 4G</td>
-    <td class="tg-0pky">West Division</td>
+    <td class="tg-0pky" rowspan="3">GIRL GUIDES (BROWNIES)</td>
+    <td class="tg-0pky">GGS WEST DIVISION DAY 2022 (BROWNIES) EYE FOR LIFE</td>
+    <td class="tg-0pky">PARTICIPATION</td>
+    <td class="tg-0pky">(GNOME) NUR FAIZAH BINTE AHMAD (6I) <br>
+			PHANG WEN LI (6I) <br> RAJANYA GANGULY (6I)<br> 
+			YEOH YU EN (4G)</td>
+    <td class="tg-0pky">WEST DIVISION</td>
   </tr>
   <tr>
-    <td class="tg-0pky">GGS West Division Day 2022 (Brownies)Let's Scrap Gender Inequality!</td>
-    <td class="tg-0pky">Award - 3rd Place</td>
-    <td class="tg-0pky">(Fairy)Saw Chi Xuan / 6RPhoebe Tania / 6IKristen Yeo / 4GTeng Yu Tong / 4PMegan Lew Yue Xi / 5R</td>
-    <td class="tg-0pky">West Division</td>
+    <td class="tg-0pky">GGS WEST DIVISION DAY 2022 (BROWNIES) LET'S SCRAP GENDER INEQUALITY!</td>
+    <td class="tg-0pky">AWARD - 3RD PLACE</td>
+    <td class="tg-0pky">(FAIRY) SAW CHI XUAN (6R) <br> 
+			PHOEBE TANIA (6I)<br> KRISTEN YEO (4G)<br> TENG YU TONG (4P) <br>
+			MEGAN LEW YUE XI (5R)</td>
+    <td class="tg-0pky">WEST DIVISION</td>
   </tr>
   <tr>
-    <td class="tg-0pky">National Brownie Revel 2022Bulletin Board Competition on Recycling</td>
-    <td class="tg-0pky">Award - 1st Place</td>
-    <td class="tg-0pky">Megan Lew Yue Xi / 5RLiu Xinyang / 5GTiffany Teo Pei Fen / 5RYRajanya Ganguly / 5C</td>
+    <td class="tg-0pky">NATIONAL BROWNIE REVEL 2022 BULLETIN BOARD COMPETITION ON RECYCLING</td>
+    <td class="tg-0pky">AWARD - 1ST PLACE</td>
+    <td class="tg-0pky"> MEGAN LEW YUE XI (5R)<br> LIU XINYANG (5G)<br>
+			TIFFANY TEO PEI FEN (5RY)<br> RAJANYA GANGULY (5C)</td>
     <td class="tg-0pky">National</td>
   </tr>
   <tr>
     <td class="tg-0pky">8</td>
-    <td class="tg-0pky">Scouts</td>
-    <td class="tg-0pky">West Area Cub Scout Leadership Camp</td>
-    <td class="tg-0pky">Best Camper</td>
-    <td class="tg-0pky">Lee Sheng Rui (4Ry)</td>
-    <td class="tg-0pky">West Division</td>
+    <td class="tg-0pky">SCOUTS</td>
+    <td class="tg-0pky">WEST AREA CUB SCOUT LEADERSHIP CAMP</td>
+    <td class="tg-0pky">BEST CAMPER</td>
+    <td class="tg-0pky">LEE SHENG RUI (4RY)</td>
+    <td class="tg-0pky">WEST DIVISION</td>
   </tr>
   <tr>
     <td class="tg-0pky">9</td>
-    <td class="tg-0pky">Digital Media</td>
-    <td class="tg-0pky">Our Schools Our Stories</td>
-    <td class="tg-0pky">Participation</td>
-    <td class="tg-0pky">Aaliyah Iza Binte Mohammed Rino Shahril - 5CareWon Yun Xuan - 5 PassionKristin Toh Jia Ying - 6 Passion</td>
+    <td class="tg-0pky">DIGITAL MEDIA</td>
+    <td class="tg-0pky">OUR SCHOOLS OUR STORIES</td>
+    <td class="tg-0pky">PARTICIPATION</td>
+    <td class="tg-0pky"> AALIYAH IZA BINTE MOHAMMED RINO SHAHRIL (5C)<br>WON YU XUAN (5P)<br>KRISTIN TOH JIA YING (6P)</td>
     <td class="tg-0pky">Upper Primary</td>
   </tr>
   <tr>
     <td class="tg-0pky">10</td>
     <td class="tg-0pky">ENVIRONMENT SCIENCE</td>
     <td class="tg-0pky">GREEN SCHOOLS @ SOUTH WEST</td>
-    <td class="tg-0pky">Participation</td>
-    <td class="tg-0pky">YAP SHAN YOONGANG YI JUNTOH JUN WEILEE ZHONGRUI AVAANNURUL EDYNA QIQA'ELSYA BINTE SAIDICHAI KAR HUENHENG REN KE LOVELLESYED MUHAMMAD ISKANDAR BIN ISMAILMOHAMAD RAYHAN AKIL BIN ANWARREZQY IRWANSYAH BIN ABU BAKAR</td>
+    <td class="tg-0pky">PARTICIPATION</td>
+    <td class="tg-0pky">YAP SHAN YOONG<br> ANG YI JUN <br>TOH JUN WEI<br>LEE ZHONGRUI AVAAN<br>NURUL EDYNA QIQA'ELSYA BINTE SAIDICHAI KAR HUEN<br>HENG REN KE LOVELLE<br>SYED MUHAMMAD ISKANDAR BIN ISMAIL<br>MOHAMAD RAYHAN AKIL BIN ANWAR<br>REZQY IRWANSYAH BIN ABU BAKAR</td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0pky" rowspan="3">11</td>
-    <td class="tg-0pky" rowspan="3">Robotics</td>
+    <td class="tg-0pky" rowspan="3">ROBOTICS</td>
     <td class="tg-0pky" rowspan="2">IDE</td>
-    <td class="tg-0pky" rowspan="3">Participation</td>
-    <td class="tg-0pky">BASKARAN YUVARAJ / 5GISHDEV SINGH / 5PCHEW ZHI XUAN / 6CFANG HONGYI / 6GGOBIKRISHNAN DHIYANESH / 6GLIM YU XI, JERLYN / 6GHO RUI BIN / 6PTEH WEI HAU / 6RTAN XIU QI / 6R</td>
+    <td class="tg-0pky" rowspan="3">PARTICIPATION</td>
+    <td class="tg-0pky">BASKARAN YUVARAJ (5G)<br>ISHDEV SINGH (5P)<br>CHEW ZHI XUAN (6C)<br>FANG HONGYI (6G)<br>GOBIKRISHNAN DHIYANESH (6G)<br>LIM YU XI, JERLYN (6G)<br>HO RUI BIN (6P)<br>TEH WEI HAU (6R)<br>TAN XIU QI (6R)</td>
     <td class="tg-0pky">IDE Robotics</td>
   </tr>
   <tr>
-    <td class="tg-0pky">LEE XUAN YI RYAN / 6CPUTERA AMAN ADIDAS BIN ABDULLAH / 6GKENZO GABRIEL SUTANTO / 6IJONAS WONG XIU HAO / 6ING JIAN MUN / 6RSHRI DEVI PRASAD SUDHEER KUMAR / 6R</td>
-    <td class="tg-0pky">IDE Sprint</td>
+    <td class="tg-0pky">LEE XUAN YI RYAN (6C)<br>PUTERA AMAN ADIDAS BIN ABDULLAH (6G)<br>KENZO GABRIEL SUTANTO (6I)<br>JONAS WONG XIU HAO (6I)<br>NG JIAN MUN (6R)<br>SHRI DEVI PRASAD SUDHEER KUMAR (6R)</td>
+    <td class="tg-0pky">IDE SPRINT</td>
   </tr>
   <tr>
     <td class="tg-0pky">NRC</td>
-    <td class="tg-0pky">NG JIAN MUN / 6RSHRI DEVI PRASAD SUDHEER KUMAR / 6RDEVRYAN SARVANAN / 4GTAN XIU QUAN / 4PTAN QI XUAN / 4RCHONG ER KANG / 4RCHAN HUI HERNG / 4RMUHAIMIN BIN FAIZAL / 5CBASKARAN YUVARAJ / 5GSHANMUGANATHAN SUHANA / 5GZHANG QISHUO / 5GLOGUESVARAN SRIVARSHIKKAA / 5GZHAO AIXIAO / 5GIAN LIM YOUNG / 5GLU XIANG ZE, DARIEN / 5GRABIATUL BALQIS BINTE BADIUZZAMAN / 5IFANG YUAN / 5PISHDEV SINGH / 5POLETHEA HUANG HAOYING / 5PCHINNADURAI SHIVAANI / 5RLEE YU HENG / 5RTOH KAI HUI / 5RLAM SHENG KAI ADEN / 5RRAMESH NIKITHA / 5RPUTERA AMAN ADIDAS BIN ABDULLAH / 6GGOBIKRISHNAN DHIYANESH / 6GKENZO GABRIEL SUTANTO / 6IHO RUI BIN / 6PTEH WEI HAU / 6R</td>
+    <td class="tg-0pky">NG JIAN MUN (6R)<br>SHRI DEVI PRASAD SUDHEER KUMAR (6R)<br>DEVRYAN SARVANAN (4G)<br>TAN XIU QUAN (4P)<br>TAN QI XUAN (4R)<br>CHONG ER KANG (4R)<br>CHAN HUI HERNG (4R)<br>MUHAIMIN BIN FAIZAL (5C)<br>BASKARAN YUVARAJ (5G)<br>SHANMUGANATHAN SUHANA (5G)<br>ZHANG QISHUO (5G)<br>LOGUESVARAN SRIVARSHIKKAA (5G)<br>ZHAO AIXIAO (5G)<br>IAN LIM YOUNG (5G)<br>LU XIANG ZE, DARIEN (5G)<br>RABIATUL BALQIS BINTE BADIUZZAMAN (5I)<br>FANG YUAN (5P)<br>ISHDEV SINGH (5P)<br>OLETHEA HUANG HAOYING (5P)<br>CHINNADURAI SHIVAANI (5R)<br>LEE YU HENG (5R)<br>TOH KAI HUI (5R)<br>LAM SHENG KAI ADEN (5R)<br>RAMESH NIKITHA (5R)<br> PUTERA AMAN ADIDAS BIN ABDULLAH (6G)<br>GOBIKRISHNAN DHIYANESH (6G)<br>KENZO GABRIEL SUTANTO (6I)<br>HO RUI BIN (6P)<br>TEH WEI HAU (6R)</td>
     <td class="tg-0pky">CoderZ</td>
   </tr>
   <tr>
     <td class="tg-0pky">12</td>
-    <td class="tg-0pky">Cultural Dance</td>
-    <td class="tg-0pky">SYF Dance (Indian)</td>
-    <td class="tg-0pky">Participation</td>
-    <td class="tg-0pky">SHIVAANI DIYANAH D/O RAMACHANDRAN / 4 CAREYAU TZENG YIAO / 4 CAREONG ZI YIN / 4 GRACIOUSGLENDA CHIA SHI EN / 4 INTEGRITYHANNAH BTE AZHAR / 4 INTEGRITYNUR ADRINA HADZIYAH BINTE MOHAMAD HADZRIEN / 4 INTEGRITYNUR HAILEY QAISARAH BINTE MOHAMAD FAIRUL / 4 INTEGRITYNUR QAISARAH BINTE MOHAMMAD ZUKARNAIN / 4 INTEGRITYIRIS CHENG KAY YING / 4 RESPECTLIU LEYUAN / 4 RESPECTGAN YI YI / 4 RESPONSIBILITYLI YUYUE / 4 RESPONSIBILITYPALANIVEL VISHRUTHI / 5 RESPECTCHUA JIA LE, JADE / 6 RESPECTKLOEY NG ZI XUAN / 6 RESPONSIBILITYNG ZHI YI / 6 RESPONSIBILITYNUR IZTRISYIA BTE MOHAMAD ZULFAIZ / 6 RESPONSIBILITY</td>
+    <td class="tg-0pky">CULTURAL DANCE</td>
+    <td class="tg-0pky">SYF DANCE (INDIAN)</td>
+    <td class="tg-0pky">PARTICIPATION</td>
+    <td class="tg-0pky">SHIVAANI DIYANAH D/O RAMACHANDRAN (4C)<br>YAU TZENG YIAO (4C)<br>ONG ZI YIN (4G)<br>GLENDA CHIA SHI EN (4I)<br>HANNAH BTE AZHAR (4I)<br>NUR ADRINA HADZIYAH BINTE MOHAMAD HADZRIEN (4I)<br>NUR HAILEY QAISARAH BINTE MOHAMAD FAIRUL (4I)<br>NUR QAISARAH BINTE MOHAMMAD ZUKARNAIN (4I)<br>IRIS CHENG KAY YING (4R)<br>LIU LEYUAN (4R)<br>GAN YI YI (4RY)<br>LI YUYUE (4RY)<br>PALANIVEL VISHRUTHI (5R)<br>CHUA JIA LE, JADE(6R)<br>KLOEY NG ZI XUAN (6RY)<br>NG ZHI YI / 6 RESPONSIBILITYNUR IZTRISYIA BTE MOHAMAD ZULFAIZ / 6 RESPONSIBILITY</td>
     <td class="tg-0pky">Primary</td>
   </tr>
   <tr>
