@@ -10,6 +10,16 @@ Accomplishment
 ==============
 Updated on 2022 
 
+
+
+| S/No | CCA/Subject | Competition | Award/Participation | Students/Classes | Division |
+| -------- | -------- | -------- | -------- | -------- | -------- |
+| 1    | BADMINTON     | NATIONAL SCHOOL GAMES     | PARTICIPATION    | JAYARAMAN PRITHVIRAJ (5I) <br>JAYDEN LAM YI JIE (5RY)<br> TAN YU ZHE JAYDEN (5RY)<br>KYRAN TAY TIAN LE (5I)<br> LEONG PAK SEK, KAEDEN (5C)<br> MIKKO TOR YICHENG (5G)<br> RAJESH SARAVANAN DHAYAN (5R)<br>CHONG CHEN JIA LAMONT (5P) <br>JERALD TAN MENG TECK (4G) <br> ASHER ILHAN BIN MOHAMAD MARICAN (4C)<br> HO HAO YANG LUCAS (4R)<br> TEOH SHENG JIE (5RY) - Sportmanship Award  | JUNIOR BOYS     |
+|     |     |     |    | HUANG YI XUAN AMBER (4P)<br> LI YUHAN (4RY)<br>TAN SI QI (4R)<br>SABESH SUMETHA (5R)<br>TAN YI RIGHTEOUS (5R)<br>YUAN QIAOEN (5G) - Sportsmanship Award  | JUNIOR GIRLS     |
+
+
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
