@@ -10,13 +10,12 @@ JPS Booklist 2023
 
 [JPS Booklist 2023 - P1](/files/JPS%20Booklist/2023/JPS%20Booklet%20P1_v1.pdf)
 
+ [JPS Booklist 2023 - P2](/files/JPS%20Booklist/2023/JPS%20Booklet%20P2_v1.pdf)
   
-[JPS Booklist 2023 - P2.pdf](/files/JPS%20Booklist%202023%20-%20P2.pdf)
+[JPS Booklist 2023 - P3](/files/JPS%20Booklist/2023/JPS%20Booklet%20P3_v1.pdf)
   
-[JPS Booklist 2023 - P3.pdf](/files/JPS%20Booklist%202023%20-%20P3.pdf)
+[JPS Booklist 2023 - P4](/files/JPS%20Booklist/2023/JPS%20Booklet%20P4_v1.pdf)
   
-[JPS Booklist 2023 - P4.pdf](/files/JPS%20Booklist%202023%20-%20P4.pdf)
+[JPS Booklist 2023 - P5](/files/JPS%20Booklist/2023/JPS%20Booklet%20P5_v1.pdf)
   
-[JPS Booklist 2023 - P5.pdf](/files/JPS%20Booklist%202023%20-%20P5.pdf)
-  
-[JPS Booklist 2023 - P6.pdf](/files/JPS%20Booklist%202023%20-%20P6.pdf)
+[JPS Booklist 2023 - P6](/files/JPS%20Booklist/2023/JPS%20Booklet%20P6_v1.pdf)
