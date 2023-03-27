@@ -2,6 +2,13 @@ collections:
   programme:
     output: true
     order:
+      - ALP.md
+      - LLP/.keep
+      - LLP/Every Child is A Leader (ECAL).md
+      - LLP/The Leader In Me.md
+      - LLP/The 6 Traits of JPS Leaders.md
+      - LLP/JPS Prefects and Leaders.md
+      - LLP/Make A Change.md
       - Department Programmes/.keep
       - Department Programmes/Mathematics.md
       - Department Programmes/English Language.md
@@ -16,14 +23,8 @@ collections:
       - CCE/Guidance Modules.md
       - CCE/MOE Sexuality Education in Schools.md
       - CCE/Values in Action.md
-      - LLP/.keep
-      - LLP/Every Child is A Leader (ECAL).md
-      - LLP/The Leader In Me.md
-      - LLP/The 6 Traits of JPS Leaders.md
-      - LLP/JPS Prefects and Leaders.md
-      - LLP/Make A Change.md
-      - Co Curricular Activity (CCA)/JPS CCA Booklet 2023.md
       - Co Curricular Activity (CCA)/.keep
+      - Co Curricular Activity (CCA)/JPS CCA Booklet 2023.md
       - Co Curricular Activity (CCA)/Co Curricular Activity (CCA).md
       - Co Curricular Activity (CCA)/Modular CCA (Primary 3).md
       - Co Curricular Activity (CCA)/Badminton.md
@@ -43,4 +44,3 @@ collections:
       - Co Curricular Activity (CCA)/ODAC.md
       - Co Curricular Activity (CCA)/Scouts.md
       - Co Curricular Activity (CCA)/Brownies.md
-      - ALP.md
