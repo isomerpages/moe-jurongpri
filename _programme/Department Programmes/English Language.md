@@ -4,11 +4,11 @@ permalink: /programme/signature-programmes/english-language/
 description: ""
 third_nav_title: Department Programmes
 ---
-
 ![](/images/Banner.png)
 
 English Language
 ================
+![](/images/el_oracy01.jpeg)
 
 ### ORACY@JPS
 ---------
@@ -21,5 +21,6 @@ From Primary 1, our students are taught how to articulate ideas, use both verbal
 
 Besides the oracy programme, our students are taken through STELLAR 2.0 which is an interactive literacy programme that fosters confidence in learning English using children’s literature. Our teachers use drama, visible thinking and differentiated learning to bring Joy to the EL classrooms. A week is set aside each year to Celebrate English Learning. Students come dressed in their favourite characters and engage themselves in literacy activities throughout the week.
 
+![](/images/el_oracy02.jpeg)
 
-<img src="/images/Eng.gif" style="width:80%">
+![](/images/el_oracy03.jpeg)
