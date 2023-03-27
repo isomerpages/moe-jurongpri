@@ -4,12 +4,11 @@ permalink: /co-curricular-activity-cca/clubs/environmental-science-club/
 description: ""
 third_nav_title: Co Curricular Activity (CCA)
 ---
-
 ![](/images/Banner.png)
 
 Environmental Science Club
 ==========
-
+![](/images/envtscience01.jpg)
 
 ### Activities/ Training Description
 --------------------------------
@@ -20,4 +19,4 @@ Our activities are both fun and exciting. From hands-on growing of our own green
   
 Our environment needs our help and together, we can make a difference! Join the Environmental Science Club now and make that difference.
 
-![](/images/Greenclub_cca2020.jpg)
+![](/images/envtscience02.jpg)
