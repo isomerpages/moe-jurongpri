@@ -295,4 +295,52 @@ Staff
     <td class="tg-ii8k"> Miss Norashikin Hambali <br><a href="mailto:norashikin_hambali@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">norashikin_hambali@schools.gov.sg</span></a><br><br>Mdm Nur Fadzila Bte Abd Kadir <br><a href="mailto:nur_fadzila_abdul_kadir@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">nur_fadzila_abdul_kadir@schools.gov.sg</span></a></td>
   </tr>
 </tbody>
+</table><br><br><br>
+Flexi Adjunct Teachers (FAJT)
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">Name</th>
+    <th class="tg-0lax">Email</th>
+  </tr>
+</thead>
+<tbody>
+	  <tr>
+    <th class="tg-0lax">Mr Chew Hock Chuan Anthony</th>
+    <th class="tg-0lax"><a href="mailto:chew_hock_chuan_anthony@schools.gov.sg">chew_hock_chuan_anthony@schools.gov.sg</a\></th>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Ms Goi Hwei Kheng</td>
+    <td class="tg-0lax">goi_hwei_kheng@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Ms Jayne Lee An</td>
+    <td class="tg-0lax">yeo_david@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Mdm Pek Quee Hui</td>
+    <td class="tg-0lax">pek_quee_hui@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Mdm Teo Siang Hiok</td>
+    <td class="tg-0lax">teo_siang_hiok_a@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Mdm Zuhaizah Hussein</td>
+    <td class="tg-0lax">zuhaizah_hussein@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Mdm Sally Tan</td>
+    <td class="tg-0lax">tan_siew_choo_b@schools.gov.sg</td>
+  </tr>
+</tbody>
 </table>
