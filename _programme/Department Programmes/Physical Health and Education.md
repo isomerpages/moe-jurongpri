@@ -4,7 +4,6 @@ permalink: /programme/signature-programmes/phe/permalink/
 description: ""
 third_nav_title: Department Programmes
 ---
-
 ![](/images/Banner.png)
 # PHE Programmes
 **Swimsafer**
@@ -17,7 +16,7 @@ For students who do not know how to swim, they were introduced to water skills s
 
 **P5 Adventure Camp 2022**
 
-![](/images/p5adventurecamp02.jpeg)
+![](/images/P5%20Camp.gif)
 
 The P5 Adventure Camp this year was held at Jalan Bahtera Outdoor Adventure Learning Centre (JBOALC) from 19 Sep to 21 Sep 2022.
 
