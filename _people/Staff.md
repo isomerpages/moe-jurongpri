@@ -316,31 +316,38 @@ Flexi Adjunct Teachers (FAJT)
 <tbody>
 	  <tr>
     <th class="tg-0lax">Mr Chew Hock Chuan Anthony</th>
-    <th class="tg-0lax"><a href="mailto:chew_hock_chuan_anthony@schools.gov.sg">chew_hock_chuan_anthony@schools.gov.sg</a\></th>
+    <th class="tg-0lax"><a href="mailto:chew_hock_chuan_anthony@schools.gov.sg">
+			chew_hock_chuan_anthony@schools.gov.sg</a\></th>
   </tr>
   <tr>
     <td class="tg-0lax">Ms Goi Hwei Kheng</td>
-    <td class="tg-0lax">goi_hwei_kheng@schools.gov.sg</td>
+    <td class="tg-0lax"><a href="mailto:goi_hwei_kheng@schools.gov.sg">
+goi_hwei_kheng@schools.gov.sg</a\></td>
   </tr>
   <tr>
     <td class="tg-0lax">Ms Jayne Lee An</td>
-    <td class="tg-0lax">yeo_david@schools.gov.sg</td>
+    <td class="tg-0lax"><a href="mailto:yeo_david@schools.gov.sg">
+yeo_david@schools.gov.sg</a\></td>
   </tr>
   <tr>
     <td class="tg-cly1">Mdm Pek Quee Hui</td>
-    <td class="tg-0lax">pek_quee_hui@schools.gov.sg</td>
+    <td class="tg-0lax"><a href="mailto:pek_quee_hui@schools.gov.sg">
+pek_quee_hui@schools.gov.sg</a\></td>
   </tr>
   <tr>
     <td class="tg-cly1">Mdm Teo Siang Hiok</td>
-    <td class="tg-0lax">teo_siang_hiok_a@schools.gov.sg</td>
+    <td class="tg-0lax"><a href="mailto:teo_siang_hiok_a@schools.gov.sg">
+teo_siang_hiok_a@schools.gov.sg</a\></td>
   </tr>
   <tr>
     <td class="tg-cly1">Mdm Zuhaizah Hussein</td>
-    <td class="tg-0lax">zuhaizah_hussein@schools.gov.sg</td>
+    <td class="tg-0lax"><a href="mailto:zuhaizah_hussein@schools.gov.sg">
+zuhaizah_hussein@schools.gov.sg</a\></td>
   </tr>
   <tr>
     <td class="tg-cly1">Mdm Sally Tan</td>
-    <td class="tg-0lax">tan_siew_choo_b@schools.gov.sg</td>
+    <td class="tg-0lax"><a href="mailto:tan_siew_choo_b@schools.gov.sg">
+tan_siew_choo_b@schools.gov.sg</a\></td>
   </tr>
 </tbody>
 </table>
