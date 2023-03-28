@@ -1,0 +1,5 @@
+collections:
+  forms:
+    output: true
+    order:
+      - JPS Booklist 2023.md

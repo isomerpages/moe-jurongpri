@@ -1,15 +1,14 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/Jurong Primary School logo.png
 links:
+  - title: About Jps
+    collection: about-jps
+  - title: Programmes
+    collection: programme
+  - title: People
+    collection: people
+  - title: Partners
+    collection: partners
+  - title: General Information
+    collection: others
   - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+    collection: contact-us

@@ -1,0 +1,8 @@
+collections:
+  partners:
+    output: true
+    order:
+      - Partners.md
+      - School Advisory Committee.md
+      - Parents @ JPS Committee.md
+      - Family Matters@JPS.md

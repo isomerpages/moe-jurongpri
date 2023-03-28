@@ -1,0 +1,9 @@
+collections:
+  people:
+    output: true
+    order:
+      - School Leaders.md
+      - Key Personnel.md
+      - Staff.md
+      - Allied Educators.md
+      - Executive & Administrative Staff.md
