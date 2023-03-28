@@ -33,7 +33,7 @@ Staff
 <tbody>
   <tr>
     <td class="tg-n4qt"> 1 Care</td>
-    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Miss Ang Xin Yi </span><br><a href="mailto:ang_xin_yi@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">ang_xin_yi@schools.gov.sg </span></a><br><br><span style="color:#222;background-color:#EAEAEA">Mr Chen Zhuangwei </span><br><a href="mailto:chen_zhuangwei@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">chen_zhuangwei@schools.gov.sg</span></a><span style="color:#222;background-color:#EAEAEA"> </span><br><br><span style="color:#222;background-color:#EAEAEA">Mdm Wong Seok Wai Elaine </span><br><a href="https://jurongpri-moe-edu-sg-admin.cwp.sg/"><span style="text-decoration:none;color:#EB0028">wong_seok_wai@schools.gov.sg</span></a><br><span style="color:#222;background-color:#EAEAEA"> </span></td>
+    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Miss Ang Xin Yi </span><br><a href="mailto:ang_xin_yi@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">ang_xin_yi@schools.gov.sg </span></a><br><br><span style="color:#222;background-color:#EAEAEA">Mr Chen Zhuangwei </span><br><a href="mailto:chen_zhuangwei@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">chen_zhuangwei@schools.gov.sg</span></a><span style="color:#222;background-color:#EAEAEA"> </span><br><br><span style="color:#222;background-color:#EAEAEA">Mdm Wong Seok Wai Elaine </span><br><a href="mailto:wong_seok_wai@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">wong_seok_wai@schools.gov.sg</span></a><br><span style="color:#222;background-color:#EAEAEA"> </span></td>
   </tr>
   <tr>
     <td class="tg-n4qt">1 Gracious </td>
@@ -91,7 +91,7 @@ Staff
   </tr>
   <tr>
     <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> </span>2 Integrity</td>
-    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Miss Yeo Hoon Kheng Eunice</span><br><a href="mailto:yeo_hoon_kheng@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">yeo_hoon_kheng@schools.gov.sg</span></a><br><br><span style="color:#222;background-color:#EAEAEA">Mdm Lydia Song Rui</span><br><a href="mailto:song_rui@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">song_rui@schools.gov.sg</span></a><br><br><span style="color:#222;background-color:#EAEAEA">Mr Zulkarnain Daud </span><br><a href="mailto:zulkarnain_daud@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">zulkarnain_daud@schools.gov.sg</span></a><span style="color:#222;background-color:#EAEAEA"> </span><br><br></td>
+    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Miss Yeo Hoon Kheng Eunice</span><br><a href="mailto:yeo_hoon_kheng@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">yeo_hoon_kheng@schools.gov.sg</span></a><br><br><span style="color:#222;background-color:#EAEAEA">Mr Zulkarnain Daud </span><br><a href="mailto:zulkarnain_daud@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">zulkarnain_daud@schools.gov.sg</span></a><span style="color:#222;background-color:#EAEAEA"> </span><br><br></td>
   </tr>
   <tr>
     <td class="tg-n4qt">2 Passion</td>
@@ -99,7 +99,7 @@ Staff
   </tr>
   <tr>
     <td class="tg-n4qt">2 Respect</td>
-    <td class="tg-ii8k">Ms Nur Dhumaika Jumat<br><a href="mailto:nur_dhumaika_jumat@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">nur_dhumaika_jumat@schools.gov.sg</span></a><br>Mdm Nurul Fadilah Binte Hashim<br><a href="mailto:nurul_fadilah_hashim@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">nurul_fadilah_hashim@schools.gov.sg</span></a><br></td>
+    <td class="tg-ii8k">Ms Nur Dhumaika Jumat<br><a href="mailto:nur_dhumaika_jumat@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">nur_dhumaika_jumat@schools.gov.sg</span></a><br><br>Mdm Nurul Fadilah Binte Hashim<br><a href="mailto:nurul_fadilah_hashim@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">nurul_fadilah_hashim@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-n4qt">2 Responsibility</td>
