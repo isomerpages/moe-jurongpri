@@ -38,7 +38,7 @@ Key Personnel
   </tr>
   <tr>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">HOD MOTHER TONGUE LANGUAGE</span><br><br></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> MR TAN KIN CHIEW JIMMY</span><br><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> MR TAN KIN CHIEW JIMMY</span></td>
   </tr>
   <tr>
     <td class="tg-ii8k">SH CHINESE LANGUAGE </td>
