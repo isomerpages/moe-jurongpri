@@ -18,7 +18,7 @@ For students who do not know how to swim, they were introduced to water skills s
 
 ![](/images/P5%20Camp.gif)
 
-The P5 Adventure Camp this year was held at Jalan Bahtera Outdoor Adventure Learning Centre (JBOALC) from 19 Sep to 21 Sep 2022.
+The P5 Adventure Camp was held at Jalan Bahtera Outdoor Adventure Learning Centre (JBOALC) from 19 Sep to 21 Sep 2022.
 
 It has been two years since we have had a camp, therefore this year’s camp was a special one. It was smiles all around as we embarked on the outdoor learning journey.
 
