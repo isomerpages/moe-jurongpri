@@ -295,8 +295,62 @@ Staff
     <td class="tg-ii8k"> Miss Norashikin Hambali <br><a href="mailto:norashikin_hambali@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">norashikin_hambali@schools.gov.sg</span></a><br><br>Mdm Nur Fadzila Bte Abd Kadir <br><a href="mailto:nur_fadzila_abdul_kadir@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">nur_fadzila_abdul_kadir@schools.gov.sg</span></a></td>
   </tr>
 </tbody>
-</table><br><br><br>
-Flexi Adjunct Teachers (FAJT)
+</table>
+<h3>Flexi Adjunct Teachers (FAJT)</h3>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-j0e3{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-n4qt">Name</th>
+    <th class="tg-n4qt">Email </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-n4qt">Mr Chew Hock Chuan Anthony</td>
+    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA"><a href="mailto:chew_hock_chuan_anthony@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">chew_hock_chuan_anthony@schools.gov.sg</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> </span>Ms Goi Hwei Kheng</td>
+    <td class="tg-ii8k"><a href="mailto:goi_hwei_kheng@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">goi_hwei_kheng@schools.gov.sg</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">Ms Jayne Lee An</td>
+    <td class="tg-ii8k"><a href="mailto:yeo_david@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">yeo_david@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">Mdm Pek Quee Hui </td>
+    <td class="tg-ii8k"><a href="mailto:pek_quee_hui@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">pek_quee_hui@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">Mdm Teo Siang Hiok</td>
+    <td class="tg-ii8k"><a href="mailto:teo_siang_hiok_a@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">teo_siang_hiok_a@schools.gov.sg</span></a></td>
+  </tr>
+	 <tr>
+    <td class="tg-n4qt">Mdm Zuhaizah Hussein</td>
+    <td class="tg-ii8k"><a href="mailto:zuhaizah_hussein@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">zuhaizah_hussein@schools.gov.sg</span></a></td>
+  </tr>
+	 <tr>
+    <td class="tg-n4qt">Mdm Teo Siang Hiok</td>
+    <td class="tg-ii8k"><a href="mailto:teo_siang_hiok_a@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">teo_siang_hiok_a@schools.gov.sg</span></a></td>
+  </tr>
+	 <tr>
+    <td class="tg-n4qt">Mdm Teo Siang Hiok</td>
+    <td class="tg-ii8k"><a href="mailto:teo_siang_hiok_a@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">teo_siang_hiok_a@schools.gov.sg</span></a></td>
+  </tr>
+	
+</tbody>
+</table>
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -315,29 +369,10 @@ Flexi Adjunct Teachers (FAJT)
 </thead>
 <tbody>
 	  <tr>
-    <th class="tg-0lax">Mr Chew Hock Chuan Anthony</th>
-    <th class="tg-0lax"><a href="mailto:chew_hock_chuan_anthony@schools.gov.sg">
-			chew_hock_chuan_anthony@schools.gov.sg</a\></th>
-  </tr>
+
   <tr>
-    <td class="tg-0lax">Ms Goi Hwei Kheng</td>
-    <td class="tg-0lax"><a href="mailto:goi_hwei_kheng@schools.gov.sg">
-goi_hwei_kheng@schools.gov.sg</a\></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Ms Jayne Lee An</td>
-    <td class="tg-0lax"><a href="mailto:yeo_david@schools.gov.sg">
-yeo_david@schools.gov.sg</a\></td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Mdm Pek Quee Hui</td>
-    <td class="tg-0lax"><a href="mailto:pek_quee_hui@schools.gov.sg">
-pek_quee_hui@schools.gov.sg</a\></td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Mdm Teo Siang Hiok</td>
-    <td class="tg-0lax"><a href="mailto:teo_siang_hiok_a@schools.gov.sg">
-teo_siang_hiok_a@schools.gov.sg</a\></td>
+   
+   
   </tr>
   <tr>
     <td class="tg-cly1">Mdm Zuhaizah Hussein</td>
