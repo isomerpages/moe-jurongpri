@@ -340,49 +340,9 @@ Staff
     <td class="tg-ii8k"><a href="mailto:zuhaizah_hussein@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">zuhaizah_hussein@schools.gov.sg</span></a></td>
   </tr>
 	 <tr>
-    <td class="tg-n4qt">Mdm Teo Siang Hiok</td>
-    <td class="tg-ii8k"><a href="mailto:teo_siang_hiok_a@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">teo_siang_hiok_a@schools.gov.sg</span></a></td>
-  </tr>
-	 <tr>
-    <td class="tg-n4qt">Mdm Teo Siang Hiok</td>
-    <td class="tg-ii8k"><a href="mailto:teo_siang_hiok_a@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">teo_siang_hiok_a@schools.gov.sg</span></a></td>
-  </tr>
-	
-</tbody>
-</table>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0lax">Name</th>
-    <th class="tg-0lax">Email</th>
-  </tr>
-</thead>
-<tbody>
-	  <tr>
-
-  <tr>
-   
-   
-  </tr>
-  <tr>
-    <td class="tg-cly1">Mdm Zuhaizah Hussein</td>
-    <td class="tg-0lax"><a href="mailto:zuhaizah_hussein@schools.gov.sg">
-zuhaizah_hussein@schools.gov.sg</a\></td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Mdm Sally Tan</td>
-    <td class="tg-0lax"><a href="mailto:tan_siew_choo_b@schools.gov.sg">
-tan_siew_choo_b@schools.gov.sg</a\></td>
+    <td class="tg-n4qt">Mdm Sally Tan</td>
+    <td class="tg-ii8k"><a href="mailto:tan_siew_choo_b@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">tan_siew_choo_b@schools.gov.sg</span></a></td>
   </tr>
 </tbody>
 </table>
+
