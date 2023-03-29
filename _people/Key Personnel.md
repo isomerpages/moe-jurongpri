@@ -29,15 +29,31 @@ Key Personnel
     <td class="tg-ii8k">MS ROSHIDAH KARYEO</td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> YEAR HEAD (UPPER PRIMARY)</span> <br><br></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">MISS LEE AI LING</span><br><span style="color:#222;background-color:#EAEAEA"> </span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> YEAR HEAD (UPPER PRIMARY)</span><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">MS LEE AI LING</span><span style="color:#222;background-color:#EAEAEA"> </span></td>
   </tr>
   <tr>
     <td class="tg-ii8k">YEAR HEAD (LOWER PRIMARY)</td>
     <td class="tg-ii8k">MDM CHINNAMMA DEVI</td>
   </tr>
+	<tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> ASSISTANT YEAR HEAD P3 (INT)</span><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">MR ZAILANY FINDY BIN SAFIE</span><br></td>
+  </tr>
+	  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> ASSISTANT YEAR HEAD P6 (INT)</span><br><span style="color:#222;background-color:#EAEAEA"> </span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">MDM NUR FADZILA ABD KADIR</span><br><span style="color:#222;background-color:#EAEAEA"> </span></td>
+  </tr>
+	 <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">HOD ENGLISH </span><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">MDM FARIDAH BEHAM D/O ABD RAZEED</span><br><span style="color:#222;background-color:#EAEAEA"> </span></td>
+  </tr>
+	 <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> LH ENGLISH</span><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">MDM NOORKIAH MOHD HASHIM</span><br><span style="color:#222;background-color:#EAEAEA"> </span></td>
+  </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">HOD MOTHER TONGUE LANGUAGE</span><br><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">HOD MOTHER TONGUE LANGUAGE</span><br></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> MR TAN KIN CHIEW JIMMY</span></td>
   </tr>
   <tr>
@@ -49,12 +65,12 @@ Key Personnel
     <td class="tg-ii8k">MS NUR SOFHIA BUANG</td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">LH MATH</span><br><br></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">MS ANN NEO</span><br><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">LH MATH</span><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">MS ANN NEO</span><br></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> LH SCIENCE</span><br><br></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> MDM CHULIET ANG XU QIN </span><br><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> LH SCIENCE</span><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> MDM CHULIET ANG XU QIN </span><br></td>
   </tr>
   <tr>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">  LH SCIENCE</span><br><br></td>
@@ -100,21 +116,9 @@ Key Personnel
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> SH DATA MANAGEMENT</span><br><br></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> MDM ER WEI LIN</span><br><br></td>
   </tr>
-  <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">HOD ENGLISH </span><br><br></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">MDM FARIDAH BEHAM D/O ABD RAZEED</span><br><span style="color:#222;background-color:#EAEAEA"> </span></td>
-  </tr>
-  <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> LH ENGLISH</span><br><br></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">MDM NOORKIAH MOHD HASHIM</span><br><span style="color:#222;background-color:#EAEAEA"> </span></td>
-  </tr>
-  <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> ASSISTANT YEAR HEAD P3</span><br><br></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">MR ZAILANY FINDY BIN SAFIE</span><br><br></td>
-  </tr>
-  <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> ASSISTANT YEAR HEAD P6</span><br><span style="color:#222;background-color:#EAEAEA"> </span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">MDM NUR FADZILA ABD KADIR</span><br><span style="color:#222;background-color:#EAEAEA"> </span></td>
-  </tr>
+ 
+ 
+  
+
 </tbody>
 </table>
