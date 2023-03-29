@@ -329,8 +329,7 @@ Staff
   </tr>
   <tr>
     <td class="tg-n4qt">Mdm Pek Quee Hui </td>
-    <td class="tg-ii8k"><a href="mailto:pek_quee_hui@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">pek_quee_hui@schools.gov.sg</span></td>
-  </tr>
+    <td class="tg-ii8k"><a href="mailto:pek_quee_hui@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">pek_quee_hui@schools.gov.sg</span>
   <tr>
     <td class="tg-n4qt">Mdm Teo Siang Hiok</td>
     <td class="tg-ii8k"><a href="mailto:teo_siang_hiok_a@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">teo_siang_hiok_a@schools.gov.sg</span></a></td>
