@@ -317,8 +317,7 @@ Staff
 <tbody>
   <tr>
     <td class="tg-n4qt">Mr Chew Hock Chuan Anthony</td>
-    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA"><a href="mailto:chew_hock_chuan_anthony@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">chew_hock_chuan_anthony@schools.gov.sg</span></a><br></td>
-  </tr>
+    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA"><a href="mailto:chew_hock_chuan_anthony@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">chew_hock_chuan_anthony@schools.gov.sg</span></a><br>
   <tr>
     <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> </span>Ms Goi Hwei Kheng</td>
     <td class="tg-ii8k"><a href="mailto:goi_hwei_kheng@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">goi_hwei_kheng@schools.gov.sg</span></a><br></td>
@@ -329,8 +328,7 @@ Staff
   </tr>
   <tr>
     <td class="tg-n4qt">Mdm Pek Quee Hui </td>
-    <td class="tg-ii8k"><a href="mailto:pek_quee_hui@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">pek_quee_hui@schools.gov.sg</span></td>
-  </tr>
+    <td class="tg-ii8k"><a href="mailto:pek_quee_hui@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">pek_quee_hui@schools.gov.sg</span>
   <tr>
     <td class="tg-n4qt">Mdm Teo Siang Hiok</td>
     <td class="tg-ii8k"><a href="mailto:teo_siang_hiok_a@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">teo_siang_hiok_a@schools.gov.sg</span></a></td>
@@ -345,4 +343,3 @@ Staff
   </tr>
 </tbody>
 </table>
-
