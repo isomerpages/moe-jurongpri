@@ -317,8 +317,7 @@ Staff
 <tbody>
   <tr>
     <td class="tg-n4qt">Mr Chew Hock Chuan Anthony</td>
-    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA"><a href="mailto:chew_hock_chuan_anthony@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">chew_hock_chuan_anthony@schools.gov.sg</span></a><br></td>
-  </tr>
+    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA"><a href="mailto:chew_hock_chuan_anthony@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">chew_hock_chuan_anthony@schools.gov.sg</span></a><br>
   <tr>
     <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> </span>Ms Goi Hwei Kheng</td>
     <td class="tg-ii8k"><a href="mailto:goi_hwei_kheng@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">goi_hwei_kheng@schools.gov.sg</span></a><br></td>
