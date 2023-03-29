@@ -77,8 +77,8 @@ Key Personnel
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">  MRS KOH QIUWEN</span><br></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">  HOD PAM/CCA</span><br><br></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> MR ZULKARNAIN B DAUD</span><br><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">  HOD PAM/CCA</span><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> MR ZULKARNAIN B DAUD</span><br></td>
   </tr>
   <tr>
     <td class="tg-ii8k">SH PHE/CCA<br></td>
