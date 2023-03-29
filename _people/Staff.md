@@ -313,8 +313,6 @@ Staff
     <th class="tg-n4qt">Name</th>
     <th class="tg-n4qt">Email </th>
   </tr>
-</thead>
-<tbody>
   <tr>
     <td class="tg-n4qt">Mr Chew Hock Chuan Anthony</td>
     <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA"><a href="mailto:chew_hock_chuan_anthony@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">chew_hock_chuan_anthony@schools.gov.sg</span></a><br>
