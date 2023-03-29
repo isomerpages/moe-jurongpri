@@ -73,8 +73,8 @@ Key Personnel
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> MDM CHULIET ANG XU QIN </span><br></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">  LH SCIENCE</span><br><br></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">  MRS KOH QIUWEN</span><br><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">  LH SCIENCE</span><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">  MRS KOH QIUWEN</span><br></td>
   </tr>
   <tr>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">  HOD PAM/CCA</span><br><br></td>
