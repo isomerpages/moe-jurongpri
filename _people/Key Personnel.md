@@ -85,37 +85,39 @@ Key Personnel
     <td class="tg-ii8k">MR MUHD HAKIM KAMARUDIN<br></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> SH AESTHETICS</span><br><br></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">MISS ZHENG YVONNE</span><br><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> SH AESTHETICS (INT)</span><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">MISS ZHENG YIYING YVONNE</span><br></td>
   </tr>
   <tr>
     <td class="tg-ii8k">HOD CCE<br></td>
     <td class="tg-ii8k">MDM ELAINE WONG SEOK WAI<br></td>
   </tr>
-  <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">SH NESS</span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">MDM NORAIDAH AZMAN</span><br><br></td>
-  </tr>
-  <tr>
+	<tr>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> SH CCE</span></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">MS EUNICE TANG YOU NI</span><br><span style="color:#222;background-color:#EAEAEA"> </span></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">HOD DISCIPLINE</span><br><br></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">MR JARON POW TIEN MIN</span><br><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">SH CITIZENSHIP & SOCIAL STUDIES</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">MDM NORAIDAH AZMAN</span><br></td>
+  </tr>
+  
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">HOD DISCIPLINE</span><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">MR JARON POW TIEN MIN</span><br></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> SH STUDENT MANAGEMENT</span><br><br></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">MR RAVINDRAN S/O RAJASEKERAN </span><br><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> LH DISCIPLINE/STUDENT LEADERSHIP</span><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">MR RAVINDRAN S/O RAJASEKERAN </span><br></td>
+  </tr>
+	 <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> SH DATA MANAGEMENT & HOD ICT (COVERING)</span><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> MDM ER WEI LIN</span><br></td>
   </tr>
   <tr>
     <td class="tg-ii8k">SH ICT </td>
     <td class="tg-ii8k">MR BILLY TAN LING JUN</td>
   </tr>
-  <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> SH DATA MANAGEMENT</span><br><br></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> MDM ER WEI LIN</span><br><br></td>
-  </tr>
+ 
  
  
   
