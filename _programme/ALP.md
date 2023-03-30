@@ -25,6 +25,6 @@ We adopt a Play-based Pedagogy and believe that play can be purposeful and gener
 
 Across the six years, our students will experience different types of play that are age-appropriate:
 
- ![](/images/USP_Experience.jpg)
+![](/images/ALP.jpg)
 
 Students with deeper interest or aptitude will be given the opportunity to explore a stretch curriculum.
