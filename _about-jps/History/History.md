@@ -40,4 +40,4 @@ Principals: <br>
 ·        Mrs Constance Yip (2006 to 2011) <br>
 ·        Mrs Manokara S (2012 to 2017) <br>
 ·        Mr Robin Ong (2018 to 2022) <br>
-·        Mr Leonard Chua (2022 to present) <br>
+·        Mr Leonard Chua (2023 to present) <br>
