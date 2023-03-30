@@ -3,8 +3,6 @@ title: Teachers
 permalink: /teachers/
 description: ""
 ---
-
-
 ![](/images/Banner.png)
 
 *   [SLS](https://vle.learning.moe.edu.sg/login)
@@ -19,6 +17,4 @@ description: ""
     
 *   [RBS](https://rbs.avero-tech.com/login.html)  
     
-*   [Parents Gateway](https://pg.moe.edu.sg/)  
-    
-*   [How to clear mobile web browser cache](/others/Clear-Cache/)
+*   [Parents Gateway](https://pg.moe.edu.sg/)
