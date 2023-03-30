@@ -13,7 +13,7 @@ Please refer to this [link](/files/JPS%202023%20L2%20Seminars.pdf) for more in
 
 ### 2023 Info on SEd for P5 and P6
 
-Please refer to this [link](/cce/Programmes/MOE-Sexuality-Education-In-Schools/) for more information.
+Please refer to this [link](/cce/programmes/moe-sexuality-education-in-schools/) for more information.
 
 
 ### JPS Booklist 2023
