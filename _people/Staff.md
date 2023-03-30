@@ -295,7 +295,8 @@ Staff
     <td class="tg-ii8k"> Miss Norashikin Hambali <br><a href="mailto:norashikin_hambali@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">norashikin_hambali@schools.gov.sg</span></a><br><br>Mdm Nur Fadzila Bte Abd Kadir <br><a href="mailto:nur_fadzila_abdul_kadir@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">nur_fadzila_abdul_kadir@schools.gov.sg</span></a></td>
   </tr>
 </tbody>
-</table>
+</table> <br>
+
 <h3>Flexi Adjunct Teachers (FAJT)</h3>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -339,5 +340,3 @@ Staff
     <td class="tg-n4qt">Mdm Sally Tan</td>
     <td class="tg-ii8k"><a href="mailto:tan_siew_choo_b@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">tan_siew_choo_b@schools.gov.sg</span></a></td>
   </tr>
-</tbody>
-</table>
