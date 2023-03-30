@@ -14,5 +14,5 @@ description: ""
 *   [JPS School Bag Weight Loss Project by PSG](/files/School%20Bag%20Weight%20Loss%20Project.pdf)
 *   [JPS Booklist 2023](/forms/JPS-Booklist-2023/)
 *   [Family @ JPS](/partners/Family-Matters-at-JPS/)
-*  [MOE Sexuality Education in Schools](/cce/programmes/moe-sexuality-education-in-schools/)(/cce/Programmes/MOE-Sexuality-Education-In-Schools/) 
+*  [MOE Sexuality Education in Schools](/cce/programmes/moe-sexuality-education-in-schools/)
 *   [Parents Engagement](/parents-engagement/)

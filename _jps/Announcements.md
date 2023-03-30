@@ -9,7 +9,7 @@ Announcements
 =============
 ### JPS 2023 L2 Seminars
 
-Please refer to this [link](/files/JPS%202023%20L2%20Seminars.pdf)) for more information.
+Please refer to this [link](/files/JPS%202023%20L2%20Seminars.pdf) for more information.
 
 ### 2023 Info on SEd for P5 and P6
 
