@@ -1,9 +1,10 @@
 ---
 title: JPS Prefects and Leaders
-permalink: /programme/student-management/permalink/
+permalink: /programme/student-management/jps-prefects/
 description: ""
 third_nav_title: LLP
 ---
+
 
 ![](/images/Banner.png)
 

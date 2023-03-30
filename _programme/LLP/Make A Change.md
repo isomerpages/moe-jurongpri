@@ -1,9 +1,10 @@
 ---
 title: Make A Change
-permalink: /programme/student-management/permalink/
+permalink: /programme/student-management/make-a-change/
 description: ""
 third_nav_title: LLP
 ---
+
 
 ![](/images/Banner.png)
 # Make A Change
