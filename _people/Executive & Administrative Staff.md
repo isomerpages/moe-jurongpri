@@ -1,12 +1,12 @@
 ---
-title: Executive & Administrative Staff
+title: Executive &amp; Administrative Staff
 permalink: /people/Executive-and-Administrative-Staff/
 description: ""
 ---
 ![](/images/Banner.png)
 
 
-Executive & Administrative Staff
+Executive &amp; Administrative Staff
 ================================
 
 <style type="text/css">
@@ -28,11 +28,11 @@ Executive & Administrative Staff
 </thead>
 <tbody>
   <tr>
-    <td class="tg-n4qt">Operational Manager</td>
+    <td class="tg-n4qt">Operations Manager</td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Mr Quek Tong Heng Thomas</span> <br></td>
   </tr>
   <tr>
-    <td class="tg-n4qt"> Operational Manager</td>
+    <td class="tg-n4qt"> Operations Manager</td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Wilson Cheng</span></td>
   </tr>
   <tr>

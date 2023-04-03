@@ -193,7 +193,7 @@ Staff
   </tr>
   <tr>
     <td class="tg-n4qt">4 Responsibility</td>
-    <td class="tg-ii8k">Miss Chindikasari Binte Roslee<br><a href="mailto:chindikasari_roslee@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">chindikasari_roslee@schools.gov.sg</span></a><br>Mrs Koh Qiuwen<br><a href="mailto:lin_qiuwen@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">lin_qiuwen@schools.gov.sg</span></a></td>
+    <td class="tg-ii8k">Mdm Chindikasari Binte Roslee<br><a href="mailto:chindikasari_roslee@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">chindikasari_roslee@schools.gov.sg</span></a><br>Mrs Koh Qiuwen<br><a href="mailto:lin_qiuwen@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">lin_qiuwen@schools.gov.sg</span></a></td>
   </tr>
 </tbody>
 </table>
@@ -317,7 +317,7 @@ Staff
   <tr>
     <td class="tg-n4qt">Mr Chew Hock Chuan Anthony</td>
     <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA"><a href="mailto:chew_hock_chuan_anthony@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">chew_hock_chuan_anthony@schools.gov.sg</span></a><br>
-  <tr>
+  </span></td></tr><tr>
     <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> </span>Ms Goi Hwei Kheng</td>
     <td class="tg-ii8k"><a href="mailto:goi_hwei_kheng@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">goi_hwei_kheng@schools.gov.sg</span></a><br></td>
   </tr>
@@ -328,7 +328,7 @@ Staff
   <tr>
     <td class="tg-n4qt">Mdm Pek Quee Hui </td>
     <td class="tg-ii8k"><a href="mailto:pek_quee_hui@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">pek_quee_hui@schools.gov.sg</span>
-  <tr>
+  </a></td></tr><tr>
     <td class="tg-n4qt">Mdm Teo Siang Hiok</td>
     <td class="tg-ii8k"><a href="mailto:teo_siang_hiok_a@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">teo_siang_hiok_a@schools.gov.sg</span></a></td>
   </tr>
@@ -339,4 +339,4 @@ Staff
 	 <tr>
     <td class="tg-n4qt">Mdm Sally Tan</td>
     <td class="tg-ii8k"><a href="mailto:tan_siew_choo_b@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">tan_siew_choo_b@schools.gov.sg</span></a></td>
-  </tr>
+  </tr></thead></table>
