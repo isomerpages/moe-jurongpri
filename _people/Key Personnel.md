@@ -61,12 +61,12 @@ Key Personnel
     <td class="tg-ii8k">MRS JANET CHUA - TAN SIOK TENG</td>
   </tr>
   <tr>
-    <td class="tg-ii8k">HOD MATH</td>
+    <td class="tg-ii8k">HOD MATHEMATICS</td>
     <td class="tg-ii8k">MS NUR SOFHIA BUANG</td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">LH MATH</span><br></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">MS ANN NEO</span><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">LH MATHEMATICS</span><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">MS NEO SIAO WEI ANN</span><br></td>
   </tr>
   <tr>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> LH SCIENCE</span><br></td>
@@ -97,7 +97,7 @@ Key Personnel
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">MS EUNICE TANG YOU NI</span><br><span style="color:#222;background-color:#EAEAEA"> </span></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">SH CITIZENSHIP & SOCIAL STUDIES</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">SH CITIZENSHIP &amp; SOCIAL STUDIES</span></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">MDM NORAIDAH AZMAN</span><br></td>
   </tr>
   
@@ -110,7 +110,7 @@ Key Personnel
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">MR RAVINDRAN S/O RAJASEKERAN </span><br></td>
   </tr>
 	 <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> SH DATA MANAGEMENT & HOD ICT (COVERING)</span><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> SH DATA MANAGEMENT &amp; HOD ICT (COVERING)</span><br></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> MDM ER WEI LIN</span><br></td>
   </tr>
   <tr>
