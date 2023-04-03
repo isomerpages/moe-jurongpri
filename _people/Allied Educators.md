@@ -34,15 +34,15 @@ Allied Educators
   </tr>
   <tr>
     <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> </span>Senior SEN Officer   </td>
-    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA"> Ms Jamie Tham</span></td>
+    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA"> Ms Tham Lai Juan Jamie</span></td>
   </tr>
   <tr>
     <td class="tg-n4qt"> SEN Officer</td>
-    <td class="tg-ii8k">Ms Sitra</td>
+    <td class="tg-ii8k">Ms Sitragandi A Arunasalam</td>
   </tr>
   <tr>
     <td class="tg-n4qt">SEN Officer</td>
-    <td class="tg-ii8k"> Mdm Tina Ng</td>
+    <td class="tg-ii8k"> Mdm Tina Ng Wee Bin</td>
   </tr>
 </tbody>
 </table>
