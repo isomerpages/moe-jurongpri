@@ -1,5 +1,5 @@
 ---
-title: Executive &amp; Administrative Staff
+title: Executive & Administrative Staff
 permalink: /people/Executive-and-Administrative-Staff/
 description: ""
 ---
@@ -55,10 +55,7 @@ Executive &amp; Administrative Staff
     <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> </span>CSO </td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Mdm Julaiha Beeve d/o Osman</span></td>
   </tr>
-  <tr>
-    <td class="tg-n4qt">CSO</td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mdm Kwang Ah Kam </span></td>
-  </tr>
+  
   <tr>
     <td class="tg-n4qt">OSO</td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mdm Azizah Bte Sabar </span></td>
