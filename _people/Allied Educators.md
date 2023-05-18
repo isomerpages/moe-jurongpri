@@ -28,11 +28,7 @@ Allied Educators
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-n4qt">School Counsellor </td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mdm Alice Ng Lai Hing</span></td>
-  </tr>
-  <tr>
+    <tr>
     <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> </span>Senior SEN Officer   </td>
     <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA"> Ms Tham Lai Juan Jamie</span></td>
   </tr>
@@ -40,9 +36,17 @@ Allied Educators
     <td class="tg-n4qt"> SEN Officer</td>
     <td class="tg-ii8k">Ms Sitragandi A Arunasalam</td>
   </tr>
+	<tr>
+    <td class="tg-n4qt"> SEN Officer</td>
+    <td class="tg-ii8k">Mdm Tina Ng Wee Bin</td>
+  </tr>
   <tr>
     <td class="tg-n4qt">SEN Officer</td>
-    <td class="tg-ii8k"> Mdm Tina Ng Wee Bin</td>
+    <td class="tg-ii8k"> Ms Tay Ee Shian Seraphina</td>
+  </tr>
+	  <tr>
+    <td class="tg-n4qt">Adjunct Counsellor</td>
+    <td class="tg-ii8k"> Mdm Alice Ng Lai Hingn</td>
   </tr>
 </tbody>
 </table>
