@@ -33,19 +33,19 @@ Staff
 <tbody>
   <tr>
     <td class="tg-n4qt"> 1 Care</td>
-    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Miss Ang Xin Yi </span><br><a href="mailto:ang_xin_yi@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">ang_xin_yi@schools.gov.sg </span></a><br><br><span style="color:#222;background-color:#EAEAEA">Mr Chen Zhuangwei </span><br><a href="mailto:chen_zhuangwei@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">chen_zhuangwei@schools.gov.sg</span></a><span style="color:#222;background-color:#EAEAEA"> </span><br><br><span style="color:#222;background-color:#EAEAEA">Mdm Wong Seok Wai Elaine </span><br><a href="mailto:wong_seok_wai@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">wong_seok_wai@schools.gov.sg</span></a><br><span style="color:#222;background-color:#EAEAEA"> </span></td>
+    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Miss Ang Xin Yi </span><br><a href="mailto:ang_xin_yi@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">ang_xin_yi@schools.gov.sg </span></a><br><br><span style="color:#222;background-color:#EAEAEA">Mr Chen Zhuangwei </span><br><a href="mailto:chen_zhuangwei@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">chen_zhuangwei@schools.gov.sg</span></a><span style="color:#222;background-color:#EAEAEA"> </span><br><br><span style="color:#222;background-color:#EAEAEA">Mdm Wong Seok Wai Elaine </span><br><a href="mailto:wong_seok_wai@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">wong_seok_wai@schools.gov.sg</span></a><br><span style="color:#222;background-color:#EAEAEA"></span></td>
   </tr>
   <tr>
     <td class="tg-n4qt">1 Gracious </td>
-    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Mrs Jeevetha Aravind</span><br><a href="mailto:jeevetha_manimaran@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">jeevetha_manimaran@schools.gov.sg</span></a><span style="color:#222;background-color:#EAEAEA"> </span><br><br><span style="color:#222;background-color:#EAEAEA">Mrs Wendy Looi</span><br><a href="mailto:chua_lay_choo@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">chua_lay_choo@schools.gov.sg</span></a><br><br><span style="color:#222;background-color:#EAEAEA"> Mdm Er Wei Lin </span><br><a href="mailto:er_wei_lin@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">er_wei_lin@schools.gov.sg </span></a><br><br></td>
+    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Mrs Jeevetha Aravind</span><br><a href="mailto:jeevetha_manimaran@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">jeevetha_manimaran@schools.gov.sg</span></a><span style="color:#222;background-color:#EAEAEA"> </span><br><br><span style="color:#222;background-color:#EAEAEA">Mrs Wendy Looi</span><br><a href="mailto:chua_lay_choo@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">chua_lay_choo@schools.gov.sg</span></a><br><br><span style="color:#222;background-color:#EAEAEA"> Mdm Er Wei Lin </span><br><a href="mailto:er_wei_lin@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">er_wei_lin@schools.gov.sg </span></a><br></td>
   </tr>
   <tr>
     <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> </span>1 Integrity </td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> </span><br><span style="color:#222;background-color:#EAEAEA">Mrs Katherine Leong </span><br><a href="mailto:choo_bee_leng@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">choo_bee_leng@schools.gov.sg</span></a><br><br><span style="color:#222;background-color:#EAEAEA">Mdm Siti Aishah Jamail</span><br><a href="mailto:siti_aishah_jamail@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">siti_aishah_jamail@schools.gov.sg</span></a><br><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> </span><br><span style="color:#222;background-color:#EAEAEA">Mrs Katherine Leong </span><br><a href="mailto:choo_bee_leng@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">choo_bee_leng@schools.gov.sg</span></a><br><br><span style="color:#222;background-color:#EAEAEA">Mdm Siti Aishah Jamail</span><br><a href="mailto:siti_aishah_jamail@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">siti_aishah_jamail@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-n4qt">1 Passion<br></td>
-    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Miss Teng Pei Fang </span><br><a href="mailto:teng_pei_fang@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">teng_pei_fang@schools.gov.sg</span></a><br><br><span style="color:#222;background-color:#EAEAEA">Mrs Janet Chua Siok Teng</span><br><a href="mailto:tan_siok_teng@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">tan_siok_teng@schools.gov.sg</span></a><br><br></td>
+    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Miss Teng Pei Fang </span><br><a href="mailto:teng_pei_fang@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">teng_pei_fang@schools.gov.sg</span></a><br><br><span style="color:#222;background-color:#EAEAEA">Mrs Janet Chua Siok Teng</span><br><a href="mailto:tan_siok_teng@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">tan_siok_teng@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-n4qt"> 1 Respect</td>
@@ -83,7 +83,7 @@ Staff
 <tbody>
   <tr>
     <td class="tg-n4qt"> 2 Care</td>
-    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Mdm Noraidah Azman</span><br><a href="mailto:noraidah_azman@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">noraidah_azman@schools.gov.sg</span></a><br><br><span style="color:#222;background-color:#EAEAEA"> Miss Zheng Yiying Yvonne </span><br><a href="mailto:zheng_yiying@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">zheng_yiying@schools.gov.sg</span></a><span style="color:#222;background-color:#EAEAEA"> </span><br><br></td>
+    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Mdm Noraidah Azman</span><br><a href="mailto:noraidah_azman@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">noraidah_azman@schools.gov.sg</span></a><br><br><span style="color:#222;background-color:#EAEAEA"> Miss Zheng Yiying Yvonne </span><br><a href="mailto:zheng_yiying@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">zheng_yiying@schools.gov.sg</span></a><span style="color:#222;background-color:#EAEAEA"> </span><br></td>
   </tr>
   <tr>
     <td class="tg-n4qt">2 Gracious</td>
@@ -91,7 +91,9 @@ Staff
   </tr>
   <tr>
     <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> </span>2 Integrity</td>
-    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Miss Yeo Hoon Kheng Eunice</span><br><a href="mailto:yeo_hoon_kheng@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">yeo_hoon_kheng@schools.gov.sg</span></a><br><br><span style="color:#222;background-color:#EAEAEA">Mr Zulkarnain Daud </span><br><a href="mailto:zulkarnain_daud@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">zulkarnain_daud@schools.gov.sg</span></a><span style="color:#222;background-color:#EAEAEA"> </span><br><br></td>
+    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Miss Yeo Hoon Kheng Eunice</span><br><a href="mailto:yeo_hoon_kheng@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">yeo_hoon_kheng@schools.gov.sg</span></a><br><br> 
+<span style="color:#222;background-color:#EAEAEA">Mdm Chong Su Fang </span><br><a href="mailto:chong_su_fang@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">chong_su_fang@schools.gov.sg</span><br><br>
+<span style="color:#222;background-color:#EAEAEA">Mr Zulkarnain Daud </span><br></a><a href="mailto:zulkarnain_daud@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">zulkarnain_daud@schools.gov.sg</span></a><span style="color:#222;background-color:#EAEAEA"> </span><br><br></td>
   </tr>
   <tr>
     <td class="tg-n4qt">2 Passion</td>
