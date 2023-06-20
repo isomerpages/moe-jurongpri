@@ -41,7 +41,7 @@ Staff
   </tr>
   <tr>
     <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> </span>1 Integrity </td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> </span><br><span style="color:#222;background-color:#EAEAEA">Mrs Katherine Leong </span><br><a href="mailto:choo_bee_leng@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">choo_bee_leng@schools.gov.sg</span></a><br><br><span style="color:#222;background-color:#EAEAEA">Mdm Siti Aishah Jamail</span><br><a href="mailto:siti_aishah_jamail@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">siti_aishah_jamail@schools.gov.sg</span></a><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> </span><span style="color:#222;background-color:#EAEAEA">Mrs Katherine Leong </span><br><a href="mailto:choo_bee_leng@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">choo_bee_leng@schools.gov.sg</span></a><br><br><span style="color:#222;background-color:#EAEAEA">Mdm Siti Aishah Jamail</span><br><a href="mailto:siti_aishah_jamail@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">siti_aishah_jamail@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-n4qt">1 Passion<br></td>
@@ -83,11 +83,11 @@ Staff
 <tbody>
   <tr>
     <td class="tg-n4qt"> 2 Care</td>
-    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Mdm Noraidah Azman</span><br><a href="mailto:noraidah_azman@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">noraidah_azman@schools.gov.sg</span></a><br><br><span style="color:#222;background-color:#EAEAEA"> Miss Zheng Yiying Yvonne </span><br><a href="mailto:zheng_yiying@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">zheng_yiying@schools.gov.sg</span></a><span style="color:#222;background-color:#EAEAEA"> </span><br></td>
+    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Mdm Noraidah Azman</span><br><a href="mailto:noraidah_azman@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">noraidah_azman@schools.gov.sg</span></a><br><br><span style="color:#222;background-color:#EAEAEA"> Miss Zheng Yiying Yvonne </span><br><a href="mailto:zheng_yiying@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">zheng_yiying@schools.gov.sg</span></a><span style="color:#222;background-color:#EAEAEA"> </span><br><br></td>
   </tr>
   <tr>
     <td class="tg-n4qt">2 Gracious</td>
-    <td class="tg-ii8k">Mdm Or Chiew Peng  <br><a href="mailto:or_chiew_peng@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">or_chiew_peng@schools.gov.sg</span></a><br><br>Mr Ayatollah Khomeini B Salleh <br><a href="mailto:ayatollah_khomeini_salleh@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">ayatollah_khomeini_salleh@schools.gov.sg</span></a></td>
+    <td class="tg-ii8k">Mdm Or Chiew Peng  <br><a href="mailto:or_chiew_peng@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">or_chiew_peng@schools.gov.sg</span></a><br><br>Mr Ayatollah Khomeini B Salleh <br><a href="mailto:ayatollah_khomeini_salleh@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">ayatollah_khomeini_salleh@schools.gov.sg</span></a><br><br></td>
   </tr>
   <tr>
     <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> </span>2 Integrity</td>
@@ -101,11 +101,12 @@ Staff
   </tr>
   <tr>
     <td class="tg-n4qt">2 Respect</td>
-    <td class="tg-ii8k">Ms Nur Dhumaika Jumat<br><a href="mailto:nur_dhumaika_jumat@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">nur_dhumaika_jumat@schools.gov.sg</span></a><br><br>Mdm Nurul Fadilah Binte Hashim<br><a href="mailto:nurul_fadilah_hashim@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">nurul_fadilah_hashim@schools.gov.sg</span></a><br></td>
+    <td class="tg-ii8k">Ms Nur Dhumaika Jumat<br><a href="mailto:nur_dhumaika_jumat@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">nur_dhumaika_jumat@schools.gov.sg</span></a><br><br>Mdm Nurul Fadilah Binte Hashim<br><a href="mailto:nurul_fadilah_hashim@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">nurul_fadilah_hashim@schools.gov.sg</span></a><br><br></td>
   </tr>
   <tr>
     <td class="tg-n4qt">2 Responsibility</td>
-    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Mrs Tan-Pek Ming Rang  </span><br><a href="mailto:pek_ming_rang@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">pek_ming_rang@schools.gov.sg</span></a><br><br>Mrs Stella Tan<br><a href="mailto:ho_qian_yi@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">ho_qian_yi@schools.gov.sg </span></a><br><br>Mdm Chinnamma Devi<br><a href="mailto:chinnamma_devi@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">chinnamma_devi@schools.gov.sg</span></a></td>
+    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Mrs Tan-Pek Ming Rang  </span><br><a href="mailto:pek_ming_rang@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">pek_ming_rang@schools.gov.sg</span></a><br><br>Mrs Stella Tan<br><a href="mailto:ho_qian_yi@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">ho_qian_yi@schools.gov.sg </span></a><br><br>Mdm Chinnamma Devi<br><a href="mailto:chinnamma_devi@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">chinnamma_devi@schools.gov.sg</span></a><br><br>
+		Mr Brendan Gerard Jeremiah<br><a href="mailto:brendan_gerard_jeremiah@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">brendan_gerard_jeremiah@schools.gov.sg</span><br><br></a></td>
   </tr>
 </tbody>
 </table>
@@ -142,15 +143,15 @@ Staff
   </tr>
   <tr>
     <td class="tg-n4qt">3 Passion</td>
-    <td class="tg-ii8k"><br>Miss Lam Fee Min Corinna <br><a href="mailto:lam_fee_min_corinna@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">lam_fee_min_corinna@schools.gov.sg</span></a><br> <br>Mr Ravindran s/o Rajasekeran <br><a href="mailto:ravindran_rajasekeran@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">ravindran_rajasekeran@schools.gov.sg</span></a><br><br>Mr Tan Kin Chiew Jimmy<br><a href="mailto:tan_kin_chiew@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">tan_kin_chiew@schools.gov.sg</span></a><br></td>
+    <td class="tg-ii8k">Mdm Nurul Husna Abd Aziz <br><a href="mailto:nurul_husna_abdul_aziz@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">nurul_husna_abdul_aziz@schools.gov.sg</span></a><br> <br>Mr Ravindran s/o Rajasekeran <br><a href="mailto:ravindran_rajasekeran@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">ravindran_rajasekeran@schools.gov.sg</span></a><br><br>Mr Tan Kin Chiew Jimmy<br><a href="mailto:tan_kin_chiew@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">tan_kin_chiew@schools.gov.sg</span></a><br><br></td>
   </tr>
   <tr>
     <td class="tg-n4qt">3 Respect </td>
-    <td class="tg-ii8k"><br>Miss Kirk Bee Har  <br><a href="mailto:kirk_bee_har@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">kirk_bee_har@schools.gov.sg</span></a><br><br>Mr Zailany Findy B Safie <br><a href="mailto:zailany_findy_safie@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">zailany_findy_safie@schools.gov.sg</span></a><br></td>
+    <td class="tg-ii8k">Miss Kirk Bee Har  <br><a href="mailto:kirk_bee_har@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">kirk_bee_har@schools.gov.sg</span></a><br><br>Mr Zailany Findy B Safie <br><a href="mailto:zailany_findy_safie@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">zailany_findy_safie@schools.gov.sg</span></a><br><br></td>
   </tr>
   <tr>
     <td class="tg-n4qt">3 Responsibility</td>
-    <td class="tg-ii8k">Mdm Huang Yan <br><a href="mailto:huang_yan@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">huang_yan@schools.gov.sg</span></a><br><br>Ms Neo Siao Wei Ann<br><a href="mailto:neo_siao_wei@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">neo_siao_wei@schools.gov.sg</span></a></td>
+    <td class="tg-ii8k">Mdm Huang Yan <br><a href="mailto:huang_yan@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">huang_yan@schools.gov.sg</span></a><br><br>Ms Neo Siao Wei Ann<br><a href="mailto:neo_siao_wei@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">neo_siao_wei@schools.gov.sg</span></a><br><br></td>
   </tr>
 </tbody>
 </table>
