@@ -346,5 +346,8 @@ Mdm Nur Fadzila Bte Abd Kadir <br><a href="mailto:nur_fadzila_abdul_kadir@school
 	 <tr>
     <td class="tg-n4qt">Mdm Sally Tan</td>
     <td class="tg-ii8k"><a href="mailto:tan_siew_choo_b@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">tan_siew_choo_b@schools.gov.sg</span></a></td>
+  </tr><tr>
+    <td class="tg-n4qt">Mrs Cheah- Soh Bee Tin</td>
+    <td class="tg-ii8k"></td>
   </tr>
 	</thead></table>
