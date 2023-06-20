@@ -33,7 +33,7 @@ Executive &amp; Administrative Staff
   </tr>
   <tr>
     <td class="tg-n4qt"> Operations Manager</td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Wilson Cheng</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Cheng Poh Teck Wilson</span></td>
   </tr>
   <tr>
     <td class="tg-n4qt"> ICT Manager</td>
@@ -55,7 +55,10 @@ Executive &amp; Administrative Staff
     <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> </span>CSO </td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Mdm Julaiha Beeve d/o Osman</span></td>
   </tr>
-  
+    <tr>
+    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> </span>CSO </td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Ms Eileen Tan Bee Yean </span></td>
+  </tr>
   <tr>
     <td class="tg-n4qt">OSO</td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mdm Azizah Bte Sabar </span></td>
