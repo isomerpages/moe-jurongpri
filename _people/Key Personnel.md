@@ -110,7 +110,7 @@ Key Personnel
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">MR RAVINDRAN S/O RAJASEKERAN </span><br></td>
   </tr>
 	 <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> HOD ICT and DATA MANAGEMENT</span><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> HOD ICT &amp; DATA MANAGEMENT</span><br></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> MDM ER WEI LIN</span><br></td>
   </tr>
   <tr>
