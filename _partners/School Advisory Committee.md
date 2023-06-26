@@ -14,4 +14,5 @@ Our School Advisory Committee are: 
 *   Mr Kuan Kian Wee Gerald (member)
 *   Mr Kenneth Lim (member)
 *   Dr Anitha Devi Pillai (member)
-*   Mr Navindraram Naidu(member)
+*   Mr Navindraram Naidu (member)
+*   Ms Annie Chong (member)
