@@ -193,7 +193,7 @@ Mdm Ang Xu Qin Chuliet <br><a href="mailto:ang_xu_qin_chuliet@schools.gov.sg"><s
   </tr>
   <tr>
     <td class="tg-n4qt">4 Respect</td>
-    <td class="tg-ii8k">Mr Wee Wei Min<br><a href="mailto:wee_wei_min@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">wee_wei_min@schools.gov.sg</span></a><br>Mdm Yee Yen Bee Amy<br><a href="mailto:yee_yen_bee@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">yee_yen_bee@schools.gov.sg</span></a><br><br>Ms Roshidah Karyeo <br><a href="mailto:roshidah_karyeo@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">roshidah_karyeo@schools.gov.sg</span></a><br><br></td>
+    <td class="tg-ii8k">Mr Wee Wei Min<br><a href="mailto:wee_wei_min@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">wee_wei_min@schools.gov.sg</span></a><br><br>Mdm Yee Yen Bee Amy<br><a href="mailto:yee_yen_bee@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">yee_yen_bee@schools.gov.sg</span></a><br><br>Ms Roshidah Karyeo <br><a href="mailto:roshidah_karyeo@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">roshidah_karyeo@schools.gov.sg</span></a><br><br></td>
   </tr>
   <tr>
     <td class="tg-n4qt">4 Responsibility</td>
