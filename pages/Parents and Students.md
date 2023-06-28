@@ -10,7 +10,7 @@ description: ""
 *   [SLS Website](https://vle.learning.moe.edu.sg/login) (Students)
 *   [Student ICON](https://workspace.google.com/dashboard) (Students)
 *   [Positive Parenting Programme](/files/JPS%202023%20L2%20Seminars.pdf)
-*   [WE Stories 2022](https://online.fliphtml5.com/obrr/qkde/#p=1) 
+* <a target="_blank" href="https://online.fliphtml5.com/obrr/qkde/#p=1"> WE Stories 2023</a>
 *   [JPS School Bag Weight Loss Project by PSG](/files/School%20Bag%20Weight%20Loss%20Project.pdf)
 *   [JPS Booklist 2023](/forms/JPS-Booklist-2023/)
 *   [Family @ JPS](/partners/Family-Matters-at-JPS/)
