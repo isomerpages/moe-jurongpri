@@ -21,13 +21,13 @@ School Leaders
 <thead>
   <tr>
     <th class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">PRINCIPAL</span></th>
-    <th class="tg-ii8k"><img src="/images/Mr%20Chua.jpeg" style="width:40%"><span style="color:#222;background-color:#EAEAEA">MR LEONARD CHUA</span><br><span style="color:#222;background-color:#EAEAEA"> </span></th>
+    <th class="tg-ii8k"><img src="/images/Staff%20Photos%202023/School%20Leaders/mr%20leonard%20chua.jpg" style="width:40%"><span style="color:#222;background-color:#EAEAEA">MR LEONARD CHUA</span><br><span style="color:#222;background-color:#EAEAEA"> </span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">VICE-PRINCIPAL (ACAD) </span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> </span><br><img src="/images/Mdm%20Wong.jpeg" style="width:40%"><span style="color:#222;background-color:#EAEAEA">MDM WONG SU MAY</span><br><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> </span><br><img src="/images/Staff%20Photos%202023/School%20Leaders/ms%20wong%20su%20may.jpg" style="width:40%"><span style="color:#222;background-color:#EAEAEA">MDM WONG SU MAY</span><br><br></td>
   </tr>
   <tr>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> </span><br><br><span style="color:#222;background-color:#EAEAEA">VICE-PRINCIPAL (ADMIN)</span><br><br></td>
