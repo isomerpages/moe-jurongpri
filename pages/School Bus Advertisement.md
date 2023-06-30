@@ -22,7 +22,3 @@ To apply, please refer to the Service Requirements and the Application Procedure
 **How to get there? **
 * Nearest MRT: Chinese Garden MRT (EW25 line) - 10 minutes walking distance
 * Bus number: 333 - 1 minute walking distance
-
-
-	
-	
