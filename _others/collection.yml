@@ -2,7 +2,6 @@ collections:
   others:
     output: true
     order:
-      - WE STories 2023.md
       - General Information.md
       - Frequently Asked Questions.md
       - Privacy Statement.md
