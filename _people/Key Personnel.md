@@ -25,8 +25,8 @@ Key Personnel
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ii8k">SCHOOL STAFF DEVELOPER</td>
-    <td class="tg-ii8k">MS ROSHIDAH KARYEO</td>
+    <td class="tg-ii8k"><br><br><br><br><br><br><br><br><br><br><br><br>SCHOOL STAFF DEVELOPER<br><br>MS ROSHIDAH KARYEO</td>
+    <td class="tg-ii8k"> <img src="/images/Staff%20Photos%202023/KPs/ms%20roshidah%20karyeov3.jpg"></td>
   </tr>
   <tr>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> YEAR HEAD (UPPER PRIMARY)</span><br></td>
