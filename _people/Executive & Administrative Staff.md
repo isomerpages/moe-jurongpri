@@ -39,6 +39,10 @@ Executive &amp; Administrative Staff
     <td class="tg-n4qt"> ICT Manager</td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Ms Ezzah Asyrani Zainal </span></td>
   </tr>
+	 <tr>
+    <td class="tg-n4qt"> ICT Executive</td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Khairul Syamal Jamaludin </span></td>
+  </tr>
   <tr>
     <td class="tg-n4qt">Admin Executive </td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Mr Lee Chee Joo </span></td>
