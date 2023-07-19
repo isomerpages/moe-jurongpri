@@ -41,7 +41,7 @@ Executive &amp; Administrative Staff
   </tr>
 	 <tr>
     <td class="tg-n4qt"> ICT Executive</td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Khairul Syamal Jamaludin </span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Khairul Syamal Bin Jamaludin </span></td>
   </tr>
   <tr>
     <td class="tg-n4qt">Admin Executive </td>
