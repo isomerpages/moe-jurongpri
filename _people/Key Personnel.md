@@ -105,12 +105,12 @@ Key Personnel
     <td class="tg-ku5w"><img src="images/Staff Photos 2023/KPs/mr ravindran so rajasekeran.jpg"></td>
   </tr>
 	 <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> HOD ICT &amp; DATA MANAGEMENT<br><br> MDM ER WEI LIN</span><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> HOD ICT &amp; DATA MANAGEMENT<br><br> MDM ER WEI LIN</span></td>
     <td class="tg-ku5w"><img src="images/Staff Photos 2023/KPs/mdm er wei lin.jpg"></td>
   </tr>
   <tr>
-    <td class="tg-ii8k">SH ICT </td>
-    <td class="tg-ii8k">MR BILLY TAN LING JUN</td>
+    <td class="tg-ii8k"><br><br><br><br><br><br><br><br><br><br><br><br><br><br> SH ICT <br><br>MR BILLY TAN LING JUN </td>
+    <td class="tg-ii8k"><img src="images/Staff Photos 2023/KPs/mr tan ling jun billy.jpg"></td>
   </tr>
  
  
