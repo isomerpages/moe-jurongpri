@@ -18,30 +18,25 @@ Key Personnel
 .tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ii8k" colspan="2"></th>
-  </tr>
-</thead>
 <tbody>
   <tr>
-    <td class="tg-ii8k">SCHOOL STAFF DEVELOPER</td>
-    <td class="tg-ii8k">MS ROSHIDAH KARYEO</td>
+    <td class="tg-ii8k">SCHOOL STAFF DEVELOPER<br></td>
+    <td class="tg-ii8k"> <br>MS ROSHIDAH KARYEO<br></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> YEAR HEAD (UPPER PRIMARY)</span><br></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">MS LEE AI LING</span><span style="color:#222;background-color:#EAEAEA"> </span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">YEAR HEAD <br>(UPPER PRIMARY)</span><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">MS LEE AI LING </span></td>
   </tr>
   <tr>
-    <td class="tg-ii8k">YEAR HEAD (LOWER PRIMARY)</td>
-    <td class="tg-ii8k">MDM CHINNAMMA DEVI</td>
+    <td class="tg-ii8k">YEAR HEAD <br> (LOWER PRIMARY)<br></td>
+    <td class="tg-ii8k"><br>MDM CHINNAMMA DEVI<br></td>
   </tr>
 	<tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> ASSISTANT YEAR HEAD P3 (INT)</span><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> ASSISTANT YEAR HEAD<br> P3 (INT)<br></span></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">MR ZAILANY FINDY BIN SAFIE</span><br></td>
   </tr>
 	  <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> ASSISTANT YEAR HEAD P6 (INT)</span><br><span style="color:#222;background-color:#EAEAEA"> </span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> ASSISTANT YEAR HEAD<br> P6 (INT)<br></span></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">MDM NUR FADZILA ABD KADIR</span><br><span style="color:#222;background-color:#EAEAEA"> </span></td>
   </tr>
 	 <tr>
@@ -49,7 +44,7 @@ Key Personnel
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">MDM FARIDAH BEHAM D/O ABD RAZEED</span><br><span style="color:#222;background-color:#EAEAEA"> </span></td>
   </tr>
 	 <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> LH ENGLISH</span><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">LH ENGLISH</span><br></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">MDM NOORKIAH MOHD HASHIM</span><br><span style="color:#222;background-color:#EAEAEA"> </span></td>
   </tr>
   <tr>
@@ -57,64 +52,64 @@ Key Personnel
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> MR TAN KIN CHIEW JIMMY</span></td>
   </tr>
   <tr>
-    <td class="tg-ii8k">SH CHINESE LANGUAGE </td>
-    <td class="tg-ii8k">MRS JANET CHUA - TAN SIOK TENG</td>
+    <td class="tg-ii8k">SH CHINESE LANGUAGE <br> </td>
+    <td class="tg-ii8k"><br>MRS JANET CHUA - TAN SIOK TENG <br></td>
   </tr>
   <tr>
-    <td class="tg-ii8k">HOD MATHEMATICS</td>
-    <td class="tg-ii8k">MS NUR SOFHIA BUANG</td>
+    <td class="tg-ii8k">HOD MATHEMATICS<br></td>
+    <td class="tg-ii8k">MS NUR SOFHIA BUANG<br></td>
   </tr>
   <tr>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">LH MATHEMATICS</span><br></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">MS NEO SIAO WEI ANN</span><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">MS NEO SIAO WEI ANN </span><br></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> LH SCIENCE</span><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> LH SCIENCE </span><br></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> MDM CHULIET ANG XU QIN </span><br></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">  LH SCIENCE</span><br></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">  MRS KOH QIUWEN</span><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">LH SCIENCE</span><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">MRS KOH QIUWEN</span><br></td>
   </tr>
   <tr>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">  HOD PAM/CCA</span><br></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> MR ZULKARNAIN B DAUD</span><br></td>
   </tr>
   <tr>
-    <td class="tg-ii8k">SH PHE/CCA<br></td>
-    <td class="tg-ii8k">MR MUHD HAKIM KAMARUDIN<br></td>
+		<td class="tg-ii8k">SH PHE/CCA<br></td>
+    <td class="tg-ii8k">MR MUHD HAKIM KAMARUDIN</td>
   </tr>
   <tr>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> SH AESTHETICS (INT)</span><br></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">MISS ZHENG YIYING YVONNE</span><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">MISS ZHENG YIYING YVONNE </span><br></td>
   </tr>
   <tr>
     <td class="tg-ii8k">HOD CCE<br></td>
-    <td class="tg-ii8k">MDM ELAINE WONG SEOK WAI<br></td>
+    <td class="tg-ii8k"> MDM ELAINE WONG SEOK WAI</td>
   </tr>
 	<tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> SH CCE</span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">MS EUNICE TANG YOU NI</span><br><span style="color:#222;background-color:#EAEAEA"> </span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> SH CCE<br></span></td>
+    <td class="tg-ku5w">MS EUNICE TANG YOU NI</td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">SH CITIZENSHIP &amp; SOCIAL STUDIES</span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">MDM NORAIDAH AZMAN</span><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">LH CITIZENSHIP EDUCATION &amp; SOCIAL STUDIES</span></td>
+    <td class="tg-ku5w">MDM NORAIDAH AZMAN</td>
   </tr>
   
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">HOD DISCIPLINE</span><br></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">MR JARON POW TIEN MIN</span><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">HOD STUDENT MANAGEMENT</span></td>
+    <td class="tg-ku5w">MR JARON POW TIEN MIN</td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> LH DISCIPLINE/STUDENT LEADERSHIP</span><br></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">MR RAVINDRAN S/O RAJASEKERAN </span><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> SH DISCIPLINE/STUDENT LEADERSHIP</span><br></td>
+    <td class="tg-ku5w">MR RAVINDRAN S/O RAJASEKERAN</td>
   </tr>
 	 <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> HOD ICT &amp; DATA MANAGEMENT</span><br></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> MDM ER WEI LIN</span><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> HOD ICT &amp; DATA MANAGEMENT</span></td>
+    <td class="tg-ku5w">MDM ER WEI LIN</td>
   </tr>
   <tr>
-    <td class="tg-ii8k">SH ICT </td>
+    <td class="tg-ii8k"> SH ICT  </td>
     <td class="tg-ii8k">MR BILLY TAN LING JUN</td>
   </tr>
  

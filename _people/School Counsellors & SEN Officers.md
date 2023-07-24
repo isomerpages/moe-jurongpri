@@ -1,11 +1,11 @@
 ---
-title: Allied Educators
-permalink: /people/Allied-Educators/
+title: School Counsellors & SEN Officers
+permalink: /people/scseno/
 description: ""
 ---
 ![](/images/Banner.png)
 
-Allied Educators
+School Counsellors &amp; SEN Officers
 ================
 
 
@@ -46,7 +46,7 @@ Allied Educators
   </tr>
 	  <tr>
     <td class="tg-n4qt">Adjunct Counsellor</td>
-    <td class="tg-ii8k"> Mdm Alice Ng Lai Hingn</td>
+    <td class="tg-ii8k"> Mdm Alice Ng Lai Hing</td>
   </tr>
 </tbody>
 </table>
