@@ -97,7 +97,7 @@ Key Personnel
   </tr>
   
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">HOD DISCIPLINE</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">HOD STUDENT MANAGEMENT</span></td>
     <td class="tg-ku5w">MR JARON POW TIEN MIN</td>
   </tr>
   <tr>
