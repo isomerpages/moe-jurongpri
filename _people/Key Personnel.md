@@ -64,7 +64,7 @@ Key Personnel
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">MS NEO SIAO WEI ANN </span><br></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> LH SCIENCE </span><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> SH Science (HOD Covering) </span><br></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> MDM CHULIET ANG XU QIN </span><br></td>
   </tr>
   <tr>
@@ -84,15 +84,15 @@ Key Personnel
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">MISS ZHENG YIYING YVONNE </span><br></td>
   </tr>
   <tr>
-    <td class="tg-ii8k">HOD CCE<br></td>
+    <td class="tg-ii8k">HOD CHARACTER &amp; CITIZENSHIP EDUCATION<br></td>
     <td class="tg-ii8k"> MDM ELAINE WONG SEOK WAI</td>
   </tr>
 	<tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> SH CCE<br></span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> SH CHARACTER EDUCATION<br></span></td>
     <td class="tg-ku5w">MS EUNICE TANG YOU NI</td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">LH CITIZENSHIP EDUCATION &amp; SOCIAL STUDIES</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">SH CITIZENSHIP EDUCATION &amp; SOCIAL STUDIES </span></td>
     <td class="tg-ku5w">MDM NORAIDAH AZMAN</td>
   </tr>
   
@@ -101,7 +101,7 @@ Key Personnel
     <td class="tg-ku5w">MR JARON POW TIEN MIN</td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> SH DISCIPLINE/STUDENT LEADERSHIP</span><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> SH DISCIPLINE &amp; STUDENT LEADERSHIP</span><br></td>
     <td class="tg-ku5w">MR RAVINDRAN S/O RAJASEKERAN</td>
   </tr>
 	 <tr>
@@ -109,7 +109,7 @@ Key Personnel
     <td class="tg-ku5w">MDM ER WEI LIN</td>
   </tr>
   <tr>
-    <td class="tg-ii8k"> SH ICT  </td>
+    <td class="tg-ii8k"> LH ICT  </td>
     <td class="tg-ii8k">MR BILLY TAN LING JUN</td>
   </tr>
  
