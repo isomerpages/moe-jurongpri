@@ -298,7 +298,7 @@ Mdm Ang Xu Qin Chuliet <br><a href="mailto:ang_xu_qin_chuliet@schools.gov.sg"><s
   <tr>
     <td class="tg-n4qt">6 Responsibility</td>
     <td class="tg-ii8k"> Miss Norashikin Hambali <br><a href="mailto:norashikin_hambali@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">norashikin_hambali@schools.gov.sg</span></a><br><br>
-Mr Halimi Ahssanr <br><a href="mailto:halimi_ahssan@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">halimi_ahssan@schools.gov.sg</span></a><br><br>			
+Mr Halimi Ahssan <br><a href="mailto:halimi_ahssan@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">halimi_ahssan@schools.gov.sg</span></a><br><br>			
 Mdm Nur Fadzila Bte Abd Kadir <br><a href="mailto:nur_fadzila_abdul_kadir@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">nur_fadzila_abdul_kadir@schools.gov.sg</span></a><br><br></td>
   </tr>
 </tbody>
