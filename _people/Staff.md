@@ -348,6 +348,6 @@ Mdm Nur Fadzila Bte Abd Kadir <br><a href="mailto:nur_fadzila_abdul_kadir@school
     <td class="tg-ii8k"><a href="mailto:tan_siew_choo_b@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">tan_siew_choo_b@schools.gov.sg</span></a></td>
   </tr><tr>
     <td class="tg-n4qt">Mrs Cheah- Soh Bee Tin</td>
-    <td class="tg-ii8k"></td>
+    <td class="tg-ii8k"><a href="mailto:cheahsoh_bee_tin@schools.gov.sg">cheahsoh_bee_tin@schools.gov.sg</a></td>
   </tr>
 	</thead></table>
