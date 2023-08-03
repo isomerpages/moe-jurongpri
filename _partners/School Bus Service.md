@@ -3,6 +3,8 @@ title: School Bus Service
 permalink: /partners/schoolbusservice/
 description: ""
 ---
+# School Bus Operator and Bus Fare <br>
+
 Jurong Primary School<br>
 Operator: Chang Chen Pte Ltd <br>
 Tel: 6760 4835<br><br>
@@ -47,4 +49,3 @@ Tel: 6760 4835<br><br>
   </tr>
 </tbody>
 </table>
-
