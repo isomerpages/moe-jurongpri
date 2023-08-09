@@ -69,7 +69,7 @@ Key Personnel
   </tr>
   <tr>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">LH SCIENCE</span><br></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">MRS KOH QIUWEN</span><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"><img src="images/Staff Photos 2023/KPs/mrs koh qiuwen.jpg"><br> MRS KOH QIUWEN</span><br></td>
   </tr>
   <tr>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">  HOD PAM/CCA</span><br></td>
@@ -89,7 +89,7 @@ Key Personnel
   </tr>
 	<tr>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> SH CHARACTER EDUCATION<br></span></td>
-    <td class="tg-ku5w">MS EUNICE TANG YOU NI</td>
+    <td class="tg-ku5w"><img src="/images/Staff%20Photos%202023/KPs/ms%20tang%20you%20ni%20eunice.jpg"><br>MS EUNICE TANG YOU NI</td>
   </tr>
   <tr>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">SH CITIZENSHIP EDUCATION &amp; SOCIAL STUDIES </span></td>
