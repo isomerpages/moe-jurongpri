@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/homepage04041.gif
+      background: /images/homepage_v2.gif
       key_highlights:
         - title: Announcements
           description: ""
@@ -20,5 +20,5 @@ sections:
           url: /teachers/
         - title: Calendar
           description: ""
-          url: " /jps/calendar-of-events/"
+          url: /jps/calendar-of-events/
 ---
