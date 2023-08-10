@@ -109,7 +109,7 @@ Key Personnel
     <td class="tg-ku5w"><img src="images/Staff Photos 2023/KPs/mdm er wei lin.jpg">MDM ER WEI LIN<br></td>
   </tr>
   <tr>
-    <td class="tg-ii8k"> LH ICT  </td>
+    <td class="tg-ii8k"> <br><br><br><br><br><br>LH ICT  </td>
     <td class="tg-ii8k"><img src="images/Staff Photos 2023/KPs/mr tan ling jun billy.jpg">MR BILLY TAN LING JUN<br></td>
   </tr>
  
