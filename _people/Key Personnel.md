@@ -20,12 +20,12 @@ Key Personnel
 <table class="tg">
 <tbody>
   <tr>
-    <td class="tg-ii8k">SCHOOL STAFF DEVELOPER<br></td>
-    <td class="tg-ii8k"> <br>MS ROSHIDAH KARYEO<br></td>
+    <td class="tg-ii8k"><br><br><br><br><br><br>SCHOOL STAFF DEVELOPER<br></td>
+    <td class="tg-ii8k"> <img src="images/Staff Photos 2023/KPs/ms roshidah karyeo.jpg">MS ROSHIDAH KARYEO<br></td>
   </tr>
   <tr>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">YEAR HEAD <br>(UPPER PRIMARY)</span><br></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">MS LEE AI LING </span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"><img src="images/Staff Photos 2023/KPs/ms lee ai ling.jpg"> LEE AI LING </span></td>
   </tr>
   <tr>
     <td class="tg-ii8k">YEAR HEAD <br> (LOWER PRIMARY)<br></td>
