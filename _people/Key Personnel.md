@@ -87,23 +87,23 @@ Key Personnel
       <br>
       <br>
       HOD MATHEMATICS<br></td>
-      <td class="tg-ii8k"><img alt="ms%20nur%20sofhia%20buang" src="images/Staff%20Photos%202023/KPs/ms%20nur%20sofhia%20buang.jpg"> MS NUR SOFHIA BUANG<br></td>
+      <td class="tg-ii8k"><img alt="ms%20nur%20sofhia%20buang" src="/images/Staff%20Photos%202023/KPs/ms%20nur%20sofhia%20buang.jpg"> MS NUR SOFHIA BUANG<br></td>
     </tr>
     <tr>
       <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">LH MATHEMATICS</span><br></td>
-      <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"><img alt="ms%20neo%20siao%20wei%20ann" src="images/Staff%20Photos%202023/KPs/ms%20neo%20siao%20wei%20ann.jpg">MS NEO SIAO WEI ANN</span><br></td>
+      <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"><img alt="ms%20neo%20siao%20wei%20ann" src="/images/Staff%20Photos%202023/KPs/ms%20neo%20siao%20wei%20ann.jpg">MS NEO SIAO WEI ANN</span><br></td>
     </tr>
     <tr>
       <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">SH Science (HOD Covering)</span><br></td>
-      <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"><img alt="mdm%20ang%20xu%20qin%20chuliet" src="images/Staff%20Photos%202023/KPs/mdm%20ang%20xu%20qin%20chuliet.jpg"> MDM CHULIET ANG XU QIN</span><br></td>
+      <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"><img alt="mdm%20ang%20xu%20qin%20chuliet" src="/images/Staff%20Photos%202023/KPs/mdm%20ang%20xu%20qin%20chuliet.jpg"> MDM CHULIET ANG XU QIN</span><br></td>
     </tr>
     <tr>
       <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">LH SCIENCE</span><br></td>
-      <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"><img alt="mrs%20koh%20qiuwen" src="images/Staff%20Photos%202023/KPs/mrs%20koh%20qiuwen.jpg">MRS KOH QIUWEN</span><br></td>
+      <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"><img alt="mrs%20koh%20qiuwen" src="/images/Staff%20Photos%202023/KPs/mrs%20koh%20qiuwen.jpg">MRS KOH QIUWEN</span><br></td>
     </tr>
     <tr>
       <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">HOD PAM/CCA</span><br></td>
-      <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"><img alt="mr%20zulkarnain%20b%20daud" src="images/Staff%20Photos%202023/KPs/mr%20zulkarnain%20b%20daud.jpg">MR ZULKARNAIN B DAUD</span><br></td>
+      <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"><img alt="mr%20zulkarnain%20b%20daud" src="/images/Staff%20Photos%202023/KPs/mr%20zulkarnain%20b%20daud.jpg">MR ZULKARNAIN B DAUD</span><br></td>
     </tr>
     <tr>
       <td class="tg-ii8k"><br>
@@ -113,7 +113,7 @@ Key Personnel
       <br>
       <br>
       SH PHE/CCA<br></td>
-      <td class="tg-ii8k"><img alt="mr%20muhd%20hakim%20kamarudin" src="images/Staff%20Photos%202023/KPs/mr%20muhd%20hakim%20kamarudin.jpg">MR MUHD HAKIM KAMARUDIN<br></td>
+      <td class="tg-ii8k"><img alt="mr%20muhd%20hakim%20kamarudin" src="/images/Staff%20Photos%202023/KPs/mr%20muhd%20hakim%20kamarudin.jpg">MR MUHD HAKIM KAMARUDIN<br></td>
     </tr>
     <tr>
       <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">SH AESTHETICS (INT)</span><br></td>
