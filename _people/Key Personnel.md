@@ -67,7 +67,7 @@ Key Personnel
     </tr>
     <tr>
       <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">HOD MOTHER TONGUE LANGUAGE</span><br></td>
-      <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"><img alt="mr%20tan%20kin%20chiew%20jimmy" src="images/Staff%20Photos%202023/KPs/mr%20tan%20kin%20chiew%20jimmy.jpg"> MR TAN KIN CHIEW JIMMY</span><br></td>
+      <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"><img alt="mr%20tan%20kin%20chiew%20jimmy" src="/images/Staff%20Photos%202023/KPs/mr%20tan%20kin%20chiew%20jimmy.jpg"> MR TAN KIN CHIEW JIMMY</span><br></td>
     </tr>
     <tr>
       <td class="tg-ii8k"><br>
@@ -77,7 +77,7 @@ Key Personnel
       <br>
       <br>
       SH CHINESE LANGUAGE<br></td>
-      <td class="tg-ii8k"><img alt="mrs%20janet%20chua%20siok%20teng" src="images/Staff%20Photos%202023/KPs/mrs%20janet%20chua%20siok%20teng.jpg">MRS JANET CHUA - TAN SIOK TENG<br></td>
+      <td class="tg-ii8k"><img alt="mrs%20janet%20chua%20siok%20teng" src="/images/Staff%20Photos%202023/KPs/mrs%20janet%20chua%20siok%20teng.jpg">MRS JANET CHUA - TAN SIOK TENG<br></td>
     </tr>
     <tr>
       <td class="tg-ii8k"><br>
