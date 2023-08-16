@@ -147,7 +147,7 @@ Key Personnel
     </tr>
     <tr>
       <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">HOD ICT &amp; DATA MANAGEMENT</span></td>
-      <td class="tg-ku5w"><img alt="mdm%20er%20wei%20lin" src="images/Staff%20Photos%202023/KPs/mdm%20er%20wei%20lin.jpg">MDM ER WEI LIN<br></td>
+      <td class="tg-ku5w"><img alt="mdm%20er%20wei%20lin" src="/images/Staff%20Photos%202023/KPs/mdm%20er%20wei%20lin.jpg">MDM ER WEI LIN<br></td>
     </tr>
     <tr>
       <td class="tg-ii8k"><br>
@@ -157,7 +157,7 @@ Key Personnel
       <br>
       <br>
       LH ICT</td>
-      <td class="tg-ii8k"><img alt="mr%20tan%20ling%20jun%20billy" src="images/Staff%20Photos%202023/KPs/mr%20tan%20ling%20jun%20billy.jpg">MR BILLY TAN LING JUN<br></td>
+      <td class="tg-ii8k"><img alt="mr%20tan%20ling%20jun%20billy" src="/images/Staff%20Photos%202023/KPs/mr%20tan%20ling%20jun%20billy.jpg">MR BILLY TAN LING JUN<br></td>
     </tr>
   </tbody>
 </table>
