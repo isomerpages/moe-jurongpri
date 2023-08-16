@@ -8,6 +8,8 @@ description: ""
 Key Personnel
 =============
 
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -27,7 +29,7 @@ Key Personnel
       <br>
       <br>
       SCHOOL STAFF DEVELOPER<br></td>
-      <td class="tg-ii8k"><img alt="ms%20roshidah%20karyeo" src="images/Staff%20Photos%202023/KPs/ms%20roshidah%20karyeo.jpg">MS ROSHIDAH KARYEO<br></td>
+      <td class="tg-ii8k"><img alt="ms%20roshidah%20karyeo" src="/images/Staff%20Photos%202023/KPs/ms%20roshidah%20karyeo.jpg">MS ROSHIDAH KARYEO<br></td>
     </tr>
     <tr>
       <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">YEAR HEAD<br>
