@@ -34,7 +34,7 @@ Key Personnel
     <tr>
       <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">YEAR HEAD<br>
       (UPPER PRIMARY)</span><br></td>
-      <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"><img alt="ms%20lee%20ai%20ling" src="images/Staff%20Photos%202023/KPs/ms%20lee%20ai%20ling.jpg"> LEE AI LING</span></td>
+      <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"><img alt="ms%20lee%20ai%20ling" src="/images/Staff%20Photos%202023/KPs/ms%20lee%20ai%20ling.jpg"> LEE AI LING</span></td>
     </tr>
     <tr>
       <td class="tg-ii8k"><br>
@@ -45,25 +45,25 @@ Key Personnel
       <br>
       YEAR HEAD<br>
       (LOWER PRIMARY)<br></td>
-      <td class="tg-ii8k"><img alt="mdm%20chinnamma%20devi" src="images/Staff%20Photos%202023/KPs/mdm%20chinnamma%20devi.jpg"> MDM CHINNAMMA DEVI<br></td>
+      <td class="tg-ii8k"><img alt="mdm%20chinnamma%20devi" src="/images/Staff%20Photos%202023/KPs/mdm%20chinnamma%20devi.jpg"> MDM CHINNAMMA DEVI<br></td>
     </tr>
     <tr>
       <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">ASSISTANT YEAR HEAD<br>
       P3 (INT)<br></span></td>
-      <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"><img alt="mr%20zailany%20findy%20b%20safie" src="images/Staff%20Photos%202023/KPs/mr%20zailany%20findy%20b%20safie.jpg">MR ZAILANY FINDY BIN SAFIE</span><br></td>
+      <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"><img alt="mr%20zailany%20findy%20b%20safie" src="/images/Staff%20Photos%202023/KPs/mr%20zailany%20findy%20b%20safie.jpg">MR ZAILANY FINDY BIN SAFIE</span><br></td>
     </tr>
     <tr>
       <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">ASSISTANT YEAR HEAD<br>
       P6 (INT)<br></span></td>
-      <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"><img alt="mdm%20nur%20fadzila%20abd%20kadir" src="images/Staff%20Photos%202023/KPs/mdm%20nur%20fadzila%20abd%20kadir.jpg">MDM NUR FADZILA ABD KADIR</span><br></td>
+      <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"><img alt="mdm%20nur%20fadzila%20abd%20kadir" src="/images/Staff%20Photos%202023/KPs/mdm%20nur%20fadzila%20abd%20kadir.jpg">MDM NUR FADZILA ABD KADIR</span><br></td>
     </tr>
     <tr>
       <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">HOD ENGLISH</span><br></td>
-      <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"><img alt="mdm%20faridah%20beham%20do%20abd%20razeed" src="images/Staff%20Photos%202023/KPs/mdm%20faridah%20beham%20do%20abd%20razeed.jpg">MDM FARIDAH BEHAM D/O ABD RAZEED</span><br></td>
+      <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"><img alt="mdm%20faridah%20beham%20do%20abd%20razeed" src="/images/Staff%20Photos%202023/KPs/mdm%20faridah%20beham%20do%20abd%20razeed.jpg">MDM FARIDAH BEHAM D/O ABD RAZEED</span><br></td>
     </tr>
     <tr>
       <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">LH ENGLISH</span><br></td>
-      <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"><img alt="mdm%20noorkiah%20mohd%20hashim" src="images/Staff%20Photos%202023/KPs/mdm%20noorkiah%20mohd%20hashim.jpg">MDM NOORKIAH MOHD HASHIM</span><br></td>
+      <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"><img alt="mdm%20noorkiah%20mohd%20hashim" src="/images/Staff%20Photos%202023/KPs/mdm%20noorkiah%20mohd%20hashim.jpg">MDM NOORKIAH MOHD HASHIM</span><br></td>
     </tr>
     <tr>
       <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">HOD MOTHER TONGUE LANGUAGE</span><br></td>
