@@ -117,7 +117,7 @@ Key Personnel
     </tr>
     <tr>
       <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">SH AESTHETICS (INT)</span><br></td>
-      <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"><img alt="miss%20zheng%20yiying" src="images/Staff%20Photos%202023/KPs/miss%20zheng%20yiying.jpg">MISS ZHENG YIYING YVONNE</span><br></td>
+      <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"><img alt="miss%20zheng%20yiying" src="/images/Staff%20Photos%202023/KPs/miss%20zheng%20yiying.jpg">MISS ZHENG YIYING YVONNE</span><br></td>
     </tr>
     <tr>
       <td class="tg-ii8k"><br>
@@ -127,7 +127,7 @@ Key Personnel
       <br>
       <br>
       HOD CHARACTER &amp; CITIZENSHIP EDUCATION<br></td>
-      <td class="tg-ii8k"><img alt="mdm%20elaine%20wong%20seok%20wai" src="images/Staff%20Photos%202023/KPs/mdm%20elaine%20wong%20seok%20wai.jpg"> MDM ELAINE WONG SEOK WAI<br></td>
+      <td class="tg-ii8k"><img alt="mdm%20elaine%20wong%20seok%20wai" src="/images/Staff%20Photos%202023/KPs/mdm%20elaine%20wong%20seok%20wai.jpg"> MDM ELAINE WONG SEOK WAI<br></td>
     </tr>
     <tr>
       <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">SH CHARACTER EDUCATION<br></span></td>
@@ -135,15 +135,15 @@ Key Personnel
     </tr>
     <tr>
       <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">SH CITIZENSHIP EDUCATION &amp; SOCIAL STUDIES</span></td>
-      <td class="tg-ku5w"><img alt="mdm%20noraidah%20azman" src="images/Staff%20Photos%202023/KPs/mdm%20noraidah%20azman.jpg">MDM NORAIDAH AZMAN<br></td>
+      <td class="tg-ku5w"><img alt="mdm%20noraidah%20azman" src="/images/Staff%20Photos%202023/KPs/mdm%20noraidah%20azman.jpg">MDM NORAIDAH AZMAN<br></td>
     </tr>
     <tr>
       <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">HOD STUDENT MANAGEMENT</span></td>
-      <td class="tg-ku5w"><img alt="mr%20pow%20tien%20min%20jaron" src="images/Staff%20Photos%202023/KPs/mr%20pow%20tien%20min%20jaron.jpg">MR JARON POW TIEN MIN<br></td>
+      <td class="tg-ku5w"><img alt="mr%20pow%20tien%20min%20jaron" src="/images/Staff%20Photos%202023/KPs/mr%20pow%20tien%20min%20jaron.jpg">MR JARON POW TIEN MIN<br></td>
     </tr>
     <tr>
       <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">SH DISCIPLINE &amp; STUDENT LEADERSHIP</span><br></td>
-      <td class="tg-ku5w"><img alt="mr%20ravindran%20so%20rajasekeran" src="images/Staff%20Photos%202023/KPs/mr%20ravindran%20so%20rajasekeran.jpg">MR RAVINDRAN S/O RAJASEKERAN<br></td>
+      <td class="tg-ku5w"><img alt="mr%20ravindran%20so%20rajasekeran" src="/images/Staff%20Photos%202023/KPs/mr%20ravindran%20so%20rajasekeran.jpg">MR RAVINDRAN S/O RAJASEKERAN<br></td>
     </tr>
     <tr>
       <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">HOD ICT &amp; DATA MANAGEMENT</span></td>
