@@ -58,11 +58,11 @@ Key Personnel
       <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"><img alt="mdm%20nur%20fadzila%20abd%20kadir" src="/images/Staff%20Photos%202023/KPs/mdm%20nur%20fadzila%20abd%20kadir.jpg">MDM NUR FADZILA ABD KADIR</span><br></td>
     </tr>
     <tr>
-      <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">HOD ENGLISH</span><br></td>
+      <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">HOD ENGLISH LANGUAGE</span><br></td>
       <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"><img alt="mdm%20faridah%20beham%20do%20abd%20razeed" src="/images/Staff%20Photos%202023/KPs/mdm%20faridah%20beham%20do%20abd%20razeed.jpg">MDM FARIDAH BEHAM D/O ABD RAZEED</span><br></td>
     </tr>
     <tr>
-      <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">LH ENGLISH</span><br></td>
+      <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">LH ENGLISH LANGUAGE</span><br></td>
       <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"><img alt="mdm%20noorkiah%20mohd%20hashim" src="/images/Staff%20Photos%202023/KPs/mdm%20noorkiah%20mohd%20hashim.jpg">MDM NOORKIAH MOHD HASHIM</span><br></td>
     </tr>
     <tr>
@@ -94,7 +94,7 @@ Key Personnel
       <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"><img alt="ms%20neo%20siao%20wei%20ann" src="/images/Staff%20Photos%202023/KPs/ms%20neo%20siao%20wei%20ann.jpg">MS NEO SIAO WEI ANN</span><br></td>
     </tr>
     <tr>
-      <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">SH Science (HOD Covering)</span><br></td>
+      <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">SH SCIENCE<br> (HOD COVERING)</span><br></td>
       <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"><img alt="mdm%20ang%20xu%20qin%20chuliet" src="/images/Staff%20Photos%202023/KPs/mdm%20ang%20xu%20qin%20chuliet.jpg"> MDM CHULIET ANG XU QIN</span><br></td>
     </tr>
     <tr>
