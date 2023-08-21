@@ -46,40 +46,50 @@ Key Personnel
   </tr>
 	<tr>
       <td class="tg-sufc">SH CHINESE LANGUAGE</td>
-    <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/mrs janet chua siok teng.jpg" style="width:65%"><br>MRS JANET CHUA - TAN SIOK TENG</td>
+    <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/mrs janet chua siok teng.jpg" style="width:70%"><br>MRS JANET CHUA - TAN SIOK TENG</td>
     <td class="tg-sufc">HOD MATHEMATICS</td>
-    <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/ms nur sofhia buang.jpg" style="width:81%"><br>MS NUR SOFHIA BUANG</td>
+    <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/ms nur sofhia buang.jpg" style="width:70%"><br>MS NUR SOFHIA BUANG</td>
   </tr>
 	<tr>
       <td class="tg-sufc">LH MATHEMATICS</td>
-    <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/ms neo siao wei ann.jpg" style="width:65%"><br>MS NEO SIAO WEI ANN</td>
+    <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/ms neo siao wei ann.jpg" style="width:70%"><br>MS NEO SIAO WEI ANN</td>
     <td class="tg-sufc">SH SCIENCE <br>
 (HOD COVERING)</td>
-    <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/mdm ang xu qin chuliet.jpg" style="width:81%"><br>MDM CHULIET ANG XU QIN</td>
+    <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/mdm ang xu qin chuliet.jpg" style="width:70%"><br>MDM CHULIET ANG XU QIN</td>
   </tr>
 	<tr>
       <td class="tg-sufc">LH SCIENCE</td>
-    <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/mrs koh qiuwen.jpg" style="width:65%"><br>MRS KOH QIUWEN</td>
+    <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/mrs koh qiuwen.jpg" style="width:70%"><br>MRS KOH QIUWEN</td>
     <td class="tg-sufc">HOD PAM/CCA</td>
-    <td class="tg-qtzs"><img style="/images/Staff Photos 2023/KPs/mr zulkarnain b daud.jpg"><br>MR ZULKARNAIN B DAUD</td>
+    <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/mr zulkarnain b daud.jpg" style="width:70%"><br>MR ZULKARNAIN B DAUD</td>
   </tr>
 	<tr>
       <td class="tg-sufc">SH PHE/CCA</td>
-    <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/mr muhd hakim kamarudin.jpg" style="width:65%"><br>MR MUHD HAKIM KAMARUDIN</td>
+    <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/mr muhd hakim kamarudin.jpg" style="width:70%"><br>MR MUHD HAKIM KAMARUDIN</td>
     <td class="tg-sufc">SH AESTHETICS (INT)</td>
-    <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/miss zheng yiying.jpg" style="width:81%"><br>MISS ZHENG YIYING YVONNE</td>
+    <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/miss zheng yiying.jpg" style="width:70%"><br>MISS ZHENG YIYING YVONNE</td>
   </tr>
 	<tr>
       <td class="tg-sufc">HOD CHARACTER &amp; CITIZENSHIP EDUCATION</td>
-    <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/mdm elaine wong seok wai.jpg" style="width:65%"><br>MDM ELAINE WONG SEOK WAI</td>
+    <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/mdm elaine wong seok wai.jpg" style="width:70%"><br>MDM ELAINE WONG SEOK WAI</td>
     <td class="tg-sufc">SH CHARACTER EDUCATION</td>
-    <td class="tg-qtzs"><img src="images/Staff Photos 2023/KPs/ms tang you ni eunice.jpg" style="width:81%"><br>MS EUNICE TANG YOU NI</td>
+    <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/ms tang you ni eunice.jpg" style="width:70%"><br>MS EUNICE TANG YOU NI</td>
   </tr>
 	<tr>
       <td class="tg-sufc">SH CITIZENSHIP EDUCATION &amp; SOCIAL STUDIES</td>
-    <td class="tg-qtzs"><img src="images/Staff Photos 2023/KPs/mdm noraidah azman.jpg" style="width:65%"><br>MDM NORAIDAH AZMAN</td>
+    <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/mdm noraidah azman.jpg" style="width:70%"><br>MDM NORAIDAH AZMAN</td>
     <td class="tg-sufc">HOD STUDENT MANAGEMENT</td>
-    <td class="tg-qtzs"><img src="images/Staff Photos 2023/KPs/mr pow tien min jaron.jpg" style="width:81%"><br>MR JARON POW TIEN MIN</td>
+    <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/mr pow tien min jaron.jpg" style="width:70%"><br>MR JARON POW TIEN MIN</td>
+  </tr>
+	<tr>
+      <td class="tg-sufc">SH DISCIPLINE &amp; STUDENT LEADERSHIP</td>
+    <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/mr ravindran so rajasekeran.jpg" style="width:70%">MR RAVINDRAN S/O RAJASEKERAN</td>
+    <td class="tg-sufc">HOD ICT &amp; DATA MANAGEMENT</td>
+    <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/mdm er wei lin.jpg" style="width:70%"><br>MDM ER WEI LIN</td>
+  </tr>
+	<tr>
+      <td class="tg-sufc">LH ICT</td>
+    <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/mr tan ling jun billy.jpg" style="width:70%"><br>MR BILLY TAN LING JUN</td>
   </tr>
 </tbody>
 </table>
