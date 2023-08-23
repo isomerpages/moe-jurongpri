@@ -17,7 +17,7 @@ We want to get to know the older you as well!
                                      
 We joyfully invite you back to JPS on Thursday 31 Aug, 10:50am to 12pm.
 If you’re coming, please register your interest here so that your teachers are aware of your homecoming:
-https://form.gov.sg/64e498d3c98c410011051664 
+[Form for Ex-student visitation](https://form.gov.sg/64e498d3c98c410011051664)
 
 Thanks, and see you soon!
 
