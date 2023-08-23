@@ -52,7 +52,7 @@ Key Personnel
   </tr>
 	<tr>
       <td class="tg-sufc">LH MATHEMATICS</td>
-    <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/ms neo siao wei ann.jpg" style="width:70%"><br>MS NEO SIAO WEI ANN</td>
+    <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/ms neo siao wei ann_v2.png" style="width:70%"><br>MS NEO SIAO WEI ANN</td>
     <td class="tg-sufc">SH SCIENCE <br>
 (HOD COVERING)</td>
     <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/mdm ang xu qin chuliet.jpg" style="width:70%"><br>MDM CHULIET ANG XU QIN</td>
