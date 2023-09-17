@@ -17,3 +17,4 @@ Click here to to view
 * <a target="_blank" href="https://go.gov.sg/westories-official"> WE STories 2023 </a>
 * <a target="_blank" href="https://drive.google.com/file/d/1I5bXtNZahXvd4YibQJj-Mo2JSAjdgRIu/view"> Video Guide on how to navigate WE STories - shared by Westwood Primary </a>
 * <a target="_blank" href="https://go.gov.sg/westories-my-story-1"> Find out key features of WE STories – shared by Clementi Primary</a>
+*  <a target="_blank" href="https://go.gov.sg/westories-my-story-2"> Hear a student’s recount in using WE STories – shared by Westwood Primary</a>
