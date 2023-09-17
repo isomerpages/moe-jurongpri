@@ -232,7 +232,7 @@ Mdm Ang Xu Qin Chuliet <br><a href="mailto:ang_xu_qin_chuliet@schools.gov.sg"><s
   </tr>
   <tr>
     <td class="tg-n4qt">5 Gracious</td>
-    <td class="tg-ii8k">Mrs Sheila Gerad <br><a href="mailto:sheila_dhana_pal@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">sheila_dhana_pal@schools.gov.sg</span></a><br><br>Mr Vikneswaran Nagarajan <br><a href="mailto:vikneswaran_nagarajan@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">vikneswaran_nagarajan@schools.gov.sg</span></a> <br><br>Mr Jaron Pow <br><a href="mailto:pow_tien_min_jaron@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">pow_tien_min_jaron@schools.gov.sg</span></a><br><br></td>
+    <td class="tg-ii8k">Mrs Sheila Gerad <br><a href="mailto:sheila_dhana_pal@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">sheila_dhana_pal@schools.gov.sg</span></a> <br><br>Mr Jaron Pow <br><a href="mailto:pow_tien_min_jaron@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">pow_tien_min_jaron@schools.gov.sg</span></a><br><br></td>
   </tr>
   <tr>
     <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> </span>5 Integrity</td>
