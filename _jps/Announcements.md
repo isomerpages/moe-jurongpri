@@ -7,6 +7,14 @@ description: ""
 
 Announcements
 =============
+### Nominations for the **15th Caring Teacher Awards (CTA) 2024** is now open!
+        
+The CTA is a biennial event that pays tribute to teachers who show care and concern for the holistic development of their students, and go the extra mile to ensure their charges grow up to be confident and independent learners. Started in 1996, it is organized by the National Institute of Education Singapore with support from ExxonMobil Asia Pacific Pte Ltd and the Ministry of Education.
+
+Nominations are open to the public and can be made online at [www.cta.nie.edu.sg](http://www.cta.nie.edu.sg) from 11 September 2023 to 12 January 2024.
+
+We invite all to submit your nominations!
+
 ### JPS Ex-Student Visit on Teachers' Day 2023
 
 Dear alumni,
