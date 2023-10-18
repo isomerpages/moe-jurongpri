@@ -7,6 +7,21 @@ description: ""
 
 Announcements
 =============
+### Open for Nominations: **President's Award for Teachers and Outstanding Youth in Education Award**
+
+![JPS Teachers](/images/jps_teachers.jpg)
+Do you know any inspiring JPS educators who have made outstanding contributions in moulding the future of our nation? The Ministry of Education (MOE) invites you to nominate them for the following national awards:
+
+**President's Award for Teachers 2024**
+![PAT 2024](/images/pat2024.png)
+[https://go.gov.sg/pat2024](https://go.gov.sg/pat2024)
+
+**Outstanding Youth in Education Award 2024**
+![OYEA](/images/oyea2024a.png)
+[https://go.gov.sg/oyea2024](https://go.gov.sg/oyea2024)
+
+Scan the QR codes or click on the URLs above to nominate. All nominations are to be submitted by **10 January 2024**.
+
 ### Nominations for the **15th Caring Teacher Awards (CTA) 2024** is now open!
         
 The CTA is a biennial event that pays tribute to teachers who show care and concern for the holistic development of their students, and go the extra mile to ensure their charges grow up to be confident and independent learners. Started in 1996, it is organized by the National Institute of Education Singapore with support from ExxonMobil Asia Pacific Pte Ltd and the Ministry of Education.
