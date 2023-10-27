@@ -8,7 +8,9 @@ description: ""
 Jurong Primary School<br>
 Operator: Chang Chen Pte Ltd <br>
 Tel: 6760 4835<br><br>
+###### Daily School Bus Services based on Not to Exceed Price (i.e. for sending students from home to school and vice versa).
 
+Bus fares applicable from 1 January 2024 to 31 December 2024.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
