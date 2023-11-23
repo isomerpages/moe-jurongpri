@@ -2,6 +2,7 @@
 title: Announcements
 permalink: /jps/announcements/
 description: ""
+variant: markdown
 ---
 ![](/images/Banner.png)
 
@@ -53,10 +54,10 @@ Please refer to this&nbsp;[link](/files/JPS%202023%20L2%20Seminars.pdf)&nbsp;for
 Please refer to this&nbsp;[link](/cce/programmes/moe-sexuality-education-in-schools/)&nbsp;for more information.
 
 
-### JPS Booklist 2023
+### JPS Booklist 2024
 
-2022-11-17 <br>
-Click&nbsp;[here](/forms/JPS-Booklist-2023/)&nbsp;to view 2023 booklist
+2023-11-23 <br>
+Click&nbsp;[here](/forms/JPS-Booklist-2024/)&nbsp;to view 2024 booklist
 
 
 ### JPS School Bag Weight Loss Project by PSG
