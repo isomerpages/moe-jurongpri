@@ -2,6 +2,7 @@
 title: Parents and Students
 permalink: /parents-and-students/
 description: ""
+variant: markdown
 ---
 ![](/images/Banner.png)
 
@@ -12,7 +13,7 @@ description: ""
 *   [Positive Parenting Programme](/files/JPS%202023%20L2%20Seminars.pdf)
 * [WE-STories 2023](/others/westories/)
 * [JPS School Bag Weight Loss Project by PSG](/files/School%20Bag%20Weight%20Loss%20Project.pdf)
-*   [JPS Booklist 2023](/forms/JPS-Booklist-2023/)
+*   [JPS Booklist 2024](/forms/JPS-Booklist-2024/)
 *   [Family @ JPS](/partners/Family-Matters-at-JPS/)
 *  [MOE Sexuality Education in Schools](/cce/programmes/moe-sexuality-education-in-schools/)
 *   [Parents Engagement](/parents-engagement/)
