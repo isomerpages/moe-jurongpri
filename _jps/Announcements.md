@@ -57,7 +57,7 @@ Please refer to this&nbsp;[link](/cce/programmes/moe-sexuality-education-in-scho
 ### JPS Booklist 2024
 
 2023-11-23 <br>
-Click&nbsp;[here](/forms/JPS-Booklist-2024/)&nbsp;to view 2024 booklist
+Click&nbsp;[here](/forms/jps-booklist-2024/)&nbsp;to view 2024 booklist
 
 
 ### JPS School Bag Weight Loss Project by PSG
