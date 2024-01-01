@@ -13,7 +13,7 @@ General Information
 1)	Operation Hours: 7.30 a.m. to 5.30 p.m.<br>
 2)	Curriculum Hours: 7.30 a.m. to 1.30 p.m.
 
-During School Holidays : Monday to Friday 
+During School Holidays : Monday to Friday <br>
 1) Operation Hours 8.00 a.m. to 5.00 p.m.
 
 **Attendance and Punctuality**
