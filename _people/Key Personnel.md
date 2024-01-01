@@ -2,6 +2,7 @@
 title: Key Personnel
 permalink: /people/Key-Personnel/
 description: ""
+variant: markdown
 ---
 ![](/images/Banner.png)
 
@@ -58,8 +59,8 @@ Key Personnel
     <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/mdm ang xu qin chuliet.jpg" style="width:70%"><br>MDM CHULIET ANG XU QIN</td>
   </tr>
 	<tr>
-      <td class="tg-sufc">LH SCIENCE</td>
-    <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/mrs koh qiuwen.jpg" style="width:70%"><br>MRS KOH QIUWEN</td>
+      <td class="tg-sufc">YEAR HEAD (MIDDLE PRIMARY)</td>
+    <td class="tg-qtzs"><br>MDM NUR JANNAH BTE JURI</td>
     <td class="tg-sufc">HOD PAM/CCA</td>
     <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/mr zulkarnain b daud.jpg" style="width:70%"><br>MR ZULKARNAIN B DAUD</td>
   </tr>
@@ -88,8 +89,5 @@ Key Personnel
     <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/mdm er wei lin.jpg" style="width:70%"><br>MDM ER WEI LIN</td>
   </tr>
 	<tr>
-      <td class="tg-sufc">LH ICT</td>
-    <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/mr tan ling jun billy.jpg" style="width:70%"><br>MR BILLY TAN LING JUN</td>
-  </tr>
-</tbody>
+</tr></tbody>
 </table>
