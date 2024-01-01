@@ -2,6 +2,7 @@
 title: Vision, Mission and Motto
 permalink: /philosophy/Vision-Mission-Motto/
 description: ""
+variant: markdown
 ---
 ![](/images/Banner.png)
 
@@ -31,7 +32,7 @@ Vision, Mission and Motto
 </thead>
 <tbody>
   <tr>
-    <td class="tg-6hjr">A vibrant community of gracious citizens and passionate learners</td>
+    <td class="tg-6hjr">A Joyful Community of Gracious Citizens and Future-ready Learners</td>
   </tr>
   <tr>
     <td class="tg-6lwz">Mission</td>
