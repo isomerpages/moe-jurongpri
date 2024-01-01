@@ -8,6 +8,11 @@ variant: markdown
 
 Announcements
 =============
+### JPS Booklist 2024
+
+2023-11-23 <br>
+Click&nbsp;[here](/forms/jps-booklist-2024/)&nbsp;to view 2024 booklist
+
 ### Open for Nominations: **President's Award for Teachers and Outstanding Youth in Education Award**
 
 ![JPS Teachers](/images/jps_teachers.jpg)
@@ -45,19 +50,11 @@ If you’re coming, please register your interest here so that your teachers are
 
 Thanks, and see you soon!
 
-### JPS 2023 L2 Seminars
-
-Please refer to this&nbsp;[link](/files/JPS%202023%20L2%20Seminars.pdf)&nbsp;for more information.
 
 ### 2023 Info on SEd for P5 and P6
 
 Please refer to this&nbsp;[link](/cce/programmes/moe-sexuality-education-in-schools/)&nbsp;for more information.
 
-
-### JPS Booklist 2024
-
-2023-11-23 <br>
-Click&nbsp;[here](/forms/jps-booklist-2024/)&nbsp;to view 2024 booklist
 
 
 ### JPS School Bag Weight Loss Project by PSG
