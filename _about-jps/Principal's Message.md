@@ -2,24 +2,25 @@
 title: Principal's Message
 permalink: /philosophy/
 description: ""
+variant: markdown
 ---
 ![](/images/Banner.png)
 
 Principal's Message
 =======================
 
-<img src="/images/Principal.jpeg" style="width:183px;height:240px;margin-left:15px;" align = "right">
+<img src="/images/Principal.jpeg" style="width:183px;height:240px;margin-left:15px;" align="right">
 
 
-Jurong Primary School enjoys a long and rich history spanning over 70 years in Western Singapore. Beginning humbly at Old Jurong Road in 1950, the school has grown as generation after generation of students and families traverse through the portals of this school. With its historic merger with Boon Lay Primary in 2006, and aptly themed “nova initio", Jurong Primary forged forward with a strong identity whilst preserving the best of both schools’ unique heritage and distinctive strengths.   
+The year 2024 marks a momentous occasion for Jurong Primary School as we celebrate our 75th anniversary. Reflecting on our humble beginnings at Old Jurong Road in 1950, the progress we have made is truly heartening.&nbsp; Our journey, further enriched by the merger with Boon Lay Primary in 2006, reflects a path rich in development and transformation, blending the distinct characteristics of both schools to forge our unique and vibrant identity.&nbsp;  
   
-As JPS’s fourth Principal since merger, and against a post-COVID, [BANI](https://thinkinsights.net/leadership/bani/) (i.e., Brittle, Anxious, Non-linear and Incomprehensible) world, one question on our minds is how JPS will stay relevant, responsive and, more importantly, committed to nurturing students to be passionate and lifelong learners. In this new season, together with my staff, we hope to forge a new direction as we consider the needs of our students and their families in response to changes that lie ahead in a post-COVID Singapore.   
+In early 2023, we introduced the theme 'Joy in JPS', a concept that encapsulates our belief in the educational journey of every student and the pivotal role and experience of teachers at JPS.   Anchored in four fundamental aspects - the Joy of Learning, which encourages a world of curiosity and exploration; the Joy of Teaching, celebrating the dedication and innovation of our teachers and support staff; the Joy of Caring, creating a supportive and warm environment for all through strong inter-personal relationships; and the Joy of Leading, fostering leadership skills in both our students and teachers - these principles are at the heart of our school life, infusing every day with a zeal for learning, teaching, care, and guidance.&nbsp;  
+ 
+![](/images/Joy_in_JPS.png) 
+ 
+To our cherished community of students, alumni, parents, and local supporters, your engagement and support are invaluable.  Together, we strive to cultivate a generation of students who are not only gracious and passionate but also reflective and rooted in solid values. We warmly invite you to partner us at JPS as we endeavour towards a future that is both forward-looking and deeply rooted in our Jurong community.&nbsp;  
   
-To our stakeholders, including current and former students, alumnus, parents, community partners, I invite you to work with my staff and teachers to, as one village, raise up students to be gracious, passionate, introspective (i.e., Reach in to reach out) and values-driven citizens. Here, we seek your support to partner us in providing our students with learning experiences that help them to be forward-looking and others-seeking.   
-  
-As we step into 2023, there is much excitement and hope in what JPS can achieve as the country opens up. This signifies a new chapter for JPS and a new season to build on that which already has been established by my predecessors - Mrs Constance Yip, Mrs Manokara S. and Mr Robin Ong. It is my sincere hope that we can continue to partner with you to move JPS forward together.   
-  
-Thank you for joining and serving alongside us.   
+As we step into 2024, our spirits remain high with anticipation for what lies ahead for JPS. This year ushers in a new chapter for us, one in which we build upon the robust foundations laid by our respected predecessors Ms Constance Yip, Mrs Manokara S, and Mr Robin Ong.  Here, I invite our entire school family – students, alumni, parents, and supporters – to join us in this joyous celebration and contribute to the unfolding story of Joy in JPS.&nbsp;  
   
 Yours in service.  
   
