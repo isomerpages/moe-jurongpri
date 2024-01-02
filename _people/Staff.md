@@ -2,12 +2,14 @@
 title: Staff
 permalink: /people/Staff/
 description: ""
+variant: markdown
 ---
 ![](/images/Banner.png)
 
 Staff
 =====
 
+**2023**
 
 ### P1 Form Teachers
 ----------------
@@ -325,8 +327,8 @@ Mdm Nur Fadzila Bte Abd Kadir <br><a href="mailto:nur_fadzila_abdul_kadir@school
     <td class="tg-n4qt">Mr Chew Hock Chuan Anthony</td>
     <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA"><a href="mailto:chew_hock_chuan_anthony@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">chew_hock_chuan_anthony@schools.gov.sg</span></a><br>
   </span></td></tr><tr>
-    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> </span>Ms Goi Hwei Kheng</td>
-    <td class="tg-ii8k"><a href="mailto:goi_hwei_kheng@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">goi_hwei_kheng@schools.gov.sg</span></a><br></td>
+    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> </span>Mdm Ong Kah Peng</td>
+    <td class="tg-ii8k"><a href="mailto:Ong_Kah_Peng@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">Ong_Kah_Peng@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-n4qt">Ms Jayne Lee An</td>
@@ -349,5 +351,11 @@ Mdm Nur Fadzila Bte Abd Kadir <br><a href="mailto:nur_fadzila_abdul_kadir@school
   </tr><tr>
     <td class="tg-n4qt">Mrs Cheah- Soh Bee Tin</td>
     <td class="tg-ii8k"><a href="mailto:cheahsoh_bee_tin@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">cheahsoh_bee_tin@schools.gov.sg</span></a></td>
+	</tr><tr>
+    <td class="tg-n4qt">Mdm Rekha Nair</td>
+    <td class="tg-ii8k"><a href="mailto:Rekha_K_R_Nair@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">Rekha_K_R_Nair@schools.gov.sg</span></a></td>
+	</tr><tr>
+    <td class="tg-n4qt">Mrs Mumtaj Imran</td>
+    <td class="tg-ii8k"><a href="mailto:Mumtaj_Imran_A@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">Mumtaj_Imran_A@schools.gov.sg</span></a></td>
   </tr>
 	</thead></table>
