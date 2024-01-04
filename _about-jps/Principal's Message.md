@@ -16,7 +16,7 @@ The year 2024 marks a momentous occasion for Jurong Primary School as we celebra
   
 In early 2023, we introduced the theme 'Joy in JPS', a concept that encapsulates our belief in the educational journey of every student and the pivotal role and experience of teachers at JPS.   Anchored in four fundamental aspects - the Joy of Learning, which encourages a world of curiosity and exploration; the Joy of Teaching, celebrating the dedication and innovation of our teachers and support staff; the Joy of Caring, creating a supportive and warm environment for all through strong inter-personal relationships; and the Joy of Leading, fostering leadership skills in both our students and teachers - these principles are at the heart of our school life, infusing every day with a zeal for learning, teaching, care, and guidance.&nbsp;  
  
-![](/images/Joy_in_JPS.png) 
+<img src="/images/Joy_in_JPS.png" style="width:180px;height:180px;">
  
 To our cherished community of students, alumni, parents, and local supporters, your engagement and support are invaluable.  Together, we strive to cultivate a generation of students who are not only gracious and passionate but also reflective and rooted in solid values. We warmly invite you to partner us at JPS as we endeavour towards a future that is both forward-looking and deeply rooted in our Jurong community.&nbsp;  
   
