@@ -65,7 +65,8 @@ Staff
 | 5 Integrity    | Ms Tan Yi Sheng <br>[tan_yi_sheng@schools.gov.sg](tan_yi_sheng@schools.gov.sg)<br><br>Mdm Zhang Sihan<br> [zhang_sihan@schools.gov.sg](zhang_sihan@schools.gov.sg)|
 | 5 Passion    | Mrs Rosalind Chin <br>[rosalind_chng@schools.gov.sg](rosalind_chng@schools.gov.sg)<br><br>Mdm Faridah Beham d/o AR<br>[faridah_beham_abdul_razeed@schools.gov.sg](faridah_beham_abdul_razeed@schools.gov.sg) |
 | 5 Respect    | Miss Norashikin Hambali<br>[norashikin_hambali@schools.gov.sg](norashikin_hambali@schools.gov.sg)<br><br>Mr Lim Daw Wee<br>[lim_daw_wee@schools.gov.sg](lim_daw_wee@schools.gov.sg) |
-| 5 Responsibility    | Mr Chua Jeng Keith <br>[chua_jeng@schools.gov.sg](chua_jeng@schools.gov.sg)<br><br>Mdm Sarimah Sainin<br>[sarimah_sainin@schools.gov.sg](sarimah_sainin@schools.gov.sg)|
+| 5 Responsibility    | Mr Chua Jeng Keith <br>[chua_jeng@schools.gov.sg](chua_jeng@schools.gov.sg)<br><br>Mdm Sarimah Sainin<br>[sarimah_sainin@schools.gov.sg](sarimah_sainin@schools.gov.sg)|<br>
+|
 
 ### P6 Form Teachers 2024
 
@@ -76,7 +77,7 @@ Staff
 | 6 Integrity    | Mr Pua En <br>[pua_en@schools.gov.sg](pua_en@schools.gov.sg) <br><br>Mdm Syafiqah Ryaihanny Bte Sahrom<br> [syafiqah_ryaihanny_sahrom@schools.gov.sg](syafiqah_ryaihanny_sahrom@schools.gov.sg) |
 | 6 Passion    | Mr Mohd Kamarudin B Majid <br>[kamarudin_majid@schools.gov.sg](kamarudin_majid@schools.gov.sg)<br><br>Mrs Chang- Chen Jialing<br>[chen_jialin@schools.gov.sg](chen_jialin@schools.gov.sg)<br><br> Miss Lee Ai Ling<br>[lee_ai_ling@schools.gov.sg](clee_ai_ling@schools.gov.sg)   |
 | 6 Respect    | Mdm Amilia Baba<br>[amilia_baba@schools.gov.sg](amilia_baba@schools.gov.sg)<br><br>Ms Eunice Tang<br>[eunice_tang@schools.gov.sg](eunice_tang@schools.gov.sg) |
-| 6 Responsibility    | Mdm Toh Siow Hoon Rina <br>[toh_siow_hoon_rina@schools.gov.sg](toh_siow_hoon_rina@schools.gov.sg)<br><br>Mr Tan Kin Chiew Jimmy<br>[tan_kin_chiew@schools.gov.sg](tan_kin_chiew@schools.gov.sg)<br><br>  |
+| 6 Responsibility    | Mdm Toh Siow Hoon Rina <br>[toh_siow_hoon_rina@schools.gov.sg](toh_siow_hoon_rina@schools.gov.sg)<br><br>Mr Tan Kin Chiew Jimmy<br>[tan_kin_chiew@schools.gov.sg](tan_kin_chiew@schools.gov.sg) |
 |
 
 
