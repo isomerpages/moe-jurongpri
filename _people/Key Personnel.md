@@ -35,7 +35,7 @@ Key Personnel
   </tr>
 	<tr>
       <td class="tg-sufc">ASSISTANT YEAR HEAD <br>P6 (INT)</td>
-    <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/mdm nur fadzila abd kadir.jpg" style="width:70%"><br>MDM NUR FADZILA ABD KADIRI</td>
+    <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/mdm nur fadzila abd kadir.jpg" style="width:70%"><br>MDM NUR FADZILA ABD KADIR</td>
     <td class="tg-sufc">HOD ENGLISH LANGUAGE</td>
     <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/mdm faridah beham do abd razeed.jpg" style="width:70%"><br>MDM FARIDAH BEHAM D/O ABD RAZEED</td>
   </tr>
