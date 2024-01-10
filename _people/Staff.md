@@ -12,7 +12,7 @@ Staff
 
 | Class | Form Teachers |
 | -------- | --------|
-| 1 Care    | Mdm Or Chiew Peng Catherine <br>[or_chiew_peng@schools.gov.sg](or_chiew_peng@schools.gov.sg)<br> <br>  Mdm Rohani Mafot <br>[Rohani_MAFOT@schools.gov.sg](Rohani_MAFOT@schools.gov.sg)<br>   |
+| 1 Care    | Mdm Or Chiew Peng Catherine <br><a href="or_chiew_peng@schools.gov.sg">or_chiew_peng@schools.gov.sg</a><br> <br>  Mdm Rohani Mafot <br>[Rohani_MAFOT@schools.gov.sg](Rohani_MAFOT@schools.gov.sg)<br>   |
 | 1 Gracious    | Mdm Chong Su Fang <br>[chong_su_fang@schools.gov.sg](chong_su_fang@schools.gov.sg)<br> <br> Ms Nur Dhumaika Jumat <br>[nur_dhumaika_jumat@schools.gov.sg](nur_dhumaika_jumat@schools.gov.sg)<br>   |
 | 1 Integrity    | Mrs Tan-Pek Ming Rang<br>[pek_ming_rang@schools.gov.sg](pek_ming_rang@schools.gov.sg)<br> <br>  Mdm Er Wei Lin <br> [er_wei_lin@schools.gov.sg](er_wei_lin@schools.gov.sg)  |
 | 1 Passion    | Miss Yeo Hoon Kheng Eunice <br> [yeo_hoon_kheng@schools.gov.sg](yeo_hoon_kheng@schools.gov.sg)<br><br> Mdm Chinnamma Devi <br> [chinnamma_devi@schools.gov.sg](chinnamma_devi@schools.gov.sg)   |
