@@ -12,13 +12,13 @@ Staff
 
 | Class | Form Teachers |
 | -------- | --------|
-| 1 Care    | Mdm Or Chiew Peng Catherine <br>[or_chiew_peng@schools.gov.sg](or_chiew_peng@schools.gov.sg)<br> <br>  Mdm Rohani Mafot <br>[Rohani_MAFOT@schools.gov.sg](Rohani_MAFOT@schools.gov.sg)<br>   |
-| 1 Gracious    | Mdm Chong Su Fang <br>[chong_su_fang@schools.gov.sg](chong_su_fang@schools.gov.sg)<br> <br> Ms Nur Dhumaika Jumat <br>[nur_dhumaika_jumat@schools.gov.sg](nur_dhumaika_jumat@schools.gov.sg)<br>   |
-| 1 Integrity    | Mrs Tan-Pek Ming Rang<br>[pek_ming_rang@schools.gov.sg](pek_ming_rang@schools.gov.sg)<br> <br>  Mdm Er Wei Lin <br> [er_wei_lin@schools.gov.sg](er_wei_lin@schools.gov.sg)  |
-| 1 Passion    | Miss Yeo Hoon Kheng Eunice <br> [yeo_hoon_kheng@schools.gov.sg](yeo_hoon_kheng@schools.gov.sg)<br><br> Mdm Chinnamma Devi <br> [chinnamma_devi@schools.gov.sg](chinnamma_devi@schools.gov.sg)   |
-| 1 Respect    | Mr Yeong Hoong Munn <br>[yeong_hoong_munn@schools.gov.sg](yeong_hoong_munn@schools.gov.sg)<br> <br>  Mdm Noraidah Azman<br>[noraidah_azman@schools.gov.sg](noraidah_azman@schools.gov.sg)<br>   |
-| 1 Resposibility    | Mdm Jane Yong Hsiao Wei <br>[jane_yong_hsiao_wei@schools.gov.sg](jane_yong_hsiao_wei@schools.gov.sg)<br> <br> Mr Brendan Gerard Jeremiah <br>[brendan_gerard_jeremiah@schools.gov.sg](brendan_gerard_jeremiah@schools.gov.sg)<br>   |
-| 1 Loyalty    | Mr Lee Chin Fuong Andrew<br>[lee_chin_fuong@schools.gov.sg](lee_chin_fuong@schools.gov.sg)<br> <br>  Mr Muhd Hakim B Kamarudin <br> [muhd_hakim_kamarudin@schools.gov.sg](muhd_hakim_kamarudin@schools.gov.sg) <br><br> Ms Gracia Lee Jia Rong <br>[Lee_Jia_Rong_Gracia@schools.gov.sg](Lee_Jia_Rong_Gracia@schools.gov.sg)  |
+| 1 Care    | Mdm Or Chiew Peng Catherine <br><a href="or_chiew_peng@schools.gov.sg">or_chiew_peng@schools.gov.sg</a><br> <br>  Mdm Rohani Mafot <br><a href="Rohani_MAFOT@schools.gov.sg">Rohani_MAFOT@schools.gov.sg</a><br>   |
+| 1 Gracious    | Mdm Chong Su Fang <br><a href="chong_su_fang@schools.gov.sg"> chong_su_fang@schools.gov.sg</a><br> <br> Ms Nur Dhumaika Jumat <br><a href="nur_dhumaika_jumat@schools.gov.sg">nur_dhumaika_jumat@schools.gov.sg</a><br>   |
+| 1 Integrity    | Mrs Tan-Pek Ming Rang<br><a href="pek_ming_rang@schools.gov.sg">pek_ming_rang@schools.gov.sg</a><br> <br>  Mdm Er Wei Lin <br> <a href="er_wei_lin@schools.gov.sg">er_wei_lin@schools.gov.sg</a>  |
+| 1 Passion    | Miss Yeo Hoon Kheng Eunice <br> <a href="yeo_hoon_kheng@schools.gov.sg">yeo_hoon_kheng@schools.gov.sg</a><br><br> Mdm Chinnamma Devi <br> <a href="chinnamma_devi@schools.gov.sg">chinnamma_devi@schools.gov.sg</a>   |
+| 1 Respect    | Mr Yeong Hoong Munn <br><a href="yeong_hoong_munn@schools.gov.sg">yeong_hoong_munn@schools.gov.sg</a><br> <br>  Mdm Noraidah Azman<br><a href="noraidah_azman@schools.gov.sg">noraidah_azman@schools.gov.sg</a><br>   |
+| 1 Resposibility    | Mdm Jane Yong Hsiao Wei <br><a href="jane_yong_hsiao_wei@schools.gov.sg">jane_yong_hsiao_wei@schools.gov.sg</a><br> <br> Mr Brendan Gerard Jeremiah <br><a href="brendan_gerard_jeremiah@schools.gov.sg">brendan_gerard_jeremiah@schools.gov.sg</a><br>   |
+| 1 Loyalty    | Mr Lee Chin Fuong Andrew<br><a href="lee_chin_fuong@schools.gov.sg"> lee_chin_fuong@schools.gov.sg</a><br> <br>  Mr Muhd Hakim B Kamarudin <br> <a href="muhd_hakim_kamarudin@schools.gov.sg"> muhd_hakim_kamarudin@schools.gov.sg</a> <br><br> Ms Gracia Lee Jia Rong <br> <a href="Lee_Jia_Rong_Gracia@schools.gov.sg"> Lee_Jia_Rong_Gracia@schools.gov.sg</a>  |
 |
 
 
