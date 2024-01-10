@@ -12,7 +12,7 @@ Staff
 
 | Class | Form Teachers |
 | -------- | --------|
-| 1 Care    | Mdm Or Chiew Peng Catherine <br><a href="mailto:or_chiew_peng@schools.gov.sg">or_chiew_peng@schools.gov.sg</a><br> <br>  Mdm Rohani Mafot <br><a target="_blank" href="mailto:Rohani_MAFOT@schools.gov.sg">Rohani_MAFOT@schools.gov.sg</a><br>   |
+| 1 Care    | Mdm Or Chiew Peng Catherine <br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:or_chiew_peng@schools.gov.sg">or_chiew_peng@schools.gov.sg</a><br> <br>  Mdm Rohani Mafot <br><a target="_blank" href="mailto:Rohani_MAFOT@schools.gov.sg">Rohani_MAFOT@schools.gov.sg</a><br>   |
 | 1 Gracious    | Mdm Chong Su Fang <br><a target="_blank" href="mailto:chong_su_fang@schools.gov.sg"> chong_su_fang@schools.gov.sg</a><br> <br> Ms Nur Dhumaika Jumat <br><a target="_blank" href="mailto:nur_dhumaika_jumat@schools.gov.sg">nur_dhumaika_jumat@schools.gov.sg</a><br>   |
 | 1 Integrity    | Mrs Tan-Pek Ming Rang<br><a href="pek_ming_rang@schools.gov.sg">pek_ming_rang@schools.gov.sg</a><br> <br>  Mdm Er Wei Lin <br> <a href="er_wei_lin@schools.gov.sg">er_wei_lin@schools.gov.sg</a>  |
 | 1 Passion    | Miss Yeo Hoon Kheng Eunice <br> <a href="yeo_hoon_kheng@schools.gov.sg">yeo_hoon_kheng@schools.gov.sg</a><br><br> Mdm Chinnamma Devi <br> <a href="chinnamma_devi@schools.gov.sg">chinnamma_devi@schools.gov.sg</a>   |
