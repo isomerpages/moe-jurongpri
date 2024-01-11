@@ -39,11 +39,11 @@ Staff
 
 | Class | Form Teachers |
 | -------- | --------|
-| 3 Care    | Miss Koh Ai Peng <br>[koh_ai_peng@schools.gov.sg](koh_ai_peng@schools.gov.sg)<br><br>Mr Ayatollah Khomeini Salleh<br>[ayatollah_khomeini_salleh@schools.gov.sg](ayatollah_khomeini_salleh@schools.gov.sg) |
-| 3 Integrity    | Mdm Nurul Fadilah Binte Hashim <br>[nurul_fadilah_hashim@schools.gov.sg](nurul_fadilah_hashim@schools.gov.sg)<br><br>Mdm Ang Xu Qin Chuliet <br> [ang_xu_qin_chuliet@schools.gov.sg](ang_xu_qin_chuliet@schools.gov.sg)<br><br>Mdm Jannah Juri [nur_jannah_juri@schools.gov.sg](nur_jannah_juri@schools.gov.sg)|
-| 3 Passion    | Mdm Yee Yen Bee Amy <br>[yee_yen_bee@schools.gov.sg](yee_yen_bee@schools.gov.sg)<br><br>Mdm Noorkiah Mohd Hashim<br> [noorkiah_mohamed_hashim@schools.gov.sg](noorkiah_mohamed_hashim@schools.gov.sg)|
-| 3 Respect    | Mr Wee Wei MIn<br>[wee_wei_min@schools.gov.sg](wee_wei_min@schools.gov.sg)<br><br>Mrs Raj Navamani<br>[navamani_iyyamalai@schools.gov.sg](navamani_iyyamalai@schools.gov.sg) |
-| 3 Responsibility    | Mdm Mastura Abd Hamid <br>[mastura_abdul_hamid@schools.gov.sg](mastura_abdul_hamid@schools.gov.sg)<br><br>Miss Zheng Yiying Yvonne<br>[zheng_yiying@schools.gov.ss](zheng_yiying@schools.gov.sg)|
+| 3 Care    | Miss Koh Ai Peng <br><a target="_blank" rel="noopener noreferrer nofollow" href="koh_ai_peng@schools.gov.sg">koh_ai_peng@schools.gov.sg</a><br><br>Mr Ayatollah Khomeini Salleh<br><a target="_blank" rel="noopener noreferrer nofollow" href="ayatollah_khomeini_salleh@schools.gov.sg"> ayatollah_khomeini_salleh@schools.gov.sg</a> |
+| 3 Integrity    | Mdm Nurul Fadilah Binte Hashim <br><a target="_blank" rel="noopener noreferrer nofollow" href="nurul_fadilah_hashim@schools.gov.sg"> nurul_fadilah_hashim@schools.gov.sg</a><br><br>Mdm Ang Xu Qin Chuliet <br> <a target="_blank" rel="noopener noreferrer nofollow" href="ang_xu_qin_chuliet@schools.gov.sg">ang_xu_qin_chuliet@schools.gov.sg</a><br><br>Mdm Jannah Juri<br> <a target="_blank" rel="noopener noreferrer nofollow" href="nur_jannah_juri@schools.gov.sg"> nur_jannah_juri@schools.gov.sg</a>|
+| 3 Passion    | Mdm Yee Yen Bee Amy <br><a target="_blank" rel="noopener noreferrer nofollow" href="yee_yen_bee@schools.gov.sg"> yee_yen_bee@schools.gov.sg</a><br><br>Mdm Noorkiah Mohd Hashim<br><a target="_blank" rel="noopener noreferrer nofollow" href="noorkiah_mohamed_hashim@schools.gov.sg"> noorkiah_mohamed_hashim@schools.gov.sg</a>|
+| 3 Respect    | Mr Wee Wei MIn<br><a target="_blank" rel="noopener noreferrer nofollow" href="wee_wei_min@schools.gov.sg"> wee_wei_min@schools.gov.sg</a><br><br>Mrs Raj Navamani<br><a target="_blank" rel="noopener noreferrer nofollow" href="navamani_iyyamalai@schools.gov.sg"> navamani_iyyamalai@schools.gov.sg</a> |
+| 3 Responsibility    | Mdm Mastura Abd Hamid <br><a target="_blank" rel="noopener noreferrer nofollow" href="mastura_abdul_hamid@schools.gov.sg"> mastura_abdul_hamid@schools.gov.sg</a><br><br>Miss Zheng Yiying Yvonne<br><a target="_blank" rel="noopener noreferrer nofollow" href="zheng_yiying@schools.gov.sg"> zheng_yiying@schools.gov.sg</a>|
 |
 
 ### P4 Form Teachers 2024
