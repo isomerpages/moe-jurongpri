@@ -50,11 +50,11 @@ Staff
 
 | Class | Form Teachers |
 | -------- | --------|
-| 4 Care    | Mdm Asfilah Ariffin <br>[asfilah_ariffin@schools.gov.sg](asfilah_ariffin@schools.gov.sg)<br><br>Mr Wee Jing-Sheng Danieli<br>[wee_jing_sheng_daniel@schools.gov.sg](wee_jing_sheng_daniel@schools.gov.sg)<br><br> Ms Nur Sofhia Buang<br>[nur_sofhia_buang@schools.gov.sg](nur_sofhia_buang@schools.gov.sg)   |
-| 4 Integrity    | Mrs Chin Mau Kin <br>[lee_mau_kin@schools.gov.sg](lee_mau_kin@schools.gov.sg)<br><br>Mr Ravindran s/o Rajasekeran<br> [ravindran_rajasekeran@schools.gov.sg](ravindran_rajasekeran@schools.gov.sg)|
-| 4 Passion    | Mdm Nurul Husna Abd Aziz <br>[nurul_husna_abdul_aziz@schools.gov.sg](nurul_husna_abdul_aziz@schools.gov.sg)<br><br>Mrs Josephine Rama<br>[josephine_pillai@schools.gov.sg](josephine_pillai@schools.gov.sg)|
-| 4 Respect    | Miss Kirk Bee Har<br>[kirk_bee_har@schools.gov.sg](kirk_bee_har@schools.gov.sg)<br><br>Mr Zailany Findy B Safie<br>[zailany_findy_safie@schools.gov.sg](zailany_findy_safie@schools.gov.sg) |
-| 4 Responsibility    | Mdm Huang Yan <br>[huang_yan@schools.gov.sg](huang_yan@schools.gov.sg)<br><br>Ms Neo Siao Wei Ann<br>[neo_siao_wei@schools.gov.sg](neo_siao_wei@schools.gov.sg)  |
+| 4 Care    | Mdm Asfilah Ariffin <br><a target="_blank" rel="noopener noreferrer nofollow" href="asfilah_ariffin@schools.gov.sg"> asfilah_ariffin@schools.gov.sg</a><br><br>Mr Wee Jing-Sheng Danieli<br><a target="_blank" rel="noopener noreferrer nofollow" href="wee_jing_sheng_daniel@schools.gov.sg"> wee_jing_sheng_daniel@schools.gov.sg</a><br><br> Ms Nur Sofhia Buang<br><a target="_blank" rel="noopener noreferrer nofollow" href="nur_sofhia_buang@schools.gov.sg"> nur_sofhia_buang@schools.gov.sg</a>  |
+| 4 Integrity    | Mrs Chin Mau Kin <br><a target="_blank" rel="noopener noreferrer nofollow" href="lee_mau_kin@schools.gov.sg"> lee_mau_kin@schools.gov.sg</a><br><br>Mr Ravindran s/o Rajasekeran<br> <a target="_blank" rel="noopener noreferrer nofollow" href="ravindran_rajasekeran@schools.gov.sg">ravindran_rajasekeran@schools.gov.sg</a>|
+| 4 Passion    | Mdm Nurul Husna Abd Aziz <br><a target="_blank" rel="noopener noreferrer nofollow" href="nurul_husna_abdul_aziz@schools.gov.sg">nurul_husna_abdul_aziz@schools.gov.sg</a><br><br>Mrs Josephine Rama<br><a target="_blank" rel="noopener noreferrer nofollow" href="josephine_pillai@schools.gov.sg"> josephine_pillai@schools.gov.sg</a>|
+| 4 Respect    | Miss Kirk Bee Har<br><a target="_blank" rel="noopener noreferrer nofollow" href="kirk_bee_har@schools.gov.sg"> kirk_bee_har@schools.gov.sg</a><br><br>Mr Zailany Findy B Safie<br><a target="_blank" rel="noopener noreferrer nofollow" href="zailany_findy_safie@schools.gov.s"> zailany_findy_safie@schools.gov.sg</a> |
+| 4 Responsibility    | Mdm Huang Yan <br><a target="_blank" rel="noopener noreferrer nofollow" href="huang_yan@schools.gov.sg"> huang_yan@schools.gov.sg</a><br><br>Ms Neo Siao Wei Ann<br><a target="_blank" rel="noopener noreferrer nofollow" href="neo_siao_wei@schools.gov.sg"> neo_siao_wei@schools.gov.sg</a>  |
 |
 
 ### P5 Form Teachers 2024
