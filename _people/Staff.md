@@ -72,12 +72,12 @@ Staff
 
 | Class | Form Teachers |
 | -------- | --------|
-| 6 Care    | Mrs Maalini Chelvaretnam<br>[maalini_chelvaretnam@schools.gov.sg](maalini_chelvaretnam@schools.gov.sg)<br><br>Mdm Sim Chui Ha<br>[sim_chui_ha@schools.gov.sg](sim_chui_ha@schools.gov.sg) |
-| 6 Gracious    | Mrs Sheila Gerad <br>[sheila_dhana_pal@schools.gov.sg](sheila_dhana_pal@schools.gov.sg)<br><br>Mr Jaron Pow <br> [pow_tien_min_jaron@schools.gov.sg](pow_tien_min_jaron@schools.gov.sg)|
-| 6 Integrity    | Mr Pua En <br>[pua_en@schools.gov.sg](pua_en@schools.gov.sg) <br><br>Mdm Syafiqah Ryaihanny Bte Sahrom<br> [syafiqah_ryaihanny_sahrom@schools.gov.sg](syafiqah_ryaihanny_sahrom@schools.gov.sg) |
-| 6 Passion    | Mr Mohd Kamarudin B Majid <br>[kamarudin_majid@schools.gov.sg](kamarudin_majid@schools.gov.sg)<br><br>Mrs Chang- Chen Jialing<br>[chen_jialin@schools.gov.sg](chen_jialin@schools.gov.sg)<br><br> Miss Lee Ai Ling<br>[lee_ai_ling@schools.gov.sg](clee_ai_ling@schools.gov.sg)   |
-| 6 Respect    | Mdm Amilia Baba<br>[amilia_baba@schools.gov.sg](amilia_baba@schools.gov.sg)<br><br>Ms Eunice Tang<br>[eunice_tang@schools.gov.sg](eunice_tang@schools.gov.sg) |
-| 6 Responsibility    | Mdm Toh Siow Hoon Rina <br>[toh_siow_hoon_rina@schools.gov.sg](toh_siow_hoon_rina@schools.gov.sg)<br><br>Mr Tan Kin Chiew Jimmy<br>[tan_kin_chiew@schools.gov.sg](tan_kin_chiew@schools.gov.sg) |
+| 6 Care    | Mrs Maalini Chelvaretnam<br><a target="_blank" rel="noopener noreferrer nofollow" href="maalini_chelvaretnam@schools.gov.sg">maalini_chelvaretnam@schools.gov.sg</a><br><br>Mdm Sim Chui Ha<br><a target="_blank" rel="noopener noreferrer nofollow" href="maalini_chelvaretnam@schools.gov.sg">[sim_chui_ha@schools.gov.sg](sim_chui_ha@schools.gov.sg) |
+| 6 Gracious    | Mrs Sheila Gerad <br></a><a target="_blank" rel="noopener noreferrer nofollow" href="maalini_chelvaretnam@schools.gov.sg">[sheila_dhana_pal@schools.gov.sg](sheila_dhana_pal@schools.gov.sg)<br><br>Mr Jaron Pow <br></a><a target="_blank" rel="noopener noreferrer nofollow" href="maalini_chelvaretnam@schools.gov.sg"> [pow_tien_min_jaron@schools.gov.sg](pow_tien_min_jaron@schools.gov.sg)|
+| 6 Integrity    | Mr Pua En <br></a><a target="_blank" rel="noopener noreferrer nofollow" href="maalini_chelvaretnam@schools.gov.sg">[pua_en@schools.gov.sg](pua_en@schools.gov.sg) <br><br>Mdm Syafiqah Ryaihanny Bte Sahrom<br></a><a target="_blank" rel="noopener noreferrer nofollow" href="maalini_chelvaretnam@schools.gov.sg"> [syafiqah_ryaihanny_sahrom@schools.gov.sg](syafiqah_ryaihanny_sahrom@schools.gov.sg) |
+| 6 Passion    | Mr Mohd Kamarudin B Majid <br></a><a target="_blank" rel="noopener noreferrer nofollow" href="maalini_chelvaretnam@schools.gov.sg">[kamarudin_majid@schools.gov.sg](kamarudin_majid@schools.gov.sg)<br><br>Mrs Chang- Chen Jialing<br></a><a target="_blank" rel="noopener noreferrer nofollow" href="maalini_chelvaretnam@schools.gov.sg">[chen_jialin@schools.gov.sg](chen_jialin@schools.gov.sg)<br><br> Miss Lee Ai Ling<br></a><a target="_blank" rel="noopener noreferrer nofollow" href="maalini_chelvaretnam@schools.gov.sg">[lee_ai_ling@schools.gov.sg](lee_ai_ling@schools.gov.sg)   |
+| 6 Respect    | Mdm Amilia Baba<br></a><a target="_blank" rel="noopener noreferrer nofollow" href="maalini_chelvaretnam@schools.gov.sg">[amilia_baba@schools.gov.sg](amilia_baba@schools.gov.sg)<br><br>Ms Eunice Tang<br></a><a target="_blank" rel="noopener noreferrer nofollow" href="maalini_chelvaretnam@schools.gov.sg">[eunice_tang@schools.gov.sg](eunice_tang@schools.gov.sg) |
+| 6 Responsibility    | Mdm Toh Siow Hoon Rina <br></a><a target="_blank" rel="noopener noreferrer nofollow" href="maalini_chelvaretnam@schools.gov.sg">[toh_siow_hoon_rina@schools.gov.sg](toh_siow_hoon_rina@schools.gov.sg)<br><br>Mr Tan Kin Chiew Jimmy<br></a><a target="_blank" rel="noopener noreferrer nofollow" href="maalini_chelvaretnam@schools.gov.sg">[tan_kin_chiew@schools.gov.sg](tan_kin_chiew@schools.gov.sg) |
 |
 
 
@@ -134,4 +134,4 @@ Staff
     <td class="tg-n4qt">Mrs Mumtaj Imran</td>
     <td class="tg-ii8k"><a href="mailto:Mumtaj_Imran_A@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">Mumtaj_Imran_A@schools.gov.sg</span></a></td>
   </tr>
-	</thead></table>
+	</thead></table></a>
