@@ -61,11 +61,11 @@ Staff
 
 | Class | Form Teachers |
 | -------- | --------|
-| 5 Care    | Mdm Ho Wei Lin <br>[ho_wei_lin@schools.gov.sg](ho_wei_lin@schools.gov.sg)<br><br>Mr Zulkarnain Daud<br>[zulkarnain_daud@schools.gov.sg](zulkarnain_daud@schools.gov.sg)|
-| 5 Integrity    | Ms Tan Yi Sheng <br>[tan_yi_sheng@schools.gov.sg](tan_yi_sheng@schools.gov.sg)<br><br>Mdm Zhang Sihan<br> [zhang_sihan@schools.gov.sg](zhang_sihan@schools.gov.sg)|
-| 5 Passion    | Mrs Rosalind Chin <br>[rosalind_chng@schools.gov.sg](rosalind_chng@schools.gov.sg)<br><br>Mdm Faridah Beham d/o AR<br>[faridah_beham_abdul_razeed@schools.gov.sg](faridah_beham_abdul_razeed@schools.gov.sg) |
-| 5 Respect    | Miss Norashikin Hambali<br>[norashikin_hambali@schools.gov.sg](norashikin_hambali@schools.gov.sg)<br><br>Mr Lim Daw Wee<br>[lim_daw_wee@schools.gov.sg](lim_daw_wee@schools.gov.sg) |
-| 5 Responsibility    | Mr Chua Jeng Keith <br>[chua_jeng@schools.gov.sg](chua_jeng@schools.gov.sg)<br><br>Mdm Sarimah Sainin<br>[sarimah_sainin@schools.gov.sg](sarimah_sainin@schools.gov.sg)|<br>
+| 5 Care    | Mdm Ho Wei Lin <br><a target="_blank" rel="noopener noreferrer nofollow" href="ho_wei_lin@schools.gov.sg"> ho_wei_lin@schools.gov.sg</a><br><br>Mr Zulkarnain Daud<br><a target="_blank" rel="noopener noreferrer nofollow" href="zulkarnain_daud@schools.gov.sg"> zulkarnain_daud@schools.gov.sg</a> |
+| 5 Integrity    | Ms Tan Yi Sheng <br><a target="_blank" rel="noopener noreferrer nofollow" href="tan_yi_sheng@schools.gov.sg"> tan_yi_sheng@schools.gov.sg</a><br><br>Mdm Zhang Sihan<br><a target="_blank" rel="noopener noreferrer nofollow" href="zhang_sihan@schools.gov.sg">zhang_sihan@schools.gov.sg</a>|
+| 5 Passion    | Mrs Rosalind Chin <br>a href="ho_wei_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"&gt; ho_wei_lin@schools.gov.sg[rosalind_chng@schools.gov.sg](rosalind_chng@schools.gov.sg)<br><br>Mdm Faridah Beham d/o AR<br>a href="ho_wei_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"&gt; ho_wei_lin@schools.gov.sg[faridah_beham_abdul_razeed@schools.gov.sg](faridah_beham_abdul_razeed@schools.gov.sg) |
+| 5 Respect    | Miss Norashikin Hambali<br>a href="ho_wei_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"&gt; ho_wei_lin@schools.gov.sg[norashikin_hambali@schools.gov.sg](norashikin_hambali@schools.gov.sg)<br><br>Mr Lim Daw Wee<br>a href="ho_wei_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"&gt; ho_wei_lin@schools.gov.sg[lim_daw_wee@schools.gov.sg](lim_daw_wee@schools.gov.sg) |
+| 5 Responsibility    | Mr Chua Jeng Keith <br>a href="ho_wei_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"&gt; ho_wei_lin@schools.gov.sg[chua_jeng@schools.gov.sg](chua_jeng@schools.gov.sg)<br><br>Mdm Sarimah Sainin<br>a href="ho_wei_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"&gt; ho_wei_lin@schools.gov.sg[sarimah_sainin@schools.gov.sg](sarimah_sainin@schools.gov.sg)|<br>
 |
 
 ### P6 Form Teachers 2024
