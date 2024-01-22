@@ -28,7 +28,7 @@ Key Personnel
     <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/ms lee ai ling.jpg" style="width:70%"><br>MS LEE AI LING</td>
   </tr>
   <tr>
-		<td class="tg-sufc">YEAR HEAD (MIDDLE PRIMARY)</td>
+		<td class="tg-sufc">YEAR HEAD<br>(MIDDLE PRIMARY)</td>
     <td class="tg-qtzs"><img src="/images/Staff%20Photos%202023/KPs/Jannah_juri_website02.png" style="width:70%"><br>MDM NUR JANNAH BTE JURIE</td>
       <td class="tg-sufc">YEAR HEAD <br>(LOWER PRIMARY)</td>
     <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/mdm chinnamma devi.jpg" style="width:70%"><br>MDM CHINNAMMA DEVI</td>
@@ -67,9 +67,9 @@ Key Personnel
    
   </tr>
 	<tr>
-	 <td class="tg-sufc">HOD PAM/CCA</td>
+	 <td class="tg-sufc">HOD PAM &amp; CCA</td>
     <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/mr zulkarnain b daud.jpg" style="width:70%"><br>MR ZULKARNAIN B DAUD</td>
-      <td class="tg-sufc">SH PHE/CCA</td>
+      <td class="tg-sufc">SH PHE &amp; CCA</td>
     <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/mr muhd hakim kamarudin.jpg" style="width:70%"><br>MR MUHD HAKIM KAMARUDIN</td>
     
   </tr>
@@ -78,7 +78,6 @@ Key Personnel
     <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/miss zheng yiying.jpg" style="width:70%"><br>MISS ZHENG YIYING YVONNE</td>
       <td class="tg-sufc">HOD CHARACTER &amp; CITIZENSHIP EDUCATION</td>
     <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/mdm elaine wong seok wai.jpg" style="width:70%"><br>MDM ELAINE WONG SEOK WAI</td>
-    
   </tr>
 	<tr>
 	<td class="tg-sufc">SH CHARACTER EDUCATION</td>
@@ -90,7 +89,7 @@ Key Personnel
 	<tr>
 	<td class="tg-sufc">HOD STUDENT MANAGEMENT</td>
     <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/mr pow tien min jaron.jpg" style="width:70%"><br>MR JARON POW TIEN MIN</td>
-      <td class="tg-sufc">SH DISCIPLINE &amp; STUDENT LEADERSHIP</td>
+      <td class="tg-sufc">LH DISCIPLINE &amp; STUDENT LEADERSHIP</td>
     <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/mr ravindran so rajasekeran.jpg" style="width:70%"><br>MR RAVINDRAN S/O RAJASEKERAN</td>
   </tr>
 	<tr>
