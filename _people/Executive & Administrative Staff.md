@@ -80,5 +80,9 @@ Executive &amp; Administrative Staff
     <td class="tg-n4qt">OSO</td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mdm Low Poh Mui </span></td>
   </tr>
+	<tr>
+    <td class="tg-n4qt">OSO</td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mdm Norana Bte Mohd Amin </span></td>
+  </tr>
 </tbody>
 </table>
