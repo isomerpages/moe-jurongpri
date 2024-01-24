@@ -3,8 +3,9 @@ title: Accomplishments
 permalink: /programme/accomplishment/
 description: ""
 third_nav_title: Accomplishments
+variant: markdown
 ---
-![](/images/Banner.png)
+![](/images/JPS_School_Front_Banner.jpg)
 
 Accomplishment
 ==============
