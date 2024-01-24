@@ -4,7 +4,7 @@ permalink: /philosophy/Vision-Mission-Motto/
 description: ""
 variant: markdown
 ---
-![](/images/Banner.png)
+![](/images/JPS_School_Front_Banner.jpg)
 
 Vision, Mission and Motto
 =========================
