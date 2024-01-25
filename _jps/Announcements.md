@@ -4,7 +4,7 @@ permalink: /jps/announcements/
 description: ""
 variant: markdown
 ---
-![](/images/Banner.png)
+![](/images/JPS_School_Front_Banner.jpg)
 
 Announcements
 =============
