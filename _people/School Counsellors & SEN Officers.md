@@ -2,8 +2,9 @@
 title: School Counsellors & SEN Officers
 permalink: /people/scseno/
 description: ""
+variant: markdown
 ---
-![](/images/Banner.png)
+!![](/images/JPS_School_Front_Banner.jpg)[](/images/Banner.png)
 
 School Counsellors &amp; SEN Officers
 ================
