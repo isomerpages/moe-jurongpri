@@ -1,0 +1,6 @@
+collections:
+  jps:
+    output: true
+    order:
+      - Announcements.md
+      - Calendar of Events.md

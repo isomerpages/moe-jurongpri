@@ -1,0 +1,14 @@
+logo: /images/Jurong Primary School logo.png
+links:
+  - title: About Jps
+    collection: about-jps
+  - title: Programmes
+    collection: programme
+  - title: People
+    collection: people
+  - title: Partners
+    collection: partners
+  - title: General Information
+    collection: others
+  - title: Contact Us
+    collection: contact-us
