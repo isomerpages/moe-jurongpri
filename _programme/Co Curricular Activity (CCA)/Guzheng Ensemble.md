@@ -3,8 +3,9 @@ title: Guzheng Ensemble
 permalink: /co-curricular-activity-cca/performing-arts/guzheng-ensemble/
 description: ""
 third_nav_title: Co Curricular Activity (CCA)
+variant: markdown
 ---
-![](/images/Banner.png)
+![](/images/JPS_School_Front_Banner.jpg)
 
 Guzheng Ensemble
 ==============================================
