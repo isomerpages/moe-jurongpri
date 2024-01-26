@@ -114,18 +114,17 @@ Updated on January 2024
 		<td class="tg-nrix">3pm  to 5pm</td>
   </tr><tr>
     <td class="tg-nrix" rowspan="2">Uniformed<br> Groups</td>
-    <td class="tg-nrix">17</td>
     <td class="tg-nrix">Girl Guides (Brownies)</td>
-    <td class="tg-0lax">Mrs Tan-Pek Ming Rang (1st IC)<br>Miss Norashikin Hambali (2nd IC) <br>Mdm Asfilah Ariffin<br>Miss Koh Ai Peng</td>
-    <td class="tg-nrix">29</td>
-    <td class="tg-nrix">Tues</td>
+    <td class="tg-0lax">Mrs Tan-Pek Ming Rang (1st)<br>Mdm Rohani Mafot (2nd)<br>Mrs Ismail-Siti Norliza<br>Mrs Wendy Looig</td>
+    <td class="tg-nrix">Thurs</td>
+				<td class="tg-nrix">3pm  to 5pm</td>
   </tr>
   <tr>
-    <td class="tg-nrix">18</td>
     <td class="tg-nrix">Scouts</td>
-    <td class="tg-0lax">Mr Chen Zhuangwei (1st IC)<br>Miss Ang Xin Yi (2nd IC)<br>Mrs Janet Chua </td>
-    <td class="tg-nrix">24</td>
-    <td class="tg-nrix">Tues</td>
+    <td class="tg-0lax">Mr Ayatollah Khomeini (1st)<br>Mr Chen Zhuangwei (2nd)<br>Mdm Sarimah Sainin<br>Mrs Janet Chua  </td>
+    <td class="tg-nrix">Thurs</td>
+				<td class="tg-nrix">3pm  to 5pm</td>
   </tr>
+	<tr></tr>
 </tbody>
 </table>
