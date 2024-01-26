@@ -3,9 +3,9 @@ title: Modern Dance
 permalink: /co-curricular-activity-cca/performing-arts/contemporary-dance/
 description: ""
 third_nav_title: Co Curricular Activity (CCA)
+variant: markdown
 ---
-
-![](/images/Banner.png)
+![](/images/JPS_School_Front_Banner.jpg)
 
 Modern Dance 
 ===================
