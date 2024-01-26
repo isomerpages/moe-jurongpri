@@ -3,9 +3,9 @@ title: The Leader In Me
 permalink: /programme/student-management/the-leader-in-me/
 description: ""
 third_nav_title: LLP
+variant: markdown
 ---
-
-![](/images/Banner.png)
+![](/images/JPS_School_Front_Banner.jpg)
 
 The Leader In Me
 ============================
