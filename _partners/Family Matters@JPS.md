@@ -2,8 +2,9 @@
 title: Family Matters@JPS
 permalink: /partners/Family-Matters-at-JPS/
 description: ""
+variant: markdown
 ---
-![](/images/Banner.png)
+![](/images/JPS_School_Front_Banner.jpg)
 
 Family Matters@JPS
 ==================

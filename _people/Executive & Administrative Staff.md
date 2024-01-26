@@ -4,7 +4,7 @@ permalink: /people/Executive-and-Administrative-Staff/
 description: ""
 variant: markdown
 ---
-!![](/images/JPS_School_Front_Banner.jpg)[](/images/Banner.png)
+![](/images/JPS_School_Front_Banner.jpg)[](/images/Banner.png)
 
 
 Executive &amp; Administrative Staff

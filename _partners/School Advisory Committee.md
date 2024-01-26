@@ -2,8 +2,9 @@
 title: School Advisory Committee
 permalink: /partners/School-Advisory-Committee/
 description: ""
+variant: markdown
 ---
-![](/images/Banner.png)
+![](/images/JPS_School_Front_Banner.jpg)
 
 School Advisory Committee
 =========================
