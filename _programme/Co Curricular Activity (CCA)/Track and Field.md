@@ -3,8 +3,9 @@ title: Track and Field
 permalink: /co-curricular-activity-cca/Sports-and-Games/Track-and-Field/
 description: ""
 third_nav_title: Co Curricular Activity (CCA)
+variant: markdown
 ---
-![](/images/Banner.png)
+![](/images/JPS_School_Front_Banner.jpg)
 
 Track and Field
 ===============
