@@ -4,7 +4,7 @@ permalink: /programme/play-jps/
 description: ""
 variant: markdown
 ---
-![](/images/JPS_School_Front_Banner.jpg)!
+![](/images/JPS_School_Front_Banner.jpg)
 
 PLAY@JPS
 ========================================================
