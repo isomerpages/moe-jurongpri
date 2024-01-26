@@ -2,4 +2,5 @@ collections:
   archive-2023:
     output: true
     order:
+      - Cultural Dance.md
       - Floorball.md
