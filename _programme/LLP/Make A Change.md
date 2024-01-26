@@ -3,10 +3,9 @@ title: Make A Change
 permalink: /programme/student-management/make-a-change/
 description: ""
 third_nav_title: LLP
+variant: markdown
 ---
-
-
-![](/images/Banner.png)
+![](/images/JPS_School_Front_Banner.jpg)
 # Make A Change
 
 ![](/images/MakeAChange01.png)
