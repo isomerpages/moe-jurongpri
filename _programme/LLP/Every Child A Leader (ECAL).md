@@ -3,10 +3,9 @@ title: Every Child A Leader (ECAL)
 permalink: /programme/every-child-a-leader-ecal/
 description: ""
 third_nav_title: LLP
+variant: markdown
 ---
-
-
-![](/images/Banner.png)
+![](/images/JPS_School_Front_Banner.jpg)
 
 # ECAL
 
