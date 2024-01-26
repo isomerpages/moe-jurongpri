@@ -2,7 +2,11 @@
 title: WESTories
 permalink: /others/westories/
 description: ""
+variant: markdown
 ---
+
+![](/images/JPS_School_Front_Banner.jpg)
+
 # 2023 WE-STories Publications
 
 Dear Parents, 
