@@ -2,7 +2,10 @@
 title: School Bus Service
 permalink: /partners/schoolbusservice/
 description: ""
+variant: markdown
 ---
+![](/images/JPS_School_Front_Banner.jpg)
+
 # School Bus Operator and Bus Fare <br>
 
 Jurong Primary School<br>
