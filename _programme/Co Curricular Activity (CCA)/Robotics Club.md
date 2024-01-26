@@ -3,8 +3,9 @@ title: Robotics Club
 permalink: /co-curricular-activity-cca/Clubs/Robotics-Club/
 description: ""
 third_nav_title: Co Curricular Activity (CCA)
+variant: markdown
 ---
-![](/images/Banner.png)
+![](/images/JPS_School_Front_Banner.jpg)
 
 Robotics Club
 =============
