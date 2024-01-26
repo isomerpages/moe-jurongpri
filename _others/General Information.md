@@ -4,7 +4,7 @@ permalink: /philosophy/GENERAL-INFORMATION/
 description: ""
 variant: markdown
 ---
-![](/images/Banner.png)
+![](/images/JPS_School_Front_Banner.jpg)
 
 General Information
 ===================

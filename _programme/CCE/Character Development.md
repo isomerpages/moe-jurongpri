@@ -3,8 +3,9 @@ title: Character Development
 permalink: /programme/cce/cd/
 description: ""
 third_nav_title: CCE
+variant: markdown
 ---
-![](/images/Banner.png)
+![](/images/JPS_School_Front_Banner.jpg)
 # Character Development
 
 

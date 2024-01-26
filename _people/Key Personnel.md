@@ -4,7 +4,7 @@ permalink: /people/Key-Personnel/
 description: ""
 variant: markdown
 ---
-![](/images/Banner.png)
+!![](/images/JPS_School_Front_Banner.jpg)[](/images/Banner.png)
 
 Key Personnel
 =============

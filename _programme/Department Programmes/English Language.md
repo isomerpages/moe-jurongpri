@@ -3,8 +3,9 @@ title: English Language
 permalink: /programme/signature-programmes/english-language/
 description: ""
 third_nav_title: Department Programmes
+variant: markdown
 ---
-![](/images/Banner.png)
+![](/images/JPS_School_Front_Banner.jpg)
 
 English Language
 ================

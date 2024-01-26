@@ -2,7 +2,6 @@
 title: Environmental Science Club
 permalink: /co-curricular-activity-cca/clubs/environmental-science-club/
 description: ""
-third_nav_title: Co Curricular Activity (CCA)
 ---
 ![](/images/Banner.png)
 

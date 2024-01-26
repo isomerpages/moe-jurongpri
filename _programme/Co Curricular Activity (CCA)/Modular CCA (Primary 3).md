@@ -3,9 +3,9 @@ title: Modular CCA (Primary 3)
 permalink: /co-curricular-activity-cca/Modular-CCA-Primary-3/
 description: ""
 third_nav_title: Co Curricular Activity (CCA)
+variant: markdown
 ---
-
-![](/images/Banner.png)
+![](/images/JPS_School_Front_Banner.jpg)
 
 Modular CCA (Primary 3)
 =======================

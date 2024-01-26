@@ -3,9 +3,11 @@ title: Physical Health and Education
 permalink: /programme/signature-programmes/phe/permalink/
 description: ""
 third_nav_title: Department Programmes
+variant: markdown
 ---
-![](/images/Banner.png)
+![](/images/JPS_School_Front_Banner.jpg)
 # PHE Programmes
+
 **Swimsafer**
 
 ![](/images/swimsafer02.jpg)

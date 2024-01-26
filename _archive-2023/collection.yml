@@ -1,0 +1,8 @@
+collections:
+  archive-2023:
+    output: true
+    order:
+      - ODAC.md
+      - Environmental Science Club.md
+      - Cultural Dance.md
+      - Floorball.md

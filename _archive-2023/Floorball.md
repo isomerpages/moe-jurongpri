@@ -2,9 +2,9 @@
 title: Floorball
 permalink: /co-curricular-activity-cca/Sports-and-Games/Floorball/
 description: ""
-third_nav_title: Co Curricular Activity (CCA)
+variant: markdown
 ---
-![](/images/Banner.png)
+![](/images/JPS_School_Front_Banner.jpg)
 
 Floorball
 =========

@@ -3,10 +3,9 @@ title: JPS Prefects and Leaders
 permalink: /programme/student-management/jps-prefects/
 description: ""
 third_nav_title: LLP
+variant: markdown
 ---
-
-
-![](/images/Banner.png)
+![](/images/JPS_School_Front_Banner.jpg)
 
 # JPS Prefects and Leaders
 

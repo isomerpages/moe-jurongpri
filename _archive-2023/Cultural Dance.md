@@ -2,9 +2,9 @@
 title: Cultural Dance
 permalink: /co-curricular-activity-cca/Performing-Arts/Cultural-Dance/
 description: ""
-third_nav_title: Co Curricular Activity (CCA)
+variant: markdown
 ---
-![](/images/Banner.png)
+![](/images/JPS_School_Front_Banner.jpg)
 
 Cultural Dance
 ==============
