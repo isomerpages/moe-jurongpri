@@ -3,8 +3,9 @@ title: Percussion Ensemble
 permalink: /co-curricular-activity-cca/performing-arts/percussion-ensemble/
 description: ""
 third_nav_title: Co Curricular Activity (CCA)
+variant: markdown
 ---
-![](/images/Banner.png)
+![](/images/JPS_School_Front_Banner.jpg)
 
 Percussion Ensemble
 =======================
