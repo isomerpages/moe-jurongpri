@@ -2,8 +2,9 @@
 title: School map and contact details
 permalink: /contact-us/School-map-and-contact-details/
 description: ""
+variant: markdown
 ---
-![](/images/Banner.png)
+![](/images/JPS_School_Front_Banner.jpg)
 
 School map and contact details
 ==============================
