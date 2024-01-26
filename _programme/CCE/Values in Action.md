@@ -3,8 +3,9 @@ title: Values in Action
 permalink: /programme/cce/via/
 description: ""
 third_nav_title: CCE
+variant: markdown
 ---
-![](/images/Banner.png)
+![](/images/JPS_School_Front_Banner.jpg)
 
 # Values in Action
 
@@ -15,5 +16,3 @@ Students also take part in community projects organised by the school such as Pr
 ![](/images/P6%20VIA.gif)
 
 ![](/images/P3%20VIA.gif)
-
-
