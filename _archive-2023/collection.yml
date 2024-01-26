@@ -2,5 +2,6 @@ collections:
   archive-2023:
     output: true
     order:
+      - Environmental Science Club.md
       - Cultural Dance.md
       - Floorball.md
