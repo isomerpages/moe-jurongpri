@@ -3,8 +3,9 @@ title: Guidance Modules
 permalink: /programme/cce/guidancemodules/
 description: ""
 third_nav_title: CCE
+variant: markdown
 ---
-![](/images/Banner.png)
+![](/images/JPS_School_Front_Banner.jpg)
 
 Guidance Modules
 ==========
