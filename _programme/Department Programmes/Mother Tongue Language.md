@@ -3,14 +3,14 @@ title: Mother Tongue Language
 permalink: /programme/Signature-Programmes/Mother-Tongue-Language/
 description: ""
 third_nav_title: Department Programmes
+variant: markdown
 ---
-
-![](/images/Banner.png)
+![](/images/JPS_School_Front_Banner.jpg)
 
 Mother Tongue Language 
 ======================
 
-### Mother Tongue Language Month 
+### Mother Tongue Language Month&nbsp;
 -----------------------------
 
 MTL Month is an annual event where competitions and activities of varying and engaging nature are organized for our MTL classes across the 6 levels, in the hope of developing our students’ confidence in using their MTL in their daily lives, and most importantly, nurturing their passion for lifelong learning.
