@@ -3,8 +3,9 @@ title: Citizenship Education and Social Studies
 permalink: /cce/cess/
 description: ""
 third_nav_title: CCE
+variant: markdown
 ---
-![](/images/Banner.png)
+![](/images/JPS_School_Front_Banner.jpg)
 
  Citizenship Education
 =========================================
@@ -89,4 +90,3 @@ As part of their Social Studies curriculum, the Primary 3 students attended a wo
 During the workshop, the students learnt about the importance of how town planning helped solve Singapore’s land scarcity challenges and use of alternative energy sources for a more cleaner and greener Singapore. 
 
 ![](/images/P3%20SS%20LJ%20%20gif.gif)
-
