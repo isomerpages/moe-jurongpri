@@ -29,7 +29,7 @@ Key Personnel
   </tr>
   <tr>
 		<td class="tg-sufc">YEAR HEAD<br>(MIDDLE PRIMARY)</td>
-    <td class="tg-qtzs"><img src="/images/Staff%20Photos%202023/KPs/Jannah_juri_website02.png" style="width:70%"><br>MDM NUR JANNAH BTE JURIE</td>
+    <td class="tg-qtzs"><img src="/images/Staff%20Photos%202023/KPs/Jannah_juri_website02.png" style="width:70%"><br>MDM NUR JANNAH JURI</td>
       <td class="tg-sufc">YEAR HEAD <br>(LOWER PRIMARY)</td>
     <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/mdm chinnamma devi.jpg" style="width:70%"><br>MDM CHINNAMMA DEVI</td>
   </tr>
