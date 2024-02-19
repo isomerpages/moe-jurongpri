@@ -4,7 +4,7 @@ permalink: /teachers/
 description: ""
 variant: markdown
 ---
-![](/images/Banner![](/images/JPS_School_Front_Banner.jpg).png)
+![](/images/JPS_School_Front_Banner.jpg)
 
 *   [SLS](https://vle.learning.moe.edu.sg/login)
 *   [School Cockpit](https://schoolcockpit.moe.gov.sg/)  
