@@ -19,5 +19,6 @@ Family Matters @ School provides seminars and workshops to equip parents with ef
 
 With Family Matters @ Schools, parents are informed, equipped and empowered to build stronger families and children are brought up with positive values and mind-set towards life, marriage and family.
 
+![](/images/Triple_P_Seminars_.jpg)
 
 <img src="/images/jelly-beans.gif" style="width:33.3%;float:left"><img src="/images/jelly-beans.gif" style="width:33.3%;float:left"><img src="/images/jelly-beans.gif" style="width:33.3%;float:left">
