@@ -10,22 +10,29 @@ PLAY@JPS
 ========================================================
 **Overview**
 
-PLAY@JPS (**P**assion, **L**earning, **A**dapt &amp; Apply, asking wh**Y**) is our Applied Learning Programme (ALP), where we seek to develop our students to become concerned citizens equipped with a critical and creative mind. In an ever-changing world with new challenges and opportunities, our hope is to help our students:
+PLAY@JPS (**P**assion, **L**earning, **A**dapt &amp; Apply, asking wh**Y**) is our Applied Learning Programme (ALP), where we seek to develop our students to become future-ready learners by developing their 21st-century competencies and fostering innovation through a play-based pedagogy. In an ever-changing world with new challenges and opportunities, we hope that our students will:
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; find learning fun and enjoyable
+(i)	Harness adaptive thinking skills to fuel a curiosity that drives continual exploration and discovery.
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; stay curious and explore alternatives
+(ii)	Develop and leverage their roles as confident communicators and collaborative creators to discerningly navigate challenges with creative and innovative solutions.
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; innovate with purpose and care
+(iii)	Act as empathetic contributors and digitally empowered learners to responsibly employ technology in devising sustainable solutions for our environment and the wider global community.
+
 
 ![](/images/PLAY.gif)
 
 **USP-Experience**
 
-We adopt a Play-based Pedagogy and believe that play can be purposeful and generate wonder and delight. Through play, we help them develop teamwork and collaborate with others, an important 21st century competency. We also can hear our students’ individual voices and allow them to make choices as well as give them time to reflect on their learning.
+We adopt a play-based pedagogy and believe that children learn best when they are actively engaged in playful experiences. Play-based learning also enhances children’s capacity for innovative thinking and problem-solving.
 
-Across the six years, our students will experience different types of play that are age-appropriate:
+Over the course of six years, our students will encounter various opportunities for play within our distinctive USP experience.
 
-![](/images/ALP.jpg)
+#### <u>The USP Experience</u>
+| | | |
+| -------- | -------- | -------- |
+| P1 &amp; P2   | **U**nstructured Play <br><br> **Wonder &amp; Delight** | We jumpstart our students’ experience through unstructured play. Unstructured play lays the basic foundation, igniting the initial spark of exploration and curiosity in our young learners. |
+| P3 &amp; P4  | **S**tructured Play <br><br> **Teamwork, Purposeful Play, Learning** | Students embark on this journey of structured play, where they build on their existing knowledge, delve into realms of understanding and effectively apply their deepening expertise. |
+| P5 &amp; P6  | **P**roductive &amp; Sustainable Play <br><br> **Reflection, Voice &amp; Choice** | Students celebrate their accomplishments and take pride in their ability to contribute to sustainable goals, seamlessly aligning with the sense of achievement and fulfilment that comes with joy and purpose of learning. |
 
-Students with deeper interest or aptitude will be given the opportunity to explore a stretch curriculum.
+
+
