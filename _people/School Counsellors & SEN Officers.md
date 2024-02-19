@@ -24,22 +24,22 @@ School Counsellors &amp; SEN Officers
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-n4qt">Senior School Counsellor</th>
-    <th class="tg-ii8k">Mrs Usha Davie Gopal</th>
+    <th class="tg-n4qt"><br><br><br>Senior School Counsellor</th>
+    <th class="tg-ii8k"><img src="/images/Staff%20Photos%202023/SC%20and%20SENO/Usha_Davie_Gopal.png" style="width:30%">Mrs Usha Davie Gopal</th>
   </tr>
 </thead>
 <tbody>
     <tr>
-    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> </span>Senior SEN Officer   </td>
-    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA"> Ms Tham Lai Juan Jamie</span></td>
+    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"></span>Senior SEN Officer   </td>
+    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA"><img src="/images/Staff%20Photos%202023/SC%20and%20SENO/Tham_Lai_Juan_Jamie.png" style="width:30%"> Ms Tham Lai Juan Jamie</span></td>
   </tr>
   <tr>
-    <td class="tg-n4qt"> SEN Officer</td>
-    <td class="tg-ii8k">Ms Sitragandi A Arunasalam</td>
+    <td class="tg-n4qt"><br><br><br>SEN Officer</td>
+    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA"><img src="/images/Staff%20Photos%202023/SC%20and%20SENO/Sitragandi_A_Arunasalam.png" style="width:30%">Ms Sitragandi A Arunasalam</span></td>
   </tr>
 	<tr>
-    <td class="tg-n4qt"> SEN Officer</td>
-    <td class="tg-ii8k">Mdm Tina Ng Wee Bin</td>
+    <td class="tg-n4qt"><br><br><br>SEN Officer</td>
+    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA"><img src="/images/Staff%20Photos%202023/SC%20and%20SENO/Tina_Ng_Wee_Bin.png" style="width:30%">Mdm Tina Ng Wee Bin</span></td>
   </tr>
   <tr>
     <td class="tg-n4qt">SEN Officer</td>
