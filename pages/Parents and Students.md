@@ -4,7 +4,7 @@ permalink: /parents-and-students/
 description: ""
 variant: markdown
 ---
-![](/images/Banner.png)
+![](/images/JPS_School_Front_Banner.jpg)
 
  <u><b>Publishing Photos and Videos</b></u>
  <br>Photographs or video images of students and parents may be taken during	school activities and events such as classroom lessons, CCA, camps,	or performances. The  school may use and publish such photographs or video recordings in school publications, the school's website, social media channels, or other communication channels.<br>
