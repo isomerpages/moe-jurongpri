@@ -47,7 +47,7 @@ School Counsellors &amp; SEN Officers
   </tr>
 	  <tr>
     <td class="tg-n4qt">Adjunct Counsellor</td>
-    <td class="tg-ii8k"> Mdm Alice Ng Lai Hing</td>
+    <td class="tg-ii8k"> <span style="color:#222;background-color:#EAEAEA"><img src="/images/Staff%20Photos%202023/SC%20and%20SENO/Alice_Ng_Lai_Hing.png" style="width:30%">Mdm Alice Ng Lai Hing</span></td>
   </tr>
 </tbody>
 </table>
