@@ -2,8 +2,9 @@
 title: Parents Engagement
 permalink: /parents-engagement/
 description: ""
+variant: markdown
 ---
-![](/images/Banner.png)
+![](/images/JPS_School_Front_Banner.jpg)
 
 Parents Engagement
 ==================
