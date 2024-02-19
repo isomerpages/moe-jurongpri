@@ -43,7 +43,7 @@ School Counsellors &amp; SEN Officers
   </tr>
   <tr>
     <td class="tg-n4qt">SEN Officer</td>
-    <td class="tg-ii8k"> Ms Tay Ee Shian Seraphina</td>
+    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA"><img src="/images/Staff%20Photos%202023/SC%20and%20SENO/Tay_Ee_Shian_Seraphina__2_.png" style="width:30%"> Ms Tay Ee Shian Seraphina</span></td>
   </tr>
 	  <tr>
     <td class="tg-n4qt">Adjunct Counsellor</td>
