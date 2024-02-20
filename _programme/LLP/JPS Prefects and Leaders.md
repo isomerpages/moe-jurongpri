@@ -9,8 +9,8 @@ variant: markdown
 
 # JPS Prefects and Leaders
 
-![](/images/PrefectEXCO2023.jpg)
-**Prefect Exco 2023**
+![](/images/EXCO.JPG)
+**Prefect Exco 2024**
 
 ![](/images/Chiam%20Chen%20Xi.jpg)
 **Chiam Chen Xi,  Head Prefect 2023**
