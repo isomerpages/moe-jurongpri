@@ -16,7 +16,7 @@ School Family Education and parent engagement events:
 * <a href="/files/Family%20Matters%20At%20JPS/JPS_Triple_P_Seminars_2024.pdf">JPS Triple P Seminar Information </a> <br>
 * <a href="[](/files/Family%20Matters%20At%20JPS/Triple_P_Programme_FSC_Services.pdf">Triple P Programme FSC Services</a><br>
 
-For further details, kindly proceed to the [provided link.](/sites/moe-jurongpri/folders/partners/editPage/Family%20Matters%40JPS.md).
+For further details, kindly proceed to the [provided link.](//folders/partners/editPage/Family%20Matters%40JPS.md).
 
 
 
