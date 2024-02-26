@@ -12,18 +12,23 @@ variant: markdown
 ![](/images/EXCO.JPG)
 **Prefect Exco 2024**
 
-![](/images/Chiam%20Chen%20Xi.jpg)
-**Chiam Chen Xi,  Head Prefect 2023**
+<p style="text-align:center">
+<img src="/images/Lee_Sheng_Rui_3.jpg" style="width:50%">
+<b>Lee Sheng Rui,  Head Prefect 2024</b></p>
 
-Deserving Prefects and CCA Leaders are officially appointed during the annual Student Leaders’ Investiture. This affirms student leaders for their commitment, effort and school contributions and also highlights the importance JPS places on the grooming of its next echelon of leaders!
+JPS student leaders are chosen through a rigorous selection process. These include panel evaluations, interviews with School Leaders, and even a rally and election exercise for the Head Prefect post! <br>
+Prefects and CCA leaders are formally appointed at the annual Student Leaders’ Investiture, acknowledging their unwavering commitment, diligence and contribution to the school.
 
-![](/images/P4Prefects.jpg)
-**P4 Prefects learning to work together**
+<p style="text-align:center">
+<img src="/images/P4Prefects.jpg" style="width:50%">
+<b>P4 Prefects learning to work together</b></p>
 
 Every year, all prefects and CCA Leaders undergo leadership training sessions by an appointed vendor, learning skills such as active listening, conflict management and creativity. The Prefect EXCO also participates in a series of leadership conversations with School Leaders.
 
-![](/images/P2.jpg)
-**P2 Junior Prefects learning to be creative**
+<p style="text-align:center">
+<img src="/images/P2.jpg" style="width:50%">
+<b>P2 Junior Prefects learning to be creative</b></p>
+
 
 Putting their learning into practice, JPS prefects play active roles in the planning and execution of the school’s annual commemorative events such as Racial Harmony Day and National Day.
 
