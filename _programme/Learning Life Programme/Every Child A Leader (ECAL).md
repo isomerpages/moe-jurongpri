@@ -7,7 +7,7 @@ variant: markdown
 ---
 ![](/images/JPS_School_Front_Banner.jpg)
 
-# ECAL
+# Every Child A Leader (ECAL)
 
 As the school’s Learning for Life Programme, Every Child A Leader (ECAL) nurtures in students strong life habits and leadership skills.
 
