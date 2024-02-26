@@ -9,8 +9,9 @@ variant: markdown
 
 # JPS Prefects and Leaders
 
-![](/images/EXCO.JPG)
-**Prefect Exco 2024**
+<p style="text-align:center">
+<img src="/images/EXCO.JPG">
+	<b>Prefect Exco 2024</b></p>
 
 <p style="text-align:center">
 <img src="/images/Lee_Sheng_Rui_3.jpg" style="width:50%">
