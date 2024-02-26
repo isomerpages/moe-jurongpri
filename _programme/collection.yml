@@ -2,7 +2,7 @@ collections:
   programme:
     output: true
     order:
-      - ALP.md
+      - Applied Learning Programme.md
       - LLP/.keep
       - LLP/Every Child A Leader (ECAL).md
       - LLP/The Leader In Me.md
