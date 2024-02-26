@@ -27,8 +27,8 @@ We adopt a play-based pedagogy and believe that children learn best when they ar
 
 Over the course of six years, our students will encounter various opportunities for play within our distinctive USP experience.
 
-#### <u>The USP Experience</u>
-| | | |
+
+|Level | The USP Experience | |
 | -------- | -------- | -------- |
 | P1 &amp; P2   | **U**nstructured Play <br><br> **Wonder &amp; Delight** | We jumpstart our students’ experience through unstructured play. Unstructured play lays the basic foundation, igniting the initial spark of exploration and curiosity in our young learners. |
 | P3 &amp; P4  | **S**tructured Play <br><br> **Teamwork, Purposeful Play, Learning** | Students embark on this journey of structured play, where they build on their existing knowledge, delve into realms of understanding and effectively apply their deepening expertise. |
