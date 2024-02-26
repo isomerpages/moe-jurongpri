@@ -63,12 +63,6 @@ If you’re coming, please register your interest here so that your teachers are
 Thanks, and see you soon!
 
 
-### 2023 Info on SEd for P5 and P6
-
-Please refer to this&nbsp;[link](/cce/programmes/moe-sexuality-education-in-schools/)&nbsp;for more information.
-
-
-
 ### JPS School Bag Weight Loss Project by PSG
 
 2022-05-31 <br>
