@@ -23,6 +23,6 @@ From Primary 1, our students are taught how to articulate ideas, use both verbal
 Besides the oracy programme, our students are taken through STELLAR 2.0 which is an interactive literacy programme that fosters confidence in learning English using children’s literature. Our teachers use drama, visible thinking and differentiated learning to bring Joy to the EL classrooms. A week is set aside each year to Celebrate English Learning. Students come dressed in their favourite characters and engage themselves in literacy activities throughout the week.
 
 
-<img src="/images/el_oracy02.jpeg" style="width:60%">
+<img src="/images/el_oracy02.jpeg" style="width:50%">
 <br>
-<img src="/images/el_oracy03.jpeg" style="width:60%">
+<img src="/images/el_oracy03.jpeg" style="width:50%">
