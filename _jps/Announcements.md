@@ -61,9 +61,3 @@ If you’re coming, please register your interest here so that your teachers are
 [Form for Ex-student visitation](https://form.gov.sg/64e498d3c98c410011051664)
 
 Thanks, and see you soon!
-
-
-### JPS School Bag Weight Loss Project by PSG
-
-2022-05-31 <br>
-Click&nbsp;[here](/files/School%20Bag%20Weight%20Loss%20Project%20PG.pdf)&nbsp;for more details.
