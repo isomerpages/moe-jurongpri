@@ -18,4 +18,4 @@ We aim to develop our children into:
 * Effective communicators and team players
 * Future-ready leaders who serve the community
 
-<img src="/images/MakeAChange03.jpg" style="width:70%">
+<img src="/images/MakeAChange03.jpg" style="width:50%">
