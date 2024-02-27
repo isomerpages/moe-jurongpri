@@ -19,7 +19,6 @@ School Family Education and parent engagement events:
 For further details, kindly proceed to the [provided link.](/partners/Family-Matters-at-JPS/).
 
 
-
 ### JPS Booklist 2024
 
 2023-11-23 <br>
@@ -31,11 +30,11 @@ Click&nbsp;[here](/forms/jps-booklist-2024/)&nbsp;to view 2024 booklist
 Do you know any inspiring JPS educators who have made outstanding contributions in moulding the future of our nation? The Ministry of Education (MOE) invites you to nominate them for the following national awards:
 
 **President's Award for Teachers 2024**
-![PAT 2024](/images/pat2024.png)
+![PAT 2024](/images/pat2024.png)<br>
 [https://go.gov.sg/pat2024](https://go.gov.sg/pat2024)
 
 **Outstanding Youth in Education Award 2024**
-![OYEA](/images/oyea2024a.png)
+![OYEA](/images/oyea2024a.png)<br>
 [https://go.gov.sg/oyea2024](https://go.gov.sg/oyea2024)
 
 Scan the QR codes or click on the URLs above to nominate. All nominations are to be submitted by **10 January 2024**.
