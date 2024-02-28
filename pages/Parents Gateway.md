@@ -2,8 +2,9 @@
 title: Parents Gateway
 permalink: /parents-gateway/
 description: ""
+variant: markdown
 ---
-![](/images/Banner.png)
+![](/images/JPS_School_Front_Banner.jpg)
 
 Parents Gateway 
 ================

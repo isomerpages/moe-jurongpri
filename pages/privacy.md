@@ -1,8 +1,9 @@
 ---
 title: Privacy Statement
 permalink: /privacy/
+variant: markdown
 ---
-![](/images/Banner.png)
+![](/images/JPS_School_Front_Banner.jpg)
 
 Privacy Statement
 =================

@@ -2,8 +2,9 @@
 title: Teachers
 permalink: /teachers/
 description: ""
+variant: markdown
 ---
-![](/images/Banner.png)
+![](/images/JPS_School_Front_Banner.jpg)
 
 *   [SLS](https://vle.learning.moe.edu.sg/login)
 *   [School Cockpit](https://schoolcockpit.moe.gov.sg/)  

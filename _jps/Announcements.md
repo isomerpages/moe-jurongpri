@@ -8,6 +8,17 @@ variant: markdown
 
 Announcements
 =============
+
+### JPS Triple P Seminars
+
+2024-02-22024<br>
+School Family Education and parent engagement events:
+* <a href="/files/Family%20Matters%20At%20JPS/JPS_Triple_P_Seminars_2024.pdf">JPS Triple P Seminar Information </a> <br>
+* <a href="[](/files/Family%20Matters%20At%20JPS/Triple_P_Programme_FSC_Services.pdf">Triple P Programme FSC Services</a><br>
+
+For further details, kindly proceed to the [provided link.](/partners/Family-Matters-at-JPS/).
+
+
 ### JPS Booklist 2024
 
 2023-11-23 <br>
@@ -19,11 +30,11 @@ Click&nbsp;[here](/forms/jps-booklist-2024/)&nbsp;to view 2024 booklist
 Do you know any inspiring JPS educators who have made outstanding contributions in moulding the future of our nation? The Ministry of Education (MOE) invites you to nominate them for the following national awards:
 
 **President's Award for Teachers 2024**
-![PAT 2024](/images/pat2024.png)
+![PAT 2024](/images/pat2024.png)<br>
 [https://go.gov.sg/pat2024](https://go.gov.sg/pat2024)
 
 **Outstanding Youth in Education Award 2024**
-![OYEA](/images/oyea2024a.png)
+![OYEA](/images/oyea2024a.png)<br>
 [https://go.gov.sg/oyea2024](https://go.gov.sg/oyea2024)
 
 Scan the QR codes or click on the URLs above to nominate. All nominations are to be submitted by **10 January 2024**.
@@ -49,15 +60,3 @@ If you’re coming, please register your interest here so that your teachers are
 [Form for Ex-student visitation](https://form.gov.sg/64e498d3c98c410011051664)
 
 Thanks, and see you soon!
-
-
-### 2023 Info on SEd for P5 and P6
-
-Please refer to this&nbsp;[link](/cce/programmes/moe-sexuality-education-in-schools/)&nbsp;for more information.
-
-
-
-### JPS School Bag Weight Loss Project by PSG
-
-2022-05-31 <br>
-Click&nbsp;[here](/files/School%20Bag%20Weight%20Loss%20Project%20PG.pdf)&nbsp;for more details.

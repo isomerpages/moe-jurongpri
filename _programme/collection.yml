@@ -2,13 +2,13 @@ collections:
   programme:
     output: true
     order:
-      - ALP.md
-      - LLP/.keep
-      - LLP/Every Child A Leader (ECAL).md
-      - LLP/The Leader In Me.md
-      - LLP/The 6 Traits of JPS Leaders.md
-      - LLP/JPS Prefects and Leaders.md
-      - LLP/Make A Change.md
+      - Applied Learning Programme.md
+      - Learning Life Programme/.keep
+      - Learning Life Programme/Every Child A Leader (ECAL).md
+      - Learning Life Programme/The Leader In Me.md
+      - Learning Life Programme/The 6 Traits of JPS Leaders.md
+      - Learning Life Programme/JPS Prefects and Leaders.md
+      - Learning Life Programme/Make A Change.md
       - Department Programmes/.keep
       - Department Programmes/Mathematics.md
       - Department Programmes/English Language.md

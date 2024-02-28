@@ -19,5 +19,15 @@ Family Matters @ School provides seminars and workshops to equip parents with ef
 
 With Family Matters @ Schools, parents are informed, equipped and empowered to build stronger families and children are brought up with positive values and mind-set towards life, marriage and family.
 
+## 2024 Events: 
+
+<img src="/images/Family%20Matters%20At%20JPS/Triple_P_Programme_FSC_Services.jpg" style="width:70%"> <br>
+
+<img src="/images/Family%20Matters%20At%20JPS/JPS_Triple_P_Seminars_2024_pg1.png" style="width:70%">
+<img src="/images/Family%20Matters%20At%20JPS/JPS_Triple_P_Seminars_2024_pg2.png" style="width:70%"> <br>
+
+<img src="/images/Family%20Matters%20At%20JPS/Triple_P_Seminars_.jpg">
+
+
 
 <img src="/images/jelly-beans.gif" style="width:33.3%;float:left"><img src="/images/jelly-beans.gif" style="width:33.3%;float:left"><img src="/images/jelly-beans.gif" style="width:33.3%;float:left">

@@ -1,8 +1,9 @@
 ---
 title: FAQ
 permalink: /faq/
+variant: markdown
 ---
-![](/images/Banner.png)
+![](/images/JPS_School_Front_Banner.jpg)
 
 Frequently Asked Questions
 --------------------------
