@@ -31,7 +31,7 @@ Staff
 | 2 Integrity    | Miss Ho Meiling <br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ho_mei_ling_a@schools.gov.sg"> ho_mei_ling_a@schools.gov.sg</a><br><br>Mdm Siti Aishah Jamail<br> <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:siti_aishah_jamail@schools.gov.sg">siti_aishah_jamail@schools.gov.sg</a><br><br> Mrs Stella Tan<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ho_qian_yi@schools.gov.sg"> ho_qian_yi@schools.gov.sg</a>  |
 | 2 Passion    | Mrs Ismail-Siti Norliza <br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:siti_norliza_abd_rahim@schools.gov.sg">siti_norliza_abd_rahim@schools.gov.sg</a><br><br>Mrs Janet Chua Siok Teng<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:tan_siok_teng@schools.gov.sg">tan_siok_teng@schools.gov.sg</a><br><br> Mdm Chindikasari Binte Roslee<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chindikasari_roslee@schools.gov.sg">chindikasari_roslee@schools.gov.sg</a>   |
 | 2 Respect    | Mrs Sueann Kong<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:goh_xiao_lin@schools.gov.sg">goh_xiao_lin@schools.gov.sg</a> <br><br>Mdm Nur Hanisah Binte Sukaman<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:nur_hanisah_sukaman@schools.gov.sg">nur_hanisah_sukaman@schools.gov.sg</a> |
-| 2 Responsibility    | Miss Lee Pei Sze <br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:lee_pei_sze@schools.gov.sg">lee_pei_sze@schools.gov.sg</a><br><br>Mdm Nur Fadzila Bte Abd Kadir<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:nur_fadzila_abdul_kadir@schools.gov.sg">nur_fadzila_abdul_kadir@schools.gov.sg</a><br><br>Ms Roshidah Karyeo<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:roshidah_karyeo@schools.gov.sg"> roshidah_karyeo@schools.gov.sg</a>   |
+| 2 Responsibility    | Miss Lee Pei Sze <br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:lee_pei_sze@schools.gov.sg">lee_pei_sze@schools.gov.sg</a><br><br>Mdm Li Huan<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Li_Huan_A@schools.gov.sg"> li_huan_a@schools.gov.sg</a><br><br>Mdm Nur Fadzila Bte Abd Kadir<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:nur_fadzila_abdul_kadir@schools.gov.sg">nur_fadzila_abdul_kadir@schools.gov.sg</a> |
 |
 
 
@@ -133,5 +133,8 @@ Staff
 	</tr><tr>
     <td class="tg-n4qt">Mrs Mumtaj Imran</td>
     <td class="tg-ii8k"><a href="mailto:Mumtaj_Imran_A@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">Mumtaj_Imran_A@schools.gov.sg</span></a></td>
+  </tr><tr>
+    <td class="tg-n4qt">Ms Joyce Fang</td>
+    <td class="tg-ii8k"><a href="mailto:"><span style="text-decoration:none;color:#EB0028"></span></a></td>
   </tr>
 	</thead></table>
