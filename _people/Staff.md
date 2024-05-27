@@ -135,6 +135,6 @@ Staff
     <td class="tg-ii8k"><a href="mailto:Mumtaj_Imran_A@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">Mumtaj_Imran_A@schools.gov.sg</span></a></td>
   </tr><tr>
     <td class="tg-n4qt">Ms Joyce Fang</td>
-    <td class="tg-ii8k"><a href="mailto:"><span style="text-decoration:none;color:#EB0028"></span></a></td>
+    <td class="tg-ii8k"><a href="mailto:Fang_Bee_Hoon@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">Fang_Bee_Hoon@schools.gov.sg</span></a></td>
   </tr>
 	</thead></table>
