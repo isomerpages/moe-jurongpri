@@ -64,6 +64,10 @@ Executive &amp; Administrative Staff
     <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> </span>CSO </td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Ms Eileen Tan Bee Yean </span></td>
   </tr>
+	<tr>
+    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> </span>CSO </td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Ms Chen Meiru, Ferlis</span></td>
+  </tr>
   <tr>
     <td class="tg-n4qt">OSO</td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Tan Seng Choon</span></td>
