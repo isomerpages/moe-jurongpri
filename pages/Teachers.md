@@ -6,17 +6,16 @@ variant: markdown
 ---
 ![](/images/JPS_School_Front_Banner.jpg)
 
-*   <a target="_blank" rel="noopener noreferrer nofollow" href="https://idp.mims.moe.gov.sg/nidp/app/login"> MIMS Portal </a>
-*   <a target="_blank" rel="noopener noreferrer nofollow" href="https://vle.learning.moe.edu.sg/login"> SLS</a>
-*   [School Cockpit](https://schoolcockpit.moe.gov.sg/)  
-*   [ICON](https://icon.moe.edu.sg/)  
-*   [Intranet](https://intranet.moe.gov.sg/Pages/Home.aspx)
-*   [SC Mobile](https://scmobile.moe.edu.sg/login) 
-*   [OPAL 2.0](https://idm.opal2.moe.edu.sg/Account/Login)  
-*   [RBS](https://rbs.avero-tech.com/login.html)  
-*   [Parents Gateway](https://pg.moe.edu.sg/)
-*   [HRP](https://www.hrp.gov.sg/hrp/#/)
----------
-* [All Ears Forms Builder](https://forms.moe.edu.sg/)
-* [Form SG](https://form.gov.sg/)
-* 
+*   <a target="_blank" rel="noopener noreferrer nofollow" href="https://idp.mims.moe.gov.sg/nidp/app/login/"> MIMS Portal </a>
+*   <a target="_blank" rel="noopener noreferrer nofollow" href="https://vle.learning.moe.edu.sg/login/"> SLS</a>
+*   <a target="_blank" rel="noopener noreferrer nofollow" href="https://schoolcockpit.moe.gov.sg/"> School Cockpit</a>
+*   <a target="_blank" rel="noopener noreferrer nofollow" href="https://icon.moe.edu.sg/"> ICON</a>
+*   <a target="_blank" rel="noopener noreferrer nofollow" href="https://intranet.moe.gov.sg/Pages/Home.aspx"> Intranet</a>
+*   <a target="_blank" rel="noopener noreferrer nofollow" href="https://scmobile.moe.edu.sg/login">SC Mobile</a>
+*   <a target="_blank" rel="noopener noreferrer nofollow" href="https://idm.opal2.moe.edu.sg/Account/Login">OPAL 2.0</a>
+*   <a target="_blank" rel="noopener noreferrer nofollow" href="https://rbs.avero-tech.com/login.html">RBS</a>
+*   <a target="_blank" rel="noopener noreferrer nofollow" href="https://pg.moe.edu.sg/">Parents Gateway</a>
+*   <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.hrp.gov.sg/hrp/#/">HRP</a>
+<br>
+<hr>
+*   <a target="_blank" rel="noopener noreferrer nofollow" href="https://forms.moe.edu.sg/">All Ears Forms Builder</a>
