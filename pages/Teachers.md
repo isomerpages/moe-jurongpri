@@ -6,16 +6,16 @@ variant: markdown
 ---
 ![](/images/JPS_School_Front_Banner.jpg)
 
-*   [SLS](https://vle.learning.moe.edu.sg/login)
-*   [School Cockpit](https://schoolcockpit.moe.gov.sg/)  
-    
-*   [ICON](https://icon.moe.edu.sg/)  
-    
-*   [Intranet](https://intranet.moe.gov.sg/Pages/Home.aspx)
-*   [SC Mobile](https://scmobile.moe.edu.sg/login) 
-    
-*   [OPAL 2.0](https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fresponse_type%3Dcode%26client_id%3DOpal2WebApp%26state%3DF3bvAXHbfSrKav9nA4QnYKWRiBNV2m83E4fYNifx9_2ej%26redirect_uri%3Dhttps%253A%252F%252Fwww.opal2.moe.edu.sg%252Fapp%252Findex.html%26scope%3Droles%2520profile%2520cxprofile%2520openid%2520cxDomainInternalApi%26code_challenge%3DkfjryKf7ut1l1vN-9ZxS3cyC_nV7LOwes-ikE8T-p1s%26code_challenge_method%3DS256%26nonce%3DF3bvAXHbfSrKav9nA4QnYKWRiBNV2m83E4fYNifx9_2ej)  
-    
-*   [RBS](https://rbs.avero-tech.com/login.html)  
-    
-*   [Parents Gateway](https://pg.moe.edu.sg/)
+*   <a target="_blank" rel="noopener noreferrer nofollow" href="https://idp.mims.moe.gov.sg/nidp/app/login/"> MIMS Portal </a>
+*   <a target="_blank" rel="noopener noreferrer nofollow" href="https://vle.learning.moe.edu.sg/login/"> SLS</a>
+*   <a target="_blank" rel="noopener noreferrer nofollow" href="https://schoolcockpit.moe.gov.sg/"> School Cockpit</a>
+*   <a target="_blank" rel="noopener noreferrer nofollow" href="https://icon.moe.edu.sg/"> ICON</a>
+*   <a target="_blank" rel="noopener noreferrer nofollow" href="https://intranet.moe.gov.sg/Pages/Home.aspx"> Intranet</a>
+*   <a target="_blank" rel="noopener noreferrer nofollow" href="https://scmobile.moe.edu.sg/login">SC Mobile</a>
+*   <a target="_blank" rel="noopener noreferrer nofollow" href="https://idm.opal2.moe.edu.sg/Account/Login">OPAL 2.0</a>
+*   <a target="_blank" rel="noopener noreferrer nofollow" href="https://rbs.avero-tech.com/login.html">RBS</a>
+*   <a target="_blank" rel="noopener noreferrer nofollow" href="https://pg.moe.edu.sg/">Parents Gateway</a>
+*   <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.hrp.gov.sg/hrp/#/">HRP</a>
+<br>
+<hr>
+*   <a target="_blank" rel="noopener noreferrer nofollow" href="https://forms.moe.edu.sg/">All Ears Forms Builder</a>
