@@ -30,11 +30,11 @@ School Counsellors &amp; SEN Officers
 </thead>
 <tbody>
     <tr>
-    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"></span>Senior SEN Officer   </td>
+    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"></span>Lead SEN Officer   </td>
     <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA"><img src="/images/Staff%20Photos%202023/SC%20and%20SENO/Tham_Lai_Juan_Jamie.png" style="width:30%"> Ms Tham Lai Juan Jamie</span></td>
   </tr>
   <tr>
-    <td class="tg-n4qt">SEN Officer</td>
+    <td class="tg-n4qt">Senior SEN Officer</td>
     <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA"><img src="/images/Staff%20Photos%202023/SC%20and%20SENO/Sitragandi_A_Arunasalam.png" style="width:30%">Ms Sitragandi A Arunasalam</span></td>
   </tr>
 	<tr>
