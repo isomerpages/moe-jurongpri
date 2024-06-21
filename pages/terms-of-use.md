@@ -34,6 +34,4 @@ Thank you for visiting https://www.jurongpri.moe.edu.sg/. By accessing and using
 17. <u>Jurong Primary School</u> reserves all rights to disable any links to, or frames of any site containing inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topics, names, material or information, or material or information that violates any written law, any applicable intellectual property, proprietary, privacy or publicity rights. <br>
 18. <u>Jurong Primary School</u> reserves the right to disable any unauthorised links or frames and disclaims any responsibility for the content available on any other site reached by links to or from this Web Site or any of the Contents. <br><br>
 **Governing Law**<br>
-19. These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore. 
-
-
+19. These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore.
