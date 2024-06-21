@@ -99,42 +99,34 @@ Staff
     <th class="tg-n4qt">Name</th>
     <th class="tg-n4qt">Email </th>
   </tr>
-  <tr>
-    <td class="tg-n4qt">Mr Chew Hock Chuan Anthony</td>
-    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA"><a href="mailto:chew_hock_chuan_anthony@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">chew_hock_chuan_anthony@schools.gov.sg</span></a><br>
-  </span></td></tr><tr>
-    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> </span>Mdm Ong Kah Peng</td>
-    <td class="tg-ii8k"><a href="mailto:Ong_Kah_Peng@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">Ong_Kah_Peng@schools.gov.sg</span></a><br></td>
+	<tr><td class="tg-n4qt">Mrs Cheah- Soh Bee Tin</td>
+    <td class="tg-ii8k"><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:cheahsoh_bee_tin@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">cheahsoh_bee_tin@schools.gov.sg</span></a></td></tr>
+	<tr><td class="tg-n4qt">Mr Chew Hock Chuan Anthony</td>
+    <td class="tg-ii8k"><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chew_hock_chuan_anthony@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">chew_hock_chuan_anthony@schools.gov.sg</span></a></td></tr>
+		<tr><td class="tg-n4qt">Ms Jayne Lee An</td>
+    <td class="tg-ii8k"><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:yeo_david@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">yeo_david@schools.gov.sg</span></a></td></tr>
+	 <tr><td class="tg-n4qt">Mrs Mumtaj Imran</td>
+    <td class="tg-ii8k"><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Mumtaj_Imran_A@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">Mumtaj_Imran_A@schools.gov.sg</span></a></td></tr>
+	<tr><td class="tg-n4qt">Mdm Ong Kah Peng</td>
+    <td class="tg-ii8k"><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Ong_Kah_Peng@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">Ong_Kah_Peng@schools.gov.sg</span></a></td></tr>
+	<tr><td class="tg-n4qt">Mdm Pek Quee Hui</td>
+    <td class="tg-ii8k"><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:pek_quee_hui@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">pek_quee_hui@schools.gov.sg</span></a></td></tr>
+	<tr><td class="tg-n4qt">Mdm Rekha Nair</td>
+    <td class="tg-ii8k"><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Rekha_K_R_Nair@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">Rekha_K_R_Nair@schools.gov.sg</span></a></td></tr>
+	 <tr><td class="tg-n4qt">Mdm Sally Tan</td>
+    <td class="tg-ii8k"><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:tan_siew_choo_b@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">tan_siew_choo_b@schools.gov.sg</span></a></td>
   </tr>
-  <tr>
-    <td class="tg-n4qt">Ms Jayne Lee An</td>
-    <td class="tg-ii8k"><a href="mailto:yeo_david@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">yeo_david@schools.gov.sg</span></a></td>
+	 <tr><td class="tg-n4qt">Mdm Teo Siang Hiok</td>
+    <td class="tg-ii8k"><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:teo_siang_hiok_a@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">teo_siang_hiok_a@schools.gov.sg</span></a></td>
   </tr>
-  <tr>
-    <td class="tg-n4qt">Mdm Pek Quee Hui </td>
-    <td class="tg-ii8k"><a href="mailto:pek_quee_hui@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">pek_quee_hui@schools.gov.sg</span>
-  </a></td></tr><tr>
-    <td class="tg-n4qt">Mdm Teo Siang Hiok</td>
-    <td class="tg-ii8k"><a href="mailto:teo_siang_hiok_a@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">teo_siang_hiok_a@schools.gov.sg</span></a></td>
+		 <tr><td class="tg-n4qt">Mdm Zuhaizah Hussein</td>
+    <td class="tg-ii8k"><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:zuhaizah_hussein@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">zuhaizah_hussein@schools.gov.sg</span></a></td>
   </tr>
-	 <tr>
-    <td class="tg-n4qt">Mdm Zuhaizah Hussein</td>
-    <td class="tg-ii8k"><a href="mailto:zuhaizah_hussein@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">zuhaizah_hussein@schools.gov.sg</span></a></td>
+		<tr><td class="tg-n4qt">Ms Joyce Fang</td>
+    <td class="tg-ii8k"><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Fang_Bee_Hoon@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">Fang_Bee_Hoon@schools.gov.sg</span></a></td>
   </tr>
-	 <tr>
-    <td class="tg-n4qt">Mdm Sally Tan</td>
-    <td class="tg-ii8k"><a href="mailto:tan_siew_choo_b@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">tan_siew_choo_b@schools.gov.sg</span></a></td>
-  </tr><tr>
-    <td class="tg-n4qt">Mrs Cheah- Soh Bee Tin</td>
-    <td class="tg-ii8k"><a href="mailto:cheahsoh_bee_tin@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">cheahsoh_bee_tin@schools.gov.sg</span></a></td>
-	</tr><tr>
-    <td class="tg-n4qt">Mdm Rekha Nair</td>
-    <td class="tg-ii8k"><a href="mailto:Rekha_K_R_Nair@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">Rekha_K_R_Nair@schools.gov.sg</span></a></td>
-	</tr><tr>
-    <td class="tg-n4qt">Mrs Mumtaj Imran</td>
-    <td class="tg-ii8k"><a href="mailto:Mumtaj_Imran_A@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">Mumtaj_Imran_A@schools.gov.sg</span></a></td>
-  </tr><tr>
-    <td class="tg-n4qt">Ms Joyce Fang</td>
-    <td class="tg-ii8k"><a href="mailto:Fang_Bee_Hoon@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">Fang_Bee_Hoon@schools.gov.sg</span></a></td>
+	 <tr><td class="tg-n4qt">Mdm J. Lee</td>
+   <td class="tg-ii8k"><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:"><span style="text-decoration:none;color:#EB0028"></span></a></td>
   </tr>
+
 	</thead></table>
