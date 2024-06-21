@@ -41,7 +41,7 @@ Staff
 | -------- | --------|
 | 3 Care    | Miss Koh Ai Peng <br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:koh_ai_peng@schools.gov.sg">koh_ai_peng@schools.gov.sg</a><br><br>Mr Ayatollah Khomeini Salleh<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ayatollah_khomeini_salleh@schools.gov.sg"> ayatollah_khomeini_salleh@schools.gov.sg</a> |
 | 3 Integrity    | Mdm Nurul Fadilah Binte Hashim <br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:nurul_fadilah_hashim@schools.gov.sg"> nurul_fadilah_hashim@schools.gov.sg</a><br><br> Mdm Nur Jannah Juri<br> <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:nur_jannah_juri@schools.gov.sg"> nur_jannah_juri@schools.gov.sg</a>|
-| 3 Passion    | Mdm Yee Yen Bee Amy <br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:yee_yen_bee@schools.gov.sg"> yee_yen_bee@schools.gov.sg</a><br><br>Mdm Noorkiah Mohd Hashim<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:noorkiah_mohamed_hashim@schools.gov.sg"> noorkiah_mohamed_hashim@schools.gov.sg</a><br><br>Miss Valerine Choo<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:"></a><br>|
+| 3 Passion    | Mdm Yee Yen Bee Amy <br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:yee_yen_bee@schools.gov.sg"> yee_yen_bee@schools.gov.sg</a><br><br>Mdm Noorkiah Mohd Hashim<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:noorkiah_mohamed_hashim@schools.gov.sg"> noorkiah_mohamed_hashim@schools.gov.sg</a><br><br>Miss Valerine Choo<br><br>|
 | 3 Respect    |Mrs Raj Navamani<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:navamani_iyyamalai@schools.gov.sg"> navamani_iyyamalai@schools.gov.sg</a> <br><br> Mrs Stella Tan<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ho_qian_yi@schools.gov.sg"> ho_qian_yi@schools.gov.sg</a> |
 | 3 Responsibility    | Mdm Mastura Abd Hamid <br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:mastura_abdul_hamid@schools.gov.sg"> mastura_abdul_hamid@schools.gov.sg</a><br><br>Miss Zheng Yiying Yvonne<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:zheng_yiying@schools.gov.sg"> zheng_yiying@schools.gov.sg</a>|
 |
@@ -126,7 +126,7 @@ Staff
     <td class="tg-ii8k"><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Fang_Bee_Hoon@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">Fang_Bee_Hoon@schools.gov.sg</span></a></td>
   </tr>
 	 <tr><td class="tg-n4qt">Mdm J. Lee</td>
-   <td class="tg-ii8k"><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:"><span style="text-decoration:none;color:#EB0028"></span></a></td>
+   <td class="tg-ii8k"><span style="text-decoration:none;color:#EB0028"></span></td>
   </tr>
 
 	</thead></table>
