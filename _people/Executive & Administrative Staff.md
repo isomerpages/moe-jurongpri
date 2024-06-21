@@ -37,20 +37,16 @@ Executive &amp; Administrative Staff
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Cheng Poh Teck Wilson</span></td>
   </tr>
   <tr>
-    <td class="tg-n4qt"> ICT Manager</td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Ms Ezzah Asyrani Zainal </span></td>
-  </tr>
-	 <tr>
-    <td class="tg-n4qt"> ICT Executive</td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Khairul Syamal Bin Jamaludin </span></td>
-  </tr>
-  <tr>
     <td class="tg-n4qt">Admin Executive </td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Mr Lee Chee Joo </span></td>
   </tr>
   <tr>
     <td class="tg-n4qt"> Admin Executive</td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mdm Ang Chai Har Jean </span></td>
+  </tr>
+	  <tr>
+    <td class="tg-n4qt"> ICT Manager</td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Ms Ezzah Asyrani Zainal </span></td>
   </tr>
   <tr>
     <td class="tg-n4qt">CSO</td>
@@ -66,7 +62,15 @@ Executive &amp; Administrative Staff
   </tr>
 	<tr>
     <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> </span>CSO </td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Ms Chen Meiru, Ferlis</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Ms Ferlis Chen Meiru</span></td>
+  </tr>
+	 <tr>
+    <td class="tg-n4qt"> OSO </td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Low Khee Tee </span></td>
+  </tr>
+	<tr>
+    <td class="tg-n4qt">OSO</td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mdm Low Poh Mui </span></td>
   </tr>
   <tr>
     <td class="tg-n4qt">OSO</td>
@@ -75,14 +79,6 @@ Executive &amp; Administrative Staff
   <tr>
     <td class="tg-n4qt">OSO</td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mdm Vasanthi d/o Maniyam </span></td>
-  </tr>
-  <tr>
-    <td class="tg-n4qt"> OSO </td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Low Khee Tee </span></td>
-  </tr>
-  <tr>
-    <td class="tg-n4qt">OSO</td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mdm Low Poh Mui </span></td>
   </tr>
 	<tr>
     <td class="tg-n4qt">OSO</td>

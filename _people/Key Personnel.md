@@ -42,7 +42,7 @@ Key Personnel
 	<tr>
 	<td class="tg-sufc">HOD ENGLISH LANGUAGE</td>
     <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/mdm faridah beham do abd razeed.jpg" style="width:70%"><br>MDM FARIDAH BEHAM D/O ABD RAZEED</td>
-      <td class="tg-sufc">LH ENGLISH <br>LANGUAGE (INT)</td>
+      <td class="tg-sufc">LH ENGLISH <br>LANGUAGE </td>
     <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/mdm noorkiah mohd hashim.jpg" style="width:70%"><br>MDM NOORKIAH MOHD HASHIM</td>
   </tr>
 	<tr>
@@ -74,13 +74,13 @@ Key Personnel
     
   </tr>
 	<tr>
-	<td class="tg-sufc">SH AESTHETICS (INT)</td>
+	<td class="tg-sufc">SH AESTHETICS</td>
     <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/miss zheng yiying.jpg" style="width:70%"><br>MISS ZHENG YIYING YVONNE</td>
       <td class="tg-sufc">HOD CHARACTER &amp; CITIZENSHIP EDUCATION</td>
     <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/mdm elaine wong seok wai.jpg" style="width:70%"><br>MDM ELAINE WONG SEOK WAI</td>
   </tr>
 	<tr>
-	<td class="tg-sufc">SH CHARACTER EDUCATION</td>
+	<td class="tg-sufc">LH CHARACTER EDUCATION</td>
     <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/ms tang you ni eunice.jpg" style="width:70%"><br>MS EUNICE TANG YOU NI</td>
       <td class="tg-sufc">SH CITIZENSHIP EDUCATION<br> &amp; SOCIAL STUDIES</td>
     <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/mdm noraidah azman.jpg" style="width:70%"><br>MDM NORAIDAH AZMAN</td>
