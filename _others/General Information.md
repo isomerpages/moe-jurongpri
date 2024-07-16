@@ -8,6 +8,10 @@ variant: markdown
 
 General Information
 ===================
+**Join our social media**
+* <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.facebook.com/100093010071253">Facebook Page</a>
+* <a target="_blank" rel="noopener noreferrer nofollow" href="https://instagram.com/jurong_primary_school">Instagram</a>
+
 **School Hours During School Terms (Monday to Friday)**
 
 1)	Operation Hours: 7.30 a.m. to 5.30 p.m.<br>
