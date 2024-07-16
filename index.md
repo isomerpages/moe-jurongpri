@@ -4,7 +4,8 @@ title: Jurong Primary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: "Visit our Instagram: https://instagram.com/jurong_primary_school
+  and Facebook: https://www.facebook.com/100093010071253"
 sections:
   - hero:
       background: /images/Main_Banner_160724__1_.gif
