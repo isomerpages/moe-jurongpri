@@ -22,4 +22,16 @@ sections:
         - title: Calendar
           description: ""
           url: /jps/calendar-of-events/
+  - textcards:
+      title: Visit our social media
+      id: textcards
+      cards:
+        - title: Facebook page
+          description: ""
+          linktext: Facebook
+          url: https://www.facebook.com/100093010071253
+        - title: Instagram
+          description: ""
+          linktext: Instagram
+          url: https://instagram.com/jurong_primary_school
 ---
