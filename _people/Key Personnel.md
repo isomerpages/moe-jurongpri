@@ -60,7 +60,7 @@ Key Personnel
    
   </tr>
 	<tr>
-	 <td class="tg-sufc">COVERING HOD SICENCE </td>
+	 <td class="tg-sufc">COVERING HOD SCIENCE </td>
     <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/mdm ang xu qin chuliet.jpg" style="width:70%"><br>MDM CHULIET ANG XU QIN</td>
       <td class="tg-sufc">LH SCIENCE (INT)</td>
     <td class="tg-qtzs"><img src="/images/Staff%20Photos%202023/KPs/Jane_Yong.png" style="width:70%"><br>MDM JANE YONG HSIAO WEI<br></td>
