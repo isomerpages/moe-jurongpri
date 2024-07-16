@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/MainBanner220224v6_1.gif
+      background: /images/Main_Banner_160724__1_.gif
       key_highlights:
         - title: Announcements
           description: ""
@@ -21,4 +21,18 @@ sections:
         - title: Calendar
           description: ""
           url: /jps/calendar-of-events/
+  - textcards:
+      title: Stay connected with us!
+      id: textcards
+      cards:
+        - title: Facebook page
+          description: ""
+          linktext: Facebook
+          url: https://www.facebook.com/100093010071253
+        - title: Instagram
+          description: ""
+          linktext: Instagram
+          url: https://instagram.com/jurong_primary_school
+      description: Follow us on social media and never miss out on what's happening in
+        our joyful community!
 ---

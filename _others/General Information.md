@@ -8,6 +8,7 @@ variant: markdown
 
 General Information
 ===================
+
 **School Hours During School Terms (Monday to Friday)**
 
 1)	Operation Hours: 7.30 a.m. to 5.30 p.m.<br>
