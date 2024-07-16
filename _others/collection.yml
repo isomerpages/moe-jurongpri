@@ -2,8 +2,8 @@ collections:
   others:
     output: true
     order:
-      - jpsSocMed.md
       - General Information.md
       - Frequently Asked Questions.md
       - WESTories.md
+      - jpsSocMed.md
       - Privacy Statement.md
