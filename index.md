@@ -23,7 +23,7 @@ sections:
           description: ""
           url: /jps/calendar-of-events/
   - textcards:
-      title: Visit our social media
+      title: Stay connected with us!
       id: textcards
       cards:
         - title: Facebook page
