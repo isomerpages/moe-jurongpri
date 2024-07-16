@@ -34,4 +34,6 @@ sections:
           description: ""
           linktext: Instagram
           url: https://instagram.com/jurong_primary_school
+      description: Follow us on social media and never miss out on what's happening in
+        our joyful community!
 ---
