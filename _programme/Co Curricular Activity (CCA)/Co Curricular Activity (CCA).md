@@ -51,7 +51,7 @@ Updated on January 2024
   </tr>
   <tr>
     <td class="tg-nrix">Football</td>
-    <td class="tg-0lax">Mr Mohd Kamarudin Majid (1st)<br>Mr Zailany Findy B Safie<br>Mdm Nurul Husna Abd Aziz</td>
+    <td class="tg-0lax">Mr Mohd Kamarudin Majid (1st)<br>Mr Ayatollah Khomeini (2nd)<br>Mr Zailany Findy B Safie<br>Mdm Nurul Husna Abd Aziz</td>
     <td class="tg-nrix">Mon</td>
 		<td class="tg-nrix">3pm  to 5pm</td>
   </tr>
