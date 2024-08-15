@@ -8,6 +8,16 @@ variant: markdown
 
 Announcements
 =============
+### JPS Ex-Student Visit on Teachers’ Day 2024
+
+2024-08-15<br>
+Dear Alumni,<br>
+Are you feeling nostalgic and missing your days at JPS? Do you long to reconnect with your teachers?<br>
+We’d love to see how you’ve grown and hear about your journey since you left us!<br>
+With great joy, we invite you to return to JPS on **Thursday, 29 August**, from **10:50 AM to 12:00 PM**.<br>
+If you plan to join us, please register your interest here so that your teachers can look forward to welcoming you home: https://go.gov.sg/jps-teachers-day-visitation-2024 <br><br>
+Thanks, and see you soon!
+
 
 ### JPS Triple P Seminars
 
@@ -46,17 +56,3 @@ The CTA is a biennial event that pays tribute to teachers who show care and conc
 Nominations are open to the public and can be made online at [www.cta.nie.edu.sg](http://www.cta.nie.edu.sg) from 11 September 2023 to 12 January 2024.
 
 We invite all to submit your nominations!
-
-### JPS Ex-Student Visit on Teachers' Day 2023
-
-Dear alumni,
-
-Feeling homesick and missing JPS? Wish to see your teachers again?
-
-We want to get to know the older you as well!
-                                     
-We joyfully invite you back to JPS on Thursday 31 Aug, 10:50am to 12pm.
-If you’re coming, please register your interest here so that your teachers are aware of your homecoming:
-[Form for Ex-student visitation](https://form.gov.sg/64e498d3c98c410011051664)
-
-Thanks, and see you soon!
