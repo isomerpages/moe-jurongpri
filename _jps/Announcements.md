@@ -15,7 +15,7 @@ Dear Alumni,<br>
 Are you feeling nostalgic and missing your days at JPS? Do you long to reconnect with your teachers?<br>
 We’d love to see how you’ve grown and hear about your journey since you left us!<br>
 With great joy, we invite you to return to JPS on **Thursday, 29 August**, from **10:50 AM to 12:00 PM**.<br>
-If you plan to join us, please register your interest here so that your teachers can look forward to welcoming you home: https://go.gov.sg/jps-teachers-day-visitation-2024 <br><br>
+If you plan to join us, please register your interest here so that your teachers can look forward to welcoming you home: <a href="https://go.gov.sg/jps-teachers-day-visitation-2024" target="_blank">https://go.gov.sg/jps-teachers-day-visitation-2024</a>  <br><br>
 Thanks, and see you soon!
 
 
