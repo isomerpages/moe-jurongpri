@@ -23,6 +23,10 @@ With Family Matters @ Schools, parents are informed, equipped and empowered to b
 
 <img src="/images/Family%20Matters%20At%20JPS/Triple_P_Programme_FSC_Services.jpg" style="width:70%"> <br>
 
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://go.gov.sg/lfs2024a"><img src="/images/Family Matters At JPS/Helping_Your_Child_Cope_with_Exam__1_.jpg" style="width:70%"></a><br>
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://go.gov.sg/lfs2024a"><img src="/images/Family Matters At JPS/Helping_Your_Child_Cope_with_Exam__2_.jpg" style="width:70%"></a><br>
+
 <img src="/images/Family%20Matters%20At%20JPS/JPS_Triple_P_Seminars_2024_pg1.png" style="width:70%">
 <img src="/images/Family%20Matters%20At%20JPS/JPS_Triple_P_Seminars_2024_pg2.png" style="width:70%"> <br>
 
