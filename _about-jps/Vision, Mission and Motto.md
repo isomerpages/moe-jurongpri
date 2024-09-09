@@ -38,16 +38,14 @@ Vision, Mission and Motto
     <td class="tg-6lwz">Mission</td>
   </tr>
   <tr>
-    <td class="tg-6hjr">We nurture all-rounded pupils of grace, distinction and sound moral values,</td>
+    <td class="tg-6hjr">We nurture all-rounded students of grace, distinction and sound moral values, <br>ready to take on future endeavours.</td>
   </tr>
-  <tr>
-    <td class="tg-6hjr">ready to face future endeavours.</td>
-  </tr>
+ 
   <tr>
     <td class="tg-4qwk">Motto</td>
   </tr>
   <tr>
-    <td class="tg-6hjr">Reach in to Reach out.</td>
+    <td class="tg-6hjr">Reach in to reach out.</td>
   </tr>
 </tbody>
 </table>
