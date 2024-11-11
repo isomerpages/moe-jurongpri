@@ -2,5 +2,5 @@ collections:
   forms:
     output: true
     order:
-      - JPS booklist 2025.md
+      - JPS Booklist 2025.md
       - JPS Booklist 2024.md
