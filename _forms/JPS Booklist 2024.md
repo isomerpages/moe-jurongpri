@@ -4,7 +4,7 @@ permalink: /forms/jps-booklist-2024/
 description: ""
 variant: markdown
 ---
-![](/images/Banner.png)
+![](/images/JPS_School_Front_Banner.jpg)
 
 JPS Booklist 2024
 =================
