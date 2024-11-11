@@ -8,9 +8,14 @@ variant: markdown
 
 Announcements
 =============
+### JPS Booklist 2024
+
+11-11-2024 <br>
+Click [here](/jps-booklist-2025/) to view 2025 booklist.
+
 ### JPS Ex-Student Visit on Teachers’ Day 2024
 
-2024-08-15<br>
+15-08-2024<br>
 Dear Alumni,<br>
 Are you feeling nostalgic and missing your days at JPS? Do you long to reconnect with your teachers?<br>
 We’d love to see how you’ve grown and hear about your journey since you left us!<br>
@@ -20,18 +25,13 @@ Thanks, and see you soon!
 
 ### JPS Triple P Seminars
 
-2024-02-22024<br>
+22-02-2024<br>
 School Family Education and parent engagement events:
 * <a href="/files/Family%20Matters%20At%20JPS/JPS_Triple_P_Seminars_2024.pdf">JPS Triple P Seminar Information </a> <br>
 * <a href="[](/files/Family%20Matters%20At%20JPS/Triple_P_Programme_FSC_Services.pdf">Triple P Programme FSC Services</a><br>
 
 For further details, kindly proceed to the [provided link.](/partners/Family-Matters-at-JPS/).
 
-
-### JPS Booklist 2024
-
-2023-11-23 <br>
-Click&nbsp;[here](/forms/jps-booklist-2024/)&nbsp;to view 2024 booklist
 
 ### Open for Nominations: **President's Award for Teachers and Outstanding Youth in Education Award**
 
