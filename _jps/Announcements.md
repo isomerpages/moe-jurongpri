@@ -8,7 +8,7 @@ variant: markdown
 
 Announcements
 =============
-### JPS Booklist 2024
+### JPS Booklist 2025
 
 11-11-2024 <br>
 Click [here](/jps-booklist-2025/) to view 2025 booklist.
