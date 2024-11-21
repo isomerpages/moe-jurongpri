@@ -123,7 +123,7 @@ Tel: 6 3161616 Fax: 6 316 7251 <br>
 SLF Podium S(298137) <br>
 Tel:&nbsp;63555000 <br>
 Fax:&nbsp;63536695 <br>
-[http://app1.mcys.gov.sg/Assistance.aspx](http://app1.mcys.gov.sg/Assistance.aspx)
+[https://www.mccy.gov.sg/](https://www.mccy.gov.sg/)
 
 <b>Chinese Development Assistance Council</b> <br>
 65 Tanjong Katong Road Singapore 436957 <br>
