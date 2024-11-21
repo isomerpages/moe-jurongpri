@@ -26,7 +26,7 @@ sections:
       subtitle: Add informational text
       id: infobar
       button: Click here to watch
-      url: pages/Our Annual Speech & Prize Giving Day 2024
+      url: pages//our-annual-speech-prize-giving-day-2024/
   - textcards:
       title: Stay connected with us!
       id: textcards
