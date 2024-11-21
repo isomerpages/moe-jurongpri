@@ -21,6 +21,14 @@ sections:
         - title: Calendar
           description: ""
           url: /jps/calendar-of-events/
+  - infobar:
+      title: JPS 75th Anniversary
+      id: infobar
+      button: Click here to watch
+      url: /our-annual-speech-prize-giving-day-2024/
+      description: "75 Years of Joy in JPS: Experience the Joy in JPS through this
+        introductory video, celebrating 75 years of excellence and our joyful
+        community spirit."
   - textcards:
       title: Stay connected with us!
       id: textcards

@@ -116,26 +116,26 @@ The JTC Summit, <br>
 8 Jurong Town Hall Road <br>
 #03-11 Singapore 609434 <br>
 Tel: 6 3161616 Fax: 6 316 7251 <br>
-[http://www.southwestcdc.org.sg/index.php?option=com\_content&amp;view=article&amp;id=12&amp;Itemid=109](http://www.southwestcdc.org.sg/index.php?option=com_content&amp;view=article&amp;id=12&amp;Itemid=109)&nbsp;
+[https://southwest.cdc.gov.sg/about-us/about-the-cdc/about-south-west-district/](https://southwest.cdc.gov.sg/about-us/about-the-cdc/about-south-west-district/)[http://www.southwestcdc.org.sg/index.php?option=com\_content&amp;view=article&amp;id=12&amp;Itemid=109](http://www.southwestcdc.org.sg/index.php?option=com_content&amp;view=article&amp;id=12&amp;Itemid=109)&nbsp;
 
 <b>Ministry of Community Development, Youth and Sports</b> <br>
 512A Thomson Road #02-01/09 <br>
 SLF Podium S(298137) <br>
 Tel:&nbsp;63555000 <br>
 Fax:&nbsp;63536695 <br>
-[http://app1.mcys.gov.sg/Assistance.aspx](http://app1.mcys.gov.sg/Assistance.aspx)
+[https://www.mccy.gov.sg/](https://www.mccy.gov.sg/)
 
 <b>Chinese Development Assistance Council</b> <br>
 65 Tanjong Katong Road Singapore 436957 <br>
 Tel: 6841 4889 <br>
 email:&nbsp;[feedback@cdac.org.sg](mailto:feedback@cdac.org.sg) <br>
-[http://www.cdac.org.sg/cos/o.x?c=/cdac\_corp/section](http://www.cdac.org.sg/cos/o.x?c=/cdac_corp/section)
+[https://www.cdac.org.sg/](https://www.cdac.org.sg/)
 
 <b>Mendaki</b> <br>
 51 Kee Sun Avenue (off Tay Lian Teck Road) <br>
 Singapore 457056. <br>
 Tel: 6245 5555 <br>
-[http://www.mendaki.org.sg/edu-trust-fund/education-resources.aspx](http://www.mendaki.org.sg/edu-trust-fund/education-resources.aspx)
+[https://www.mendaki.org.sg/](https://www.mendaki.org.sg/)
 
 <b>SINDA</b> <br>
 <b>Singapore Indian Development Association</b> <br>
