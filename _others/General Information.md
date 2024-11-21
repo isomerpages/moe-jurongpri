@@ -129,13 +129,13 @@ Fax:&nbsp;63536695 <br>
 65 Tanjong Katong Road Singapore 436957 <br>
 Tel: 6841 4889 <br>
 email:&nbsp;[feedback@cdac.org.sg](mailto:feedback@cdac.org.sg) <br>
-[http://www.cdac.org.sg/cos/o.x?c=/cdac\_corp/section](http://www.cdac.org.sg/cos/o.x?c=/cdac_corp/section)
+[https://www.cdac.org.sg/](https://www.cdac.org.sg/)
 
 <b>Mendaki</b> <br>
 51 Kee Sun Avenue (off Tay Lian Teck Road) <br>
 Singapore 457056. <br>
 Tel: 6245 5555 <br>
-[http://www.mendaki.org.sg/edu-trust-fund/education-resources.aspx](http://www.mendaki.org.sg/edu-trust-fund/education-resources.aspx)
+[https://www.mendaki.org.sg/](https://www.mendaki.org.sg/)
 
 <b>SINDA</b> <br>
 <b>Singapore Indian Development Association</b> <br>
