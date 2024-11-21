@@ -23,7 +23,6 @@ sections:
           url: /jps/calendar-of-events/
   - infobar:
       title: Watch our Annual Speech & Prize Giving Day
-      subtitle: Add informational text
       id: infobar
       button: Click here to watch
       url: /our-annual-speech-prize-giving-day-2024/
