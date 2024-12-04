@@ -116,7 +116,7 @@ The JTC Summit, <br>
 8 Jurong Town Hall Road <br>
 #03-11 Singapore 609434 <br>
 Tel: 6 3161616 Fax: 6 316 7251 <br>
-[https://southwest.cdc.gov.sg/about-us/about-the-cdc/about-south-west-district/](https://southwest.cdc.gov.sg/about-us/about-the-cdc/about-south-west-district/)[http://www.southwestcdc.org.sg/index.php?option=com\_content&amp;view=article&amp;id=12&amp;Itemid=109](http://www.southwestcdc.org.sg/index.php?option=com_content&amp;view=article&amp;id=12&amp;Itemid=109)&nbsp;
+[https://southwest.cdc.gov.sg/about-us/about-the-cdc/about-south-west-district/](https://southwest.cdc.gov.sg/about-us/about-the-cdc/about-south-west-district/)
 
 <b>Ministry of Community Development, Youth and Sports</b> <br>
 512A Thomson Road #02-01/09 <br>
