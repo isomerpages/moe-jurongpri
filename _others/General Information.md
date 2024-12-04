@@ -105,7 +105,7 @@ Closed on Wednesday <br>Lunch Time : 1pm&nbsp; to 2pm.
 ### FAS
 ---
 
-<u><b>1\. MOE Financial Assistance Scheme (MOE FAS)</b></u> <br>
+<u><b>1. MOE Financial Assistance Scheme (MOE FAS)</b></u> <br>
 For more information, please click&nbsp;[here](https://www.moe.gov.sg/financial-matters/financial-assistance).&nbsp;
 
 <u><b>2.&nbsp;Other&nbsp;organisations</b></u> <br>
