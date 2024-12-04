@@ -57,7 +57,7 @@ During School Holidays : Monday to Friday <br>
 ### Official Contact details
 ------------------------
 
-<b>1\. School Address/ Contact Number</b> <br>
+<b>1. School Address/ Contact Number</b> <br>
 Jurong Primary School 320 Jurong East St 32 S(609476) <br>
 Tel: 6561 8837 (General Office) <br>
 Fax: 6564 1964 <br>
@@ -66,7 +66,7 @@ Webpage:&nbsp;[http://www.jurongpri.moe.edu.sg](http://www.jurongpri.moe.edu.sg/
  
  
 
-<b>2\. Bookshop Vendor</b> <br>
+<b>2. Bookshop Vendor</b> <br>
 HB Book Centre <br>
 Tel: 9018 5765/ 6270 1060 <br>
 Email:&nbsp;[hb.bk.ctr@gmail.com](mailto:hb.bk.ctr@gmail.com) <br>
@@ -75,13 +75,13 @@ Operating Hours: Monday to Friday, 8.30am to 3.00pm
 
   
 
-<b>3\. Uniform Vendor</b> <br>
+<b>3. Uniform Vendor</b> <br>
 Beau Voix Uniform <br>
 Tel: 6743 6645/ 6744 7084 <br>
 Email:&nbsp;[info@beauvoix.com.sg](mailto:info@beauvoix.com.sg)
 
 
-<b>4\. Bus Operator</b> <br>
+<b>4. Bus Operator</b> <br>
 Chang Chen Pte Ltd <br>
 Tel: 6760 4835&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;Fax: 6892 5776
 
@@ -105,7 +105,7 @@ Closed on Wednesday <br>Lunch Time : 1pm&nbsp; to 2pm.
 ### FAS
 ---
 
-<u><b>1\. MOE Financial Assistance Scheme (MOE FAS)</b></u> <br>
+<u><b>1. MOE Financial Assistance Scheme (MOE FAS)</b></u> <br>
 For more information, please click&nbsp;[here](https://www.moe.gov.sg/financial-matters/financial-assistance).&nbsp;
 
 <u><b>2.&nbsp;Other&nbsp;organisations</b></u> <br>
