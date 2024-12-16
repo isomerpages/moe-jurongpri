@@ -87,21 +87,18 @@ Key Personnel
     
   </tr>
 	<tr>
-	<td class="tg-sufc"></td>
-    <td class="tg-qtzs"><img src="" style="width:70%"><br></td>
-      <td class="tg-sufc">LH DISCIPLINE &amp; STUDENT LEADERSHIP</td>
+	    <td class="tg-sufc">HOD DISCIPLINE<br>(Covering)</td>
     <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/mr ravindran so rajasekeran.jpg" style="width:70%"><br>MR RAVINDRAN S/O RAJASEKERAN</td>
+			<td class="tg-sufc">HOD ICT &amp; DATA MANAGEMENT</td>
+    <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/mdm er wei lin.jpg" style="width:70%"><br>MDM ER WEI LIN</td>
   </tr>
 	<tr>
-	<td class="tg-sufc">HOD ICT &amp; DATA MANAGEMENT</td>
-    <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/mdm er wei lin.jpg" style="width:70%"><br>MDM ER WEI LIN</td>
  <td class="tg-sufc">LH ICT</td>
-    <td class="tg-qtzs"><img src="" style="width:70%"><br>MS MARLIYN QUEK HUI YING</td></tr>
-		<tr>
+    <td class="tg-qtzs"><img src="" style="width:70%"><br>MS MARLIYN QUEK HUI YING</td>
 	<td class="tg-sufc">ADMIN MANAGER</td>
-    <td class="tg-qtzs"><img src="" style="width:70%"><br>MRS IRENE NG</td>
+    <td class="tg-qtzs"><img src="" style="width:70%"><br>MRS IRENE NG</td></tr>
+		<tr>
  <td class="tg-sufc">OPERATIONS MANAGER</td>
     <td class="tg-qtzs"><img src="" style="width:70%"><br>MR WILSON CHENG</td></tr>
-	
 	</tbody>
 </table>
