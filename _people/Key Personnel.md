@@ -25,7 +25,7 @@ Key Personnel
     <td class="tg-sufc">SCHOOL STAFF DEVELOPER</td>
     <td class="tg-qtzs"><img src="/images/Staff%20Photos%202023/KPs/ms%20roshidah%20karyeo.jpg" style="width:70%"><br>MS ROSHIDAH KARYEO</td>
     <td class="tg-sufc">YEAR HEAD<br>(UPPER PRIMARY)</td>
-    <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/ms lee ai ling.jpg" style="width:70%"><br>MS LEE AI LING</td>
+    <td class="tg-qtzs"><img src="" style="width:70%"><br>MR KELVIN KOH HOCK LAI</td>
   </tr>
   <tr>
 		<td class="tg-sufc">YEAR HEAD<br>(MIDDLE PRIMARY)</td>
@@ -34,9 +34,9 @@ Key Personnel
     <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/mdm chinnamma devi.jpg" style="width:70%"><br>MDM CHINNAMMA DEVI</td>
   </tr>
 	<tr>
-		<td class="tg-sufc">ASSISTANT<br> YEAR HEAD<br>P4 (INT)</td>
+		<td class="tg-sufc">ASSISTANT<br> YEAR HEAD</td>
     <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/mr zailany findy b safie.jpg" style="width:70%"><br>MR ZAILANY FINDY BIN SAFIE</td>
-      <td class="tg-sufc">ASSISTANT<br> YEAR HEAD <br>P2 (INT)</td>
+      <td class="tg-sufc">ASSISTANT<br> YEAR HEAD <br>(INT)</td>
     <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/mdm nur fadzila abd kadir.jpg" style="width:70%"><br>MDM NUR FADZILA ABD KADIR</td>
   </tr>
 	<tr>
@@ -55,12 +55,12 @@ Key Personnel
 	<tr>
 	 <td class="tg-sufc">HOD MATHEMATICS</td>
     <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/ms nur sofhia buang.jpg" style="width:70%"><br>MS NUR SOFHIA BUANG</td>
-      <td class="tg-sufc">LH MATHEMATICS</td>
+      <td class="tg-sufc">LH <br> MATHEMATICS</td>
     <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/ms neo siao wei ann_v2.png" style="width:70%"><br>MS NEO SIAO WEI ANN</td>
    
   </tr>
 	<tr>
-	 <td class="tg-sufc">COVERING HOD SCIENCE </td>
+	 <td class="tg-sufc">HOD SCIENCE<br> (Covering)</td>
     <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/mdm ang xu qin chuliet.jpg" style="width:70%"><br>MDM CHULIET ANG XU QIN</td>
       <td class="tg-sufc">LH SCIENCE (INT)</td>
     <td class="tg-qtzs"><img src="/images/Staff%20Photos%202023/KPs/Jane_Yong.png" style="width:70%"><br>MDM JANE YONG HSIAO WEI<br></td>
@@ -87,14 +87,18 @@ Key Personnel
     
   </tr>
 	<tr>
-	<td class="tg-sufc">HOD STUDENT MANAGEMENT</td>
-    <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/mr pow tien min jaron.jpg" style="width:70%"><br>MR JARON POW TIEN MIN</td>
-      <td class="tg-sufc">LH DISCIPLINE &amp; STUDENT LEADERSHIP</td>
+	    <td class="tg-sufc">HOD DISCIPLINE<br>(Covering)</td>
     <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/mr ravindran so rajasekeran.jpg" style="width:70%"><br>MR RAVINDRAN S/O RAJASEKERAN</td>
+			<td class="tg-sufc">HOD ICT &amp; DATA MANAGEMENT</td>
+    <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/mdm er wei lin.jpg" style="width:70%"><br>MDM ER WEI LIN</td>
   </tr>
 	<tr>
-	<td class="tg-sufc">HOD ICT &amp; DATA MANAGEMENT</td>
-    <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/mdm er wei lin.jpg" style="width:70%"><br>MDM ER WEI LIN</td>
-</tr>
-	<tr></tr></tbody>
+ <td class="tg-sufc">LH ICT</td>
+    <td class="tg-qtzs"><img src="" style="width:70%"><br>MS MARLIYN QUEK HUI YING</td>
+	<td class="tg-sufc">ADMIN MANAGER</td>
+    <td class="tg-qtzs"><img src="" style="width:70%"><br>MRS IRENE NG</td></tr>
+		<tr>
+ <td class="tg-sufc">OPERATIONS MANAGER</td>
+    <td class="tg-qtzs"><img src="" style="width:70%"><br>MR WILSON CHENG</td></tr>
+	</tbody>
 </table>

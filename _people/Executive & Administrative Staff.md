@@ -62,7 +62,7 @@ Executive &amp; Administrative Staff
   </tr>
 	<tr>
     <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> </span>CSO </td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Ms Ferlis Chen Meiru</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Ms Faridah Zainal Ali</span></td>
   </tr>
 	 <tr>
     <td class="tg-n4qt"> OSO </td>
