@@ -64,22 +64,21 @@ Staff
 | Class | Form Teachers |
 | -------- | --------|
 | 5 Care    |Mrs Chin Mau Kin <br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:lee_mau_kin@schools.gov.sg"> lee_mau_kin@schools.gov.sg</a><br><br>Mr Tan Kin Chiew Jimmy<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:tan_kin_chiew@schools.gov.sg">tan_kin_chiew@schools.gov.sg</a> |
-| 5 Integrity    | Ms Tan Yi Sheng <br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:tan_yi_sheng@schools.gov.sg"> tan_yi_sheng@schools.gov.sg</a><br><br>Mdm Zhang Sihan<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:zhang_sihan@schools.gov.sg">zhang_sihan@schools.gov.sg</a>|
-| 5 Passion    | Mrs Rosalind Chin <br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:rosalind_chng@schools.gov.sg"> rosalind_chng@schools.gov.sg</a><br><br> Mdm Ang Xu Qin Chuliet <br> <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ang_xu_qin_chuliet@schools.gov.sg">ang_xu_qin_chuliet@schools.gov.sg</a><br><br>Mdm Faridah Beham d/o AR<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:faridah_beham_abdul_razeed@schools.gov.sg"> faridah_beham_abdul_razeed@schools.gov.sg</a><br> |
-| 5 Respect    | Miss Norashikin Hambali<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:norashikin_hambali@schools.gov.sg"> norashikin_hambali@schools.gov.sg</a><br><br>Mr Lim Daw Wee<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:lim_daw_wee@schools.gov.sg"> lim_daw_wee@schools.gov.sg </a> |
-| 5 Responsibility    | Mr Keith Chua Jeng  <br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chua_jeng@schools.gov.sg"> chua_jeng@schools.gov.sg</a><br><br>Mdm Sarimah Sainin<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:sarimah_sainin@schools.gov.s">sarimah_sainin@schools.gov.sg</a><br>|
+| 5 Integrity    | Mrs Maalini Chelvaretnam<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:maalini_chelvaretnam@schools.gov.sg">maalini_chelvaretnam@schools.gov.sg</a><br><br>Mdm Nurul Husna Abd Aziz <br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:nurul_husna_abdul_aziz@schools.gov.sg">nurul_husna_abdul_aziz@schools.gov.sg</a>|
+| 5 Passion    | Ms Farhana Mohd Nazren <br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:farhana_mohd_nazren@schools.gov.sg">farhana_mohd_nazren@schools.gov.sg</a><br><br> Ms Neo Siao Wei Ann<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:neo_siao_wei@schools.gov.sg"> neo_siao_wei@schools.gov.sg</a>|
+| 5 Respect    | Mdm Amilia Baba<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:amilia_baba@schools.gov.sg">amilia_baba@schools.gov.sg</a><br><br>Mr Zailany Findy B Safie<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:zailany_findy_safie@schools.gov.s"> zailany_findy_safie@schools.gov.sg</a> |
+| 5 Responsibility    |Mrs Ismail-Siti Norliza <br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:siti_norliza_abd_rahim@schools.gov.sg">siti_norliza_abd_rahim@schools.gov.sg</a><br><br>&gt;Mr Ayatollah Khomeini Salleh<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ayatollah_khomeini_salleh@schools.gov.sg"> ayatollah_khomeini_salleh@schools.gov.sg</a><br><br> Ms Roshidah Karyeo<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:roshidah_karyeo@schools.gov.sg">roshidah_karyeo@schools.gov.sg</a>|
 |
 
 ### P6 Form Teachers 2024
 
 | Class | Form Teachers |
 | -------- | --------|
-| 6 Care    | Mrs Maalini Chelvaretnam<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:maalini_chelvaretnam@schools.gov.sg">maalini_chelvaretnam@schools.gov.sg</a><br><br>Mdm Sim Chui Ha<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:sim_chui_ha@schools.gov.sg">sim_chui_ha@schools.gov.sg</a> |
-| 6 Gracious    | Mrs Sheila Gerad <br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:sheila_dhana_pal@schools.gov.sg">sheila_dhana_pal@schools.gov.sg</a><br><b>|
-| 6 Integrity    | Mdm Syafiqah Ryaihanny Bte Sahrom<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:syafiqah_ryaihanny_sahrom@schools.gov.sg"> syafiqah_ryaihanny_sahrom@schools.gov.sg</a><br><br> Ms Roshidah Karyeo<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:roshidah_karyeo@schools.gov.sg">roshidah_karyeo@schools.gov.sg</a>|
-| 6 Passion    | Mr Mohd Kamarudin B Majid <br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:kamarudin_majid@schools.gov.sg">kamarudin_majid@schools.gov.sg</a><br><br>Mrs Chang- Chen Jialin<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chen_jialin@schools.gov.sg">chen_jialin@schools.gov.sg</a><br>  |
-| 6 Respect    | Mdm Amilia Baba<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:amilia_baba@schools.gov.sg">amilia_baba@schools.gov.sg</a><br><br>Ms Eunice Tang<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:eunice_tang@schools.gov.sg">eunice_tang@schools.gov.sg</a> |
-| 6 Responsibility    | Mdm Toh Siow Hoon Rina <br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:toh_siow_hoon_rina@schools.gov.sg">toh_siow_hoon_rina@schools.gov.sg</a><br><br>Mr Tan Kin Chiew Jimmy<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:tan_kin_chiew@schools.gov.sg">tan_kin_chiew@schools.gov.sg</a>|
+| 6 Care    | Miss Ang Xin Yi <br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ang_xin_yi@schools.gov.sg">ang_xin_yi@schools.gov.sg</a><br><br>Mr Zulkarnain Daud<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:zulkarnain_daud@schools.gov.sg"> zulkarnain_daud@schools.gov.sg</a> |
+| 6 Integrity    |  Ms Tan Yi Sheng <br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:tan_yi_sheng@schools.gov.sg"> tan_yi_sheng@schools.gov.sg</a><br><br>Mdm Zhang Sihan<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:zhang_sihan@schools.gov.sg">zhang_sihan@schools.gov.sg</a>|
+| 6 Passion    |  Mrs Rosalind Chin <br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:rosalind_chng@schools.gov.sg"> rosalind_chng@schools.gov.sg</a><br><br> Mdm Ang Xu Qin Chuliet <br> <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ang_xu_qin_chuliet@schools.gov.sg">ang_xu_qin_chuliet@schools.gov.sg</a>|
+| 6 Respect    | Miss Norashikin Hambali<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:norashikin_hambali@schools.gov.sg"> norashikin_hambali@schools.gov.sg</a><br><br> Mdm Toh Siow Hoon Rina <br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:toh_siow_hoon_rina@schools.gov.sg">toh_siow_hoon_rina@schools.gov.sg</a> |
+| 6 Responsibility    | Mr Keith Chua Jeng  <br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chua_jeng@schools.gov.sg"> chua_jeng@schools.gov.sg</a><br><br>Mdm Sarimah Sainin<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:sarimah_sainin@schools.gov.s">sarimah_sainin@schools.gov.sg</a>|
 |
 
 
@@ -125,4 +124,4 @@ Staff
     <td class="tg-ii8k"><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:tan_siew_choo_b@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">tan_siew_choo_b@schools.gov.sg</span></a></td>
   </tr>
   
-</thead></table></b>
+</thead></table>
