@@ -25,7 +25,7 @@ Key Personnel
     <td class="tg-sufc">SCHOOL STAFF DEVELOPER</td>
     <td class="tg-qtzs"><img src="/images/Staff%20Photos%202023/KPs/ms%20roshidah%20karyeo.jpg" style="width:70%"><br>MS ROSHIDAH KARYEO</td>
     <td class="tg-sufc">YEAR HEAD<br>(UPPER PRIMARY)</td>
-    <td class="tg-qtzs"><img src="" style="width:70%"><br>MR KELVIN KOH HOCK LAI</td>
+    <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/Kelvin_Koh_JPS.png" style="width:70%"><br>MR KELVIN KOH HOCK LAI</td>
   </tr>
   <tr>
 		<td class="tg-sufc">YEAR HEAD<br>(MIDDLE PRIMARY)</td>
