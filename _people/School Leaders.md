@@ -22,17 +22,17 @@ School Leaders
 <thead>
   <tr>
     <th class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">PRINCIPAL</span></th>
-    <th class="tg-ii8k"><img src="/images/Staff%20Photos%202023/School%20Leaders/mr%20leonard%20chua.jpg" style="width:40%"><span style="color:#222;background-color:#EAEAEA">MR LEONARD CHUA</span><br><span style="color:#222;background-color:#EAEAEA"> </span></th>
+    <th class="tg-ii8k"><img src="/images/Staff%20Photos/School%20Leaders/mr%20leonard%20chua.jpg" style="width:40%"><span style="color:#222;background-color:#EAEAEA">MR LEONARD CHUA</span><br><span style="color:#222;background-color:#EAEAEA"> </span></th>
   </tr>
 </thead>
 <tbody>
 	 <tr>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">VICE-PRINCIPAL (ACAD) </span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> </span><br><img src="/images/Staff%20Photos%202023/School%20Leaders/Ms_Tan_Peiru.jpg" style="width:40%"><span style="color:#222;background-color:#EAEAEA">MS TAN PEIRU</span><br><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> </span><br><img src="/images/Staff%20Photos/School%20Leaders/Ms_Tan_Peiru.jpg" style="width:40%"><span style="color:#222;background-color:#EAEAEA">MS TAN PEIRU</span><br><br></td>
   </tr>
   <tr>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> </span><br><br><span style="color:#222;background-color:#EAEAEA">VICE-PRINCIPAL (ADMIN)</span><br><br></td>
-    <td class="tg-ii8k"><img src="/images/Staff%20Photos%202023/School%20Leaders/mr%20eugene%20tan%20yuan%20shin.jpg" style="width:40%"><span style="color:#222;background-color:#EAEAEA">MR EUGENE TAN </span></td>
+    <td class="tg-ii8k"><img src="/images/Staff%20Photos/School%20Leaders/mr%20eugene%20tan%20yuan%20shin.jpg" style="width:40%"><span style="color:#222;background-color:#EAEAEA">MR EUGENE TAN </span></td>
   </tr>
 </tbody>
 </table>
