@@ -23,9 +23,9 @@ Key Personnel
 <tbody>
   <tr>
     <td class="tg-sufc">SCHOOL STAFF DEVELOPER</td>
-    <td class="tg-qtzs"><img src="/images/Staff%20Photos%202023/KPs/ms%20roshidah%20karyeo.jpg" style="width:70%"><br>MS ROSHIDAH KARYEO</td>
+    <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/ms%20roshidah%20karyeo.jpg" style="width:70%"><br>MS ROSHIDAH KARYEO</td>
     <td class="tg-sufc">YEAR HEAD<br>(UPPER PRIMARY)</td>
-    <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/Kelvin_Koh_JPS.png" style="width:70%"><br>MR KELVIN KOH HOCK LAI</td>
+    <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/Kelvin_Koh_JPS.jpg" style="width:70%"><br>MR KELVIN KOH HOCK LAI</td>
   </tr>
   <tr>
 		<td class="tg-sufc">YEAR HEAD<br>(MIDDLE PRIMARY)</td>
@@ -93,7 +93,7 @@ Key Personnel
     <td class="tg-qtzs"><img src="/images/Staff Photos 2023/KPs/mdm er wei lin.jpg" style="width:70%"><br>MDM ER WEI LIN</td>
   </tr>
 	<tr>
- <td class="tg-sufc">LH ICT</td>
+ <td class="tg-sufc">SH ICT</td>
     <td class="tg-qtzs"><img src="" style="width:70%"><br>MS MARLIYN QUEK HUI YING</td>
 	<td class="tg-sufc">ADMIN MANAGER</td>
     <td class="tg-qtzs"><img src="" style="width:70%"><br>MRS IRENE NG</td></tr>
