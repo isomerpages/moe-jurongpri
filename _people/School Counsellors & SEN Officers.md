@@ -25,29 +25,29 @@ School Counsellors &amp; SEN Officers
 <thead>
   <tr>
     <th class="tg-n4qt">Senior School Counsellor</th>
-    <th class="tg-ii8k"><img src="/images/Staff%20Photos%202023/SC%20and%20SENO/Usha_Davie_Gopal.png" style="width:30%">Mrs Usha Davie Gopal</th>
+    <th class="tg-ii8k"><img src="/images/Staff%20Photos/SC%20and%20SENO/Usha_Davie_Gopal.png" style="width:30%">Mrs Usha Davie Gopal</th>
   </tr>
 </thead>
 <tbody>
     <tr>
     <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"></span>Lead SEN Officer   </td>
-    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA"><img src="/images/Staff%20Photos%202023/SC%20and%20SENO/Tham_Lai_Juan_Jamie.png" style="width:30%"> Ms Tham Lai Juan Jamie</span></td>
+    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA"><img src="/images/Staff%20Photos/SC%20and%20SENO/Tham_Lai_Juan_Jamie.png" style="width:30%"> Ms Tham Lai Juan Jamie</span></td>
   </tr>
   <tr>
     <td class="tg-n4qt">Senior SEN Officer</td>
-    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA"><img src="/images/Staff%20Photos%202023/SC%20and%20SENO/Sitragandi_A_Arunasalam.png" style="width:30%">Ms Sitragandi A Arunasalam</span></td>
+    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA"><img src="/images/Staff%20Photos/SC%20and%20SENO/Sitragandi_A_Arunasalam.png" style="width:30%">Ms Sitragandi A Arunasalam</span></td>
   </tr>
 	<tr>
     <td class="tg-n4qt">SEN Officer</td>
-    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA"><img src="/images/Staff%20Photos%202023/SC%20and%20SENO/Tina_Ng_Wee_Bin.png" style="width:30%">Mdm Tina Ng Wee Bin</span></td>
+    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA"><img src="/images/Staff%20Photos/SC%20and%20SENO/Tina_Ng_Wee_Bin.png" style="width:30%">Mdm Tina Ng Wee Bin</span></td>
   </tr>
   <tr>
     <td class="tg-n4qt">SEN Officer</td>
-    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA"><img src="/images/Staff%20Photos%202023/SC%20and%20SENO/Tay_Ee_Shian_Seraphina__2_.png" style="width:30%"> Ms Tay Ee Shian Seraphina</span></td>
+    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA"><img src="/images/Staff%20Photos/SC%20and%20SENO/Tay_Ee_Shian_Seraphina__2_.png" style="width:30%"> Ms Tay Ee Shian Seraphina</span></td>
   </tr>
 	  <tr>
     <td class="tg-n4qt">Adjunct Counsellor</td>
-    <td class="tg-ii8k"> <span style="color:#222;background-color:#EAEAEA"><img src="/images/Staff%20Photos%202023/SC%20and%20SENO/Alice_Ng_Lai_Hing.png" style="width:30%">Mdm Alice Ng Lai Hing</span></td>
+    <td class="tg-ii8k"> <span style="color:#222;background-color:#EAEAEA"><img src="/images/Staff%20Photos/SC%20and%20SENO/Alice_Ng_Lai_Hing.png" style="width:30%">Mdm Alice Ng Lai Hing</span></td>
   </tr>
 </tbody>
 </table>
