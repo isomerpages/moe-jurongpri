@@ -29,10 +29,6 @@ Executive &amp; Administrative Staff
 </thead>
 <tbody>
   <tr>
-    <td class="tg-n4qt">Operations Manager</td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Mr Quek Tong Heng Thomas</span> <br></td>
-  </tr>
-  <tr>
     <td class="tg-n4qt"> Operations Manager</td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Cheng Poh Teck Wilson</span></td>
   </tr>
@@ -48,11 +44,7 @@ Executive &amp; Administrative Staff
     <td class="tg-n4qt"> ICT Manager</td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Ms Ezzah Asyrani Zainal </span></td>
   </tr>
-  <tr>
-    <td class="tg-n4qt">CSO</td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Mrs Jeanie Cheng</span></td>
-  </tr>
-  <tr>
+    <tr>
     <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> </span>CSO </td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Mdm Julaiha Beeve d/o Osman</span></td>
   </tr>

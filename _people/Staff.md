@@ -104,7 +104,7 @@ Staff
     <td class="tg-ii8k"><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:pek_quee_hui@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">pek_quee_hui@schools.gov.sg</span></a></td></tr>
 	<tr><td class="tg-n4qt">Mdm Rekha Nair</td>
     <td class="tg-ii8k"><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Rekha_K_R_Nair@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">Rekha_K_R_Nair@schools.gov.sg</span></a></td></tr>
-	<tr><td class="tg-n4qt">Lim Wei Sian</td>
+	<tr><td class="tg-n4qt">Mr Lim Wei Sian</td>
     <td class="tg-ii8k"><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:"><span style="text-decoration:none;color:#EB0028"></span></a></td></tr>
 	 <tr><td class="tg-n4qt">Mdm Zuhaizah Hussein</td>
     <td class="tg-ii8k"><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:zuhaizah_hussein@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">zuhaizah_hussein@schools.gov.sg</span></a></td></tr>
@@ -117,10 +117,10 @@ Staff
     <td class="tg-ii8k"><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:"><span style="text-decoration:none;color:#EB0028"></span></a></td></tr>
 		 <tr><td class="tg-n4qt">Mdm J. Lee</td>
    <td class="tg-ii8k"><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:jesse_lee_jia_xuan_a@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">jesse_lee_jia_xuan_a@schools.gov.sg</span></a></td></tr>
-	 <tr><td class="tg-n4qt">Lee Lay Tin</td>
+	 <tr><td class="tg-n4qt">Mdm Lee Lay Tin</td>
     <td class="tg-ii8k"><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:"><span style="text-decoration:none;color:#EB0028"></span></a></td>
   </tr>
-	 <tr><td class="tg-n4qt">Mdm Sally Tan</td>
+	 <tr><td class="tg-n4qt">Mdm Sally Tan Siew Choo</td>
     <td class="tg-ii8k"><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:tan_siew_choo_b@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">tan_siew_choo_b@schools.gov.sg</span></a></td>
   </tr>
   
