@@ -44,6 +44,10 @@ Executive &amp; Administrative Staff
     <td class="tg-n4qt"> ICT Manager</td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Ms Ezzah Asyrani Zainal </span></td>
   </tr>
+	 <tr>
+    <td class="tg-n4qt"> ICT Associate</td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Shahreen Supaat </span></td>
+  </tr>
     <tr>
     <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> </span>CSO </td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Mdm Julaiha Beeve d/o Osman</span></td>
@@ -60,10 +64,6 @@ Executive &amp; Administrative Staff
     <td class="tg-n4qt"> OSO </td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Low Khee Tee </span></td>
   </tr>
-	<tr>
-    <td class="tg-n4qt">OSO</td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mdm Low Poh Mui </span></td>
-  </tr>
   <tr>
     <td class="tg-n4qt">OSO</td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Tan Seng Choon</span></td>
@@ -75,6 +75,11 @@ Executive &amp; Administrative Staff
 	<tr>
     <td class="tg-n4qt">OSO</td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mdm Norana Bte Mohd Amin </span></td>
+	</tr><tr>
+    <td class="tg-n4qt">OSO</td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mdm Low Poh Mui </span></td>
   </tr>
+	
+  
 </tbody>
 </table>
