@@ -71,7 +71,7 @@ HB Book Centre <br>
 Tel: 9018 5765/ 6270 1060 <br>
 Email:&nbsp;[hb.bk.ctr@gmail.com](mailto:hb.bk.ctr@gmail.com) <br>
 Website:&nbsp;[https://ihuntforbooks.com/](https://ihuntforbooks.com/) <br>
-Operating Hours: Monday to Friday, 8.30am to 3.00pm
+Operating Hours: Monday to Friday, 1.45pm to 3pm
 
   
 
