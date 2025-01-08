@@ -36,7 +36,7 @@ Key Personnel
 	<tr>
 		<td class="tg-sufc">ASSISTANT<br> YEAR HEAD</td>
     <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/mr zailany findy b safie.jpg" style="width:70%"><br>MR ZAILANY FINDY BIN SAFIE</td>
-      <td class="tg-sufc">ASSISTANT<br> YEAR HEAD <br>(INT)</td>
+      <td class="tg-sufc">ASSISTANT<br> YEAR HEAD <br></td>
     <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/mdm nur fadzila abd kadir.jpg" style="width:70%"><br>MDM NUR FADZILA ABD KADIR</td>
   </tr>
 	<tr>
@@ -59,7 +59,7 @@ Key Personnel
    
   </tr>
 	<tr>
-	 <td class="tg-sufc">HOD SCIENCE<br> (Covering)</td>
+	 <td class="tg-sufc">HOD SCIENCE</td>
     <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/mdm ang xu qin chuliet.jpg" style="width:70%"><br>MDM CHULIET ANG XU QIN</td>
       <td class="tg-sufc">LH SCIENCE (INT)</td>
     <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/Jane_Yong.png" style="width:70%"><br>MDM JANE YONG HSIAO WEI<br></td>
@@ -85,7 +85,7 @@ Key Personnel
     
   </tr>
 	<tr>
-	    <td class="tg-sufc">HOD DISCIPLINE<br>(Covering)</td>
+	    <td class="tg-sufc">HOD DISCIPLINE</td>
     <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/mr ravindran so rajasekeran.jpg" style="width:70%"><br>MR RAVINDRAN S/O RAJASEKERAN</td>
 			<td class="tg-sufc">HOD ICT &amp; DATA MANAGEMENT</td>
     <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/mdm er wei lin.jpg" style="width:70%"><br>MDM ER WEI LIN</td>
