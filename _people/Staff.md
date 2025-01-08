@@ -83,7 +83,7 @@ Staff
 
 
 
-<h3>Flexi Adjunct Teachers (FAJT)</h3>
+<h3>Non-Form Teachers</h3>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -101,16 +101,16 @@ Staff
     <th class="tg-n4qt">Email </th>
   </tr>
 	<tr><td class="tg-n4qt">Ms Elizabeth Ang</td>
-    <td class="tg-ii8k"><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:"><span style="text-decoration:none;color:#EB0028"></span></a></td></tr>
+    <td class="tg-ii8k"><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:elizabeth_ang_lee_hui@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">elizabeth_ang_lee_hui@schools.gov.sg</span></a></td></tr>
 <tr><td class="tg-n4qt">Mdm J. Lee</td>
    <td class="tg-ii8k"><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:jesse_lee_jia_xuan_a@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">jesse_lee_jia_xuan_a@schools.gov.sg</span></a></td></tr>
 	<tr><td class="tg-n4qt">Mrs Josephine Rama</td>
     <td class="tg-ii8k"><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:josephine_pillai@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">josephine_pillai@schools.gov.sg</span></a></td></tr>
 	 <tr><td class="tg-n4qt">Mdm Lee Lay Tin</td>
-    <td class="tg-ii8k"><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:"><span style="text-decoration:none;color:#EB0028"></span></a></td>
+    <td class="tg-ii8k"><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:lee_lay_tin@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">lee_lay_tin@schools.gov.sg</span></a></td>
   </tr>
 		<tr><td class="tg-n4qt">Mr Lim Wei Sian</td>
-    <td class="tg-ii8k"><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:"><span style="text-decoration:none;color:#EB0028"></span></a></td></tr>
+    <td class="tg-ii8k"><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:lim_wei_sian@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">lim_wei_sian@schools.gov.sg</span></a></td></tr>
 			 <tr><td class="tg-n4qt">Mrs Mumtaj Imran</td>
     <td class="tg-ii8k"><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Mumtaj_Imran_A@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">Mumtaj_Imran_A@schools.gov.sg</span></a></td></tr>
 	<tr><td class="tg-n4qt">Mdm Ong Kah Peng</td>
@@ -121,8 +121,6 @@ Staff
     <td class="tg-ii8k"><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Rekha_K_R_Nair@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">Rekha_K_R_Nair@schools.gov.sg</span></a></td></tr>
 	 <tr><td class="tg-n4qt">Mdm Zuhaizah Hussein</td>
     <td class="tg-ii8k"><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:zuhaizah_hussein@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">zuhaizah_hussein@schools.gov.sg</span></a></td></tr>
-	 <tr><td class="tg-n4qt">Mdm Sally Tan Siew Choo</td>
-    <td class="tg-ii8k"><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:tan_siew_choo_b@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">tan_siew_choo_b@schools.gov.sg</span></a></td>
-  </tr>
+  
   
 </thead></table>
