@@ -61,7 +61,7 @@ Key Personnel
 	<tr>
 	 <td class="tg-sufc">HOD SCIENCE</td>
     <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/mdm ang xu qin chuliet.jpg" style="width:70%"><br>MDM CHULIET ANG XU QIN</td>
-      <td class="tg-sufc">LH SCIENCE (INT)</td>
+      <td class="tg-sufc">LH SCIENCE</td>
     <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/Jane_Yong.png" style="width:70%"><br>MDM JANE YONG HSIAO WEI<br></td>
   </tr>
 	<tr>
