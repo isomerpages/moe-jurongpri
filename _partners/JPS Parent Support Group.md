@@ -12,8 +12,8 @@ JPS Parent Support Group
 	
 ### JPS PSG EXCO 2025 
 
-1) Wendy Pang (Chairperson)
-<br>2) En En Koh (Co-chairperson)
+1) Wendy Pang (Chairperson)<br>
+2) En En Koh (Co-chairperson)
 <br>3) Ruby Kang (Vice chairperson)
 <br>4) Tsao I Ting
 <br>5) Huang Ding Hua
@@ -23,4 +23,3 @@ JPS Parent Support Group
 <br>9) Lei Zizhen
 <br>10) Vivien Chen (Honorary Mentor)
 
-![](/images/JPS_PSG_video.gif)
