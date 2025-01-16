@@ -12,8 +12,9 @@ variant: tiptap
 <p>Updated on January 2024</p>
 <h3>CCA Deployment&nbsp;</h3>
 <hr>
-<table style="minWidth: 125px">
+<table style="minWidth: 150px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -39,6 +40,9 @@ variant: tiptap
 <th rowspan="2" colspan="1">
 <p>Time</p>
 </th>
+<th rowspan="2" colspan="1">
+<p>Venue</p>
+</th>
 </tr>
 <tr></tr>
 <tr>
@@ -51,16 +55,19 @@ variant: tiptap
 <p>Basketball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Wee Jing-Sheng Daniel (1st)
-<br>Mrs Chin-Lee Mau Kin (2nd)
-<br>Mdm Toh Siow Hoon Rina
-<br>Mdm Sim Chui Ha</p>
+<p>Mr Wee Jing-Sheng Daniel (1st)</p>
+<p>Mrs Chin-Lee Mau Kin (2nd)</p>
+<p>Mdm Toh Siow Hoon Rina</p>
+<p>Mdm Sim Chui Ha</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thurs</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3pm to 5pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Hall</p>
 </td>
 </tr>
 <tr>
@@ -68,10 +75,10 @@ variant: tiptap
 <p>Badminton</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhd Hakim Kamarudin (1st)
-<br>Mr Lee Chin Fuong (2nd)
-<br>Mrs Jeevetha Aravind
-<br>Mr Yeong Hoong Munnr</p>
+<p>Mrs Stella Tan (1st)</p>
+<p>Mr Lee Chin Fuong (2nd)</p>
+<p>Mr Yeong Hoong Munn</p>
+<p>Mrs Jeevetha Aravind</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tues</p>
@@ -79,22 +86,28 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>3pm to 5pm</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>School Hall</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Football</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohd Kamarudin Majid (1st)
-<br>Mr Ayatollah Khomeini (2nd)
-<br>Mr Zailany Findy B Safie
-<br>Mdm Nurul Husna Abd Aziz</p>
+<p>Mr Mohd Kamarudin Majid (1st)</p>
+<p>Mr Ayatollah Khomeini (2nd)</p>
+<p>Mr Chen Zhuangwei</p>
+<p>Mr Nizam Nurrahim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon</p>
+<p>Tues</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3pm to 5pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crest Sec Sch Field</p>
 </td>
 </tr>
 <tr>
@@ -102,16 +115,20 @@ variant: tiptap
 <p>Netball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Wee Jing-Sheng Daniel (1st)
-<br>Miss Lee Pei Sze (2nd)
-<br>Mrs Raj Navamani
-<br>Tang You Ni Eunice</p>
+<p>Mr Wee Jing-Sheng Daniel (1st)</p>
+<p>Miss Lee Pei Sze (2nd)</p>
+<p>Mrs Raj Navamani</p>
+<p>Ms Eunice Tang</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thurs</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3pm to 5pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Canteen / ISH</p>
 </td>
 </tr>
 <tr>
@@ -119,16 +136,18 @@ variant: tiptap
 <p>Track and Field</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohd Kamarudin Majid (1st)
-<br>Chua Jeng, Keith (2nd)
-<br>Mrs Chang-Chen Jialin
-<br>Mr Ravindran Rajasekeran</p>
+<p>Mr Mohd Kamarudin Majid (1st)</p>
+<p>Mr Chua Jeng (2nd)</p>
+<p>Mrs Chang-Chen Jialin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thurs</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3pm to 5pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Canteen / ISH</p>
 </td>
 </tr>
 <tr>
@@ -140,16 +159,18 @@ variant: tiptap
 <p>Percussion Ensemble</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Sueann Kong (1st)
-<br>Mdm Nurul Fadilah (2nd)
-<br>Mdm Amilia Baba
-<br>Mrs Sheila Gerad</p>
+<p>Mrs Sueann Kong (1st)</p>
+<p>Mdm Nurul Fadilah (2nd)</p>
+<p>Mdm Amilia BabaMrs Sheila Gerad</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thurs</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3pm to 5pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Band Room</p>
 </td>
 </tr>
 <tr>
@@ -157,16 +178,17 @@ variant: tiptap
 <p>Guzheng Ensemble</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Yee Yen Bee Amy (1st)
-<br>Mrs Rosalind Chin (2nd)
-<br>Mr Wee Wei Min
-<br>Mdm Huang Yan</p>
+<p>Mrs Rosalind Chin (1st)</p>
+<p>Mdm Huang Yan (2nd) Mdm Song Fang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thurs</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3pm to 5pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>(A3-05) - AVA 2</p>
 </td>
 </tr>
 <tr>
@@ -174,15 +196,18 @@ variant: tiptap
 <p>Modern Dance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Ho Meiling (1st)
-<br>Ms Tan Yi Sheng (2nd)
-<br>Miss Nur Dhumaika Jumat</p>
+<p>Ms Ho Meiling (1st)</p>
+<p>Ms Nur Dhumaika Jumat (2nd)</p>
+<p>Ms Yana Bte Yaacob Ms Tan Yi Sheng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thurs</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3pm to 5pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Music Studio</p>
 </td>
 </tr>
 <tr>
@@ -190,15 +215,18 @@ variant: tiptap
 <p>Choir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Marilyn Quek (1st)
-<br>Miss Kirk Bee Har (2nd)
-<br>Mdm Nur Hanisah Sukaman</p>
+<p>Ms Marilyn Quek (1st)</p>
+<p>Mdm Niryanty Abd Razak (2nd)</p>
+<p>Mdm Nur Fadzila</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thurs</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3pm to 5pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Classroom / PAL Room</p>
 </td>
 </tr>
 <tr>
@@ -209,10 +237,9 @@ variant: tiptap
 <p>Robotics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhd Hakim Kamarudin (1st)
-<br>Mdm Zhang Sihan (2nd)
-<br>Mdm Jane Yong Hsiao Wei
-<br>Miss Neo Siao Wei Ann</p>
+<p>Mrs Stella Tan (1st)</p>
+<p>Ms Neo Siao Wei Ann (2nd)</p>
+<p>Mdm Nurul Husna Mdm Zhang Sihan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tues</p>
@@ -220,21 +247,28 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>3pm to 5pm</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Computer Lab</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Art and Crafts</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Mastura Abd Hamid (1st)
-<br>Mr Brendan Gerard Jeremiah (2nd)
-<br>Mdm Chindikasari Roslee</p>
+<p>Mdm Mastura Abd Hamid (1st)</p>
+<p>Mdm Chindikasari Roslee (2nd)</p>
+<p>Mr Brendan Gerard Jeremiah</p>
+<p>Mdm Noorkiah Mohd Hashim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thurs</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3pm to 5pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art Room</p>
 </td>
 </tr>
 <tr>
@@ -242,15 +276,19 @@ variant: tiptap
 <p>Digital Media</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ayatollah Khomeini (1st)
-<br>Mdm Syafiqah Ryaihanny (2nd)
-<br>Mrs Maalini Chelvaretnam</p>
+<p>Mdm Syafiqah Ryaihanny (1st)</p>
+<p>Ms Ang Xin Yi (2nd)</p>
+<p>Mrs Maalini Chelvaretnam</p>
+<p>Mdm Ho Wei Lin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thurs</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3pm to 5pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Computer Lab</p>
 </td>
 </tr>
 <tr>
@@ -259,19 +297,21 @@ variant: tiptap
 <br>Groups</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Girl Guides (Brownies)</p>
+<p>Girl Scouts</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Tan-Pek Ming Rang (1st)
-<br>Mdm Rohani Mafot (2nd)
-<br>Mrs Ismail-Siti Norliza
-<br>Mrs Wendy Looig</p>
+<p>Mrs Tan-Pek Ming Rang (1st)</p>
+<p>Ms Bavani d/o Nadarajah (2nd)</p>
+<p>Mdm Rohani MafotMrs Wendy Looi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thurs</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3pm to 5pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science Lab 1</p>
 </td>
 </tr>
 <tr>
@@ -279,10 +319,9 @@ variant: tiptap
 <p>Scouts</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ayatollah Khomeini (1st)
-<br>Mr Chen Zhuangwei (2nd)
-<br>Mdm Sarimah Sainin
-<br>Mrs Janet Chua</p>
+<p>Mr Ayatollah Khomeini (1st)</p>
+<p>Mdm Sarimah Sainin (2nd)</p>
+<p>Mrs Janet Chua</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thurs</p>
@@ -290,8 +329,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>3pm to 5pm</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Teaching Lab</p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
