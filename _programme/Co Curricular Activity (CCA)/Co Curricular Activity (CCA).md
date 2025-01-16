@@ -188,7 +188,7 @@ variant: tiptap
 <p>3pm to 5pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(A3-05) - AVA 2</p>
+<p>AVA 2</p>
 </td>
 </tr>
 <tr>
