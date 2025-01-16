@@ -9,7 +9,6 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/JPS_School_Front_Banner.jpg">
 </div>
 <h1>Co-Curricular Activity (CCA)</h1>
-<p>Updated on January 2024</p>
 <h3>CCA Deployment&nbsp;</h3>
 <hr>
 <table style="minWidth: 150px">
