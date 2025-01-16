@@ -23,4 +23,3 @@ JPS Parent Support Group
 9) Lei Zizhen
 10) Vivien Chen (Honorary Mentor)
 
-![](/images/2025PSGmontage_ezgif_com_resize.gif)
