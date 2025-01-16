@@ -3,128 +3,356 @@ title: Co Curricular Activity (CCA)
 permalink: /co-curricular-activity-cca/co-curricular-activity-cca/
 description: ""
 third_nav_title: Co Curricular Activity (CCA)
-variant: markdown
+variant: tiptap
 ---
-![](/images/JPS_School_Front_Banner.jpg)
-
-Co-Curricular Activity (CCA)
-============================
-Updated on January 2024
-
-### CCA Deployment&nbsp;
----------------
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-nrix{text-align:center;vertical-align:middle}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-nrix" rowspan="2">Category</th>
-    <th class="tg-nrix" rowspan="2">CCA</th>
-    <th class="tg-nrix" rowspan="2">Teachers<br>in<br>charge</th>
-    <th class="tg-nrix" rowspan="2">Day</th>
-		<th class="tg-nrix" rowspan="2">Time</th>
-  </tr>
-  <tr>
-  </tr>
-</thead>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JPS_School_Front_Banner.jpg">
+</div>
+<h1>Co-Curricular Activity (CCA)</h1>
+<p>Updated on January 2024</p>
+<h3>CCA Deployment&nbsp;</h3>
+<hr>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-nrix" rowspan="5">Sports <br>and<br> Games</td>
-    <td class="tg-nrix">Basketball</td>
-    <td class="tg-0lax">Mr Wee Jing-Sheng Daniel (1st)<br> Mrs Chin-Lee Mau Kin (2nd)<br>Mdm Toh Siow Hoon Rina <br> Mdm Sim Chui Ha</td>
-    <td class="tg-nrix">Thurs</td>
-		<td class="tg-nrix">3pm  to 5pm</td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">Badminton</td>
-    <td class="tg-0lax">Mr Muhd Hakim Kamarudin (1st) <br> Mr Lee Chin Fuong (2nd)<br>Mrs Jeevetha Aravind <br> Mr Yeong Hoong Munnr</td>
-    <td class="tg-nrix">Tues</td>
-		<td class="tg-nrix">3pm  to 5pm</td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">Football</td>
-    <td class="tg-0lax">Mr Mohd Kamarudin Majid (1st)<br>Mr Ayatollah Khomeini (2nd)<br>Mr Zailany Findy B Safie<br>Mdm Nurul Husna Abd Aziz</td>
-    <td class="tg-nrix">Mon</td>
-		<td class="tg-nrix">3pm  to 5pm</td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">Netball</td>
-    <td class="tg-0lax">Mr Wee Jing-Sheng Daniel (1st)<br>Miss Lee Pei Sze (2nd)<br>Mrs Raj Navamani<br> Tang You Ni Eunice</td>
-		<td class="tg-nrix">Thurs</td>
-		<td class="tg-nrix">3pm  to 5pm</td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">Track and Field</td>
-    <td class="tg-0lax">Mr Mohd Kamarudin Majid (1st)<br>Chua Jeng, Keith (2nd)<br>Mrs Chang-Chen Jialin<br>Mr Ravindran Rajasekeran 
- </td>
-    <td class="tg-nrix">Thurs</td>
-		<td class="tg-nrix">3pm  to 5pm</td>
-  </tr>
-  <tr>
-    <td class="tg-nrix" rowspan="4">Performing<br> Arts</td>
-    <td class="tg-nrix">Percussion Ensemble</td>
-    <td class="tg-0lax">Mrs Sueann Kong (1st) <br>Mdm Nurul Fadilah (2nd)<br>Mdm Amilia Baba<br>Mrs Sheila Gerad</td>
-    <td class="tg-nrix">Thurs</td>
-		<td class="tg-nrix">3pm  to 5pm</td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">Guzheng Ensemble</td>
-    <td class="tg-0lax">Mdm Yee Yen Bee Amy (1st)<br>Mrs Rosalind Chin (2nd)<br>Mr Wee Wei Min<br>Mdm Huang Yan </td>
-     <td class="tg-nrix">Thurs</td>
-		<td class="tg-nrix">3pm  to 5pm</td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">Modern Dance</td>
-    <td class="tg-0lax">Miss Ho Meiling (1st)<br>Ms Tan Yi Sheng (2nd)<br>Miss Nur Dhumaika Jumat</td>
-    <td class="tg-nrix">Thurs</td>
-		<td class="tg-nrix">3pm  to 5pm</td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">Choir</td>
-    <td class="tg-0lax">Miss Yvonne Zheng (1st)<br>Miss Kirk Bee Har (2nd)<br>Mdm Nur Hanisah Sukaman</td>
-    <td class="tg-nrix">Tues</td>
-		<td class="tg-nrix">3pm  to 5pm</td>
-  </tr>
-  <tr>
-    <td class="tg-nrix" rowspan="3">Clubs</td>
-    <td class="tg-nrix">Robotics </td>
-    <td class="tg-0lax">Mr Muhd Hakim Kamarudin (1st)<br>Mdm Zhang Sihan (2nd)<br>Mdm Jane Yong Hsiao Wei<br>Miss Neo Siao Wei Ann</td>
-    <td class="tg-nrix">Tues</td>
-		<td class="tg-nrix">3pm  to 5pm</td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">Art and Crafts</td>
-    <td class="tg-0lax">Mdm Mastura Abd Hamid (1st)<br>Mr Brendan Gerard Jeremiah (2nd)<br>Mdm Chindikasari Roslee
- </td>
-    <td class="tg-nrix">Thurs</td>
-		<td class="tg-nrix">3pm  to 5pm</td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">Digital Media</td>
-    <td class="tg-0lax">Mr Ayatollah Khomeini (1st)<br>Mdm Syafiqah Ryaihanny (2nd)<br>Mrs Maalini Chelvaretnam</td>
-    <td class="tg-nrix">Thurs</td>
-		<td class="tg-nrix">3pm  to 5pm</td>
-  </tr><tr>
-    <td class="tg-nrix" rowspan="2">Uniformed<br> Groups</td>
-    <td class="tg-nrix">Girl Guides (Brownies)</td>
-    <td class="tg-0lax">Mrs Tan-Pek Ming Rang (1st)<br>Mdm Rohani Mafot (2nd)<br>Mrs Ismail-Siti Norliza<br>Mrs Wendy Looig</td>
-    <td class="tg-nrix">Thurs</td>
-				<td class="tg-nrix">3pm  to 5pm</td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">Scouts</td>
-    <td class="tg-0lax">Mr Ayatollah Khomeini (1st)<br>Mr Chen Zhuangwei (2nd)<br>Mdm Sarimah Sainin<br>Mrs Janet Chua  </td>
-    <td class="tg-nrix">Thurs</td>
-				<td class="tg-nrix">3pm  to 5pm</td>
-  </tr>
-	<tr></tr>
+<tr>
+<th rowspan="2" colspan="1">
+<p>Category</p>
+</th>
+<th rowspan="2" colspan="1">
+<p>CCA</p>
+</th>
+<th rowspan="2" colspan="1">
+<p>Teachers
+<br>in
+<br>charge</p>
+</th>
+<th rowspan="2" colspan="1">
+<p>Day</p>
+</th>
+<th rowspan="2" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="2" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr></tr>
+<tr>
+<td rowspan="5" colspan="1">
+<p>Sports
+<br>and
+<br>Games</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Basketball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Wee Jing-Sheng Daniel (1st)</p>
+<p>Mrs Chin-Lee Mau Kin (2nd)</p>
+<p>Mdm Toh Siow Hoon Rina</p>
+<p>Mdm Sim Chui Ha</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thurs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3pm to 5pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Hall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Badminton</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Stella Tan (1st)</p>
+<p>Mr Lee Chin Fuong (2nd)</p>
+<p>Mr Yeong Hoong Munn</p>
+<p>Mrs Jeevetha Aravind</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tues</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3pm to 5pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Hall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Football</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mohd Kamarudin Majid (1st)</p>
+<p>Mr Ayatollah Khomeini (2nd)</p>
+<p>Mr Chen Zhuangwei</p>
+<p>Mr Nizam Nurrahim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tues</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3pm to 5pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crest Sec Sch Field</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Netball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Wee Jing-Sheng Daniel (1st)</p>
+<p>Miss Lee Pei Sze (2nd)</p>
+<p>Mrs Raj Navamani</p>
+<p>Ms Eunice Tang</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thurs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3pm to 5pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Canteen / ISH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Track and Field</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mohd Kamarudin Majid (1st)</p>
+<p>Mr Chua Jeng (2nd)</p>
+<p>Mrs Chang-Chen Jialin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thurs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3pm to 5pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Canteen / ISH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>Performing
+<br>Arts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Percussion Ensemble</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Sueann Kong (1st)</p>
+<p>Mdm Nurul Fadilah (2nd)</p>
+<p>Mdm Amilia BabaMrs Sheila Gerad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thurs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3pm to 5pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Band Room</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Guzheng Ensemble</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Rosalind Chin (1st)</p>
+<p>Mdm Huang Yan (2nd) Mdm Song Fang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thurs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3pm to 5pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AVA 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Modern Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ho Meiling (1st)</p>
+<p>Ms Nur Dhumaika Jumat (2nd)</p>
+<p>Ms Yana Bte Yaacob Ms Tan Yi Sheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thurs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3pm to 5pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Music Studio</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Marilyn Quek (1st)</p>
+<p>Mdm Niryanty Abd Razak (2nd)</p>
+<p>Mdm Nur Fadzila</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thurs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3pm to 5pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Classroom / PAL Room</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Clubs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Robotics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Stella Tan (1st)</p>
+<p>Ms Neo Siao Wei Ann (2nd)</p>
+<p>Mdm Nurul Husna Mdm Zhang Sihan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tues</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3pm to 5pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Computer Lab</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Art and Crafts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Mastura Abd Hamid (1st)</p>
+<p>Mdm Chindikasari Roslee (2nd)</p>
+<p>Mr Brendan Gerard Jeremiah</p>
+<p>Mdm Noorkiah Mohd Hashim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thurs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3pm to 5pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art Room</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Digital Media</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Syafiqah Ryaihanny (1st)</p>
+<p>Ms Ang Xin Yi (2nd)</p>
+<p>Mrs Maalini Chelvaretnam</p>
+<p>Mdm Ho Wei Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thurs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3pm to 5pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Computer Lab</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Uniformed
+<br>Groups</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Girl Scouts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Tan-Pek Ming Rang (1st)</p>
+<p>Ms Bavani d/o Nadarajah (2nd)</p>
+<p>Mdm Rohani MafotMrs Wendy Looi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thurs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3pm to 5pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science Lab 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Scouts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ayatollah Khomeini (1st)</p>
+<p>Mdm Sarimah Sainin (2nd)</p>
+<p>Mrs Janet Chua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thurs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3pm to 5pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teaching Lab</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
