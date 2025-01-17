@@ -19,19 +19,11 @@ Family Matters @ School provides seminars and workshops to equip parents with ef
 
 With Family Matters @ Schools, parents are informed, equipped and empowered to build stronger families and children are brought up with positive values and mind-set towards life, marriage and family.
 
-## 2024 Events: 
+## 2025 Events: 
 
-<img src="/images/Family%20Matters%20At%20JPS/Triple_P_Programme_FSC_Services.jpg" style="width:70%"> <br>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://us06web.zoom.us/webinar/register/WN_hS7h0UxwQv6_1nMlsLwRyQ#/"><img src="/images/Transition_Talk__Primary_1_2025_pdf.jpg" style="width:70%"></a><br>
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://go.gov.sg/lfs2024a"><img src="/images/Family Matters At JPS/Helping_Your_Child_Cope_with_Exam__1_.jpg" style="width:70%"></a><br>
-
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://go.gov.sg/lfs2024a"><img src="/images/Family Matters At JPS/Helping_Your_Child_Cope_with_Exam__2_.jpg" style="width:70%"></a><br>
-
-<img src="/images/Family%20Matters%20At%20JPS/JPS_Triple_P_Seminars_2024_pg1.png" style="width:70%">
-<img src="/images/Family%20Matters%20At%20JPS/JPS_Triple_P_Seminars_2024_pg2.png" style="width:70%"> <br>
-
-<img src="/images/Family%20Matters%20At%20JPS/Triple_P_Seminars_.jpg">
-
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://go.gov.sg/lfs-sp2025"><img src="/images/Signposts_Flyer_2025__1_.jpg" style="width:70%"></a><br>
 
 
 <img src="/images/jelly-beans.gif" style="width:33.3%;float:left"><img src="/images/jelly-beans.gif" style="width:33.3%;float:left"><img src="/images/jelly-beans.gif" style="width:33.3%;float:left">
