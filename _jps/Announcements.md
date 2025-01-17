@@ -8,6 +8,16 @@ variant: markdown
 
 Announcements
 =============
+### JPS Triple P Seminars
+
+17-01-2025<br>
+School Family Education and parent engagement events:
+* <a href="/files/Transition_Talk__Primary_1_2025.pdf">Transition Talk Primary 1 2025 </a> <br> []()
+* <a href="/files/Signposts_Flyer_2025__1_.pdf">Signpost Flyer 2025</a><br>
+
+For further details, kindly proceed to the [provided link.](/partners/Family-Matters-at-JPS/).
+
+
 ### JPS Booklist 2025
 
 11-11-2024 <br>
@@ -22,15 +32,6 @@ We’d love to see how you’ve grown and hear about your journey since you left
 With great joy, we invite you to return to JPS on **Thursday, 29 August**, from **10:50 AM to 12:00 PM**.<br>
 If you plan to join us, please register your interest here so that your teachers can look forward to welcoming you home: <a href="https://go.gov.sg/jps-teachers-day-visitation-2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/jps-teachers-day-visitation-2024</a>  <br><br>
 Thanks, and see you soon!
-
-### JPS Triple P Seminars
-
-22-02-2024<br>
-School Family Education and parent engagement events:
-* <a href="/files/Family%20Matters%20At%20JPS/JPS_Triple_P_Seminars_2024.pdf">JPS Triple P Seminar Information </a> <br>
-* <a href="[](/files/Family%20Matters%20At%20JPS/Triple_P_Programme_FSC_Services.pdf">Triple P Programme FSC Services</a><br>
-
-For further details, kindly proceed to the [provided link.](/partners/Family-Matters-at-JPS/).
 
 
 ### Open for Nominations: **President's Award for Teachers and Outstanding Youth in Education Award**
