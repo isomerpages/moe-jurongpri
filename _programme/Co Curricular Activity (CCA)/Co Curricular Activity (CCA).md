@@ -160,7 +160,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mrs Sueann Kong (1st)</p>
 <p>Mdm Nurul Fadilah (2nd)</p>
-<p>Mdm Amilia BabaMrs Sheila Gerad</p>
+<p>Mdm Amilia Baba</p>
+<p></p>
+<p>Mrs Sheila Gerad</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thurs</p>
@@ -178,7 +180,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Rosalind Chin (1st)</p>
-<p>Mdm Huang Yan (2nd) Mdm Song Fang</p>
+<p>Mdm Huang Yan (2nd)</p>
+<p>Mdm Song Fang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thurs</p>
@@ -187,7 +190,7 @@ variant: tiptap
 <p>3pm to 5pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AVA 2</p>
+<p>AVA 1 / 2</p>
 </td>
 </tr>
 <tr>
@@ -197,7 +200,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Ho Meiling (1st)</p>
 <p>Ms Nur Dhumaika Jumat (2nd)</p>
-<p>Ms Yana Bte Yaacob Ms Tan Yi Sheng</p>
+<p>Ms Yana Bte Yaacob</p>
+<p>Ms Tan Yi Sheng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thurs</p>
@@ -225,7 +229,7 @@ variant: tiptap
 <p>3pm to 5pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Classroom / PAL Room</p>
+<p>PAL Room 2</p>
 </td>
 </tr>
 <tr>
@@ -238,7 +242,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mrs Stella Tan (1st)</p>
 <p>Ms Neo Siao Wei Ann (2nd)</p>
-<p>Mdm Nurul Husna Mdm Zhang Sihan</p>
+<p>Mdm Nurul Husna</p>
+<p>Mdm Zhang Sihan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tues</p>
@@ -301,7 +306,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mrs Tan-Pek Ming Rang (1st)</p>
 <p>Ms Bavani d/o Nadarajah (2nd)</p>
-<p>Mdm Rohani MafotMrs Wendy Looi</p>
+<p>Mdm Rohani Mafot</p>
+<p>Mrs Wendy Looi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thurs</p>
