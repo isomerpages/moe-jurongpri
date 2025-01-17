@@ -10,7 +10,6 @@ variant: markdown
 MOE Sexuality Education In Schools
 ==================================
 
-**Guidance Modules (Sexuality Education)**<br>
 Updated on January 2025
 
 1.	Sexuality Education (SEd) in schools aims to enable students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships with others, including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
@@ -28,7 +27,7 @@ Updated on January 2025
 <br><br>
 You may click <a target="_blank" href="https://go.gov.sg/moe-sexuality-education">here</a> for more information on MOE Sexuality Education
 <br><br><br>
-<u><b>Overview of JURONG PRIMARY SCHOOL Sexuality Education Programme for 2024</b></u>
+<u><b>Overview of JURONG PRIMARY SCHOOL Sexuality Education Programme for 2025</b></u>
 <br><br>
 4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a target="_blank" href="https://go.gov.sg/moe-sexuality-education-scope">here</a> for more information on the scope of Sexuality Education in the school curriculum.
 <br><br>
