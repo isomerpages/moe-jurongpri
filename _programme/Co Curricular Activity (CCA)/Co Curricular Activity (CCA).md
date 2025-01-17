@@ -190,7 +190,7 @@ variant: tiptap
 <p>3pm to 5pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AVA 2</p>
+<p>AVA 1 / 2</p>
 </td>
 </tr>
 <tr>
@@ -229,7 +229,7 @@ variant: tiptap
 <p>3pm to 5pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Classroom / PAL Room</p>
+<p>PAL Room 2</p>
 </td>
 </tr>
 <tr>
