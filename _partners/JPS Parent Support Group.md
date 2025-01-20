@@ -14,11 +14,13 @@ JPS Parent Support Group
 
 1) Wendy Pang (Chairperson)<br>
 2) En En Koh (Co-chairperson)<br>
-3) Ruby Kang (Vice chairperson)
-4) Tsao I Ting
-5) Huang Ding Hua
-6) Istyana Ibrahim
-7) Jolin Chua
-8) Kokila Nalaiya
-9) Lei Zizhen
-10) Vivien Chen (Honorary Mentor)
+3) Ruby Kang (Vice chairperson)<br>
+4) Tsao I Ting<br>
+5) Huang Ding Hua<br>
+6) Istyana Ibrahim<br>
+7) Jolin Chua<br>
+8) Kokila Nalaiya<br>
+9) Lei Zizhen<br>
+10) Vivien Chen (Honorary Mentor)<br>
+
+![](/images/PSG_2025.jpg)
