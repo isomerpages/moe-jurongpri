@@ -8,12 +8,14 @@ variant: markdown
 
 Announcements
 =============
+
 ### JPS Triple P Seminars
 
-17-01-2025<br>
+Updated 03-03-2025<br>
 School Family Education and parent engagement events:
-* <a href="/files/Transition_Talk__Primary_1_2025.pdf">Transition Talk Primary 1 2025 </a> <br> []()
+* <a href="/files/Transition_Talk__Primary_1_2025.pdf">Transition Talk Primary 1 2025 </a> <br>
 * <a href="/files/Signposts_Flyer_2025__1_.pdf">Signpost Flyer 2025</a><br>
+* <a href="/files/Triple_P_2025.pdf">Postive Parent Programme</a><br>
 
 For further details, kindly proceed to the [provided link.](/partners/Family-Matters-at-JPS/).
 

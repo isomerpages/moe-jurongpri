@@ -25,5 +25,7 @@ With Family Matters @ Schools, parents are informed, equipped and empowered to b
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://go.gov.sg/lfs-sp2025"><img src="/images/Signposts_Flyer_2025__1_.jpg" style="width:70%"></a><br>
 
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://go.gov.sg/3pseminar2025def"><img src="/images/Triple_P_2025.jpg" style="width:70%"></a><br>
+
 
 <img src="/images/jelly-beans.gif" style="width:33.3%;float:left"><img src="/images/jelly-beans.gif" style="width:33.3%;float:left"><img src="/images/jelly-beans.gif" style="width:33.3%;float:left">
