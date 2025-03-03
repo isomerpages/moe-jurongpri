@@ -10,7 +10,7 @@ variant: markdown
  <br>Photographs or video images of students and parents may be taken during	school activities and events such as classroom lessons, CCA, camps,	or performances. The  school may use and publish such photographs or video recordings in school publications, the school's website, social media channels, or other communication channels.<br>
 * <a target="”_blank”" href="https://vle.learning.moe.edu.sg/login">SLS Website</a> (Students)
 * <a target="”_blank”" href="https://workspace.google.com/dashboard">Student ICON </a> (Students)
-* <a target="”_blank”" href="/files/Family%20Matters%20At%20JPS/JPS_Triple_P_Seminars_2024.pdf">Positive Parenting Programme</a>
+* <a target="”_blank”" href="/files/Triple_P_2025.pdf">Positive Parenting Programme</a>
 *  <a target="”_blank”" href="/files/School%20Bag%20Weight%20Loss%20Project%20PG.pdf">JPS School Bag Weight Loss Project by PSG</a>
 * <a target="”_blank”" href="/others/westories/">WE-STories 2023</a>
 * <a target="”_blank”" href="/jps-booklist-2025/">JPS Booklist 2025</a>
