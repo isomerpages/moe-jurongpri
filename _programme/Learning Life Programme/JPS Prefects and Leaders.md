@@ -24,8 +24,6 @@ JPS student leaders are chosen through a rigorous selection process. These inclu
 <img src="/images/Yeo_Ya_Le__Shania__Head_Prefect_2025.png" style="width:50%">
 <b>Yeo Ya Le, Shania, Head Prefect 2025!</b></p>
 
-JPS student leaders are chosen through a rigorous selection process. These include panel evaluations, interviews with School Leaders, and even a rally and election exercise for the Head Prefect post! 
-
 
 <p style="text-align:center">
 <img src="/images/JPS_PREFECT_EXCO_2025.jpg">
