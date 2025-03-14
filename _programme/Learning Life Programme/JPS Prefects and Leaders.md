@@ -10,15 +10,34 @@ variant: markdown
 # JPS Prefects and Leaders
 
 <p style="text-align:center">
-<img src="/images/EXCO.JPG">
-	<b>Prefect Exco 2024</b></p>
+	<img src="/images/jps_crest.png">
+	<b>JPS Student Leaders aim to lead with JOY by showing Love, Care, and Sharing with others in the school and the community.</b></p>
+
 
 <p style="text-align:center">
-<img src="/images/Lee_Sheng_Rui_3.jpg" style="width:50%">
-<b>Lee Sheng Rui,  Head Prefect 2024</b></p>
+<img src="/images/Student_Leaders_Investiture_2025.jpg">
+	<b>Student Leaders’ Investiture 2025</b></p>
 
-JPS student leaders are chosen through a rigorous selection process. These include panel evaluations, interviews with School Leaders, and even a rally and election exercise for the Head Prefect post! <br>
-Prefects and CCA leaders are formally appointed at the annual Student Leaders’ Investiture, acknowledging their unwavering commitment, diligence and contribution to the school.
+JPS student leaders are chosen through a rigorous selection process. These include panel evaluations, interviews with School Leaders, and even a rally and election exercise for the Head Prefect post!
+
+<p style="text-align:center">
+<img src="/images/JPS_PREFECT_EXCO_2025.jpg">
+	<b>Prefect Exco 2025</b></p>
+
+Prefects and CCA leaders are formally appointed at the annual Student Leaders’ Investiture, acknowledging their unwavering commitment, diligence and contribution to the school. 
+
+<p style="text-align:center">
+<img src="/images/JPS_cca_leaders.jpg">
+	<b>
+JPS Prefectorial Board &amp; CCA Leaders 2025 
+ </b></p>
+
+<p style="text-align:center">
+<img src="/images/Yeo_Ya_Le__Shania__Head_Prefect_2025.png" style="width:50%">
+<b>Yeo Ya Le, Shania, Head Prefect 2025!</b></p>
+
+JPS student leaders are chosen through a rigorous selection process. These include panel evaluations, interviews with School Leaders, and even a rally and election exercise for the Head Prefect post! 
+
 
 <p style="text-align:center">
 <img src="/images/P4Prefects.jpg" style="width:50%">
