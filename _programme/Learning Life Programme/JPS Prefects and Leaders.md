@@ -11,10 +11,10 @@ variant: markdown
 
 <p style="text-align:center">
 	<img src="/images/jps_crest.png">
-	<b>JPS Student Leaders aim to lead with JOY by showing Love, Care, and Sharing with others in the school and the community.</b></p>
+	JPS Student Leaders aim to lead with <b>JOY</b> by showing Love, Care, and Sharing with others in the school and the community.
 
 
-<p style="text-align:center">
+</p><p style="text-align:center">
 <img src="/images/Student_Leaders_Investiture_2025.jpg">
 	<b>Student Leaders’ Investiture 2025</b></p>
 
