@@ -34,7 +34,7 @@ Executive &amp; Administrative Staff
   </tr>
 	 <tr>
     <td class="tg-n4qt"> Operations Manager</td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Tai Hai Seng Warren</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Tan Hai Seng Warren</span></td>
   </tr>
   <tr>
     <td class="tg-n4qt">Admin Executive </td>
