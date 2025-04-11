@@ -74,8 +74,8 @@ The LOA scheme is for current CPS pupils who fulfill the following criteria:
 
 To apply: <a target="_blank" rel="noopener noreferrer nofollow" href="https://go.gov.sg/jps-leaveofabsence">https://go.gov.sg/jps-leaveofabsence</a><br>
 
-### Official Contact details
 ------------------------
+### Official Contact details
 
 <b>1. School Address/ Contact Number</b> <br>
 Jurong Primary School 320 Jurong East St 32 S(609476) <br>
@@ -121,9 +121,9 @@ Webpage: https://vle.learning.moe.edu.sg/login <br>  Helpdesk: 9783 0818/ 6561 8
 Monday, Tuesday, Thursday &amp; Friday. <br>
 Closed on Wednesday <br>Lunch Time : 1pm&nbsp; to 2pm.
 
-
+------------------------
 ### FAS
----
+
 
 <u><b>1. MOE Financial Assistance Scheme (MOE FAS)</b></u> <br>
 For more information, please click&nbsp;[here](https://www.moe.gov.sg/financial-matters/financial-assistance).&nbsp;
@@ -165,10 +165,8 @@ Main Tel. Line: 6298 5911 <br>
 Fax Line: 6392 4300 <br>
 [http://www.sinda.org.sg/scholarshipsbursaries/](http://www.sinda.org.sg/scholarshipsbursaries/)
 
+------------------------
 ### School Transfer
----------------
-
-  
 
 Ad-hoc transfer exercises are conducted between schools throughout the year. The receiving school will produce a Letter of Acceptance to the Parent/ Guardian, to be submitted to the sending school for transfer of pupil's documents.
 
@@ -176,12 +174,8 @@ The Parent/ Guardian will contact the sending school via phone/ school email for
 
 The Ministry of Education also conducts an annual transfer exercise (STEPS) for Primary 1 &nbsp;pupils with change in address. These pupils will be transfered to the new school the following year. The exercise is usually conducted between October and November each year.
 
-  
-
-### MOE Customer Service Centre
 ---------------------------
-
-  
+### MOE Customer Service Centre
 
 Address:  
 Ministry of Education, Singapore&nbsp;  
