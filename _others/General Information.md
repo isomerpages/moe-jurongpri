@@ -165,14 +165,6 @@ Main Tel. Line: 6298 5911 <br>
 Fax Line: 6392 4300 <br>
 [http://www.sinda.org.sg/scholarshipsbursaries/](http://www.sinda.org.sg/scholarshipsbursaries/)
 
-------------------------
-### School Transfer
-
-Ad-hoc transfer exercises are conducted between schools throughout the year. The receiving school will produce a Letter of Acceptance to the Parent/ Guardian, to be submitted to the sending school for transfer of pupil's documents.
-
-The Parent/ Guardian will contact the sending school via phone/ school email for the school to prepare the documents for transfer. An appointment will be made with the Parent/ Guardian to go to the sending school and collect the documents when ready.
-
-The Ministry of Education also conducts an annual transfer exercise (STEPS) for Primary 1 &nbsp;pupils with change in address. These pupils will be transfered to the new school the following year. The exercise is usually conducted between October and November each year.
 
 ---------------------------
 ### MOE Customer Service Centre
