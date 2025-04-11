@@ -55,10 +55,18 @@ During School Holidays : Monday to Friday <br>
 
 **Admission &amp; School Transfer**<br>
 For Singapore Citizens and PRs
-* To join JPS waiting list: 
-* Jewellery, cosmetics or non-clear contact lenses must not be worn to school.
-* Perming, dyeing and highlighting of hair is not allowed. Outlandish hairstyle are strictly forbidden.
-* Nails should be kept short and clean. Nail varnish or henna is not allowed.
+* To join JPS waiting list: <a target="_blank" rel="noopener noreferrer nofollow" href="https://go.gov.sg/waitlist-jurong-pri">https://go.gov.sg/waitlist-jurong-pri</a><br>
+Please note that our school's personnel would be in touch with you when there is vacancy.
+* MOE Primary School Transfer Service <br> 
+This service is for pupils who have moved to a new residential address. 
+For more information: <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.moe.gov.sg/primary/transfers">https://www.moe.gov.sg/primary/transfers</a><br>
+
+For International Students<br>
+Children who are not Singapore Citizens or PRs are considered as International Students (IS). Please visit MOE’s website for more information on school admission:
+* P1 Registeration for IS:  <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.moe.gov.sg/primary/p1-registration/international-students">https://www.moe.gov.sg/primary/p1-registration/international-students</a><br>
+* Admissions Exercise for International Students (AEIS): For admission to Primary 2 to 5&nbsp;for the&nbsp;following&nbsp;academic year. <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.moe.gov.sg/international-students/aeis"> 
+https://www.moe.gov.sg/international-students/aeis</a>
+
 * Girls who have their ears pierced should only use 1 simple stud for each ear.
 
 ### Official Contact details
