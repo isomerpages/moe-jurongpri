@@ -53,6 +53,13 @@ During School Holidays : Monday to Friday <br>
 * Nails should be kept short and clean. Nail varnish or henna is not allowed.
 * Girls who have their ears pierced should only use 1 simple stud for each ear.
 
+**Admission &amp; School Transfer**<br>
+For Singapore Citizens and PRs
+* To join JPS waiting list: 
+* Jewellery, cosmetics or non-clear contact lenses must not be worn to school.
+* Perming, dyeing and highlighting of hair is not allowed. Outlandish hairstyle are strictly forbidden.
+* Nails should be kept short and clean. Nail varnish or henna is not allowed.
+* Girls who have their ears pierced should only use 1 simple stud for each ear.
 
 ### Official Contact details
 ------------------------
