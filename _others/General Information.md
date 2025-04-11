@@ -10,9 +10,8 @@ General Information
 ===================
 
 **School Hours During School Terms (Monday to Friday)**
-
-1)	Operation Hours: 7.30 a.m. to 5.30 p.m.<br>
-2)	Curriculum Hours: 7.30 a.m. to 1.30 p.m.
+1) Operation Hours: 7.30 a.m. to 5.30 p.m.<br>
+2) Curriculum Hours: 7.30 a.m. to 1.30 p.m.
 
 During School Holidays : Monday to Friday <br>
 1) Operation Hours 8.00 a.m. to 5.00 p.m.
@@ -53,6 +52,27 @@ During School Holidays : Monday to Friday <br>
 * Nails should be kept short and clean. Nail varnish or henna is not allowed.
 * Girls who have their ears pierced should only use 1 simple stud for each ear.
 
+**Admission &amp; School Transfer**<br>
+**For Singapore Citizens and PRs**
+* To join JPS waiting list: <a target="_blank" rel="noopener noreferrer nofollow" href="https://go.gov.sg/waitlist-jurong-pri">https://go.gov.sg/waitlist-jurong-pri</a><br>
+Please note that our school's personnel would be in touch with you when there is vacancy.
+* MOE Primary School Transfer Service <br> 
+This service is for pupils who have moved to a new residential address. 
+For more information: <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.moe.gov.sg/primary/transfers">https://www.moe.gov.sg/primary/transfers</a><br>
+
+**For International Students**<br>
+Children who are not Singapore Citizens or PRs are considered as International Students (IS). Please visit MOE’s website for more information on school admission:
+* P1 Registeration for IS:  <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.moe.gov.sg/primary/p1-registration/international-students">https://www.moe.gov.sg/primary/p1-registration/international-students</a><br>
+* Admissions Exercise for International Students (AEIS): For admission to Primary 2 to 5&nbsp;for the <b>following</b> academic year. <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.moe.gov.sg/international-students/aeis"> 
+https://www.moe.gov.sg/international-students/aeis</a>
+* Supplementary Admissions Exercise for International Students (S-AEIS):&nbsp;For admission to Primary 2 to 4 for the&nbsp;same&nbsp;academic year. <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.moe.gov.sg/international-students/s-aeis/apply"> https://www.moe.gov.sg/international-students/s-aeis/apply</a>
+
+**Leave of Absence (LOA) Scheme**<br>
+The LOA scheme is for current CPS pupils who fulfill the following criteria:
+* Pupil is a Singapore Citizen or PR
+* Pupil is accompanying parent on an overseas posting<br>
+
+To apply: <a target="_blank" rel="noopener noreferrer nofollow" href="https://go.gov.sg/jps-leaveofabsence">https://go.gov.sg/jps-leaveofabsence</a><br>
 
 ### Official Contact details
 ------------------------
