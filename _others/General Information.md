@@ -165,7 +165,6 @@ Main Tel. Line: 6298 5911 <br>
 Fax Line: 6392 4300 <br>
 [http://www.sinda.org.sg/scholarshipsbursaries/](http://www.sinda.org.sg/scholarshipsbursaries/)
 
-
 ---------------------------
 ### MOE Customer Service Centre
 
