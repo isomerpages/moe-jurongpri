@@ -27,6 +27,8 @@ Check out the flyer <a href="/files/Gear_Up_for_PSLE_Webinar_2025_Flyer.pdf" rel
 <b><u> 2. Indicate Interest Form</u></b><br>
 As we begin Term 2, we'd love to support you in your parenting journey. Please take a moment to complete our short survey (<a href="/files/Indicate_Interest_Form_2025__2_.pdf" rel="noopener noreferrer nofollow" target="_blank">Check out the flyer here</a>) to help us understand your needs and recommend suitable parenting programmes for you.
 
+
+[](/files/Indicate_Interest_Form_2025__2_.pdf)
 We hope this resource will be beneficial for both you and your child! Thank you for your continued partnership in making every child's learning journey a success.
 
 
