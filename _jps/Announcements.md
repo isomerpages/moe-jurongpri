@@ -9,6 +9,18 @@ variant: markdown
 Announcements
 =============
 
+### JPS Gear Up for PSLE Webinar (Invite for P5-6 Parents) &amp; Indicate Interest Form (for ALL level parents)
+ Dear parents, 
+ We warmly invite Primary 5 and 6 parents to join our "JPS Gear Up for PSLE" webinar. Following are the details: 
+
+| S/No | Seminar Topics | Date | Time |
+| -------- | -------- | -------- |  -------- |
+| Session 1 | Gear up for PSLE Using 3P Strategies (Part 1) | 14 May 2025, Wed | 7:00-9:30pm |
+| Session 2 | Gear up for PSLE Using 3P Strategies (Part 2) | 21 May 2025, Wed | 7:00-9:30pm |
+
+Check out the flyer <a href="//files/Gear_Up_for_PSLE_Webinar_2025_Flyer.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
+
+
 ### JPS Triple P Seminars
 
 Updated 03-03-2025<br>
