@@ -5,7 +5,7 @@ description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: HBL on 2nd May and School Holiday on 5th May. School resumes on
-  6th May, Tuesday. Pleae refer to Parents Gateway for more information.
+  6th May, Tuesday. Please refer to Parents Gateway for more information.
 sections:
   - hero:
       background: /images/MainBanner060820242_v2_78_.gif
