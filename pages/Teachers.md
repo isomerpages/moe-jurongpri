@@ -6,6 +6,9 @@ variant: markdown
 ---
 ![](/images/JPS_School_Front_Banner.jpg)
 
+<img class="right-img" alt="Right Image" src="/images/WhatsApp_Image_2025_03_10_at_5_24_30_PM.jpg" style="width:50%">
+<br>
+	
 *   <a target="_blank" rel="noopener noreferrer nofollow" href="https://idp.mims.moe.gov.sg/nidp/app/login/"> MIMS Portal </a>
 *   <a target="_blank" rel="noopener noreferrer nofollow" href="https://vle.learning.moe.edu.sg/login/"> SLS</a>
 *   <a target="_blank" rel="noopener noreferrer nofollow" href="https://schoolcockpit.moe.gov.sg/"> School Cockpit</a>
