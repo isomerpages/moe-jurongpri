@@ -40,63 +40,57 @@ Key Personnel
     <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/mdm nur fadzila abd kadir.jpg" style="width:70%"><br>MDM NUR FADZILA ABD KADIR</td>
   </tr>
 	<tr>
-	<td class="tg-sufc">HOD ENGLISH LANGUAGE</td>
-    <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/mdm faridah beham do abd razeed.jpg" style="width:70%"><br>MDM FARIDAH BEHAM D/O ABD RAZEED</td>
       <td class="tg-sufc">LH ENGLISH <br>LANGUAGE </td>
     <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/mdm noorkiah mohd hashim.jpg" style="width:70%"><br>MDM NOORKIAH MOHD HASHIM</td>
+			<td class="tg-sufc">HOD MOTHER TONGUE LANGUAGE</td>
+    <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/mr tan kin chiew jimmy.jpg" style="width:70%"><br>MR TAN KIN CHIEW JIMMY</td>
   </tr>
 	<tr>
-	<td class="tg-sufc">HOD MOTHER TONGUE LANGUAGE</td>
-    <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/mr tan kin chiew jimmy.jpg" style="width:70%"><br>MR TAN KIN CHIEW JIMMY</td>
       <td class="tg-sufc">SH CHINESE LANGUAGE</td>
     <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/mrs janet chua siok teng.jpg" style="width:70%"><br>MRS JANET CHUA - TAN SIOK TENG</td>
+		 <td class="tg-sufc">HOD MATHEMATICS</td>
+    <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/ms nur sofhia buang.jpg" style="width:70%"><br>MS NUR SOFHIA BUANG</td>
   </tr>
 	<tr>
-	 <td class="tg-sufc">HOD MATHEMATICS</td>
-    <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/ms nur sofhia buang.jpg" style="width:70%"><br>MS NUR SOFHIA BUANG</td>
       <td class="tg-sufc">LH <br> MATHEMATICS</td>
     <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/ms neo siao wei ann_v2.png" style="width:70%"><br>MS NEO SIAO WEI ANN</td>
-   
+    <td class="tg-sufc">HOD SCIENCE</td>
+    <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/mdm ang xu qin chuliet.jpg" style="width:70%"><br>MDM CHULIET ANG XU QIN</td>
   </tr>
 	<tr>
-	 <td class="tg-sufc">HOD SCIENCE</td>
-    <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/mdm ang xu qin chuliet.jpg" style="width:70%"><br>MDM CHULIET ANG XU QIN</td>
       <td class="tg-sufc">LH SCIENCE</td>
     <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/Jane_Yong.png" style="width:70%"><br>MDM JANE YONG HSIAO WEI<br></td>
+		 <td class="tg-sufc">HOD PAM &amp; CCA</td>
+    <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/mr zulkarnain b daud.jpg" style="width:70%"><br>MR ZULKARNAIN B DAUD</td>
   </tr>
 	<tr>
-	 <td class="tg-sufc">HOD PAM &amp; CCA</td>
-    <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/mr zulkarnain b daud.jpg" style="width:70%"><br>MR ZULKARNAIN B DAUD</td>
       <td class="tg-sufc">SH PHE &amp; CCA</td>
     <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/mr muhd hakim kamarudin.jpg" style="width:70%"><br>MR MUHD HAKIM KAMARUDIN</td>
-    
+    	<td class="tg-sufc">SH AESTHETICS</td>
+    <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/miss zheng yiying.jpg" style="width:70%"><br>MISS ZHENG YIYING YVONNE</td>
   </tr>
 	<tr>
-	<td class="tg-sufc">SH AESTHETICS</td>
-    <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/miss zheng yiying.jpg" style="width:70%"><br>MISS ZHENG YIYING YVONNE</td>
       <td class="tg-sufc">HOD CHARACTER &amp; CITIZENSHIP EDUCATION</td>
     <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/mdm elaine wong seok wai.jpg" style="width:70%"><br>MDM ELAINE WONG SEOK WAI</td>
+			<td class="tg-sufc">LH CHARACTER EDUCATION</td>
+    <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/ms tang you ni eunice.jpg" style="width:70%"><br>MS EUNICE TANG YOU NI</td>
   </tr>
 	<tr>
-	<td class="tg-sufc">LH CHARACTER EDUCATION</td>
-    <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/ms tang you ni eunice.jpg" style="width:70%"><br>MS EUNICE TANG YOU NI</td>
       <td class="tg-sufc">SH CITIZENSHIP EDUCATION<br> &amp; SOCIAL STUDIES</td>
     <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/mdm noraidah azman.jpg" style="width:70%"><br>MDM NORAIDAH AZMAN</td>
-    
+    <td class="tg-sufc">HOD DISCIPLINE</td>
+    <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/mr ravindran so rajasekeran.jpg" style="width:70%"><br>MR RAVINDRAN S/O RAJASEKERAN</td>  
   </tr>
 	<tr>
-	    <td class="tg-sufc">HOD DISCIPLINE</td>
-    <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/mr ravindran so rajasekeran.jpg" style="width:70%"><br>MR RAVINDRAN S/O RAJASEKERAN</td>
 			<td class="tg-sufc">HOD ICT &amp; DATA MANAGEMENT</td>
     <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/mdm er wei lin.jpg" style="width:70%"><br>MDM ER WEI LIN</td>
+		 <td class="tg-sufc">SH ICT</td>
+    <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/Ms_Marilyn_Quek.png" style="width:70%"><br>MS MARILYN QUEK HUI YING</td>
   </tr>
 	<tr>
- <td class="tg-sufc">SH ICT</td>
-    <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/Ms_Marilyn_Quek.png" style="width:70%"><br>MS MARILYN QUEK HUI YING</td>
 	<td class="tg-sufc">ADMIN MANAGER</td>
-    <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/Ms_Irene_Ng_JPS.jpg" style="width:70%"><br>MRS IRENE NG</td></tr>
-		<tr>
- <td class="tg-sufc">OPERATIONS MANAGER</td>
+    <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/Ms_Irene_Ng_JPS.jpg" style="width:70%"><br>MRS IRENE NG</td>
+	 <td class="tg-sufc">OPERATIONS MANAGER</td>
     <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/Mr_Cheng_WIlson_JPS.jpg" style="width:70%"><br>MR WILSON CHENG</td></tr>
-	</tbody>
+		</tbody>
 </table>
