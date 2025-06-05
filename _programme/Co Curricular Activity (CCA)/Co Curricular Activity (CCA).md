@@ -326,7 +326,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Ayatollah Khomeini (1st)</p>
 <p>Mdm Sarimah Sainin (2nd)</p>
-<p>Mrs Janet Chua</p>
+<p>Mdm Janet Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thurs</p>
