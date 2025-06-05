@@ -47,7 +47,7 @@ Key Personnel
   </tr>
 	<tr>
       <td class="tg-sufc">SH CHINESE LANGUAGE</td>
-    <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/mrs janet chua siok teng.jpg" style="width:70%"><br>MRS JANET CHUA - TAN SIOK TENG</td>
+    <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/mrs janet chua siok teng.jpg" style="width:70%"><br>MDM JANET TAN SIOK TENG</td>
 		 <td class="tg-sufc">HOD MATHEMATICS</td>
     <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/ms nur sofhia buang.jpg" style="width:70%"><br>MS NUR SOFHIA BUANG</td>
   </tr>
