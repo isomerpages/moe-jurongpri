@@ -58,6 +58,7 @@ variant: tiptap
 <p>Mrs Chin-Lee Mau Kin (2nd)</p>
 <p>Mdm Toh Siow Hoon Rina</p>
 <p>Mdm Sim Chui Ha</p>
+<p>Miss Ang Ru Pin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thurs</p>
@@ -263,7 +264,6 @@ variant: tiptap
 <p>Mdm Mastura Abd Hamid (1st)</p>
 <p>Mdm Chindikasari Roslee (2nd)</p>
 <p>Mr Brendan Gerard Jeremiah</p>
-<p>Mdm Noorkiah Mohd Hashim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thurs</p>
@@ -326,7 +326,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Ayatollah Khomeini (1st)</p>
 <p>Mdm Sarimah Sainin (2nd)</p>
-<p>Mdm Janet Tan</p>
+<p>Mrs Janet Chua</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thurs</p>
