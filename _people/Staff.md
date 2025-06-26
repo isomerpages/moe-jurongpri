@@ -17,7 +17,7 @@ Staff
 | 1 Integrity    | Mdm Niryanty Abd Razak<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:niryanty_abd_razak@schools.gov.sg">niryanty_abd_razak@schools.gov.sg</a><br> <br>  Mr Lim Daw Wee <br> <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:lim_daw_wee@schools.gov.sg">lim_daw_wee@schools.gov.sg</a>  |
 | 1 Passion    | Mrs Jeevetha Aravind <br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:jeevetha_manimaran@schools.gov.sg">jeevetha_manimaran@schools.gov.sg</a><br><br>Miss Zheng Yiying Yvonne<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:zheng_yiying@schools.gov.sg"> zheng_yiying@schools.gov.sg</a>   |
 | 1 Respect    |Mrs Sheila Gerad <br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:sheila_dhana_pal@schools.gov.sg">sheila_dhana_pal@schools.gov.sg</a><br> <br>  Miss Nur Dhumaika Jumat <br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:nur_dhumaika_jumat@schools.gov.sg">nur_dhumaika_jumat@schools.gov.sg</a><br>|
-| 1 Responsibility  | Miss Ho Meiling <br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ho_mei_ling_a@schools.gov.sg"> ho_mei_ling_a@schools.gov.sg</a><br> <br> Mdm Nurul Fadilah Binte Hashim <br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:nurul_fadilah_hashim@schools.gov.sg"> nurul_fadilah_hashim@schools.gov.sg</a><br><br> Mdm J. Lee <br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:jesse_lee_jia_xuan_a@schools.gov.sg">jesse_lee_jia_xuan_a@schools.gov.sg</a> |
+| 1 Responsibility  | Miss Ho Meiling <br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ho_mei_ling_a@schools.gov.sg"> ho_mei_ling_a@schools.gov.sg</a><br> <br> Mdm Nurul Fadilah Binte Hashim <br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:nurul_fadilah_hashim@schools.gov.sg"> nurul_fadilah_hashim@schools.gov.sg</a><br><br>Mrs Chew-Wong Eien Nee (Judy) <br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:"></a><br> |
 | 1 Loyalty    | Mdm Chindikasari Roslee<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chindikasari_roslee@schools.gov.sg">chindikasari_roslee@schools.gov.sg</a><br> <br> Mdm Wong Seok Wai Elaine<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:wong_seok_wai@schools.gov.sg">wong_seok_wai@schools.gov.sg</a> <br>  |
 |1 Honour | Mdm Huang Yan <br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:huang_yan@schools.gov.sg"> huang_yan@schools.gov.sg</a><br><br>Mdm Nur Fadzila Abd Kadir<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:nur_fadzila_abdul_kadir@schools.gov.sg">nur_fadzila_abdul_kadir@schools.gov.sg</a><br><br> Mdm Zuhaizah Hussein<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:zuhaizah_hussein@schools.gov.sg">zuhaizah_hussein@schools.gov.sg</a>|
 |
@@ -28,7 +28,7 @@ Staff
 | Class | Form Teachers |
 | -------- | --------|
 | 2 Care    | Mdm Or Chiew Peng Catherine <br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:or_chiew_peng@schools.gov.sg">or_chiew_peng@schools.gov.sg</a><br> <br>  Mdm Rohani Mafot <br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Rohani_MAFOT@schools.gov.sg">Rohani_MAFOT@schools.gov.sg</a><br>  |
-| 2 Gracious    | Mdm Chong Su Fang <br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chong_su_fang@schools.gov.sg"> chong_su_fang@schools.gov.sg</a><br> <br> Ms Bavani D/O Nadarajah <br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:bavani_nadarajah@schools.gov.sg">bavani_nadarajah@schools.gov.sg</a><br><br>Mdm Janet Tan Siok Teng<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:tan_siok_teng@schools.gov.sg">tan_siok_teng@schools.gov.sg</a>|
+| 2 Gracious    |  Ms Bavani D/O Nadarajah <br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:bavani_nadarajah@schools.gov.sg">bavani_nadarajah@schools.gov.sg</a><br><br>Mdm Janet Tan Siok Teng<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:tan_siok_teng@schools.gov.sg">tan_siok_teng@schools.gov.sg</a><br><br> Mrs Ong Lye Huat<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:"></a><br>|
 | 2 Integrity    | Mrs Tan-Pek Ming Rang<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:pek_ming_rang@schools.gov.sg">pek_ming_rang@schools.gov.sg</a><br> <br>  Mdm Er Wei Lin <br> <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:er_wei_lin@schools.gov.sg">er_wei_lin@schools.gov.sg</a>|
 | 2 Passion    | Miss Yeo Hoon Kheng Eunice <br> <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:yeo_hoon_kheng@schools.gov.sg">yeo_hoon_kheng@schools.gov.sg</a><br><br>Mdm Sally Tan Siew Choo <br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:tan_siew_choo_b@schools.gov.sg">tan_siew_choo_b@schools.gov.sg</a>|
 | 2 Respect    |Mr Yeong Hoong Munn <br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:yeong_hoong_munn@schools.gov.sg">yeong_hoong_munn@schools.gov.sg</a><br> <br>  Mdm Noraidah Azman<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:noraidah_azman@schools.gov.sg">noraidah_azman@schools.gov.sg</a><br> |
@@ -54,7 +54,7 @@ Staff
 | -------- | --------|
 | 4 Care    | Miss Koh Ai Peng <br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:koh_ai_peng@schools.gov.sg">koh_ai_peng@schools.gov.sg</a><br><br>Mdm Sim Chui Ha<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:sim_chui_ha@schools.gov.sg">sim_chui_ha@schools.gov.sg</a>  |
 | 4 Integrity    | Mrs Wendy Looi  Lay Choo<br> <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chua_lay_choo@schools.gov.sg">chua_lay_choo@schools.gov.sg </a><br><br>Ms Eunice Tang<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:eunice_tang@schools.gov.sg">eunice_tang@schools.gov.sg</a><br><br> Mdm Nur Jannah Juri<br> <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:nur_jannah_juri@schools.gov.sg"> nur_jannah_juri@schools.gov.sg</a><br><br> Ms Elizabeth Ang<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:elizabeth_ang_lee_hui@schools.gov.sg">elizabeth_ang_lee_hui@schools.gov.sg</a>|
-| 4 Passion    | Mrs Sueann Kong<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:goh_xiao_lin@schools.gov.sg">goh_xiao_lin@schools.gov.sg</a> <br><br>Mdm Noorkiah Mohd Hashim<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:noorkiah_mohamed_hashim@schools.gov.sg"> noorkiah_mohamed_hashim@schools.gov.sg</a>|
+| 4 Passion    | Mrs Sueann Kong<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:goh_xiao_lin@schools.gov.sg">goh_xiao_lin@schools.gov.sg</a> <br><br>Mdm Noorkiah Mohd Hashim<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:noorkiah_mohamed_hashim@schools.gov.sg"> noorkiah_mohamed_hashim@schools.gov.sg</a><br><br>Miss Ang Ru Pin<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:"></a><br>|
 | 4 Respect    | Mrs Stella Tan<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:ho_qian_yi@schools.gov.sg"> ho_qian_yi@schools.gov.sg</a><br><br>Mrs Raj Navamani<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:navamani_iyyamalai@schools.gov.sg"> navamani_iyyamalai@schools.gov.sg</a><br><br>Mrs Josephine Rama<br> <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:josephine_pillai@schools.gov.sg">josephine_pillai@schools.gov.sg</a>|
 | 4 Responsibility    | Mdm Mastura Abd Hamid <br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:mastura_abdul_hamid@schools.gov.sg"> mastura_abdul_hamid@schools.gov.sg</a><br><br>Mrs Chang- Chen Jialin<br><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:chen_jialin@schools.gov.sg">chen_jialin@schools.gov.sg</a> |
 |
@@ -100,17 +100,11 @@ Staff
     <th class="tg-n4qt">Name</th>
     <th class="tg-n4qt">Email </th>
   </tr>
-	<tr><td class="tg-n4qt">Ms Elizabeth Ang</td>
-    <td class="tg-ii8k"><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:elizabeth_ang_lee_hui@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">elizabeth_ang_lee_hui@schools.gov.sg</span></a></td></tr>
-<tr><td class="tg-n4qt">Mdm J. Lee</td>
-   <td class="tg-ii8k"><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:jesse_lee_jia_xuan_a@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">jesse_lee_jia_xuan_a@schools.gov.sg</span></a></td></tr>
-	<tr><td class="tg-n4qt">Mrs Josephine Rama</td>
-    <td class="tg-ii8k"><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:josephine_pillai@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">josephine_pillai@schools.gov.sg</span></a></td></tr>
-	 <tr><td class="tg-n4qt">Mdm Lee Lay Tin</td>
-    <td class="tg-ii8k"><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:lee_lay_tin@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">lee_lay_tin@schools.gov.sg</span></a></td>
-  </tr>
-		<tr><td class="tg-n4qt">Mr Lim Wei Sian</td>
+	<tr>
+		</tr><tr><td class="tg-n4qt">Mr Lim Wei Sian</td>
     <td class="tg-ii8k"><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:lim_wei_sian@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">lim_wei_sian@schools.gov.sg</span></a></td></tr>
+		 <tr><td class="tg-n4qt">Mdm Mooi Lee Choo</td>
+    <td class="tg-ii8k"><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:"><span style="text-decoration:none;color:#EB0028"></span></a></td></tr>
 			 <tr><td class="tg-n4qt">Mrs Mumtaj Imran</td>
     <td class="tg-ii8k"><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Mumtaj_Imran_A@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">Mumtaj_Imran_A@schools.gov.sg</span></a></td></tr>
 	<tr><td class="tg-n4qt">Mdm Ong Kah Peng</td>
@@ -119,8 +113,8 @@ Staff
     <td class="tg-ii8k"><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:pek_quee_hui@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">pek_quee_hui@schools.gov.sg</span></a></td></tr>
 	<tr><td class="tg-n4qt">Mdm Rekha Nair</td>
     <td class="tg-ii8k"><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:Rekha_K_R_Nair@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">Rekha_K_R_Nair@schools.gov.sg</span></a></td></tr>
-	 <tr><td class="tg-n4qt">Mdm Zuhaizah Hussein</td>
-    <td class="tg-ii8k"><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:zuhaizah_hussein@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">zuhaizah_hussein@schools.gov.sg</span></a></td></tr>
+	 <tr><td class="tg-n4qt">Ms Staniselaw Chin</td>
+    <td class="tg-ii8k"><a target="_blank" rel="noopener noreferrer nofollow" href="mailto:staniselaw_chin_chien_ming@schools.gov.sg"><span style="text-decoration:none;color:#EB0028">staniselaw_chin_chien_ming@schools.gov.sg</span></a></td></tr>
   
   
 </thead></table>
