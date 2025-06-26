@@ -92,5 +92,9 @@ Key Personnel
     <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/Ms_Irene_Ng_JPS.jpg" style="width:70%"><br>MRS IRENE NG</td>
 	 <td class="tg-sufc">OPERATIONS MANAGER</td>
     <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/Mr_Cheng_WIlson_JPS.jpg" style="width:70%"><br>MR WILSON CHENG</td></tr>
+	<tr>
+	<td class="tg-sufc">OPERATIONS MANAGER</td>
+    <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/MR_WARREN_TAN_HAI_SENG_OPERATIONS_MANAGER_2v2_1.png" style="width:70%"><br>MR WARREN TAN HAI SENG</td>
+    </tr>
 		</tbody>
 </table>
