@@ -163,7 +163,7 @@ No 1. Beatty Road <br>
 Singapore 209943 <br>
 Main Tel. Line: 6298 5911 <br>
 Fax Line: 6392 4300 <br>
-[http://www.sinda.org.sg/scholarshipsbursaries/](http://www.sinda.org.sg/scholarshipsbursaries/)
+[https://www.sinda.org.sg/programme/sindabursary/](https://www.sinda.org.sg/programme/sindabursary/)
 
 ---------------------------
 ### MOE Customer Service Centre
