@@ -21,7 +21,7 @@ With Family Matters @ Schools, parents are informed, equipped and empowered to b
 
 ## 2025 Events: 
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://us06web.zoom.us/webinar/register/WN_hS7h0UxwQv6_1nMlsLwRyQ#/"><img src="/images/Transition_Talk__Primary_1_2025_pdf.jpg" style="width:70%"></a><br>
+<a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="/images/Transition_Talk__Primary_1_2025_pdf.jpg" style="width:70%"></a><br>
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://go.gov.sg/lfs-sp2025"><img src="/images/Signposts_Flyer_2025__1_.jpg" style="width:70%"></a><br>
 
