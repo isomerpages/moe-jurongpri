@@ -20,11 +20,9 @@ School map and contact details
 
 ### Getting here:
 
-<b>Buses:</b> <br>
-SBS: 333  
+<b>Buses:</b> <br>333, 872  
 <b>Other nearby buses:</b> <br>
-SBS: 98, 99, 157, 198, 334, 502  
-SMRT: 187  
+98, 99, 157, 187, 198, 334, 502  
   
 <b>Nearest MRT:</b> <br> Chinese Garden (10 min walk)
 
