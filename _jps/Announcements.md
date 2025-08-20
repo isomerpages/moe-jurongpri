@@ -64,27 +64,3 @@ We’d love to see how you’ve grown and hear about your journey since you left
 With great joy, we invite you to return to JPS on **Thursday, 29 August**, from **10:50 AM to 12:00 PM**.<br>
 If you plan to join us, please register your interest here so that your teachers can look forward to welcoming you home: <a href="https://go.gov.sg/jps-teachers-day-visitation-2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/jps-teachers-day-visitation-2024</a>  <br><br>
 Thanks, and see you soon!
-
-
-### Open for Nominations: **President's Award for Teachers and Outstanding Youth in Education Award**
-
-![JPS Teachers](/images/jps_teachers.jpg)
-Do you know any inspiring JPS educators who have made outstanding contributions in moulding the future of our nation? The Ministry of Education (MOE) invites you to nominate them for the following national awards:
-
-**President's Award for Teachers 2024**
-![PAT 2024](/images/pat2024.png)<br>
-[https://go.gov.sg/pat2024](https://go.gov.sg/pat2024)
-
-**Outstanding Youth in Education Award 2024**
-![OYEA](/images/oyea2024a.png)<br>
-[https://go.gov.sg/oyea2024](https://go.gov.sg/oyea2024)
-
-Scan the QR codes or click on the URLs above to nominate. All nominations are to be submitted by **10 January 2024**.
-
-### Nominations for the **15th Caring Teacher Awards (CTA) 2024** is now open!
-        
-The CTA is a biennial event that pays tribute to teachers who show care and concern for the holistic development of their students, and go the extra mile to ensure their charges grow up to be confident and independent learners. Started in 1996, it is organized by the National Institute of Education Singapore with support from ExxonMobil Asia Pacific Pte Ltd and the Ministry of Education.
-
-Nominations are open to the public and can be made online at [www.cta.nie.edu.sg](http://www.cta.nie.edu.sg) from 11 September 2023 to 12 January 2024.
-
-We invite all to submit your nominations!
