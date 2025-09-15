@@ -21,14 +21,6 @@ sections:
         - title: Calendar
           description: ""
           url: /jps/calendar-of-events/
-  - infopic:
-      title: Meet Your Teachers!
-      id: infopic
-      description: Scan the QR code to RSVP or you can click the link below.
-      button: Click Here!
-      url: https://form.gov.sg/68a51506d2b3114de5b0d50f
-      image: /images/You_are_invited_.jpg
-      alt: Meet Your Teachers
   - infobar:
       title: JPS 75th Anniversary
       id: infobar
