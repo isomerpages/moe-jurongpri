@@ -8,6 +8,13 @@ variant: markdown
 
 Announcements
 =============
+### Home-Based Learning (HBL) for P1 - P5 during PSLE Written Examinations
+To ensure an optimal environment for our P6 students during their PSLE Written Examinations, students from P1 to P5 will be on HBL on designated dates (see table below). This will involve lessons in core subjects via digital platforms such as SLS. 
+
+![](/images/Screenshot_2025_09_15_150839.png)
+
+For more information, please refer to JPS T4 Letter to Parents via ParentGateway. 
+
 ### New Bus Service 872 Coming to Our Area
 
 Dear parents and students,
