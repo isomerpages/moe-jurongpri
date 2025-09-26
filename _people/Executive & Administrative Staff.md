@@ -62,7 +62,11 @@ Executive &amp; Administrative Staff
   </tr>
 	<tr>
     <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> </span>CSO </td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Ms Faridah Zainal Ali</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Mdm Geetha Babu</span></td>
+  </tr>
+	<tr>
+    <td class="tg-n4qt"> CSO </td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mdm Nazifah Binte Zolkepeli </span></td>
   </tr>
 	 <tr>
     <td class="tg-n4qt"> OSO </td>
