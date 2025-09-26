@@ -13,7 +13,8 @@ Our School Advisory Committee are: 
 
 *   Mdm Marcellina Giam Lay Eng (Chairperson)
 *   Mr Kua Kian Wee Gerald (member)
-*   Mr Kenneth Lim (member)
-*   Dr Anitha Devi Pillai (member)
+*   Dr Tsao I Ting (member)
+*   Ms Delia Ng (member)
+*   Ms Istyana Putri Ibrahim (member)
 *   Mr Navindraram Naidu (member)
 *   Ms Annie Chong (member)
