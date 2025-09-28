@@ -19,7 +19,7 @@ SLS
 During school operating hours, students should contact the&nbsp;<b>School-based Helpline</b>&nbsp;for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments. &nbsp; &nbsp;  
   
 
-<b>School-based Helpline: 65618837 (Mdm Ezzah / ICT Manager)&nbsp;  
+<b>School-based Helpline: 65618837 (Mdm Ezzah / ICT Manager or Mr Shahreen/ICT Associate)&nbsp;  
 Mondays - Fridays: 8:00 am - 4:00 pm</b>  
   
 For other matters, students can email the SLS Helpdesk at&nbsp;[helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com). When emailing the SLS Helpdesk, they should include their full name, name of school and form class. &nbsp; &nbsp;&nbsp;  
