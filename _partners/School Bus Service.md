@@ -23,9 +23,6 @@ Bus fares applicable from 1 January 2025 to 31 December 2025.
   font-weight:normal;overflow:hidden;padding:12px 18px;word-break:normal;}
 .tg .tg-baqh{text-align:center;vertical-align:top}
 </style>
-
-	Not to exceed bus fares applicable from 1 January 2026 to 31 December 2026.
-
 <table class="tg">
 <thead>
   <tr>
@@ -55,7 +52,12 @@ Bus fares applicable from 1 January 2025 to 31 December 2025.
     <td class="tg-baqh">$160</td>
     <td class="tg-baqh">$170</td>
   </tr>
-</tbody><style type="text/css">
+</tbody>
+</table>
+
+Not to exceed bus fares from 1 Jan 2026 to 31 Dec 2026
+
+<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:12px 18px;word-break:normal;}
@@ -63,7 +65,7 @@ Bus fares applicable from 1 January 2025 to 31 December 2025.
   font-weight:normal;overflow:hidden;padding:12px 18px;word-break:normal;}
 .tg .tg-baqh{text-align:center;vertical-align:top}
 </style>
-</table><table class="tg">
+<table class="tg">
 <thead>
   <tr>
     <th rowspan="2" class="tg-baqh">Distance</th>
