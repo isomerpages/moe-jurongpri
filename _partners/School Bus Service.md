@@ -55,7 +55,7 @@ Bus fares applicable from 1 January 2025 to 31 December 2025.
 </tbody>
 </table>
 
-Not to exceed bus fares from 1 Jan 2026 to 31 Dec 2026
+Not to exceed bus fares from 1 January 2026 to 31 December 2026
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
