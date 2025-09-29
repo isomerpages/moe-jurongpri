@@ -38,7 +38,7 @@ Executive &amp; Administrative Staff
   </tr>
   <tr>
     <td class="tg-n4qt">Admin Executive </td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Mr Lee Chee Joo </span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Ms Lee Yan Ling </span></td>
   </tr>
   <tr>
     <td class="tg-n4qt"> Admin Executive</td>
