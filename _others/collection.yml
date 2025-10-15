@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - General Information.md
+      - School Canteen Advertisement.md
       - Frequently Asked Questions.md
       - WESTories.md
       - Privacy Statement.md
