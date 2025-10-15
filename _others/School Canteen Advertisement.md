@@ -38,9 +38,12 @@ description: ""
 <h4><strong>Application Procedure</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Download and complete the Application Form (click <a href="/files/Application_for_canteen_stall_formBF7_20.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to access
-the form). You may also request for a hardcopy of the Application Form
-from the School’s General Office.</p>
+<p>Download and complete the Application Form. You may also request for a
+hardcopy of the Application Form from the School’s General Office.
+<br>
+<br><a href="/files/Application_for_canteen_stall_formBF7_20.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
+</p>
+<p></p>
 </li>
 <li>
 <p>Attached the following documents together with the Application Form:</p>
