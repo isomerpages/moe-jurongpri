@@ -93,7 +93,7 @@ School's General Office by the closing date.</p>
 </ul>
 </li>
 </ol>
-<h4>How to get there? </h4>
+<h4>How to get there?</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Nearest MRT: Chinese Garden MRT Station</p>
@@ -102,7 +102,7 @@ School's General Office by the closing date.</p>
 <p>Bus number: 333, 872</p>
 </li>
 </ul>
-<h4>Interested applicants must meet the following criteria: </h4>
+<h4>Interested applicants must meet the following criteria:</h4>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -151,7 +151,7 @@ environment.</p>
 </tr>
 </tbody>
 </table>
-<h4>Note to successful applicants: </h4>
+<h4>Note to successful applicants:</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Successful applicant and stall assistant(s) operating the stall must attend
