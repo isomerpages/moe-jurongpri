@@ -2,8 +2,8 @@ collections:
   others:
     output: true
     order:
-      - School Canteen Advertisement.md
       - General Information.md
+      - School Canteen Advertisement.md
       - Frequently Asked Questions.md
       - WESTories.md
       - Privacy Statement.md
