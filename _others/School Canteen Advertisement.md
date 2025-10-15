@@ -38,10 +38,10 @@ description: ""
 <h4><strong>Application Procedure</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Download and complete the Application Form. You may also request for a
-hardcopy of the Application Form from the School’s General Office.
-<br>
-<br><a href="/files/Application_for_canteen_stall_formBF7_20.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
+<p>Download and complete the Application Form (click the link below). You
+may also request for a hardcopy of the Application Form from the School’s
+General Office.
+<br><a href="/files/Application_for_canteen_stall_formBF7_20.pd" rel="noopener nofollow" target="_blank">Application Form</a>
 </p>
 <p></p>
 </li>
@@ -168,4 +168,3 @@ Singapore Food Agency (SFA) to operate the stall.</p>
 </ul>
 <p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.</em>
 </p>
-<p></p>
