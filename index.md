@@ -22,6 +22,14 @@ sections:
           description: ""
           url: /jps/calendar-of-events/
   - infobar:
+      title: JPS Acceptable Use Policy (AUP) for use of EdTech Resources
+      id: infobar
+      description: Refer to the guidelines on the appropriate use of EdTech resources
+        to help you understand how to use these resources safely and
+        responsibly!
+      button: Click here for the guideline
+      url: files/Acceptable_Use_Policy__AUP__JPS_2026_updated.pdf
+  - infobar:
       title: JPS 75th Anniversary
       id: infobar
       button: Click here to watch
