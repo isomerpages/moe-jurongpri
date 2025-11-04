@@ -28,7 +28,7 @@ sections:
         to help you understand how to use these resources safely and
         responsibly!
       button: Click here for the guideline
-      url: wait first
+      url: \Acceptable_Use_Policy__AUP__JPS_2026_updated
   - infobar:
       title: JPS 75th Anniversary
       id: infobar
