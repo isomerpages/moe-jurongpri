@@ -13,7 +13,7 @@ variant: markdown
 * <a target="”_blank”" href="/files/Triple_P_2025.pdf">Positive Parenting Programme</a>
 *  <a target="”_blank”" href="/files/School%20Bag%20Weight%20Loss%20Project%20PG.pdf">JPS School Bag Weight Loss Project by PSG</a>
 * <a target="”_blank”" href="/others/westories/">WE-STories 2023</a>
-* <a target="”_blank”" href="/jps-booklist-2025/">JPS Booklist 2025</a>
+* <a target="”_blank”" href="/jps-booklist-2026/">JPS Booklist 2026</a>
 * <a target="”_blank”" href="/partners/Family-Matters-at-JPS/">Family @ JPS</a>
 * <a target="”_blank”" href="/cce/programmes/moe-sexuality-education-in-schools/">MOE Sexuality Education in Schools</a>
 * <a target="”_blank”" href="/parents-engagement/">Parents Engagement</a>
