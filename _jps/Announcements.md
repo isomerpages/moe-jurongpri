@@ -8,6 +8,11 @@ variant: markdown
 
 Announcements
 =============
+### JPS Booklist 2026
+
+11-11-2025 <br>
+Click [here](/jps-booklist-2026/) to view 2026 booklist.
+
 ### Home-Based Learning (HBL) for P1 - P5 during PSLE Written Examinations
 To ensure an optimal environment for our P6 students during their PSLE Written Examinations, students from P1 to P5 will be on HBL on designated dates (see table below). This will involve lessons in core subjects via digital platforms such as SLS. 
 
@@ -55,19 +60,3 @@ School Family Education and parent engagement events:
 * <a href="/files/Triple_P_2025.pdf">Postive Parent Programme</a><br>
 
 For further details, kindly proceed to the [provided link.](/partners/Family-Matters-at-JPS/).
-
-
-### JPS Booklist 2025
-
-11-11-2024 <br>
-Click [here](/jps-booklist-2025/) to view 2025 booklist.
-
-### JPS Ex-Student Visit on Teachers’ Day 2024
-
-15-08-2024<br>
-Dear Alumni,<br>
-Are you feeling nostalgic and missing your days at JPS? Do you long to reconnect with your teachers?<br>
-We’d love to see how you’ve grown and hear about your journey since you left us!<br>
-With great joy, we invite you to return to JPS on **Thursday, 29 August**, from **10:50 AM to 12:00 PM**.<br>
-If you plan to join us, please register your interest here so that your teachers can look forward to welcoming you home: <a href="https://go.gov.sg/jps-teachers-day-visitation-2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/jps-teachers-day-visitation-2024</a>  <br><br>
-Thanks, and see you soon!
