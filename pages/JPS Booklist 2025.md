@@ -13,5 +13,8 @@ description: ""
 <br><a href="/files/JPS Booklist/2026/JPS_Booklist_2026__P2_.pdf" rel="noopener nofollow" target="_blank">P2 JPS Booklist 2026</a>
 <br><a href="/files/JPS Booklist/2026/JPS_Booklist_2026__P3_.pdf" rel="noopener nofollow" target="_blank">P3 JPS Booklist 2026</a>
 <br><a href="/files/JPS Booklist/2026/JPS_Booklist_2026__P4_.pdf" rel="noopener nofollow" target="_blank">P4 JPS Booklist 2026</a>
+<br><a href="/files/JPS Booklist/2026/JPS_Booklist_2026__P5_.pdf" rel="noopener nofollow" target="_blank">P5 JPS Booklist 2026</a>
+<br><a href="/files/JPS Booklist/2026/JPS_Booklist_2026__P6_.pdf" rel="noopener nofollow" target="_blank">P6 JPS Booklist 2026</a>
+<br>
+<br>
 </p>
-<p></p>
