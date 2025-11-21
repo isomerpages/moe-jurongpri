@@ -51,4 +51,14 @@ sections:
           url: https://instagram.com/jurong_primary_school
       description: Follow us on social media and never miss out on what's happening in
         our joyful community!
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: November/December Holiday Operating Hours
+          date: 21 November 2025
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
 ---
