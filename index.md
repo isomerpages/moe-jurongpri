@@ -29,6 +29,11 @@ sections:
         responsibly!
       button: Click here for the guideline
       url: files/Acceptable_Use_Policy__AUP__JPS_2026_updated.pdf
+  - infopic:
+      title: November/ December 2025 Holiday Opening Hours
+      id: infopic
+      image: /images/Annoucement.png
+      alt: Image alt text
   - infobar:
       title: JPS 75th Anniversary
       id: infobar
@@ -51,14 +56,4 @@ sections:
           url: https://instagram.com/jurong_primary_school
       description: Follow us on social media and never miss out on what's happening in
         our joyful community!
-  - announcements:
-      title: Announcements
-      id: announcements
-      subtitle: Add a list of announcements with dates
-      announcement_items:
-        - title: November/December Holiday Operating Hours
-          date: 21 November 2025
-          announcement: Announcement content
-          link_text: ""
-          link_url: ""
 ---
