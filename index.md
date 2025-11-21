@@ -21,6 +21,11 @@ sections:
         - title: Calendar
           description: ""
           url: /jps/calendar-of-events/
+  - infopic:
+      title: November/ December 2025 Holiday Opening Hours
+      id: infopic
+      image: /images/Annoucement.png
+      alt: Image alt text
   - infobar:
       title: JPS Acceptable Use Policy (AUP) for use of EdTech Resources
       id: infobar
