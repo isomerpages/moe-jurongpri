@@ -15,7 +15,14 @@ School map and contact details
 **Tel number**: 65618837  
 **Fax number**: 65641964
 
+### School Operating Hours (General Office)
+<b><u>During School Term:</u></b><br>
+<b>Curriculum Hours:</b> 7.30am to 1.30pm (Monday - Friday)<br>
+<b>General Office Hour:</b> 7.30am to 5.30pm (Monday - Friday)<br>
 
+<b><u>During School Holidays:</u></b> <br>
+<b>General Office Hours:</b> 8am to 5pm (Monday - Thursday)<br>
+<b>General Office Hours:</b> 8am to 4pm (Friday)<br>
 
 
 ### Getting here:
