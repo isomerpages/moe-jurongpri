@@ -13,7 +13,7 @@ Operator: Chang Chen Pte Ltd <br>
 Tel: 6760 4835<br><br>
 ###### Daily School Bus Services based on Not to Exceed Price (i.e. for sending students from home to school and vice versa).
 
-Bus fares applicable from 1 January 2025 to 31 December 2025.
+Bus fares applicable from 1 January 2026 to 31 December 2026
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
