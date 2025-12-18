@@ -26,34 +26,23 @@ Key Personnel
     <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/ms%20roshidah%20karyeo.jpg" style="width:70%"><br>MS ROSHIDAH KARYEO</td>
     <td class="tg-sufc">YEAR HEAD<br>(UPPER PRIMARY)</td>
     <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/Kelvin_Koh_JPS.jpg" style="width:70%"><br>MR KELVIN KOH HOCK LAI</td>
-  </tr>
-  <tr>
-		<td class="tg-sufc">YEAR HEAD<br>(MIDDLE PRIMARY)</td>
-    <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/Jannah_juri_website02.png" style="width:70%"><br>MDM NUR JANNAH JURI</td>
-      <td class="tg-sufc">YEAR HEAD <br>(LOWER PRIMARY)</td>
+  </tr><tr><td class="tg-sufc">YEAR HEAD <br>(LOWER PRIMARY)</td>
     <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/mdm chinnamma devi.jpg" style="width:70%"><br>MDM CHINNAMMA DEVI</td>
-  </tr>
-	<tr>
-		<td class="tg-sufc">ASSISTANT<br> YEAR HEAD</td>
+  <td class="tg-sufc">ASSISTANT<br> YEAR HEAD</td>
     <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/mr zailany findy b safie.jpg" style="width:70%"><br>MR ZAILANY FINDY BIN SAFIE</td>
-      <td class="tg-sufc">ASSISTANT<br> YEAR HEAD <br></td>
+	</tr>
+      <tr><td class="tg-sufc">ASSISTANT<br> YEAR HEAD <br></td>
     <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/mdm nur fadzila abd kadir.jpg" style="width:70%"><br>MDM NUR FADZILA ABD KADIR</td>
-  </tr>
-	<tr>
-      <td class="tg-sufc">LH ENGLISH <br>LANGUAGE </td>
+		<td class="tg-sufc">LH ENGLISH <br>LANGUAGE </td>
     <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/mdm noorkiah mohd hashim.jpg" style="width:70%"><br>MDM NOORKIAH MOHD HASHIM</td>
-			<td class="tg-sufc">HOD MOTHER TONGUE LANGUAGE</td>
+		</tr>
+			<tr><td class="tg-sufc">HOD MOTHER TONGUE LANGUAGE</td>
     <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/mr tan kin chiew jimmy.jpg" style="width:70%"><br>MR TAN KIN CHIEW JIMMY</td>
-  </tr>
-	<tr>
-      <td class="tg-sufc">SH CHINESE LANGUAGE</td>
+  <td class="tg-sufc">SH CHINESE LANGUAGE</td>
     <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/mrs janet chua siok teng.jpg" style="width:70%"><br>MDM JANET TAN SIOK TENG</td>
-		 <td class="tg-sufc">HOD MATHEMATICS</td>
+		</tr>
+		 <tr><td class="tg-sufc">HOD MATHEMATICS</td>
     <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/ms nur sofhia buang.jpg" style="width:70%"><br>MS NUR SOFHIA BUANG</td>
-  </tr>
-	<tr>
-      <td class="tg-sufc">LH <br> MATHEMATICS</td>
-    <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/ms neo siao wei ann_v2.png" style="width:70%"><br>MS NEO SIAO WEI ANN</td>
     <td class="tg-sufc">HOD SCIENCE</td>
     <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/mdm ang xu qin chuliet.jpg" style="width:70%"><br>MDM CHULIET ANG XU QIN</td>
   </tr>
@@ -90,11 +79,11 @@ Key Personnel
 	<tr>
 	<td class="tg-sufc">ADMIN MANAGER</td>
     <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/Ms_Irene_Ng_JPS.jpg" style="width:70%"><br>MRS IRENE NG</td>
-	 <td class="tg-sufc">OPERATIONS MANAGER</td>
-    <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/Mr_Cheng_WIlson_JPS.jpg" style="width:70%"><br>MR WILSON CHENG</td></tr>
-	<tr>
 	<td class="tg-sufc">OPERATIONS MANAGER</td>
     <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/MR_WARREN_TAN_HAI_SENG_OPERATIONS_MANAGER_2v2_1.png" style="width:70%"><br>MR WARREN TAN HAI SENG</td>
+	</tr>
+		<tr><td class="tg-sufc">OPERATIONS MANAGER</td>
+    <td class="tg-qtzs"><img src="" style="width:70%"><br>MR RAJ</td>
     </tr>
 		</tbody>
 </table>
