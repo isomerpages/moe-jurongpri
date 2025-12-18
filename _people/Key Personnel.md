@@ -83,7 +83,7 @@ Key Personnel
     <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/MR_WARREN_TAN_HAI_SENG_OPERATIONS_MANAGER_2v2_1.png" style="width:70%"><br>MR WARREN TAN HAI SENG</td>
 	</tr>
 		<tr><td class="tg-sufc">OPERATIONS MANAGER</td>
-    <td class="tg-qtzs"><img src="" style="width:70%"><br>MR RAJ</td>
+    <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/no_photo.jpg" style="width:70%"><br>MR RAJ</td>
     </tr>
 		</tbody>
 </table>
