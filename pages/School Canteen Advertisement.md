@@ -27,7 +27,7 @@ description: ""
 <p>Chinese Food Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri, 28 Nov 2025</p>
+<p>Fri, 30 Jan 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Please see below for details.</p>
@@ -41,7 +41,7 @@ description: ""
 <p>Download and complete the Application Form (click the link below). You
 may also request for a hardcopy of the Application Form from the School’s
 General Office.
-<br><a href="/files/Application_for_canteen_stall_formBF7_20.pd" rel="noopener nofollow" target="_blank">Application Form</a>
+<br><a href="https://acrobat.adobe.com/id/urn:aaid:sc:ap:ab92bd80-f6eb-4e7c-ba37-3d60a16e7a37" rel="noopener nofollow" target="_blank">Application form</a>
 </p>
 <p></p>
 </li>
@@ -91,7 +91,7 @@ School's General Office by the closing date.</p>
 </p>
 </li>
 <li>
-<p>Contact Person: Mr Warren Tan, Operations Manager</p>
+<p>Contact Person: Mr Rajendran or Mr Warren Tan, Operations Manager</p>
 </li>
 </ul>
 </li>
