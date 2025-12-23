@@ -56,18 +56,19 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Wee Jing-Sheng Daniel (1st)</p>
 <p>Mrs Chin-Lee Mau Kin (2nd)</p>
-<p>Mdm Toh Siow Hoon Rina</p>
 <p>Mdm Sim Chui Ha</p>
-<p>Miss Ang Ru Pin</p>
+<p>Mdm Toh Siow Hoon Rina</p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thurs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3pm to 5pm</p>
+<p>2.30pm - 4.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Hall</p>
+<p>Basketball Court</p>
 </td>
 </tr>
 <tr>
@@ -76,18 +77,26 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Stella Tan (1st)</p>
-<p>Mr Lee Chin Fuong (2nd)</p>
-<p>Mr Yeong Hoong Munn</p>
+<p>Mr Yeong Hoong Munn (2nd)</p>
 <p>Mrs Jeevetha Aravind</p>
+<p>Ms Liu Jiaxuan</p>
+<p>Mr Lee Chin Fuong</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Tuesdays:
+<br>3.00 - 5.00
+<br>School Team Training</p>
+<p></p>
+<p>Thursdays:
+<br>2.30 - 4.30
+<br>Recreational Team Training</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tues</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3pm to 5pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Hall</p>
+<p>Multi-Purpose Hall
+<br>
+<br>
+</p>
+<p>School Field</p>
 </td>
 </tr>
 <tr>
