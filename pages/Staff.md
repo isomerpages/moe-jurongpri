@@ -1,6 +1,6 @@
 ---
 title: Staff
-permalink: /people/staff26/
+permalink: /people/staff/
 description: ""
 variant: markdown
 ---
