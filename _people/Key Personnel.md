@@ -59,7 +59,7 @@ Key Personnel
     <td class="tg-sufc">HOD DISCIPLINE</td>
     <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/mr ravindran so rajasekeran.jpg" style="width:70%"><br>MR RAVINDRAN S/O RAJASEKERAN</td>  
 		<td class="tg-sufc">HOD ICT &amp; DATA MANAGEMENT</td>
-    <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/mdm er wei lin.jpg" style="width:70%"><br>MDM ER WEI LIN</td>
+    <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/mdm er wei lin.png" style="width:70%"><br>MDM ER WEI LIN</td>
   </tr>
 	<tr>
 		 <td class="tg-sufc">SH ICT</td>
