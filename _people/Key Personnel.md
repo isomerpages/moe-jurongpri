@@ -59,11 +59,11 @@ Key Personnel
     <td class="tg-sufc">HOD DISCIPLINE</td>
     <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/mr ravindran so rajasekeran.jpg" style="width:70%"><br>MR RAVINDRAN S/O RAJASEKERAN</td>  
 		<td class="tg-sufc">HOD ICT &amp; DATA MANAGEMENT</td>
-    <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/mdm er wei lin.jpg" style="width:70%"><br>MDM ER WEI LIN</td>
+    <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/mdm er wei lin.png" style="width:70%"><br>MDM ER WEI LIN</td>
   </tr>
 	<tr>
 		 <td class="tg-sufc">SH ICT</td>
-    <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/Ms_Marilyn_Quek.png" style="width:70%"><br>MS MARILYN QUEK HUI YING</td>
+    <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/Ms_Marilyn_Quek.png" style="width:70%"><br>MS MARILYN QUEK</td>
 		<td class="tg-sufc">ADMIN MANAGER</td>
     <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/Ms_Irene_Ng_JPS.jpg" style="width:70%"><br>MRS IRENE NG</td>
   </tr>
