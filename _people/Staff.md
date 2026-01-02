@@ -173,7 +173,7 @@ variant: tiptap
 <br><a href="mailto:chen_zhuangwei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_zhuangwei@schools.gov.sg</a>
 <br>
 <br>Ms Toh Qian hui
-<br><a href="mailto:toh_qian_hui_a@schools.gov.sg" rel="noopener noreferrer no follow" target="_blank">Miss toh_qian_hui_a@schools.gov.sg</a>
+<br><a href="mailto:toh_qian_hui_a@schools.gov.sg" rel="noopener noreferrer no follow" target="_blank">toh_qian_hui_a@schools.gov.sg</a>
 <br>
 <br>Ms Mooi Lee Choo
 <br><a href="mailto:mooi_lee_choo_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"> mooi_lee_choo_a@schools.gov.sg</a>
