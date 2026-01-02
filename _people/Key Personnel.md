@@ -63,7 +63,7 @@ Key Personnel
   </tr>
 	<tr>
 		 <td class="tg-sufc">SH ICT</td>
-    <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/Ms_Marilyn_Quek.png" style="width:70%"><br>MS MARILYN QUEK HUI YING</td>
+    <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/Ms_Marilyn_Quek.png" style="width:70%"><br>MS MARILYN QUEK</td>
 		<td class="tg-sufc">ADMIN MANAGER</td>
     <td class="tg-qtzs"><img src="/images/Staff%20Photos/KPs/Ms_Irene_Ng_JPS.jpg" style="width:70%"><br>MRS IRENE NG</td>
   </tr>
