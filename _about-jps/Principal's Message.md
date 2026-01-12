@@ -13,21 +13,23 @@ Principal's Message
 
 
 
-2025 marks another exciting chapter for Jurong Primary School as we continue to journey together in joy and growth. Coming off the joyous celebration of our 75th anniversary last year, we remain inspired by our school’s rich history and the enduring values that have shaped generations of students. Over the past 2 years, joy at JPS has not just been a momentary celebration but a steady, purposeful progress. It is the foundation upon which we build a nurturing and respectful community, one where each individual is valued and empowered to flourish.&nbsp;  
+2026 marks another meaningful chapter in Jurong Primary School’s journey. Building on strong foundations, we continue to grow as a joyful community where teaching and learning are purposeful, relationships are nurtured and every child is supported to grow well.&nbsp;  
   
-This year, we celebrate a significant milestone in the progress of our PERI project with the opening of **J Block**, a transformative addition to our school. This new space includes a refreshed canteen, a vibrant library, an Indoor Sports Hall (ISH) and an air-conditioned school hall. These enhanced facilities reflect our commitment to creating a caring and supportive environment where students and staff can thrive. We are confident that these new spaces will inspire meaningful interactions, encourage teamwork and create opportunities for growth and exploration.&nbsp;  
+Our focus on Joy in JPS continues, with a deeper emphasis on the Joy of Teaching and the Joy of Learning. This year, we see this come to life through the completion of key learning spaces. The newly constructed J Block, the new school library and the opening of the school field and playground have expanded how students learn, interact and grow. These spaces invite collaboration, curiosity and joy in learning beyond the classroom.&nbsp;  
  
- As we look ahead, we renew our focus on two key aspects of our Joy in JPS theme: the **Joy of Learning** and the **Joy of Teaching**. For our students, we aim to nurture a spirit of curiosity and responsibility, encouraging them to embrace new challenges and take pride in their learning journey. For our teachers, we champion their passion and commitment, celebrating their dedication to inspiring students and continually honing their craft. I am deeply proud of our educators, who embody the values of integrity, care and excellence as they guide and shape the next generation. I urge every parent to stand with us in supporting our teachers wholeheartedly as they give their very best to our students.&nbsp;  
+ With CCAs now consolidated on the same day, students also have more space and time during the week for targeted learning and support – during and after school. This allows teachers to work more intentionally with students, strengthening learning foundations while attending to individual needs and well-being.&nbsp;  
+ 
+ We also recognise that growing up comes with challenges. Occasional misunderstandings with peers, moments of frustration and learning to self-manage are all part and parcel of life. These moments, while sometimes uncomfortable, are also meaningful opportunities for growth. Research reminds us that children build resilience when trusted adults provide both support and space, helping them reflect and make sense of their experiences. Learning to bounce back is an exciting and rewarding part of growing up and a much-needed quality in today’s world.&nbsp;
  
 <img src="/images/Joy_in_JPS.png" style="width:180px;height:180px;">
  
-A key value we are emphasising this year is **Respect**—respect for self and respect for others. At JPS, we believe that care, integrity and responsibility are foundational to building a positive and harmonious school culture. By cultivating these values, we empower our students to lead with confidence while contributing meaningfully to the school and the wider community.&nbsp;  
+This is where the partnership between home and school matters deeply. Both parents and teachers play a significant role in helping children reflect, regulate emotions and learn from challenges. Here, I implore parents to support my teachers wholeheartedly and trust them to journey alongside your children through both successes and struggles. When parents and teachers stand together, children experience consistency, care and confidence.&nbsp;  
   
-Our partnerships remain a cornerstone of our success. To our parents, Parent Support Group (PSG), and broader community, your involvement has been invaluable. We thank you for your steadfast support and invite you to deepen our collaboration. Together, we can nurture gracious and passionate students, building a school culture that reflects our shared values and aspirations.&nbsp;  
+As we step into 2026, let us continue this journey with trust and shared purpose.  May Jurong Primary School remain a place where joy is lived daily, learning is meaningful and resilience is quietly strengthened.&nbsp;  
  
-As we step into 2025, let us embrace this new season with open hearts and a shared commitment to making joy a living reality at JPS. Let’s celebrate the Joy of Learning, the Joy of Teaching, and the values that bind us together in a caring and respectful community.&nbsp;  
+“Resilience grows when children are supported to face life, not shielded from it.”&nbsp;  
 
-Together, let us make 2025 a year of growth, gratitude, and most importantly, **JOY**.&nbsp;  
+Together, let us make 2026 a year of joyful learning, purposeful teaching and strong partnership at Jurong Primary School.&nbsp;  
 
 
 Yours in service.  
