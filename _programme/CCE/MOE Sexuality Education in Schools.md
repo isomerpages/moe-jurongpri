@@ -27,7 +27,7 @@ Updated on January 2026
 <br><br>
 You may click <a target="_blank" href="https://go.gov.sg/moe-sexuality-education">here</a> for more information on MOE Sexuality Education
 <br><br><br>
-<u><b>Overview of JURONG PRIMARY SCHOOL'S Sexuality Education Programme for 2025</b></u>
+<u><b>Overview of JURONG PRIMARY SCHOOL'S Sexuality Education Programme for 2026</b></u>
 <br><br>
 4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a target="_blank" href="https://go.gov.sg/moe-sexuality-education-scope">here</a> for more information on the scope of Sexuality Education in the school curriculum.
 <br><br>
