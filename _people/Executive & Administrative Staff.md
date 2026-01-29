@@ -30,7 +30,7 @@ Executive &amp; Administrative Staff
 <tbody>
   <tr>
     <td class="tg-n4qt"> Operations Manager</td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Cheng Poh Teck Wilson</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Rajendran So Mv</span></td>
   </tr>
 	 <tr>
     <td class="tg-n4qt"> Operations Manager</td>
