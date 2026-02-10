@@ -68,7 +68,7 @@ https://www.moe.gov.sg/international-students/aeis</a>
 * Supplementary Admissions Exercise for International Students (S-AEIS):&nbsp;For admission to Primary 2 to 4 for the&nbsp;same&nbsp;academic year. <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.moe.gov.sg/international-students/s-aeis/apply"> https://www.moe.gov.sg/international-students/s-aeis/apply</a>
 
 **Leave of Absence (LOA) Scheme**<br>
-The LOA scheme is for current CPS pupils who fulfill the following criteria:
+The LOA scheme is for current JPS pupils who fulfill the following criteria:
 * Pupil is a Singapore Citizen or PR
 * Pupil is accompanying parent on an overseas posting<br>
 
