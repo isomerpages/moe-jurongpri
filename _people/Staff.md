@@ -423,7 +423,7 @@ variant: tiptap
 <br><a href="mailto:fok_jun-feng_bryan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fok_jun-feng_bryan@schools.gov.sg</a> 
 <br>
 <br>Mdm Lee Lay Tin
-<br><a href="mailto:lee_lay_tin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_lay_tin@schools.gov.sg</a>
+<br><a href="mailto:lee_lay_tin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_lay_tin_A@schools.gov.sg</a>
 <br>
 </p>
 </td>
@@ -457,7 +457,7 @@ variant: tiptap
 <br><a href="mailto:bavani_nadarajah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">bavani_nadarajah@schools.gov.sg</a>
 <br>
 <br>Mrs Josephine Rama
-<br><a href="mailto:josephine_pillai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">josephine_pillai@schools.gov.sg</a>
+<br><a href="mailto:josephine_pillai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">josephine_pillai_A@schools.gov.sg</a>
 <br>
 </p>
 </td>
