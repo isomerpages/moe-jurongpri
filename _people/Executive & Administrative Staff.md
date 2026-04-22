@@ -65,8 +65,8 @@ Executive &amp; Administrative Staff
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Mdm Geetha Babu</span></td>
   </tr>
 	<tr>
-    <td class="tg-n4qt"> CSO </td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mdm Nazifah Binte Zolkepeli </span></td>
+    <td class="tg-n4qt"> OSO </td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Ali Bin Atan </span></td>
   </tr>
 	 <tr>
     <td class="tg-n4qt"> OSO </td>
