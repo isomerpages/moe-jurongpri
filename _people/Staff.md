@@ -569,7 +569,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Wendy Looi Lay Choo
-<br><a href="mailto:chua_lay_choo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_lay_choo@schools.gov.sg </a>
+<br><a href="mailto:chua_lay_choo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_lay_choo@schools.gov.sg</a>
 </p>
 <p></p>
 <p>Mr Bryan Oh
@@ -668,6 +668,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Amilia Baba
 <br><a href="mailto:amilia_baba@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">amilia_baba@schools.gov.sg</a>
+</p>
+<p></p>
+<p>Ms Teresa Lam Xin Yuan
+<br><a href="mailto:teresa_lam_xin_yuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teresa_lam_xin_yuan@schools.gov.sg</a>
 <br>
 <br>Ms Marilyn Quek
 <br><a href="mailto:marilyn_quek@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">marilyn_quek@schools.gov.sg</a>
