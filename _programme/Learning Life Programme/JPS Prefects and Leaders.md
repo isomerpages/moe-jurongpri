@@ -103,5 +103,3 @@ Aptly named <i>Leadership Training by Leaders</i>, the day camp saw our Primary 
 <p style="text-align:center;  line-height:1.5">
 <b>The Student Leaders of Jurong Primary School</b><br>
 Love. Care. Share.</p>
-
-
