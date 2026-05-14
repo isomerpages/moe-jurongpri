@@ -28,7 +28,7 @@ We <b>share</b> by respecting the environment, serving our school and giving bac
 The Student Leaders’ Investiture is a key milestone that marks the official appointment of our student leaders. During this ceremony, our appointed student leaders recite their creed and commit to upholding their responsibilities with integrity and dedication. 
 
 <p style="text-align:center">
-<img src="/images/Students%20Leaders/Collage_01.jpg"></p>
+<img style="width:100%" src="/images/Students%20Leaders/Collage_01.jpg"></p>
 It is a proud moment for both the school and our student leaders as they step forward to lead, serve and inspire others.
 
 <p style="text-align:center; line-height: 1.5">
