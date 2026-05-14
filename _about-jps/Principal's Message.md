@@ -9,9 +9,7 @@ variant: markdown
 Principal's Message
 =======================
 
-<img src="/images/Principal.jpeg" style="width:183px;height:240px;margin-left:15px;" align="right">
-
-
+<img src="/images/Staff%20Photos/School%20Leaders/Mr_Chua_2026__14052026_.jpg" style="width:50%; height:auto; margin-left:15px;" align="right">
 
 2026 marks another meaningful chapter in Jurong Primary School’s journey. Building on strong foundations, we continue to grow as a joyful community where teaching and learning are purposeful, relationships are nurtured and every child is supported to grow well.&nbsp;  
   
