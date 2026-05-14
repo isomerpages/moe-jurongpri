@@ -13,8 +13,8 @@ variant: markdown
 <img src="/images/Students%20Leaders/Picture1.jpg"></p>
 <p style="line-height: 2.0">
 At JPS, we believe that every student has the potential to lead and make a positive difference. Student leadership is grounded in service, responsibility and respect for self, others and the environment. Through meaningful opportunities, JPS Student Leaders aim to lead with <b>JOY</b> by showing Love, Care and Sharing with others in the school and the community.</p>
-<p style="text-align:center">
-<img src="/images/Students%20Leaders/Picture2.png"></p>
+<p style="text-align:center"> 
+<img style="width:90%" src="/images/Students%20Leaders/JPS_Student_Leadership_Framework__HD_.png"></p>
 
 ### Our Student Leaders' Motto: Love, Care, Share 
 
