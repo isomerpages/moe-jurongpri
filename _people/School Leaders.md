@@ -21,8 +21,8 @@ School Leaders
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">PRINCIPAL</span></th>
-    <th class="tg-ii8k"><img src="/images/Staff%20Photos/School%20Leaders/mr%20leonard%20chua.jpg" style="width:40%"><span style="color:#222;background-color:#EAEAEA">MR LEONARD CHUA</span><br><span style="color:#222;background-color:#EAEAEA"> </span></th>
+    <th class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">PRINCIPAL</span></th> 
+    <th class="tg-ii8k"><img src="/images/Staff%20Photos/School%20Leaders/Mr_Chua_2026__14052026_.jpg" style="width:50%"><span style="color:#222;background-color:#EAEAEA">MR LEONARD CHUA</span><br><span style="color:#222;background-color:#EAEAEA"> </span></th>
   </tr>
 </thead>
 <tbody>
