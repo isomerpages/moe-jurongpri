@@ -27,7 +27,7 @@ description: ""
 <p>Chinese Food Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri, 30 Jan 2026</p>
+<p>Thu, 31 Dec 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Please see below for details.</p>
