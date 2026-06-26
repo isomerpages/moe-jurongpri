@@ -21,13 +21,6 @@ sections:
         - title: Calendar
           description: ""
           url: /jps/calendar-of-events/
-  - infopic:
-      title: November/ December 2025 Holiday Opening Hours
-      id: infopic
-      image: /images/change_GO_timing_holiday__2_.png
-      alt: Image alt text
-      button: Contact Us page
-      url: https://www.jurongpri.moe.edu.sg/contact-us/School-map-and-contact-details/
   - infobar:
       title: JPS Acceptable Use Policy (AUP) for use of EdTech Resources
       id: infobar
