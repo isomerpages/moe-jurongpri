@@ -30,13 +30,13 @@ sections:
       button: Click here for the guideline
       url: files/Acceptable_Use_Policy__AUP__JPS_2026_updated.pdf
   - infobar:
-      title: JPS 75th Anniversary
+      title: ASPGD J Curriculum Video 2025
       id: infobar
-      button: Click here to watch
-      url: /our-annual-speech-prize-giving-day-2024/
-      description: "75 Years of Joy in JPS: Experience the Joy in JPS through this
-        introductory video, celebrating 75 years of excellence and our joyful
-        community spirit."
+      description: Introducing Jurong Primary's J Curriculum, featuring students
+        sharing how the school's distinctive programmes have impacted their
+        learning.
+      button: Watch the video
+      url: /aspgd-2025/
   - textcards:
       title: Stay connected with us!
       id: textcards
