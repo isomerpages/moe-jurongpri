@@ -224,9 +224,6 @@ variant: tiptap
 <br><a href="mailto:nur_dhumaika_jumat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_dhumaika_jumat@schools.gov.sg</a>
 </p>
 <p></p>
-<p>Miss Jelynn Lee Zi Yi
-<br><a href="mailto:jelynn_lee_zi_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"> jelynn_lee_zi_yi@schools.gov.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -254,6 +251,9 @@ variant: tiptap
 <br>Mdm Noorkiah Mohd Hashim
 <br><a href="mailto:noorkiah_mohamed_hashim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"> noorkiah_mohamed_hashim@schools.gov.sg</a>
 <br>
+</p>
+<p>Ms Isabel Ang
+<br><a href="mailto:Isabel_Ang_C@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Isabel_Ang_C@schools.gov.sg</a>
 </p>
 </td>
 </tr>
