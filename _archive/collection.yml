@@ -1,7 +1,12 @@
 collections:
-  archive-2023:
+  archive:
     output: true
     order:
+      - 2022.md
+      - 2020.md
+      - 2019.md
+      - 2017.md
+      - 2015.md
       - ODAC.md
       - Environmental Science Club.md
       - Cultural Dance.md
